@@ -1,0 +1,26 @@
+name: Removal request / Kaldırma talebi
+description: Brand owners can ask for a logo to be removed or updated / Marka sahipleri logonun kaldırılmasını veya güncellenmesini isteyebilir
+labels: [removal-request]
+body:
+  - type: input
+    id: slug
+    attributes:
+      label: Logo (slug or company name) / Logo (slug veya şirket adı)
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Request / Talep
+      options:
+        - Remove / Kaldır
+        - Update / Güncelle
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details / Ayrıntılar
+      description: Your relationship to the brand and, for updates, a link to the current official logo / Markayla ilişkiniz ve güncelleme için güncel resmi logonun bağlantısı
+    validations:
+      required: true

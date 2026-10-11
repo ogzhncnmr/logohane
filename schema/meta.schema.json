@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/ogzhncnmr/logohane/schema/meta.schema.json",
+  "title": "Logohane logo metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "slug", "website", "source", "variants", "updated"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1, "description": "Official company or brand name." },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Must equal the folder name." },
+    "website": { "type": "string", "format": "uri" },
+    "source": { "type": "string", "format": "uri", "description": "Official page the logo was taken from (press kit, brand page, investor relations)." },
+    "guidelines": { "type": "string", "format": "uri", "description": "Official brand usage guidelines, if any." },
+    "hex": { "type": "string", "pattern": "^[0-9A-F]{6}$", "description": "Primary brand color, uppercase, without #." },
+    "aliases": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "categories": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9-]+$" }, "uniqueItems": true },
+    "tickers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["exchange", "symbol"],
+        "properties": {
+          "exchange": { "type": "string", "pattern": "^[A-Z0-9]+$", "description": "Exchange code, e.g. BIST, NASDAQ, NYSE." },
+          "symbol": { "type": "string", "pattern": "^[A-Z0-9.]+$" }
+        }
+      }
+    },
+    "isin": { "type": ["string", "null"], "pattern": "^[A-Z]{2}[A-Z0-9]{9}[0-9]$" },
+    "wikidata": { "type": ["string", "null"], "pattern": "^Q[0-9]+$" },
+    "variants": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^(default|wordmark|dark|light|mono)(-(dark|light|mono))?$" },
+      "contains": { "const": "default" }
+    },
+    "updated": { "type": "string", "format": "date" }
+  }
+}

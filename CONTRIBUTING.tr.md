@@ -1,0 +1,46 @@
+# Katkı Rehberi
+
+[English](CONTRIBUTING.md)
+
+## Logo ekleme
+
+1. Logoyu şirketin **resmi** kaynağından bulun: basın kiti, marka sayfası,
+   yatırımcı ilişkileri sayfası veya faaliyet raporu. Logoları yeniden
+   çizmeyin, renklerini değiştirmeyin ve üçüncü taraf logo sitelerinden almayın.
+2. `logos/<slug>/` klasörünü oluşturup şunları ekleyin:
+   - `<slug>.svg`, ana logo (zorunlu)
+   - isteğe bağlı varyantlar: `<slug>-wordmark.svg`, `<slug>-dark.svg`,
+     `<slug>-light.svg`, `<slug>-mono.svg` ya da `<slug>-wordmark-dark.svg`
+     gibi birleşimler
+   - `meta.json` (aşağıya bakın)
+3. `npm run validate` çalıştırıp pull request açın.
+
+PNG ve WebP dosyaları otomatik üretilir, bunları eklemeyin.
+
+## Slug kuralları
+
+- Yalnızca küçük harf `a-z`, rakam ve tek tire.
+- Türkçe karakterler sadeleştirilir: `ç→c ğ→g ı→i ö→o ş→s ü→u`
+  (*Türk Hava Yolları* → `turk-hava-yollari`).
+- `&` → `and`, `+` → `plus`, baştaki `.` → `dot` (*.NET* → `dotnet`).
+- `A.Ş.`, `Inc.`, `Ltd.` gibi şirket ekleri, markanın parçası değilse atılır.
+
+## SVG kuralları
+
+- `viewBox` zorunlu, `<svg>` üzerinde sabit `width`/`height` yok.
+- `<script>`, `<image>`, `<foreignObject>`, `<text>` (yazıları path'e
+  çevirin), olay öznitelikleri, harici bağlantı, font veya CSS import yok.
+- Logonun etrafındaki boşluk kırpılmış olmalı; en fazla 50 KB.
+
+## meta.json
+
+Örnek ve alanlar için [CONTRIBUTING.md](CONTRIBUTING.md#metajson) dosyasına
+bakın. `name`, `slug`, `website`, `source`, `variants` ve `updated`
+zorunludur. Şema: [schema/meta.schema.json](schema/meta.schema.json). Hisse
+kodu, ISIN ve Wikidata kimliğini göndermeden önce resmi bir kaynaktan (BIST
+şirketleri için KAP) doğrulayın.
+
+## Kabul etmediklerimiz
+
+Kişisel markalar ve bireyler, siyasi partiler, devlet arması ve amblemleri,
+dini semboller ve sahibi kaldırılmasını istemiş logolar (`removed.json`).

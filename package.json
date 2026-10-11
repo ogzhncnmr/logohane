@@ -1,0 +1,28 @@
+{
+  "name": "logohane",
+  "version": "0.1.0",
+  "description": "Open-source company logos in SVG, PNG and WebP, with simple file paths and ticker lookup.",
+  "keywords": ["logos", "company-logos", "brand", "svg", "png", "webp", "bist", "stocks", "tickers"],
+  "license": "MIT",
+  "type": "module",
+  "files": ["dist", "DISCLAIMER.md", "DISCLAIMER.tr.md"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogzhncnmr/logohane.git"
+  },
+  "homepage": "https://github.com/ogzhncnmr/logohane#readme",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "sharp": "^0.35.5",
+    "svgo": "^4.1.0"
+  }
+}

@@ -1,0 +1,26 @@
+name: Logo request / Logo isteği
+description: Ask for a company logo to be added / Bir şirket logosunun eklenmesini isteyin
+labels: [logo-request]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Company name / Şirket adı
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website / Web sitesi
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official logo source / Resmi logo kaynağı
+      description: Press kit, brand page or investor relations page / Basın kiti, marka sayfası veya yatırımcı ilişkileri sayfası
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker (optional) / Hisse kodu (isteğe bağlı)
+      placeholder: BIST:THYAO

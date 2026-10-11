@@ -1,0 +1,12 @@
+{
+  "name": "Example Co",
+  "slug": "example-co",
+  "website": "https://example.com",
+  "source": "https://example.com/press",
+  "hex": "E30A17",
+  "tickers": [{ "exchange": "BIST", "symbol": "EXMPL" }],
+  "isin": "TREEXMP00012",
+  "wikidata": null,
+  "variants": ["default", "dark"],
+  "updated": "2026-10-11"
+}
