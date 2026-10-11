@@ -17,6 +17,30 @@
 
 PNG ve WebP dosyaları otomatik üretilir, bunları eklemeyin.
 
+## BIST şirketleri için iş listesi
+
+`data/bist.json`, KAP'ta listelenen tüm BIST şirketlerini borsa kodları,
+önerilen slug, resmi web sitesi, KAP sayfası ve logosunun eklenip
+eklenmediği (`"logo": true/false`) bilgisiyle tutar. Logosu olmayan bir
+şirket seçin, logoyu şirketin web sitesindeki basın kiti, marka ya da
+yatırımcı ilişkileri sayfasından alın. Bazı şirketler KAP'a bağlı
+ortaklıklarının sitelerini de yazmıştır ve listedeki ilk adres her zaman
+şirketin kendi sitesi olmayabilir; doğru siteyi seçtiğinizden emin olun. `meta.json` içindeki `name`,
+`website` ve `tickers` alanlarını bu listeden doldurabilirsiniz. Önerilen
+slug KAP'taki resmi unvandan üretilir; marka adı daha kısaysa (ör.
+`akbank`) onu kullanın ve listedeki `slug` alanını da güncelleyin.
+
+Listeyi yenilemek için:
+
+```bash
+npm run bist              # yeni şirketleri ekler, kayıtlı web sitelerini korur
+npm run bist -- --offline # ağ olmadan sadece "logo" alanlarını günceller
+npm run bist -- --refresh # tüm web sitelerini KAP'tan yeniden çeker
+```
+
+Logolar KAP'tan veya üçüncü taraf logo servislerinden **alınmaz**, KAP
+yalnızca şirketin resmi web sitesini bulmak için kullanılır.
+
 ## Slug kuralları
 
 - Yalnızca küçük harf `a-z`, rakam ve tek tire.

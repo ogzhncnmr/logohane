@@ -3,11 +3,12 @@ import assert from 'node:assert/strict';
 import { existsSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 import { validate } from '../scripts/validate.js';
 import { build } from '../scripts/build.js';
 
-const fixtures = new URL('./fixtures/', import.meta.url).pathname;
+const fixtures = fileURLToPath(new URL('./fixtures/', import.meta.url));
 
 test('valid fixture passes validation', async () => {
   const { count, errors } = await validate({ logosDir: path.join(fixtures, 'valid') });

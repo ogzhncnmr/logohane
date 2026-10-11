@@ -17,6 +17,30 @@
 
 PNG and WebP files are generated automatically. Do not add them.
 
+## BIST to-do list
+
+`data/bist.json` lists every BIST company on KAP with its tickers, a
+suggested slug, its official website(s), its KAP page and whether its logo
+has been added (`"logo": true/false`). Pick a company without a logo and
+take the logo from the press kit, brand or investor relations page on its
+website. Some companies also list their subsidiaries' sites on KAP, so the
+first address is not always the company's own; make sure you pick the right
+one. You can copy `name`, `website` and `tickers` into `meta.json` from
+this list. The suggested slug is derived from the legal name on KAP; if the
+brand name is shorter (for example `akbank`), use that and update the
+`slug` field in the list too.
+
+To refresh the list:
+
+```bash
+npm run bist              # add new companies, keep cached websites
+npm run bist -- --offline # only update the "logo" flags, no network
+npm run bist -- --refresh # re-fetch every website from KAP
+```
+
+Logos are **never** taken from KAP or third-party logo services. KAP is only
+used to find each company's official website.
+
 ## Slug rules
 
 - Lowercase `a-z`, digits and single hyphens only.

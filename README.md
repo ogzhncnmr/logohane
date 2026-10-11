@@ -1,41 +1,39 @@
 # logohane
 
-[Türkçe](README.tr.md)
+Şirket logolarını **SVG, PNG ve WebP** formatlarında, basit ve tahmin
+edilebilir dosya yollarıyla sunan açık kaynak bir proje. Bir şirket hakkındaki
+bilgilerin yanında, entegrasyon listelerinde, borsa uygulamalarında ya da
+hangi şirketten bahsettiğinizi göstermeniz gereken her yerde kullanabilirsiniz.
 
-Open-source company logos in **SVG, PNG and WebP**, with simple, predictable
-file paths. Use them next to information about a company, in a list of
-integrations, in a stock market app or anywhere you need to show which
-company you are talking about.
+> **Logolar sahiplerinin markalarıdır.** MIT lisansı bu deponun kodunu ve
+> meta verilerini kapsar, logoları kapsamaz. Kullanmadan önce
+> [uyarı metnini](DISCLAIMER.tr.md) okuyun.
 
-> **Logos are trademarks of their owners.** The MIT license covers this
-> repository's code and metadata, not the logos. Read the
-> [disclaimer](DISCLAIMER.md) before using them.
+## Kapsam
 
-## Coverage
+1. Borsa İstanbul'da (BIST) işlem gören tüm şirketler (devam ediyor)
+2. S&P 500 (sırada)
+3. Katkılarla eklenen diğer şirketler
 
-1. All companies listed on Borsa Istanbul (BIST), in progress
-2. S&P 500, next
-3. Any other company, through contributions
+## Kullanım
 
-## Usage
-
-Every logo is available by its **slug** (lowercase company name) and, for
-listed companies, by **ticker** and **ISIN**.
+Her logoya **slug** (küçük harfli şirket adı) ile, `meta.json` dosyasında
+kayıtlıysa ayrıca **hisse kodu** ve **ISIN** ile erişilir.
 
 ```
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/<slug>.svg
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/<size>/<slug>.png    # size: 64, 128, 256, 512
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/<size>/<slug>.webp  # size: 128, 256, 512
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/<boyut>/<slug>.png    # boyut: 64, 128, 256, 512
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/<boyut>/<slug>.webp  # boyut: 128, 256, 512
 
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/tickers/<EXCHANGE>/<SYMBOL>.svg
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/tickers/<BORSA>/<KOD>.svg
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/256/tickers/BIST/THYAO.png
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/isin/<ISIN>.svg
 ```
 
-Variants add a suffix: `<slug>-wordmark.svg`, `<slug>-dark.svg` (for dark
-backgrounds), `<slug>-mono.svg`.
+Varyantlar bir ek alır: `<slug>-wordmark.svg` (yazılı logo), `<slug>-dark.svg`
+(koyu arka plan için), `<slug>-mono.svg` (tek renk).
 
-Pin a major version (`logohane@1`) in production so paths never change under you.
+Canlı ortamda yolların değişmemesi için ana sürümü sabitleyin (`logohane@1`).
 
 ### npm
 
@@ -43,41 +41,47 @@ Pin a major version (`logohane@1`) in production so paths never change under you
 npm install logohane
 ```
 
-Files are under `node_modules/logohane/dist/`. `dist/index.json` lists every
-logo with its name, website, brand color, tickers, ISIN, Wikidata ID and
-variants. `dist/tickers.json` and `dist/isin.json` map identifiers to slugs.
+Dosyalar `node_modules/logohane/dist/` altındadır. `dist/index.json` her
+logonun adını, web sitesini ve varyantlarını; biliniyorsa marka rengini,
+hisse kodlarını, ISIN'ini ve Wikidata kimliğini listeler (bilinmeyenler
+`null` ya da boştur). `dist/tickers.json` ve `dist/isin.json` bu kimlikleri
+slug'a eşler.
 
-### Company information
+### Şirket bilgileri
 
-Logohane only hosts logos. Each entry has a `wikidata` ID, so you can fetch
-facts such as founding date, headquarters or founders from
-[Wikidata](https://www.wikidata.org/) (CC0) and show them next to the logo.
+Logohane şirket bilgisi değil, yalnızca logo barındırır. Bir kaydın
+`wikidata` kimliği varsa (bu alan isteğe bağlıdır, `null` olabilir) kuruluş
+tarihi, merkez, kurucular gibi bilgileri verileri CC0 lisanslı olan
+[Wikidata](https://www.wikidata.org/)'dan çekebilirsiniz. Wikidata gönüllüler
+tarafından düzenlendiği için kapsamı ve doğruluğu şirketten şirkete değişir.
 
-## Repository layout
+## Depo yapısı
 
 ```
-logos/<slug>/<slug>.svg        source logo (the only file contributors add)
-logos/<slug>/<slug>-dark.svg   optional variants
-logos/<slug>/meta.json         name, website, source, tickers, ...
-scripts/                       validate and build
-dist/                          generated on release, not committed
+logos/<slug>/<slug>.svg        kaynak logo (katkıcının eklediği tek dosya)
+logos/<slug>/<slug>-dark.svg   isteğe bağlı varyantlar
+logos/<slug>/meta.json         ad, web sitesi, kaynak, hisse kodları...
+scripts/                       kontrol, derleme ve BIST listesi betikleri
+data/bist.json                 BIST şirketleri iş listesi (KAP'tan)
+dist/                          sürümde üretilir, depoya eklenmez
 ```
 
-## Development
+## Geliştirme
 
 ```bash
 npm install
-npm run validate   # check every logo folder
-npm run build      # generate dist/
+npm run validate   # tüm logo klasörlerini kontrol eder
+npm run build      # dist/ klasörünü üretir
+npm run bist       # data/bist.json iş listesini KAP'tan günceller
 npm test
 ```
 
-## Contributing
+## Katkı
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Logos must come from the company's
-own official source, unmodified.
+[CONTRIBUTING.tr.md](CONTRIBUTING.tr.md) dosyasına bakın. Logolar şirketin
+kendi resmi kaynağından, değiştirilmeden alınmalıdır.
 
-## License
+## Lisans
 
-Code and metadata: [MIT](LICENSE). Logos: owned by their respective
-companies, see [DISCLAIMER.md](DISCLAIMER.md).
+Kod ve meta veriler: [MIT](LICENSE). Logolar: ilgili şirketlere aittir, bkz.
+[DISCLAIMER.tr.md](DISCLAIMER.tr.md).
