@@ -1,0 +1,20 @@
+{
+  "name": "Golda Gıda",
+  "slug": "golda-gida",
+  "website": "https://golda.com.tr",
+  "source": "https://golda.com.tr/storage/company/golda.1716552135.png",
+  "aliases": [
+    "GOLDA GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GOLDA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AB1917"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Gündoğdu Gıda Süt Ürünleri Sanayi ve Dış",
+  "slug": "gundogdu-gida-sut-urunleri-sanayi-ve-dis",
+  "website": "https://www.gundogdugida.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59145e00a019146a7cde301bc",
+  "hex": "FDC901",
+  "aliases": [
+    "GÜNDOĞDU GIDA SÜT ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GUNDG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

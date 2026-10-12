@@ -4,31 +4,38 @@
 
 ## Logo ekleme
 
-1. Logoyu şirketin **resmi** kaynağından bulun: basın kiti, marka sayfası,
-   yatırımcı ilişkileri sayfası veya faaliyet raporu. Logoları yeniden
-   çizmeyin, renklerini değiştirmeyin ve üçüncü taraf logo sitelerinden almayın.
+1. Logoyu şirketin **resmi** kaynağından bulun: kendi web sitesi, basın kiti,
+   marka sayfası, yatırımcı ilişkileri sayfası veya faaliyet raporu. Logoları
+   yeniden çizmeyin, renklerini değiştirmeyin ve üçüncü taraf logo
+   sitelerinden almayın.
 2. `logos/<slug>/` klasörünü oluşturup şunları ekleyin:
-   - `<slug>.svg`, ana logo (zorunlu)
+   - `<slug>.svg`, ana logo. Şirketin resmi bir vektör logosu yoksa bunun
+     yerine `<slug>.png` (aşağıdaki PNG kurallarına bakın).
    - isteğe bağlı varyantlar: `<slug>-wordmark.svg`, `<slug>-dark.svg`,
      `<slug>-light.svg`, `<slug>-mono.svg` ya da `<slug>-wordmark-dark.svg`
      gibi birleşimler
    - `meta.json` (aşağıya bakın)
 3. `npm run validate` çalıştırıp pull request açın.
 
-PNG ve WebP dosyaları otomatik üretilir, bunları eklemeyin.
+Diğer formatlar otomatik üretilir: SVG kaynaktan SVG, PNG ve WebP; PNG
+kaynaktan PNG ve WebP. Bunları ayrıca eklemeyin.
 
-## BIST şirketleri için iş listesi
+## BIST iş listesi
 
-`data/bist.json`, KAP'ta listelenen tüm BIST şirketlerini borsa kodları,
-önerilen slug, resmi web sitesi, KAP sayfası ve logosunun eklenip
-eklenmediği (`"logo": true/false`) bilgisiyle tutar. Logosu olmayan bir
-şirket seçin, logoyu şirketin web sitesindeki basın kiti, marka ya da
-yatırımcı ilişkileri sayfasından alın. Bazı şirketler KAP'a bağlı
-ortaklıklarının sitelerini de yazmıştır ve listedeki ilk adres her zaman
-şirketin kendi sitesi olmayabilir; doğru siteyi seçtiğinizden emin olun. `meta.json` içindeki `name`,
-`website` ve `tickers` alanlarını bu listeden doldurabilirsiniz. Önerilen
-slug KAP'taki resmi unvandan üretilir; marka adı daha kısaysa (ör.
-`akbank`) onu kullanın ve listedeki `slug` alanını da güncelleyin.
+`data/bist.json`, KAP'taki tüm BIST şirketlerini hisse kodları, önerilen
+slug, resmi web siteleri, KAP sayfası ve logosunun eklenip eklenmediği
+(`"logo": true/false`) bilgisiyle listeler. Logosu olmayan bir şirket seçin ve
+logoyu şirketin web sitesinden, basın kitinden, marka ya da yatırımcı
+ilişkileri sayfasından alın. Bazı şirketler KAP'a bağlı ortaklıklarının
+sitelerini de yazmıştır; ilk adres her zaman şirketin kendi sitesi değildir,
+doğrusunu seçtiğinizden emin olun. `meta.json` içindeki `name`, `website` ve
+`tickers` alanlarını bu listeden kopyalayabilirsiniz. Önerilen slug KAP'taki
+resmi unvandan türetilir; marka adı daha kısaysa (örneğin `akbank`) onu
+kullanın ve listedeki `slug` alanını da güncelleyin.
+
+Şirketin web sitesi dışında iki KAP kaynağı da resmidir: şirketin KAP
+sayfasına kendi yüklediği logo ve KAP'a gönderdiği faaliyet ya da entegre
+raporları. Logolar üçüncü taraf logo servislerinden **alınmaz**.
 
 Listeyi yenilemek için:
 
@@ -38,8 +45,26 @@ npm run bist -- --offline # ağ olmadan sadece "logo" alanlarını günceller
 npm run bist -- --refresh # tüm web sitelerini KAP'tan yeniden çeker
 ```
 
-Logolar KAP'tan veya üçüncü taraf logo servislerinden **alınmaz**, KAP
-yalnızca şirketin resmi web sitesini bulmak için kullanılır.
+## Sembol sürümü
+
+"Sembol + isim" logolarında ana dosya ikisini birden içerir; `<slug>-symbol`
+yalnızca sembolü taşır (koyu sürüm varsa `<slug>-symbol-dark` de). PNG
+sembollerde uzun kenar en az 128 piksel olmalıdır.
+
+## Koyu ve çizilmiş logolar
+
+Koyu zemin için yapılmış tamamen beyaz bir logonun ana dosyası koyu renge
+boyanır, beyaz özgün hali `<slug>-dark` olarak saklanır; renkli bir sembolün
+yanındaki beyaz yazı için de aynısı geçerlidir. Bulanık PNG logoların bir kısmı,
+sonuç aslına çok yakın olduğunda resimden SVG olarak yeniden çizilmiştir;
+bunlar resmi vektör olmadığı için `meta.json` içinde `"traced": true` ile
+işaretlidir.
+
+## Çıktı boyutları
+
+Derleme her logoyu kare (32, 64, 128, 256, 512) ve orijinal oranlı (uzun kenar
+256, 512, 1024) PNG ve WebP olarak üretir. Resim kaynaklar en fazla %10
+büyütülür; kaynağın yetmediği boyutlar üretilmez.
 
 ## Slug kuralları
 
@@ -55,6 +80,14 @@ yalnızca şirketin resmi web sitesini bulmak için kullanılır.
 - `<script>`, `<image>`, `<foreignObject>`, `<text>` (yazıları path'e
   çevirin), olay öznitelikleri, harici bağlantı, font veya CSS import yok.
 - Logonun etrafındaki boşluk kırpılmış olmalı; en fazla 50 KB.
+
+## PNG kuralları
+
+Yalnızca şirketin resmi bir vektör logosu yoksa kullanılır.
+
+- Şeffaf arka plan; beyaz ya da renkli bir zemin üzerine basılmış logo olmaz.
+- Uzun kenar en az 128 piksel, dosya en fazla 1 MB.
+- Boş kenarlar kırpılmış olmalı.
 
 ## meta.json
 

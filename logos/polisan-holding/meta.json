@@ -1,0 +1,20 @@
+{
+  "name": "Polisan Holding",
+  "slug": "polisan-holding",
+  "website": "https://www.polisanholding.com.tr",
+  "source": "https://www.polisanholding.com/assets/images/logo-polisan-holding.svg",
+  "aliases": [
+    "POLİSAN HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "POLHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E1251B"
+}

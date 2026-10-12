@@ -1,0 +1,20 @@
+{
+  "name": "Fenerbahçe Futbol",
+  "slug": "fenerbahce-futbol",
+  "website": "https://www.fenerbahce.org/fbfutbol",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ede7351a013d",
+  "hex": "053570",
+  "aliases": [
+    "FENERBAHÇE FUTBOL A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FENER"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

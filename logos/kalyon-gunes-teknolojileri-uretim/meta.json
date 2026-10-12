@@ -1,0 +1,20 @@
+{
+  "name": "Kalyon Güneş Teknolojileri Üretim",
+  "slug": "kalyon-gunes-teknolojileri-uretim",
+  "website": "https://www.kalyonpv.com",
+  "source": "https://cdn.kalyonpv.com/images/kalyon_logo_renkli.svg",
+  "aliases": [
+    "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLYPV"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "002E6E"
+}

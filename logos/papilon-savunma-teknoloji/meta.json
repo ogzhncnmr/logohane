@@ -1,0 +1,21 @@
+{
+  "name": "Papilon Savunma Teknoloji",
+  "slug": "papilon-savunma-teknoloji",
+  "website": "https://invest.papilon.com.tr",
+  "source": "https://invest.papilon.com.tr/cms/wp-content/uploads/2021/04/cropped-Papilon-site-ikonu.png",
+  "aliases": [
+    "PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PAPIL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "008899",
+  "traced": true
+}

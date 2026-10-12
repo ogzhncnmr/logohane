@@ -1,0 +1,20 @@
+{
+  "name": "Kervan Gıda",
+  "slug": "kervan-gida",
+  "website": "https://www.kervangida.com",
+  "source": "https://kervangida.com/",
+  "aliases": [
+    "KERVAN GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRVGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DE271F"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Göknur Gıda Maddeleri Enerji İmalat İthalat İhracat",
+  "slug": "goknur-gida-maddeleri-enerji-imalat-ithalat-ihracat",
+  "website": "https://www.goknur.com.tr",
+  "source": "https://www.goknur.com.tr/ckfinder/userfiles/images/goknur-logoo-slogan.png",
+  "aliases": [
+    "GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GOKNR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005F9D",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "İhlas Haber Ajansı",
+  "slug": "ihlas-haber-ajansi",
+  "website": "https://www.ihlashaberajansi.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c57afb2d70017bdf2f5af067ed",
+  "hex": "D00B16",
+  "aliases": [
+    "İHLAS HABER AJANSI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IHAAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

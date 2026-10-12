@@ -1,0 +1,20 @@
+{
+  "name": "İzmir Fırça",
+  "slug": "izmir-firca",
+  "website": "https://www.izmirfirca.com.tr",
+  "source": "https://www.izmirfirca.com.tr/wp-content/uploads/2022/04/izmir-firca-logo.svg",
+  "aliases": [
+    "İZMİR FIRÇA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IZFAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "169FDB"
+}

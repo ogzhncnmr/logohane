@@ -1,0 +1,21 @@
+{
+  "name": "Özderici Gayrimenkul Yatırım Ortaklığı",
+  "slug": "ozderici-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.ozdericigyo.com.tr",
+  "source": "https://www.ozdericigyo.com.tr/assets/images/logo-red.png",
+  "aliases": [
+    "ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OZGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E60613",
+  "traced": true
+}

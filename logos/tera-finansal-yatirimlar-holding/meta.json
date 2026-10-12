@@ -1,0 +1,21 @@
+{
+  "name": "Tera Finansal Yatırımlar Holding",
+  "slug": "tera-finansal-yatirimlar-holding",
+  "website": "https://www.terafinansalyatirimlar.com",
+  "source": "https://terafinansalyatirimlar.com/uploads/p/tera-finansal-yatirimlar-holding_2.png",
+  "aliases": [
+    "TERA FİNANSAL YATIRIMLAR HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "101E44",
+  "traced": true
+}

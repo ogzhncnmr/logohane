@@ -1,0 +1,21 @@
+{
+  "name": "Dünya Varlık Yönetim",
+  "slug": "dunya-varlik-yonetim",
+  "website": "https://invest.dunyavarlik.com",
+  "source": "https://invest.dunyavarlik.com/assets/images/logo.svg",
+  "aliases": [
+    "DÜNYA VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DNYVA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "237275"
+}

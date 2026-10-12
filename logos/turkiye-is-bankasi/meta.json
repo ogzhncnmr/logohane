@@ -1,0 +1,38 @@
+{
+  "name": "Türkiye İş Bankası",
+  "slug": "turkiye-is-bankasi",
+  "website": "https://www.isbank.com.tr",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1621170",
+  "aliases": [
+    "TÜRKİYE İŞ BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISATR"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ISBTR"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ISCTR"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ISKUR"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TIB"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "hex": "001635",
+  "updated": "2026-10-12",
+  "traced": true
+}

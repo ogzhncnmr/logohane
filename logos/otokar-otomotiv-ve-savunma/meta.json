@@ -1,0 +1,20 @@
+{
+  "name": "Otokar Otomotiv ve Savunma",
+  "slug": "otokar-otomotiv-ve-savunma",
+  "website": "https://www.otokar.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140ee35c70140ee4316b3001d",
+  "hex": "231F20",
+  "aliases": [
+    "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OTKAR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

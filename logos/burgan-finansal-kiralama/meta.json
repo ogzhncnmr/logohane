@@ -1,0 +1,20 @@
+{
+  "name": "Burgan Finansal Kiralama",
+  "slug": "burgan-finansal-kiralama",
+  "website": "https://www.burganleasing.com.tr",
+  "source": "https://www.burganleasing.com.tr/assets/img/on-logo.svg",
+  "aliases": [
+    "BURGAN FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRGFK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00FF00"
+}

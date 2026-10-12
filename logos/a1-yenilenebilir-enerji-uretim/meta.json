@@ -1,0 +1,22 @@
+{
+  "name": "A1 Yenilenebilir Enerji Üretim",
+  "slug": "a1-yenilenebilir-enerji-uretim",
+  "website": "https://www.a1yen.com.tr",
+  "source": "https://a1yen.com.tr/wp-content/uploads/2025/05/A1-Yenilenebilir-Enerji-Logo-1.png",
+  "aliases": [
+    "A1 YENİLENEBİLİR ENERJİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "A1YEN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2AA9E1",
+  "traced": true
+}

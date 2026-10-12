@@ -1,0 +1,20 @@
+{
+  "name": "Bilkom Bilişim Hizmetleri",
+  "slug": "bilkom-bilisim-hizmetleri",
+  "website": "https://www.bilkom.com.tr",
+  "source": "https://www.bilkom.com.tr/",
+  "aliases": [
+    "BİLKOM BİLİŞİM HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BLKOM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF8500"
+}

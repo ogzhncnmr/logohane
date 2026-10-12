@@ -1,0 +1,20 @@
+{
+  "name": "Formet Metal ve Cam",
+  "slug": "formet-metal-ve-cam",
+  "website": "https://www.formetcelikkapi.com.tr",
+  "source": "https://www.formetcelikkapi.com.tr/cms-uploads/logo.png",
+  "hex": "4A2F55",
+  "aliases": [
+    "FORMET METAL VE CAM SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FORMT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

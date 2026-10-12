@@ -1,0 +1,21 @@
+{
+  "name": "Fade Gıda Yatırım",
+  "slug": "fade-gida-yatirim",
+  "website": "https://www.fadefood.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c46e7fdc6d016f85a87ec9674e",
+  "hex": "B6161B",
+  "aliases": [
+    "FADE GIDA YATIRIM SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FADE"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

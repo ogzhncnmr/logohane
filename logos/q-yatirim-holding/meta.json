@@ -1,0 +1,22 @@
+{
+  "name": "Q Yatırım Holding",
+  "slug": "q-yatirim-holding",
+  "website": "https://www.qyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c582b7eb070182f3043ec810b9",
+  "hex": "CE895B",
+  "aliases": [
+    "Q YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QYHOL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

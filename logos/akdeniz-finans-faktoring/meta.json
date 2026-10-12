@@ -1,0 +1,20 @@
+{
+  "name": "Akdeniz Finans Faktoring",
+  "slug": "akdeniz-finans-faktoring",
+  "website": "https://www.akdenizfaktoring.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d990141601150cc3212",
+  "hex": "2A79CD",
+  "aliases": [
+    "AKDENİZ FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKDFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Astor Enerji",
+  "slug": "astor-enerji",
+  "website": "https://www.astoras.com.tr",
+  "source": "https://astoras.com.tr/wp-content/uploads/2024/08/astor-ik-3.png",
+  "aliases": [
+    "ASTOR ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ASTOR"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark",
+    "symbol",
+    "symbol-dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

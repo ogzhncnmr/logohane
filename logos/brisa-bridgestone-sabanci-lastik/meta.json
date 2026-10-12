@@ -1,0 +1,20 @@
+{
+  "name": "Brisa Bridgestone Sabancı Lastik",
+  "slug": "brisa-bridgestone-sabanci-lastik",
+  "website": "https://www.brisa.com.tr",
+  "source": "https://www.brisa.com.tr/assets/images/brisa-logo.svg",
+  "aliases": [
+    "BRİSA BRİDGESTONE SABANCI LASTİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRISA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "124B94"
+}

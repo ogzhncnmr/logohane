@@ -1,0 +1,20 @@
+{
+  "name": "Anadolu Hayat Emeklilik",
+  "slug": "anadolu-hayat-emeklilik",
+  "website": "https://www.anadoluhayat.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95be70140ed40cb930098",
+  "hex": "1B4685",
+  "aliases": [
+    "ANADOLU HAYAT EMEKLİLİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ANHYT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

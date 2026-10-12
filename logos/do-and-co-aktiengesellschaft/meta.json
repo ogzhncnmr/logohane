@@ -1,0 +1,20 @@
+{
+  "name": "Do & Co Aktıengesellschaft",
+  "slug": "do-and-co-aktiengesellschaft",
+  "website": "https://www.doco.com",
+  "source": "https://www.doco.com/wp-content/uploads/2019/04/doco_logo.png",
+  "aliases": [
+    "DO & CO AKTIENGESELLSCHAFT"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOCO"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

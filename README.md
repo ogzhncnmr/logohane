@@ -22,16 +22,30 @@ kayıtlıysa ayrıca **hisse kodu** ve **ISIN** ile erişilir.
 
 ```
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/<slug>.svg
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/<boyut>/<slug>.png    # boyut: 64, 128, 256, 512
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/<boyut>/<slug>.webp  # boyut: 128, 256, 512
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/<boyut>/<slug>.png          # orijinal oran, uzun kenar: 256, 512, 1024
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/square/<boyut>/<slug>.png   # kare: 32, 64, 128, 256, 512
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/<boyut>/<slug>.webp        # PNG ile aynı boyutlar
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/square/<boyut>/<slug>.webp
 
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/tickers/<BORSA>/<KOD>.svg
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/256/tickers/BIST/THYAO.png
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/512/tickers/BIST/THYAO.png
+https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/square/128/tickers/BIST/THYAO.png
 https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/isin/<ISIN>.svg
 ```
 
-Varyantlar bir ek alır: `<slug>-wordmark.svg` (yazılı logo), `<slug>-dark.svg`
-(koyu arka plan için), `<slug>-mono.svg` (tek renk).
+**Kare** dosyalar logoyu şeffaf bir karenin ortasına yerleştirir (favicon, liste
+ikonu, avatar). Şirketin sembolü varsa karede sembol kullanılır, yoksa logonun
+tamamı sığdırılır. **Orijinal oranlı** dosyalar logonun kendi en-boy oranını korur.
+
+Varyantlar bir ek alır: `<slug>-symbol` (isimsiz, yalnızca işaret), `<slug>-dark`
+(koyu arka plan için), `<slug>-wordmark` (yazılı logo), `<slug>-mono` (tek renk).
+
+Kaynağı yalnızca resim (PNG) olan logolar hiçbir zaman büyütülmez: kaynak küçükse
+büyük boyutları üretilmez, böylece bulanık dosya yoktur. Her logonun hangi
+boyutlarda olduğu `dist/index.json` içindeki `sizes` alanında yazar
+(`{ "ratio": [256, 512, 1024], "square": [32, 64, 128, 256, 512] }`). `vector`
+alanı SVG'nin olup olmadığını, `traced` alanı ise SVG'nin resimden otomatik
+çizildiğini gösterir.
 
 Canlı ortamda yolların değişmemesi için ana sürümü sabitleyin (`logohane@1`).
 
@@ -58,7 +72,7 @@ tarafından düzenlendiği için kapsamı ve doğruluğu şirketten şirkete de�
 ## Depo yapısı
 
 ```
-logos/<slug>/<slug>.svg        kaynak logo (katkıcının eklediği tek dosya)
+logos/<slug>/<slug>.svg        kaynak logo (vektör yoksa <slug>.png)
 logos/<slug>/<slug>-dark.svg   isteğe bağlı varyantlar
 logos/<slug>/meta.json         ad, web sitesi, kaynak, hisse kodları...
 scripts/                       kontrol, derleme ve BIST listesi betikleri

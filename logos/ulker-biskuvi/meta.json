@@ -1,0 +1,21 @@
+{
+  "name": "Ülker Bisküvi",
+  "slug": "ulker-biskuvi",
+  "website": "https://www.ulker.com.tr",
+  "source": "https://www.ulker.com.tr/documents/1200px-ulker_logo_2_svg.png",
+  "aliases": [
+    "ÜLKER BİSKÜVİ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ULKER"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E80128",
+  "traced": true
+}

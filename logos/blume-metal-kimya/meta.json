@@ -1,0 +1,21 @@
+{
+  "name": "Blume Metal Kimya",
+  "slug": "blume-metal-kimya",
+  "website": "https://www.blumemks.com",
+  "source": "https://www.blumemks.com/wp-content/uploads/2025/06/blume-logo.png",
+  "aliases": [
+    "BLUME METAL KİMYA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BLUME"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "111E57",
+  "traced": true
+}

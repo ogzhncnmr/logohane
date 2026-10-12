@@ -1,0 +1,21 @@
+{
+  "name": "Burçelik Bursa Çelik Döküm Sanayii",
+  "slug": "burcelik-bursa-celik-dokum-sanayii",
+  "website": "https://www.burcelik.com.tr",
+  "source": "https://www.burcelik.com.tr/assets/images/logo.png",
+  "aliases": [
+    "BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BURCE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DC0F17",
+  "traced": true
+}

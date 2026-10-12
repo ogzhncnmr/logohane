@@ -1,0 +1,22 @@
+{
+  "name": "Alarko Gayrimenkul Yatırım Ortaklığı",
+  "slug": "alarko-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.alarkogyo.com.tr",
+  "source": "https://www.alarkogyo.com.tr/media/apeenhgr/agyosonlogo2.png?format=webp",
+  "aliases": [
+    "ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F17159",
+  "traced": true
+}

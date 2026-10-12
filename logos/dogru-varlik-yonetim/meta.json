@@ -1,0 +1,20 @@
+{
+  "name": "Doğru Varlık Yönetim",
+  "slug": "dogru-varlik-yonetim",
+  "website": "https://www.dogruvarlik.com",
+  "source": "https://www.dogruvarlik.com.tr/assets/img/resource/logo-dv.svg",
+  "aliases": [
+    "DOĞRU VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOGVY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "89181C"
+}

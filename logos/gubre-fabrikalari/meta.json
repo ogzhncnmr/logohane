@@ -1,0 +1,21 @@
+{
+  "name": "Gübre Fabrikaları",
+  "slug": "gubre-fabrikalari",
+  "website": "https://www.gubretas.com.tr",
+  "source": "https://www.gubretas.com.tr/assets/front/images/top-logo-white.png",
+  "aliases": [
+    "GÜBRE FABRİKALARI T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GUBRF"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "093C62",
+  "traced": true
+}

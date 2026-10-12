@@ -1,0 +1,21 @@
+{
+  "name": "Kuzey Boru",
+  "slug": "kuzey-boru",
+  "website": "https://www.kuzeyboru.com.tr",
+  "source": "https://www.kuzeyboru.com.tr/wp-content/uploads/2025/08/Kuzeyboru-25Yil-scaled.webp",
+  "aliases": [
+    "KUZEY BORU A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KBORU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E41B33",
+  "traced": true
+}

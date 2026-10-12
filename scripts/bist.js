@@ -54,10 +54,16 @@ export function mergeCompanies(listed, cached, logosDir = LOGOS_DIR) {
     .sort((a, b) => a.tickers[0].localeCompare(b.tickers[0], 'en'));
 }
 
-async function save(companies) {
+export const EXTENSION_DATA = path.join(ROOT, 'extension', 'companies.json');
+
+/** Writes data/bist.json, and the company list of the local Chrome extension when it is there. */
+export async function save(companies) {
   await mkdir(path.dirname(BIST_FILE), { recursive: true });
   const data = { source: KAP_LIST_URL, updated: new Date().toISOString().slice(0, 10), companies };
   await writeFile(BIST_FILE, JSON.stringify(data, null, 2) + '\n');
+  if (!existsSync(path.dirname(EXTENSION_DATA))) return;
+  const forExtension = companies.map((c) => ({ tickers: c.tickers, name: c.name, websites: c.websites ?? [], logo: c.logo }));
+  await writeFile(EXTENSION_DATA, JSON.stringify(forExtension) + '\n');
 }
 
 async function main() {
@@ -102,6 +108,6 @@ async function main() {
   console.log(`Wrote ${path.relative(ROOT, BIST_FILE)}: ${companies.length} companies, ${withLogo} with a logo, ${noSite} without a website on KAP.`);
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   await main();
 }

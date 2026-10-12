@@ -1,0 +1,20 @@
+{
+  "name": "Gür-sel Turizm Taşımacılık ve Servis",
+  "slug": "gur-sel-turizm-tasimacilik-ve-servis",
+  "website": "https://www.gurseltur.com.tr",
+  "source": "https://www.gurseltur.com.tr/assets/upload/113d7c7c-1682-4bc8-8e94-c3070241f7291632737946.png",
+  "aliases": [
+    "GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GRSEL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "152162",
+  "updated": "2026-10-12"
+}

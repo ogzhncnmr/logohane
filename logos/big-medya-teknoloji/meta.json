@@ -1,0 +1,21 @@
+{
+  "name": "Big Medya Teknoloji",
+  "slug": "big-medya-teknoloji",
+  "website": "https://www.bigmedia.com.tr",
+  "source": "https://www.bigmedia.com.tr/images/logo/Big-Medya-Logo_Siyah.png",
+  "aliases": [
+    "BİG MEDYA TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIGTK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

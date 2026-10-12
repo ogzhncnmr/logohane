@@ -1,0 +1,20 @@
+{
+  "name": "Metro Ticari ve Mali Yatırımlar Holding",
+  "slug": "metro-ticari-ve-mali-yatirimlar-holding",
+  "website": "https://www.metroholding.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696301416e9a320e1649",
+  "hex": "00184A",
+  "aliases": [
+    "METRO TİCARİ VE MALİ YATIRIMLAR HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "METRO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

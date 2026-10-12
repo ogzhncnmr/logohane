@@ -1,0 +1,21 @@
+{
+  "name": "Kent Finans Faktoring",
+  "slug": "kent-finans-faktoring",
+  "website": "https://www.kentfinans.com.tr",
+  "source": "https://www.kentfinans.com.tr/assets/images/kent-finans-text.png?v=2",
+  "aliases": [
+    "KENT FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KNTFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

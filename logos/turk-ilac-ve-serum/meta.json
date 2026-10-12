@@ -1,0 +1,20 @@
+{
+  "name": "Turk İlaç ve Serum",
+  "slug": "turk-ilac-ve-serum",
+  "website": "https://www.turkilac.com.tr",
+  "source": "https://www.turkilac.com.tr/uploads/logo/logo-turkilac_nw229g0o.svg",
+  "aliases": [
+    "TURK İLAÇ VE SERUM SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRILC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E60B17"
+}

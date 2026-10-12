@@ -1,0 +1,20 @@
+{
+  "name": "Akademi Çevre Entegre Atık Yönetimi Endüstri",
+  "slug": "akademi-cevre-entegre-atik-yonetimi-endustri",
+  "website": "https://www.akademicevre.com",
+  "source": "https://akademicevre.com/wp-content/uploads/2025/01/akademicevre-logo-yeni.webp",
+  "hex": "75BB21",
+  "aliases": [
+    "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKCVR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

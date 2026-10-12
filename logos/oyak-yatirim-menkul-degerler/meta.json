@@ -1,0 +1,24 @@
+{
+  "name": "Oyak Yatırım Menkul Değerler",
+  "slug": "oyak-yatirim-menkul-degerler",
+  "website": "https://www.oyakyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14158e41f01415a5e854d4441",
+  "hex": "E2221C",
+  "aliases": [
+    "OYAK YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OYA"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "OYYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

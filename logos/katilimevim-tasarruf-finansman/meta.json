@@ -1,0 +1,21 @@
+{
+  "name": "Katılımevim Tasarruf Finansman",
+  "slug": "katilimevim-tasarruf-finansman",
+  "website": "https://www.katilimevim.com.tr",
+  "source": "https://www.katilimevim.com.tr/katilimyeni/cdn/uploads/000005456_ke_yeni_logo_ocak26.svg",
+  "aliases": [
+    "KATILIMEVİM TASARRUF FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KTLEV"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "003463"
+}

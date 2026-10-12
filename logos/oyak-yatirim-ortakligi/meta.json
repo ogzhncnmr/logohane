@@ -1,0 +1,20 @@
+{
+  "name": "Oyak Yatırım Ortaklığı",
+  "slug": "oyak-yatirim-ortakligi",
+  "website": "https://www.oyakyatirimortakligi.com.tr",
+  "source": "https://www.oyakyatirimortakligi.com.tr/Content/assets/frontend/layout/img/oyayo.png",
+  "aliases": [
+    "OYAK YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OYAYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E4041E"
+}

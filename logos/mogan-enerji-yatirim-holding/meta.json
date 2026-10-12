@@ -1,0 +1,21 @@
+{
+  "name": "Mogan Enerji Yatırım Holding",
+  "slug": "mogan-enerji-yatirim-holding",
+  "website": "https://www.mogan.com.tr",
+  "source": "https://mogan.com.tr/wp-content/themes/guris/assets/images/moganlogo.png",
+  "aliases": [
+    "MOGAN ENERJİ YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MOGAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "009740",
+  "traced": true
+}

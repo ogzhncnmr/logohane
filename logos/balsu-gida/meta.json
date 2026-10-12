@@ -1,0 +1,20 @@
+{
+  "name": "Balsu Gıda",
+  "slug": "balsu-gida",
+  "website": "https://www.balsugida.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c580e9103101811f4715cc1821",
+  "hex": "7E382C",
+  "aliases": [
+    "BALSU GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BALSU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

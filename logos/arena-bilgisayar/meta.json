@@ -1,0 +1,21 @@
+{
+  "name": "Arena Bilgisayar",
+  "slug": "arena-bilgisayar",
+  "website": "https://www.arena.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140ed5af3a000da",
+  "hex": "009BC9",
+  "aliases": [
+    "ARENA BİLGİSAYAR SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARENA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

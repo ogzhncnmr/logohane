@@ -1,0 +1,20 @@
+{
+  "name": "Desa Deri",
+  "slug": "desa-deri",
+  "website": "https://www.desa.com.tr",
+  "source": "https://www.desa.com.tr/",
+  "aliases": [
+    "DESA DERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DESA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1D1F20"
+}

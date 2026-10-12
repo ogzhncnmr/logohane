@@ -1,0 +1,21 @@
+{
+  "name": "Metropal Kurumsal Hizmetler",
+  "slug": "metropal-kurumsal-hizmetler",
+  "website": "https://www.metropolcard.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59c81f7f7019c98b19b8c0af5",
+  "hex": "1E224D",
+  "aliases": [
+    "METROPAL KURUMSAL HİZMETLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MCARD"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

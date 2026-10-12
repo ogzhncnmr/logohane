@@ -1,0 +1,20 @@
+{
+  "name": "Cem Zeytin",
+  "slug": "cem-zeytin",
+  "website": "https://www.cemzeytin.com.tr",
+  "source": "https://www.cemzeytin.com.tr/site/images/cem_zeytin_yeni_logo_disil1.svg",
+  "aliases": [
+    "CEM ZEYTİN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CEMZY"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

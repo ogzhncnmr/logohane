@@ -1,0 +1,21 @@
+{
+  "name": "Naturelgaz",
+  "slug": "naturelgaz",
+  "website": "https://www.naturelgaz.com",
+  "source": "https://naturelgaz.com/wp-content/uploads/2022/04/logo-naturelgaz-2x.png",
+  "aliases": [
+    "NATURELGAZ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NTGAZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00833E",
+  "traced": true
+}

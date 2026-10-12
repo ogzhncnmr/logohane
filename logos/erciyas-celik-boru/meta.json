@@ -1,0 +1,21 @@
+{
+  "name": "Erciyas Çelik Boru",
+  "slug": "erciyas-celik-boru",
+  "website": "https://erciyasboru.com",
+  "source": "https://erciyasboru.com/wp-content/uploads/2025/02/erciyas-logo-celikboru_white.png",
+  "aliases": [
+    "ERCİYAS ÇELİK BORU SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ERCB"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gelecek Varlık Yönetimi",
+  "slug": "gelecek-varlik-yonetimi",
+  "website": "https://www.gelecekvarlik.com.tr",
+  "source": "https://www.gelecekvarlik.com.tr/images/gelecek-full.svg",
+  "aliases": [
+    "GELECEK VARLIK YÖNETİMİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GLCVY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F6A723"
+}

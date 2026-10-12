@@ -1,0 +1,20 @@
+{
+  "name": "Kıraç Galvaniz Telekominikasyon Metal Makine İnşaat Elektrik",
+  "slug": "kirac-galvaniz-telekominikasyon-metal-makine-insaat-elektrik",
+  "website": "https://www.tck.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c48c3efac0019137973fd07e5e",
+  "hex": "F6891D",
+  "aliases": [
+    "KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TCKRC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Atakule Gayrimenkul Yatırım Ortaklığı",
+  "slug": "atakule-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.atakulegyo.com.tr",
+  "source": "https://atakulegyo.com.tr/wp-content/uploads/2026/03/Asset-4.png",
+  "aliases": [
+    "ATAKULE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C29C7C",
+  "traced": true
+}

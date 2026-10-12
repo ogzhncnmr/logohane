@@ -1,0 +1,21 @@
+{
+  "name": "Birleşim Mühendislik Isıtma Soğutma Havalandırma",
+  "slug": "birlesim-muhendislik-isitma-sogutma-havalandirma",
+  "website": "https://www.birlesim.com",
+  "source": "https://www.birlesim.com/themes/birlesim/assets/img/logo-color.png",
+  "aliases": [
+    "BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRLSM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F88F1E",
+  "traced": true
+}

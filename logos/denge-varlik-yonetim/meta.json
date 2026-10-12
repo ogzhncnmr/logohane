@@ -1,0 +1,20 @@
+{
+  "name": "Denge Varlık Yönetim",
+  "slug": "denge-varlik-yonetim",
+  "website": "https://dengevarlik.com.tr",
+  "source": "https://www.dengevarlik.com.tr/wp-content/uploads/2025/11/Logo-DVY-1.webp",
+  "hex": "1C4178",
+  "aliases": [
+    "DENGE VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DENVA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

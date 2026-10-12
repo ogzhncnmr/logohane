@@ -1,0 +1,21 @@
+{
+  "name": "Üçay Mühendislik Enerji ve İklimlendirme Teknolojileri",
+  "slug": "ucay-muhendislik-enerji-ve-iklimlendirme-teknolojileri",
+  "website": "https://www.ucay.com.tr",
+  "source": "https://www.ucay.com.tr/wp-content/uploads/2024/01/Ucay-Logo.png",
+  "aliases": [
+    "ÜÇAY MÜHENDİSLİK ENERJİ VE İKLİMLENDİRME TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "UCAYM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AE3A3A",
+  "traced": true
+}

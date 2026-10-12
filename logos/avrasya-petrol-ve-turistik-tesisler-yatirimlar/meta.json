@@ -1,0 +1,20 @@
+{
+  "name": "Avrasya Petrol ve Turistik Tesisler Yatırımlar",
+  "slug": "avrasya-petrol-ve-turistik-tesisler-yatirimlar",
+  "website": "https://www.avtur.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241733d42014182b942a247e4",
+  "hex": "18348A",
+  "aliases": [
+    "AVRASYA PETROL VE TURİSTİK TESİSLER YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AVTUR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

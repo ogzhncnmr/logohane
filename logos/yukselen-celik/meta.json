@@ -1,0 +1,21 @@
+{
+  "name": "Yükselen Çelik",
+  "slug": "yukselen-celik",
+  "website": "https://invest.yukselen.com",
+  "source": "https://invest.yukselen.com/public/site/images/logotr.png",
+  "aliases": [
+    "YÜKSELEN ÇELİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YKSLN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "516BC5",
+  "traced": true
+}

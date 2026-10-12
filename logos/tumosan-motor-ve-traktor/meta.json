@@ -1,0 +1,20 @@
+{
+  "name": "Tümosan Motor ve Traktör",
+  "slug": "tumosan-motor-ve-traktor",
+  "website": "https://www.tumosan.com.tr",
+  "source": "https://www.tumosan.com.tr/assets/img/ps-ico.svg",
+  "aliases": [
+    "TÜMOSAN MOTOR VE TRAKTÖR SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TMSN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E30613"
+}

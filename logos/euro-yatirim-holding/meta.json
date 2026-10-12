@@ -1,0 +1,20 @@
+{
+  "name": "Euro Yatırım Holding",
+  "slug": "euro-yatirim-holding",
+  "website": "https://www.euroyatirim.com.tr",
+  "source": "https://www.euroyatirim.com.tr/wp-content/uploads/2020/07/LOGOeuro-scaled.png",
+  "aliases": [
+    "EURO YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EUHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F5D14F"
+}

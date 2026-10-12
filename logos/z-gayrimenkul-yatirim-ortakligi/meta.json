@@ -1,0 +1,22 @@
+{
+  "name": "Z Gayrimenkul Yatırım Ortaklığı",
+  "slug": "z-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.zgyo.com.tr",
+  "source": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_996/https://zgyo.com.tr/wp-content/uploads/2025/02/cropped-zgyo-yatay-gecis.png",
+  "hex": "CB926B",
+  "aliases": [
+    "Z GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

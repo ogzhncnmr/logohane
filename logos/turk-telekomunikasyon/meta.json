@@ -1,0 +1,20 @@
+{
+  "name": "Türk Telekomünikasyon",
+  "slug": "turk-telekomunikasyon",
+  "website": "https://www.turktelekom.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241e538ab0141ea9c96912c8b",
+  "hex": "012854",
+  "aliases": [
+    "TÜRK TELEKOMÜNİKASYON A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TTKOM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

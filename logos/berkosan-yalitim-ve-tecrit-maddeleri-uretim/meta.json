@@ -1,0 +1,20 @@
+{
+  "name": "Berkosan Yalıtım ve Tecrit Maddeleri Üretim",
+  "slug": "berkosan-yalitim-ve-tecrit-maddeleri-uretim",
+  "website": "https://www.berkosan.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1413b7ef4014144cf3f7b0075",
+  "hex": "0892D1",
+  "aliases": [
+    "BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRKSN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

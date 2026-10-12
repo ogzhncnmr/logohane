@@ -1,0 +1,20 @@
+{
+  "name": "Logo Yazılım",
+  "slug": "logo-yazilim",
+  "website": "https://www.logo.com.tr",
+  "source": "https://www.logo.com.tr/logo.svg",
+  "aliases": [
+    "LOGO YAZILIM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LOGO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C9102E"
+}

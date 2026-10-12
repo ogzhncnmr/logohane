@@ -1,0 +1,20 @@
+{
+  "name": "Ldr Turizm",
+  "slug": "ldr-turizm",
+  "website": "https://www.liderfilo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5570aaa2b0157be3a3ef749af",
+  "hex": "EA4E54",
+  "aliases": [
+    "LDR TURİZM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LIDER"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

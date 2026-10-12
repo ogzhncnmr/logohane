@@ -1,0 +1,20 @@
+{
+  "name": "Ereğli Tekstil Turizm",
+  "slug": "eregli-tekstil-turizm",
+  "website": "https://www.ereglitekstil.com",
+  "source": "https://www.ereglitekstil.com/images/logo.png",
+  "hex": "505339",
+  "aliases": [
+    "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ERGLI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tureks Turizm Taşımacılık",
+  "slug": "tureks-turizm-tasimacilik",
+  "website": "https://www.turexturizm.com.tr",
+  "source": "https://turexturizm.com.tr/wwwroot/img/logo.png",
+  "aliases": [
+    "TUREKS TURİZM TAŞIMACILIK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TUREX"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DA0C15",
+  "traced": true
+}

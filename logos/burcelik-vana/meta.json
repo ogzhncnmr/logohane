@@ -1,0 +1,20 @@
+{
+  "name": "Burçelik Vana",
+  "slug": "burcelik-vana",
+  "website": "https://www.burcelikvana.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14158e41e01415b2789266cb6",
+  "hex": "071288",
+  "aliases": [
+    "BURÇELİK VANA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BURVA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

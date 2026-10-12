@@ -1,0 +1,22 @@
+{
+  "name": "Hareket Proje Taşımacılığı ve Yük Mühendisliği",
+  "slug": "hareket-proje-tasimaciligi-ve-yuk-muhendisligi",
+  "website": "https://www.hareket.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c48c3efabf018f632d8d082913",
+  "hex": "EBB533",
+  "aliases": [
+    "HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HRKET"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

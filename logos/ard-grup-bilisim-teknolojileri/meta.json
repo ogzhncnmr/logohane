@@ -1,0 +1,21 @@
+{
+  "name": "Ard Grup Bilişim Teknolojileri",
+  "slug": "ard-grup-bilisim-teknolojileri",
+  "website": "https://www.ardbilisim.com.tr",
+  "source": "https://www.ardbilisim.com.tr/wp-content/uploads/2026/03/ard-bilisim-tr.png#1492",
+  "aliases": [
+    "ARD GRUP BİLİŞİM TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARDYZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1755A7",
+  "traced": true
+}

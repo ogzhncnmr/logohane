@@ -1,0 +1,21 @@
+{
+  "name": "Alfa Solar Enerji",
+  "slug": "alfa-solar-enerji",
+  "website": "https://www.alfasolarenerji.com",
+  "source": "https://www.alfasolarenerji.com/wp-content/uploads/2023/07/alfasolar-logo-dark.png",
+  "aliases": [
+    "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALFAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1E3664",
+  "traced": true
+}

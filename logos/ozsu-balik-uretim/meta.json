@@ -1,0 +1,20 @@
+{
+  "name": "Özsu Balık Üretim",
+  "slug": "ozsu-balik-uretim",
+  "website": "https://www.ozsubalik.com.tr",
+  "source": "https://ozsubalik.com.tr/wp-content/themes/ozsubalik/assets/images/world.svg",
+  "aliases": [
+    "ÖZSU BALIK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OZSUB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2C2E96"
+}

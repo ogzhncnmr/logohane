@@ -1,0 +1,20 @@
+{
+  "name": "Euro Trend Yatırım Ortaklığı",
+  "slug": "euro-trend-yatirim-ortakligi",
+  "website": "https://www.eurotrendyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc30140edba6a660099",
+  "hex": "3067D0",
+  "aliases": [
+    "EURO TREND YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ETYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

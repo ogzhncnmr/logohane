@@ -1,0 +1,20 @@
+{
+  "name": "Orma Orman Mahsülleri İntegre",
+  "slug": "orma-orman-mahsulleri-integre",
+  "website": "https://www.orma.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240ee37a90140ee3cedbb0002",
+  "hex": "2C2B29",
+  "aliases": [
+    "ORMA ORMAN MAHSÜLLERİ İNTEGRE SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ORMA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

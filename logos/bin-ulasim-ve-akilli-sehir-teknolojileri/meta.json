@@ -1,0 +1,20 @@
+{
+  "name": "Bin Ulaşım ve Akıllı Şehir Teknolojileri",
+  "slug": "bin-ulasim-ve-akilli-sehir-teknolojileri",
+  "website": "https://www.binbin.tech",
+  "source": "https://www.binbin.tech/wp-content/themes/binbin//assets/image/logo.svg",
+  "aliases": [
+    "BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BINBN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "3DBCC8"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hub Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "hub-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.hubgsyo.com",
+  "source": "https://hubgsyo.com/wp-content/uploads/2020/01/GSYO-Logo.png",
+  "aliases": [
+    "HUB GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HUBVC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "100F62",
+  "traced": true
+}

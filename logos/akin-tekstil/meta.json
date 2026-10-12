@@ -1,0 +1,21 @@
+{
+  "name": "Akın Tekstil",
+  "slug": "akin-tekstil",
+  "website": "https://www.akintekstil.com.tr",
+  "source": "https://www.akintekstil.com.tr/sites/default/files/akin-tekstil.svg",
+  "aliases": [
+    "AKIN TEKSTİL A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATEKS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "181817"
+}

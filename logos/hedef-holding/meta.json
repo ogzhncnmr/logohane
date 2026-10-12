@@ -1,0 +1,21 @@
+{
+  "name": "Hedef Holding",
+  "slug": "hedef-holding",
+  "website": "https://www.hedefholding.com",
+  "source": "https://www.hedefholding.com/Content/assets/images/logo.svg",
+  "aliases": [
+    "HEDEF HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HEDEF"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "07B203"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Mavi Giyim",
+  "slug": "mavi-giyim",
+  "website": "https://www.mavi.com",
+  "source": "https://sky-static.mavi.com/new-mavi-logo.svg?v=1789338071301",
+  "aliases": [
+    "MAVİ GİYİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MAVI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "03467B"
+}

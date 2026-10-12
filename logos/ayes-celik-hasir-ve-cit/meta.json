@@ -1,0 +1,22 @@
+{
+  "name": "Ayes Çelik Hasır ve Çit",
+  "slug": "ayes-celik-hasir-ve-cit",
+  "website": "https://www.ayescelik.com",
+  "source": "https://ayescelik.com/design/logo-02.png",
+  "aliases": [
+    "AYES ÇELİK HASIR VE ÇİT SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AYES"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E21D1B",
+  "traced": true
+}

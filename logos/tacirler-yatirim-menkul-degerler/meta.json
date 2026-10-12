@@ -1,0 +1,24 @@
+{
+  "name": "Tacirler Yatırım Menkul Değerler",
+  "slug": "tacirler-yatirim-menkul-degerler",
+  "website": "https://www.tacirler.com.tr",
+  "source": "https://tacirler.com.tr/upload/images/mainpage/tacirler-logo--beyaz.svg",
+  "aliases": [
+    "TACİRLER YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TAC"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TCRYT"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

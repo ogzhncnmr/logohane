@@ -1,0 +1,20 @@
+{
+  "name": "Adese Gayrimenkul Yatırım",
+  "slug": "adese-gayrimenkul-yatirim",
+  "website": "https://www.adese.com.tr",
+  "source": "https://www.adese.com.tr/images/adese%20logo%20footer-header.svg",
+  "aliases": [
+    "ADESE GAYRİMENKUL YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ADESE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "792182"
+}

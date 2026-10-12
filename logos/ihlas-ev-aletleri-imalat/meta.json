@@ -1,0 +1,21 @@
+{
+  "name": "İhlas Ev Aletleri İmalat",
+  "slug": "ihlas-ev-aletleri-imalat",
+  "website": "https://www.iea.com.tr",
+  "source": "https://www.iea.com.tr/assets/img/logo.svg",
+  "hex": "979899",
+  "aliases": [
+    "İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IHEVA"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "İhlas Gazetecilik",
+  "slug": "ihlas-gazetecilik",
+  "website": "https://www.ihlasgazetecilik.com.tr",
+  "source": "https://www.ihlasgazetecilik.com.tr/wp-content/uploads/2026/03/ihlasGazetecilikLogo.svg",
+  "aliases": [
+    "İHLAS GAZETECİLİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IHGZT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "001F60"
+}

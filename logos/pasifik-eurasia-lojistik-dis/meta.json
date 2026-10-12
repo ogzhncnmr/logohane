@@ -1,0 +1,20 @@
+{
+  "name": "Pasifik Eurasia Lojistik Dış",
+  "slug": "pasifik-eurasia-lojistik-dis",
+  "website": "https://www.pasifikeurasia.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c5101887ae575873835",
+  "hex": "0D064D",
+  "aliases": [
+    "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PASEU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Çemaş Döküm",
+  "slug": "cemas-dokum",
+  "website": "https://www.cemas.com.tr",
+  "source": "https://www.cemas.com.tr/images/logo.png",
+  "aliases": [
+    "ÇEMAŞ DÖKÜM SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CEMAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

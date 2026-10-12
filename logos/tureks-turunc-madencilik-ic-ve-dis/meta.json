@@ -1,0 +1,20 @@
+{
+  "name": "Tureks Turunç Madencilik İç ve Dış",
+  "slug": "tureks-turunc-madencilik-ic-ve-dis",
+  "website": "https://www.marblesystemstureks.com.tr",
+  "source": "https://www.marblesystemstureks.com.tr/wp-content/uploads/2023/09/tr-ms-logo.png",
+  "aliases": [
+    "TUREKS TURUNÇ MADENCİLİK İÇ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MARBL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

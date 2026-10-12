@@ -1,0 +1,20 @@
+{
+  "name": "İş Faktoring",
+  "slug": "is-faktoring",
+  "website": "https://www.isfaktoring.com.tr",
+  "source": "https://www.isfaktoring.com.tr/assets/svg/logo.svg",
+  "aliases": [
+    "İŞ FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISFAK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1B448D"
+}

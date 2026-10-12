@@ -1,0 +1,21 @@
+{
+  "name": "Oyak Çimento Fabrikaları",
+  "slug": "oyak-cimento-fabrikalari",
+  "website": "https://www.oyakcimento.com.tr",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1619606",
+  "aliases": [
+    "OYAK ÇİMENTO FABRİKALARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OYAKC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "F13636",
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Huzur Faktoring",
+  "slug": "huzur-faktoring",
+  "website": "https://www.huzurfaktoring.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241558bd9014155ce6dec03e8",
+  "hex": "2B3351",
+  "aliases": [
+    "HUZUR FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HUZFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

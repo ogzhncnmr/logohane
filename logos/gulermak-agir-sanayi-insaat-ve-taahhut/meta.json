@@ -1,0 +1,22 @@
+{
+  "name": "Gülermak Ağır Sanayi İnşaat ve Taahhüt",
+  "slug": "gulermak-agir-sanayi-insaat-ve-taahhut",
+  "website": "https://www.gulermak.com.tr",
+  "source": "https://www.gulermak.com.tr/gulermak-tasarim/images/GLM_Logo%20Mavi.png",
+  "aliases": [
+    "GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GLRMK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "03B1F2",
+  "traced": true
+}

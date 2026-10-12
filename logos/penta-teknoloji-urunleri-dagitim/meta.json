@@ -1,0 +1,20 @@
+{
+  "name": "Penta Teknoloji Ürünleri Dağıtım",
+  "slug": "penta-teknoloji-urunleri-dagitim",
+  "website": "https://www.penta.com.tr",
+  "source": "https://www.penta.com.tr/Content/images/penta-logo.svg",
+  "aliases": [
+    "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PENTA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "941C2F"
+}

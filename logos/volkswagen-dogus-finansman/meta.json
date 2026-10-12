@@ -1,0 +1,21 @@
+{
+  "name": "Volkswagen Doğuş Finansman",
+  "slug": "volkswagen-dogus-finansman",
+  "website": "https://www.vdf.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24371e0a20143914bc74c6e5b",
+  "hex": "05B3C8",
+  "aliases": [
+    "VOLKSWAGEN DOĞUŞ FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VDFAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

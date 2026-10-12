@@ -1,0 +1,21 @@
+{
+  "name": "Petrokent Turizm",
+  "slug": "petrokent-turizm",
+  "website": "https://www.petrokent.com.tr",
+  "source": "https://www.petrokent.com.tr/images/general/logo-white.svg",
+  "hex": "01AFF0",
+  "aliases": [
+    "PETROKENT TURİZM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PKENT"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

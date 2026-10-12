@@ -1,0 +1,21 @@
+{
+  "name": "Avrupakent Gayrimenkul Yatırım Ortaklığı",
+  "slug": "avrupakent-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.avrupakentgyo.com",
+  "source": "https://www.avrupakentgyo.com/Images/logo.png?v=cBtqOrfhM2BJDJSR0mYtkDH7UaXrKSXGlzRomDlmFvU",
+  "aliases": [
+    "AVRUPAKENT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AVPGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1C3A83",
+  "traced": true
+}

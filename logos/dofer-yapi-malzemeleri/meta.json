@@ -1,0 +1,20 @@
+{
+  "name": "Dofer Yapı Malzemeleri",
+  "slug": "dofer-yapi-malzemeleri",
+  "website": "https://www.dofer.com.tr",
+  "source": "https://dofer.com.tr/wp-content/uploads/2023/11/dofer_logo-1-1.png",
+  "hex": "095AB1",
+  "aliases": [
+    "DOFER YAPI MALZEMELERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOFER"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

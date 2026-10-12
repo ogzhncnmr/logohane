@@ -1,0 +1,20 @@
+{
+  "name": "Quick Sigorta",
+  "slug": "quick-sigorta",
+  "website": "https://www.quicksigorta.com",
+  "source": "https://assets.quicksigorta.com/img/logos/quick-sigorta-blue-logo.svg?w=3840&q=100",
+  "aliases": [
+    "QUİCK SİGORTA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QUICK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "003057"
+}

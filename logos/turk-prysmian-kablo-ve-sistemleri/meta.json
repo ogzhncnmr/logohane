@@ -1,0 +1,21 @@
+{
+  "name": "Türk Prysmian Kablo ve Sistemleri",
+  "slug": "turk-prysmian-kablo-ve-sistemleri",
+  "website": "https://www.prysmian.com.tr",
+  "source": "https://tr.prysmian.com/themes/custom/prysmian/static/images/logo_prysmian_2021_black.png",
+  "aliases": [
+    "TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PRKAB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "8D8E8F",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Atakey Patates Gıda",
+  "slug": "atakey-patates-gida",
+  "website": "https://atakey.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c53018953500b004578",
+  "hex": "937A40",
+  "aliases": [
+    "ATAKEY PATATES GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATAKP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

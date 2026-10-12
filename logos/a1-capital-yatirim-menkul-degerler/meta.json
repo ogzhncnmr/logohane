@@ -1,0 +1,25 @@
+{
+  "name": "A1 Capital Yatırım Menkul Değerler",
+  "slug": "a1-capital-yatirim-menkul-degerler",
+  "website": "https://www.a1capital.com.tr",
+  "source": "https://a1capital.b-cdn.net/wp-content/uploads/2025/08/A1Capital_Logo.svg",
+  "aliases": [
+    "A1 CAPİTAL YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "A1CAP"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ACP"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "35AAE2"
+}

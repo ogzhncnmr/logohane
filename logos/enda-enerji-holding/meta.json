@@ -1,0 +1,20 @@
+{
+  "name": "Enda Enerji Holding",
+  "slug": "enda-enerji-holding",
+  "website": "https://www.endaenerji.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c49145e00b01949751383218b4",
+  "hex": "CA1D42",
+  "aliases": [
+    "ENDA ENERJİ HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENDAE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

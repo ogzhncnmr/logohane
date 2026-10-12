@@ -1,0 +1,20 @@
+{
+  "name": "Derimod Konfeksiyon Ayakkabı Deri",
+  "slug": "derimod-konfeksiyon-ayakkabi-deri",
+  "website": "https://www.derimod.com.tr",
+  "source": "https://derimod.com.tr/",
+  "aliases": [
+    "DERİMOD KONFEKSİYON AYAKKABI DERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DERIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

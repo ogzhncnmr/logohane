@@ -1,0 +1,24 @@
+{
+  "name": "Global Menkul Değerler",
+  "slug": "global-menkul-degerler",
+  "website": "https://www.global.com.tr",
+  "source": "https://www.global.com.tr/media/681?v=1719341946299",
+  "hex": "E61D30",
+  "aliases": [
+    "GLOBAL MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GLB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "GLBMD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

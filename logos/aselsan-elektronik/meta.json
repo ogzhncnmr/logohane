@@ -1,0 +1,21 @@
+{
+  "name": "Aselsan Elektronik",
+  "slug": "aselsan-elektronik",
+  "website": "https://www.aselsan.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1413b7ef401413bc2251e0047",
+  "hex": "003087",
+  "aliases": [
+    "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ASELS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

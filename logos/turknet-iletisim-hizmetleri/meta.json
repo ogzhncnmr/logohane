@@ -1,0 +1,20 @@
+{
+  "name": "Turknet İletişim Hizmetleri",
+  "slug": "turknet-iletisim-hizmetleri",
+  "website": "https://www.turk.net",
+  "source": "https://www.turk.net/dosyalar/turknet-30yas-logo.svg",
+  "aliases": [
+    "TURKNET İLETİŞİM HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRKNT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "560C59"
+}

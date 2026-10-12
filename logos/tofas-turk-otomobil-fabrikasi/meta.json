@@ -1,0 +1,21 @@
+{
+  "name": "Tofaş Türk Otomobil Fabrikası",
+  "slug": "tofas-turk-otomobil-fabrikasi",
+  "website": "https://www.tofas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f328bed700a5",
+  "hex": "362D2D",
+  "aliases": [
+    "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TOASO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

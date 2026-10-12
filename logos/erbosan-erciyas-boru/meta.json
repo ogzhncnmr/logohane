@@ -1,0 +1,20 @@
+{
+  "name": "Erbosan Erciyas Boru",
+  "slug": "erbosan-erciyas-boru",
+  "website": "https://www.erbosan.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14184e9cf01419c006da45a78",
+  "hex": "044DA3",
+  "aliases": [
+    "ERBOSAN ERCİYAS BORU SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ERBOS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

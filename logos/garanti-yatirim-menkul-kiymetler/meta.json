@@ -1,0 +1,24 @@
+{
+  "name": "Garanti Yatırım Menkul Kıymetler",
+  "slug": "garanti-yatirim-menkul-kiymetler",
+  "website": "https://www.garantibbvayatirim.com.tr",
+  "source": "https://www.garantibbvayatirim.com.tr/_assets/img/logo.svg",
+  "aliases": [
+    "GARANTİ YATIRIM MENKUL KIYMETLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GRM"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "GRYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "002F6F"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yeşil Yatırım Holding",
+  "slug": "yesil-yatirim-holding",
+  "website": "https://www.yesilyatirimholding.com",
+  "source": "https://www.yesilyatirimholding.com/archive/wp-content/uploads/2016/08/yesil_yatirim_logo1.png",
+  "aliases": [
+    "YEŞİL YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YESIL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "231F20",
+  "traced": true
+}

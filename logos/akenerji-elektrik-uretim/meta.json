@@ -1,0 +1,22 @@
+{
+  "name": "Akenerji Elektrik Üretim",
+  "slug": "akenerji-elektrik-uretim",
+  "website": "https://www.akenerji.com.tr",
+  "source": "https://www.akenerji.com.tr/img/logo.png",
+  "aliases": [
+    "AKENERJİ ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKENR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00468D",
+  "traced": true
+}

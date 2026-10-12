@@ -1,0 +1,20 @@
+{
+  "name": "Silverline Endüstri",
+  "slug": "silverline-endustri",
+  "website": "https://www.silverline.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a243dd5e8f01440734fd5613db",
+  "hex": "F78E1D",
+  "aliases": [
+    "SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SILVR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

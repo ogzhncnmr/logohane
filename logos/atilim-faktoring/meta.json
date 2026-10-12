@@ -1,0 +1,21 @@
+{
+  "name": "Atılım Faktoring",
+  "slug": "atilim-faktoring",
+  "website": "https://www.atilimfaktoring.com.tr",
+  "source": "https://www.atilimfaktoring.com.tr/Themes/atilim/Common/images/logo.svg",
+  "aliases": [
+    "ATILIM FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATLFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "BF2026"
+}

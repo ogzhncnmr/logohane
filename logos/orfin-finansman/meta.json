@@ -1,0 +1,20 @@
+{
+  "name": "Orfin Finansman",
+  "slug": "orfin-finansman",
+  "website": "https://www.orfin.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed7201411780a3bd062e",
+  "hex": "CD2836",
+  "aliases": [
+    "ORFİN FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ORFIN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

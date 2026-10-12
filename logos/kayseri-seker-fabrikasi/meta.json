@@ -1,0 +1,20 @@
+{
+  "name": "Kayseri Şeker Fabrikası",
+  "slug": "kayseri-seker-fabrikasi",
+  "website": "https://www.kayseriseker.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a144a0804f0145a837a7ad0a66",
+  "hex": "BB9E75",
+  "aliases": [
+    "KAYSERİ ŞEKER FABRİKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KAYSE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

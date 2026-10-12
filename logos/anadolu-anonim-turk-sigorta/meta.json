@@ -1,0 +1,20 @@
+{
+  "name": "Anadolu Anonim Türk Sigorta Şirketi",
+  "slug": "anadolu-anonim-turk-sigorta",
+  "website": "https://www.anadolusigorta.com.tr",
+  "source": "http://www.anadolusigorta.com.tr/assets/img/headerLogo.svg",
+  "aliases": [
+    "ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ANSGR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0033A4"
+}

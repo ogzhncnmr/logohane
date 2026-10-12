@@ -1,0 +1,20 @@
+{
+  "name": "Kaplamin Ambalaj",
+  "slug": "kaplamin-ambalaj",
+  "website": "https://www.kaplaminambalaj.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696501416f314a3960dc",
+  "hex": "3B0D7A",
+  "aliases": [
+    "KAPLAMİN AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KAPLM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

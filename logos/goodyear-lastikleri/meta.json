@@ -1,0 +1,21 @@
+{
+  "name": "Goodyear Lastikleri",
+  "slug": "goodyear-lastikleri",
+  "website": "https://www.goodyear.com.tr",
+  "source": "https://www.goodyear.eu/content/experience-fragments/goodyear/ecommerce/header/header/tr_tr/_jcr_content/root/container/header/logo.coreimg.png/1762943966965/goodyear-logo-tg-2025.png",
+  "aliases": [
+    "GOODYEAR LASTİKLERİ T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GOODY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FBBD00",
+  "traced": true
+}

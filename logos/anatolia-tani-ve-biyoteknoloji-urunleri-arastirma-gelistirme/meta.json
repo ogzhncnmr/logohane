@@ -1,0 +1,21 @@
+{
+  "name": "Anatolia Tanı ve Biyoteknoloji Ürünleri Araştırma Geliştirme",
+  "slug": "anatolia-tani-ve-biyoteknoloji-urunleri-arastirma-gelistirme",
+  "website": "https://www.anatoliageneworks.com/tr",
+  "source": "https://www.anatoliageneworks.com/wp-content/uploads/2022/08/anatolia-geneworks-logo.png",
+  "aliases": [
+    "ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ANGEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E80004",
+  "traced": true
+}

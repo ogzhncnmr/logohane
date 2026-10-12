@@ -1,0 +1,21 @@
+{
+  "name": "Trabzonspor Sportif Yatırım ve Futbol İşletmeciliği",
+  "slug": "trabzonspor-sportif-yatirim-ve-futbol-isletmeciligi",
+  "website": "https://trabzonspor.org.tr",
+  "source": "https://www.trabzonspor.org.tr/_next/static/media/logo.212db1c8.png",
+  "aliases": [
+    "TRABZONSPOR SPORTİF YATIRIM VE FUTBOL İŞLETMECİLİĞİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TSPOR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "5A0D27",
+  "traced": true
+}

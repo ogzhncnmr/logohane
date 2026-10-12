@@ -1,0 +1,21 @@
+{
+  "name": "Soho Giyim ve Enerji",
+  "slug": "soho-giyim-ve-enerji",
+  "website": "https://www.sohocompany.com.tr",
+  "source": "https://www.sohocompany.com.tr/images/logo2.png",
+  "aliases": [
+    "SOHO GİYİM VE ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SOHOE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

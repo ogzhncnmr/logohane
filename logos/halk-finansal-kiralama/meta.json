@@ -1,0 +1,22 @@
+{
+  "name": "Halk Finansal Kiralama",
+  "slug": "halk-finansal-kiralama",
+  "website": "https://www.halkleasing.com.tr",
+  "source": "https://www.halkleasing.com.tr/content/experience-fragments/halkleasing/tr/site/header/master/_jcr_content/root/container_1883308214/image.coreimg.png/1671137931039/logo.png",
+  "aliases": [
+    "HALK FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HALKF"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005193",
+  "traced": true
+}

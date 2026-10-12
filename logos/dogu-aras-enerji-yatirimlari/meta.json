@@ -1,0 +1,21 @@
+{
+  "name": "Doğu Aras Enerji Yatırımları",
+  "slug": "dogu-aras-enerji-yatirimlari",
+  "website": "https://www.doguaras.com",
+  "source": "https://www.doguaras.com/assets/splash.png",
+  "aliases": [
+    "DOĞU ARAS ENERJİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARASE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C7B3D",
+  "traced": true
+}

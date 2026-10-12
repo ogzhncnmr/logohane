@@ -1,0 +1,20 @@
+{
+  "name": "Qnb Finansal Kiralama",
+  "slug": "qnb-finansal-kiralama",
+  "website": "https://www.qnbleasing.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed7201410821418e027d",
+  "hex": "001959",
+  "aliases": [
+    "QNB FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QNBFK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

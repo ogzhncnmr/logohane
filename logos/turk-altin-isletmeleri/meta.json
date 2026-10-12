@@ -1,0 +1,20 @@
+{
+  "name": "Türk Altın İşletmeleri",
+  "slug": "turk-altin-isletmeleri",
+  "website": "https://www.turkaltinisletmeleri.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2422d9a6e0142bd91d3687a69",
+  "hex": "D2A443",
+  "aliases": [
+    "TÜRK ALTIN İŞLETMELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRALT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

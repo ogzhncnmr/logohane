@@ -1,0 +1,20 @@
+{
+  "name": "Reysaş Gayrimenkul Yatırım Ortaklığı",
+  "slug": "reysas-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.reysasgyo.com.tr",
+  "source": "https://reysasgyo.com.tr/sitedesign/images/logo-2.svg",
+  "aliases": [
+    "REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RYGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "262862"
+}

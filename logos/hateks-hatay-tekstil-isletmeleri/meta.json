@@ -1,0 +1,20 @@
+{
+  "name": "Hateks Hatay Tekstil İşletmeleri",
+  "slug": "hateks-hatay-tekstil-isletmeleri",
+  "website": "https://www.hateks.com.tr",
+  "source": "https://www.hateks.com.tr/images/hateks_logo.png",
+  "hex": "033375",
+  "aliases": [
+    "HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HATEK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

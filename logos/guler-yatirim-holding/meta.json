@@ -1,0 +1,22 @@
+{
+  "name": "Güler Yatırım Holding",
+  "slug": "guler-yatirim-holding",
+  "website": "https://www.gulerholding.com.tr",
+  "source": "https://gulerholding.com.tr/wp-content/uploads/2021/09/logo-dark@w400px.png",
+  "aliases": [
+    "GÜLER YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GLRYH"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EC6E39",
+  "traced": true
+}

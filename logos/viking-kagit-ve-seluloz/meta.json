@@ -1,0 +1,22 @@
+{
+  "name": "Viking Kağıt ve Selüloz",
+  "slug": "viking-kagit-ve-seluloz",
+  "website": "https://www.viking.com.tr",
+  "source": "https://www.viking.com.tr/images/viking-logo.png",
+  "aliases": [
+    "VİKİNG KAĞIT VE SELÜLOZ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VKING"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0A0F9F",
+  "traced": true
+}

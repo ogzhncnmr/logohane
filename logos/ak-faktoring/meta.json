@@ -1,0 +1,22 @@
+{
+  "name": "Ak Faktoring",
+  "slug": "ak-faktoring",
+  "website": "https://www.akfactoring.com.tr",
+  "source": "https://www.akfactoring.com.tr/images/logo.png",
+  "aliases": [
+    "AK FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKSFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "08ABEC",
+  "traced": true
+}

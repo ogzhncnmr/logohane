@@ -1,0 +1,21 @@
+{
+  "name": "Hidropar Hareket Kontrol Teknolojileri Merkezi",
+  "slug": "hidropar-hareket-kontrol-teknolojileri-merkezi",
+  "website": "https://www.hktm.com.tr",
+  "source": "https://www.hktm.com.tr/uploads/logo.png",
+  "aliases": [
+    "HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HKTM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EA1F27",
+  "traced": true
+}

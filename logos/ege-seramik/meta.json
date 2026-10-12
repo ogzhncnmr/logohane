@@ -1,0 +1,21 @@
+{
+  "name": "Ege Seramik",
+  "slug": "ege-seramik",
+  "website": "https://www.egeseramik.com",
+  "source": "https://www.egeseramik.com/application/themes/mediaclick/assets/img/ege-seramik-logo-small.svg",
+  "aliases": [
+    "EGE SERAMİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EGSER"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EE3324"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tera Yatırım Bankası",
+  "slug": "tera-yatirim-bankasi",
+  "website": "https://www.terabank.com.tr",
+  "source": "https://www.terabank.com.tr/img/tera-bank-logo.svg",
+  "aliases": [
+    "TERA YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TAE"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TRBNK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C214B"
+}

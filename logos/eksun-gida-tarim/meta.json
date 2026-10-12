@@ -1,0 +1,20 @@
+{
+  "name": "Eksun Gıda Tarım",
+  "slug": "eksun-gida-tarim",
+  "website": "https://www.eksun.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c48304fe9c0186ca8287b67657",
+  "hex": "304078",
+  "aliases": [
+    "EKSUN GIDA TARIM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKSUN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

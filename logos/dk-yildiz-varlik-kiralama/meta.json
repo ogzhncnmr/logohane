@@ -1,0 +1,20 @@
+{
+  "name": "Dk Yıldız Varlık Kiralama",
+  "slug": "dk-yildiz-varlik-kiralama",
+  "website": "https://www.dkyildizvarlik.com.tr",
+  "source": "https://dkyildizvarlik.com.tr/site/images/dk-yvarlik-logo.png",
+  "aliases": [
+    "DK YILDIZ VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DKYVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "223A73"
+}

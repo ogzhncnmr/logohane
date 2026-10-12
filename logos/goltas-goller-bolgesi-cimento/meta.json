@@ -1,0 +1,21 @@
+{
+  "name": "Göltaş Göller Bölgesi Çimento",
+  "slug": "goltas-goller-bolgesi-cimento",
+  "website": "https://www.goltas.com.tr",
+  "source": "https://www.goltas.com.tr/images/site-bilgileri/6hk4ysbagqo0ks4cww.png",
+  "aliases": [
+    "GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GOLTS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2D1670",
+  "traced": true
+}

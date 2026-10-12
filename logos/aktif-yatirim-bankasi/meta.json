@@ -1,0 +1,24 @@
+{
+  "name": "Aktif Yatırım Bankası",
+  "slug": "aktif-yatirim-bankasi",
+  "website": "https://www.aktifbank.com.tr",
+  "source": "https://www.aktifbank.com.tr/assets/images/svg/logo.svg",
+  "aliases": [
+    "AKTİF YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AFB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "AKTIF"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DA291C"
+}

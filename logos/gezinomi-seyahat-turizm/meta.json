@@ -1,0 +1,20 @@
+{
+  "name": "Gezinomi Seyahat Turizm",
+  "slug": "gezinomi-seyahat-turizm",
+  "website": "https://www.gezinomi.com",
+  "source": "https://www.gezinomi.com/images/logos/logo.svg",
+  "aliases": [
+    "GEZİNOMİ SEYAHAT TURİZM TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GZNMI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "389DBA"
+}

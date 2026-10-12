@@ -1,0 +1,21 @@
+{
+  "name": "Özata Denizcilik",
+  "slug": "ozata-denizcilik",
+  "website": "https://www.ozatadenizcilik.com",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1564409",
+  "aliases": [
+    "ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OZATD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "E21E28",
+  "updated": "2026-10-12",
+  "traced": true
+}

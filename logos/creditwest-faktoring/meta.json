@@ -1,0 +1,20 @@
+{
+  "name": "Credıtwest Faktoring",
+  "slug": "creditwest-faktoring",
+  "website": "https://www.creditwest.com.tr",
+  "source": "https://creditwest.com.tr/Content/assets/img/logo/logo-org.svg",
+  "aliases": [
+    "CREDITWEST FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CRDFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0062AB"
+}

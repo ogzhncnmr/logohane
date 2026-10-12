@@ -1,0 +1,21 @@
+{
+  "name": "Fuzul Gayrimenkul Yatırım Ortaklığı",
+  "slug": "fuzul-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.fuzulgyo.com.tr",
+  "source": "https://www.fuzulgyo.com.tr/assets/img/logo.png",
+  "aliases": [
+    "FUZUL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FZLGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "143D8C",
+  "traced": true
+}

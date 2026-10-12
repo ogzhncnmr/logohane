@@ -1,0 +1,21 @@
+{
+  "name": "Mercedes Benz Kamyon Finansman",
+  "slug": "mercedes-benz-kamyon-finansman",
+  "website": "https://mercedesbenzkamyonfinansman.com.tr",
+  "source": "https://mercedesbenzkamyonfinansman.com.tr/new/img/logo.png",
+  "hex": "ABB0B4",
+  "aliases": [
+    "MERCEDES BENZ KAMYON FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MRBKF"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Turkcell İletişim Hizmetleri",
+  "slug": "turkcell-iletisim-hizmetleri",
+  "website": "https://www.turkcell.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1486ec80a0148c55510d71d31",
+  "hex": "FFCC08",
+  "aliases": [
+    "TURKCELL İLETİŞİM HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TCELL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Korteks Mensucat",
+  "slug": "korteks-mensucat",
+  "website": "https://www.korteks.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed720140f2f4659e00bc",
+  "hex": "6B6C6E",
+  "aliases": [
+    "KORTEKS MENSUCAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KORTS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

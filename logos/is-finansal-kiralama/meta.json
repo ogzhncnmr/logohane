@@ -1,0 +1,21 @@
+{
+  "name": "İş Finansal Kiralama",
+  "slug": "is-finansal-kiralama",
+  "website": "https://www.isleasing.com.tr",
+  "source": "https://www.isleasing.com.tr/media/ecsb5x5v/leasing_mavi.svg",
+  "aliases": [
+    "İŞ FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISFIN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0032A3"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Konfrut Tarım",
+  "slug": "konfrut-tarim",
+  "website": "https://www.konfrut.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f2fc30bc006e",
+  "hex": "024546",
+  "aliases": [
+    "KONFRUT TARIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KNFRT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

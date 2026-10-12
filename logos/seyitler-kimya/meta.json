@@ -1,0 +1,21 @@
+{
+  "name": "Seyitler Kimya",
+  "slug": "seyitler-kimya",
+  "website": "https://www.seyitler.com",
+  "source": "https://www.seyitler.com/images/seyitler_yatay_logo.png",
+  "aliases": [
+    "SEYİTLER KİMYA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SEYKM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "3055A7",
+  "traced": true
+}

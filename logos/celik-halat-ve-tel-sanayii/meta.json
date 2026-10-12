@@ -1,0 +1,21 @@
+{
+  "name": "Çelik Halat ve Tel Sanayii",
+  "slug": "celik-halat-ve-tel-sanayii",
+  "website": "https://www.celikhalat.com.tr",
+  "source": "https://www.celikhalat.com.tr/themes/clean/files/site-logo-tr.png",
+  "aliases": [
+    "ÇELİK HALAT VE TEL SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CELHA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1C3B79",
+  "traced": true
+}

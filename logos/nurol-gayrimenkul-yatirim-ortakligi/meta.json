@@ -1,0 +1,20 @@
+{
+  "name": "Nurol Gayrimenkul Yatırım Ortaklığı",
+  "slug": "nurol-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.nurolgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696301416f6100e76fb9",
+  "hex": "074F92",
+  "aliases": [
+    "NUROL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NUGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

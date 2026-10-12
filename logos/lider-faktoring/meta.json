@@ -1,0 +1,21 @@
+{
+  "name": "Lider Faktoring",
+  "slug": "lider-faktoring",
+  "website": "https://www.liderfaktoring.com.tr",
+  "source": "https://www.liderfaktoring.com.tr/assets/header-logo-CpDiagMn.svg",
+  "aliases": [
+    "LİDER FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LIDFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "232549"
+}

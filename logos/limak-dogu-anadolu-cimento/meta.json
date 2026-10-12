@@ -1,0 +1,21 @@
+{
+  "name": "Limak Doğu Anadolu Çimento",
+  "slug": "limak-dogu-anadolu-cimento",
+  "website": "https://www.limakdoguanadolucimento.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c58b2fa64e018d8cfe461558d3",
+  "hex": "054C92",
+  "aliases": [
+    "LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LMKDC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

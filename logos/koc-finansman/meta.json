@@ -1,0 +1,21 @@
+{
+  "name": "Koç Finansman",
+  "slug": "koc-finansman",
+  "website": "https://www.kocfinans.com.tr",
+  "source": "https://www.kocfinans.com.tr/images/logo.svg",
+  "aliases": [
+    "KOÇ FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KOCFN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F24F23"
+}

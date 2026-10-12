@@ -1,0 +1,20 @@
+{
+  "name": "Enka İnşaat",
+  "slug": "enka-insaat",
+  "website": "https://www.enka.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ed3883fe0093",
+  "hex": "011E62",
+  "aliases": [
+    "ENKA İNŞAAT VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENKAI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

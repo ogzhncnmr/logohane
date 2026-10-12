@@ -1,0 +1,20 @@
+{
+  "name": "Aydem Yenilenebilir Enerji",
+  "slug": "aydem-yenilenebilir-enerji",
+  "website": "https://www.aydemyenilenebilir.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4782a4d580178b56e7c5c4404",
+  "hex": "E44C47",
+  "aliases": [
+    "AYDEM YENİLENEBİLİR ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AYDEM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bossa Ticaret ve Sanayi İşletmeleri",
+  "slug": "bossa-ticaret-ve-sanayi-isletmeleri",
+  "website": "https://www.bossa.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d9b014160053ed13d39",
+  "hex": "161593",
+  "aliases": [
+    "BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BOSSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Federal Mogul İzmit Piston ve Pim Üretim Tesisleri",
+  "slug": "federal-mogul-izmit-piston-ve-pim-uretim-tesisleri",
+  "website": "https://www.fmizp.com",
+  "source": "https://www.fmizp.com/wp-content/uploads/2021/10/logo-1.png",
+  "aliases": [
+    "FEDERAL MOGUL İZMİT PİSTON VE PİM ÜRETİM TESİSLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FMIZP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "174F9A",
+  "traced": true
+}

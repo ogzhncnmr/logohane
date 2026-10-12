@@ -1,0 +1,20 @@
+{
+  "name": "Reysaş Taşımacılık ve Lojistik",
+  "slug": "reysas-tasimacilik-ve-lojistik",
+  "website": "https://www.reysas.com",
+  "source": "https://reysas.com/sitedesign/images/logo-2026.svg",
+  "aliases": [
+    "REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RYSAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F9B333"
+}

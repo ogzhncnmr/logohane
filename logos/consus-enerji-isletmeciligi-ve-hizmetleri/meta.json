@@ -1,0 +1,20 @@
+{
+  "name": "Consus Enerji İşletmeciliği ve Hizmetleri",
+  "slug": "consus-enerji-isletmeciligi-ve-hizmetleri",
+  "website": "https://www.consusenerji.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c57f7cbb48018007c3ad6154d4",
+  "hex": "FACD00",
+  "aliases": [
+    "CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CONSE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Net Global Endüstriyel Yatırımlar",
+  "slug": "net-global-endustriyel-yatirimlar",
+  "website": "https://www.netglolbaley.com",
+  "source": "https://www.netglobaley.com/Content/images/logo.webp",
+  "hex": "0694DD",
+  "aliases": [
+    "NET GLOBAL ENDÜSTRİYEL YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NETGL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

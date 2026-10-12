@@ -1,0 +1,20 @@
+{
+  "name": "Ral Yatırım Holding",
+  "slug": "ral-yatirim-holding",
+  "website": "https://www.ralyatirim.com",
+  "source": "https://www.ralyatirim.com/images/Ral_Logotype.svg",
+  "aliases": [
+    "RAL YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RALYH"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005289"
+}

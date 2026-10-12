@@ -1,0 +1,20 @@
+{
+  "name": "Aztek Teknoloji Ürünleri",
+  "slug": "aztek-teknoloji-urunleri",
+  "website": "https://www.aztekteknoloji.com",
+  "source": "https://www.aztekteknoloji.com/images/logo-primary.svg",
+  "hex": "D13138",
+  "aliases": [
+    "AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AZTEK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

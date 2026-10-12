@@ -1,0 +1,20 @@
+{
+  "name": "Milk Academy Süt Ürünleri",
+  "slug": "milk-academy-sut-urunleri",
+  "website": "https://milkacademy.com.tr",
+  "source": "https://milkacademy.com.tr/",
+  "hex": "1A459C",
+  "aliases": [
+    "MİLK ACADEMY SÜT ÜRÜNLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MILKS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

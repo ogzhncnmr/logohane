@@ -1,0 +1,22 @@
+{
+  "name": "Parafinans Faktoring",
+  "slug": "parafinans-faktoring",
+  "website": "https://www.parafinans.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c562329bd101633aecee66085d",
+  "hex": "11559D",
+  "aliases": [
+    "PARAFİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PRFFK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Vanet Gıda Sanayi İç ve Dış",
+  "slug": "vanet-gida-sanayi-ic-ve-dis",
+  "website": "https://www.vanet.com.tr",
+  "source": "https://www.vanet.com.tr/images/logo.png",
+  "hex": "D40A12",
+  "aliases": [
+    "VANET GIDA SANAYİ İÇ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VANGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

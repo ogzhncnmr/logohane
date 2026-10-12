@@ -1,0 +1,20 @@
+{
+  "name": "Şok Marketler",
+  "slug": "sok-marketler",
+  "website": "https://www.sokmarket.com.tr",
+  "source": "https://images.ceptesok.com/cdn-cgi/image/width=49,height=49,fit=pad,quality=80,format=webp/logos/service-types/market-logo.svg",
+  "aliases": [
+    "ŞOK MARKETLER TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SOKM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0551A1"
+}

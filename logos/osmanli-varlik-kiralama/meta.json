@@ -1,0 +1,20 @@
+{
+  "name": "Osmanlı Varlık Kiralama",
+  "slug": "osmanli-varlik-kiralama",
+  "website": "https://www.osmanlimenkul.com.tr",
+  "source": "https://www.osmanlimenkul.com.tr/assets/sprite/osmanliYatirim.png",
+  "hex": "3D7D78",
+  "aliases": [
+    "OSMANLI VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OSVKS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

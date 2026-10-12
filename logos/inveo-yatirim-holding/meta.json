@@ -1,0 +1,21 @@
+{
+  "name": "Inveo Yatırım Holding",
+  "slug": "inveo-yatirim-holding",
+  "website": "https://www.inveo.com.tr",
+  "source": "https://inveo.com.tr/website/img/logo.png",
+  "aliases": [
+    "INVEO YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INVEO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0055FF",
+  "traced": true
+}

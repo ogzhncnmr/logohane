@@ -1,0 +1,21 @@
+{
+  "name": "Altın Yunus Çeşme Turistik Tesisler",
+  "slug": "altin-yunus-cesme-turistik-tesisler",
+  "website": "https://www.altinyunus.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ed1bc88e0071",
+  "hex": "A78C76",
+  "aliases": [
+    "ALTIN YUNUS ÇEŞME TURİSTİK TESİSLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AYCES"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

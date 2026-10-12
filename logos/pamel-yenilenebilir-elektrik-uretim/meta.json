@@ -1,0 +1,20 @@
+{
+  "name": "Pamel Yenilenebilir Elektrik Üretim",
+  "slug": "pamel-yenilenebilir-elektrik-uretim",
+  "website": "https://www.pamel.com.tr",
+  "source": "https://panel.pamel.com.tr/images/uploads/F142/865760a8-4a18-451e-92fc-c447e49293bd_logo.png",
+  "aliases": [
+    "PAMEL YENİLENEBİLİR ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PAMEL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "35A96E"
+}

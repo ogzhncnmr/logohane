@@ -1,0 +1,21 @@
+{
+  "name": "Çemtaş Çelik Makina",
+  "slug": "cemtas-celik-makina",
+  "website": "https://www.cemtas.com.tr",
+  "source": "https://www.cemtas.com.tr/images/logo_headerCemtas.png",
+  "aliases": [
+    "ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CEMTS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00AFF0",
+  "traced": true
+}

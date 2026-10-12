@@ -1,0 +1,20 @@
+{
+  "name": "Beşiktaş Futbol Yatırımları",
+  "slug": "besiktas-futbol-yatirimlari",
+  "website": "https://www.bjk.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241a25fcb0141a276cda10189",
+  "hex": "FA0C03",
+  "aliases": [
+    "BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BJKAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Pergamon Status Dış",
+  "slug": "pergamon-status-dis",
+  "website": "https://www.psdisticaret.com.tr",
+  "source": "https://www.psdisticaret.com.tr/img/logo.png",
+  "hex": "0A244D",
+  "aliases": [
+    "PERGAMON STATUS DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PSDTC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

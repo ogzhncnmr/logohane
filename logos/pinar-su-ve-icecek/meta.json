@@ -1,0 +1,20 @@
+{
+  "name": "Pınar Su ve İçecek",
+  "slug": "pinar-su-ve-icecek",
+  "website": "https://www.pinarsu.com.tr",
+  "source": "https://www.pinarsuveicecek.com.tr/site/assets/images/logo.svg",
+  "aliases": [
+    "PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PINSU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "007436"
+}

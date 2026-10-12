@@ -1,0 +1,21 @@
+{
+  "name": "Kartonsan Karton",
+  "slug": "kartonsan-karton",
+  "website": "https://www.kartonsan.com.tr",
+  "source": "https://www.kartonsan.com.tr/hero/logo-blue.png",
+  "aliases": [
+    "KARTONSAN KARTON SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KARTN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0065B7"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Opet Petrolcülük",
+  "slug": "opet-petrolculuk",
+  "website": "https://www.opet.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc30140ee34335300e8",
+  "hex": "2692F0",
+  "aliases": [
+    "OPET PETROLCÜLÜK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OPET"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

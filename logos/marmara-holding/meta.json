@@ -1,0 +1,20 @@
+{
+  "name": "Marmara Holding",
+  "slug": "marmara-holding",
+  "website": "https://www.marmaraholding.net",
+  "source": "https://www.marmaraholding.net/images/bckg/logo-marmara-holding-t.png",
+  "hex": "0B2456",
+  "aliases": [
+    "MARMARA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MARMR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

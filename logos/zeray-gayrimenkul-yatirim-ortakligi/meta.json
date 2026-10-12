@@ -1,0 +1,20 @@
+{
+  "name": "Zeray Gayrimenkul Yatırım Ortaklığı",
+  "slug": "zeray-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.zeraygyo.com.tr",
+  "source": "https://www.zeraygyo.com.tr/application/themes/mediaclick/assets/img/logo.svg",
+  "aliases": [
+    "ZERAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZERGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B2242B"
+}

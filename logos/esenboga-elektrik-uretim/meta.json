@@ -1,0 +1,21 @@
+{
+  "name": "Esenboğa Elektrik Üretim",
+  "slug": "esenboga-elektrik-uretim",
+  "website": "https://www.esenbogaelektrik.com.tr",
+  "source": "https://framerusercontent.com/images/oViwkvPSlL2PBllV0sAbbdmo.png?scale-down-to=512&width=765&height=212",
+  "aliases": [
+    "ESENBOĞA ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ESEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "26366F",
+  "traced": true
+}

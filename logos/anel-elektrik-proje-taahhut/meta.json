@@ -1,0 +1,21 @@
+{
+  "name": "Anel Elektrik Proje Taahhüt",
+  "slug": "anel-elektrik-proje-taahhut",
+  "website": "https://www.anelgroup.com",
+  "source": "https://anelgroup.com/wp-content/assets/images/logo-en.png",
+  "aliases": [
+    "ANEL ELEKTRİK PROJE TAAHHÜT VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ANELE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0070BA",
+  "traced": true
+}

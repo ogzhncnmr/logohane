@@ -1,0 +1,24 @@
+{
+  "name": "Halk Yatırım Menkul Değerler",
+  "slug": "halk-yatirim-menkul-degerler",
+  "website": "https://www.halkyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01411654e5fc0479",
+  "hex": "005394",
+  "aliases": [
+    "HALK YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HALKI"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "HLY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

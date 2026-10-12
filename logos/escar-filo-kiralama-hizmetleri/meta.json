@@ -1,0 +1,20 @@
+{
+  "name": "Escar Filo Kiralama Hizmetleri",
+  "slug": "escar-filo-kiralama-hizmetleri",
+  "website": "https://www.escar.com.tr",
+  "source": "https://www.escar.com.tr/wp-content/uploads/2021/04/escar-logo-wtext.svg",
+  "aliases": [
+    "ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ESCAR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EC2024"
+}

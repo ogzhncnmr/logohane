@@ -1,0 +1,20 @@
+{
+  "name": "Ata Gayrimenkul Yatırım Ortaklığı",
+  "slug": "ata-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.atagyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140eddf432a0115",
+  "hex": "036C86",
+  "aliases": [
+    "ATA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATAGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

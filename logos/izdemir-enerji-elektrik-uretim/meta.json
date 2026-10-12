@@ -1,0 +1,20 @@
+{
+  "name": "İzdemir Enerji Elektrik Üretim",
+  "slug": "izdemir-enerji-elektrik-uretim",
+  "website": "https://www.izdemirenerji.com",
+  "source": "https://www.izdemirenerji.com/assets/svg/logotype-color.svg",
+  "aliases": [
+    "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IZENR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00ADEE"
+}

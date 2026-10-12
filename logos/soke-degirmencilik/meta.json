@@ -1,0 +1,20 @@
+{
+  "name": "Söke Değirmencilik",
+  "slug": "soke-degirmencilik",
+  "website": "https://www.soke.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c552495f640152d616d67a0b95",
+  "hex": "AF1030",
+  "aliases": [
+    "SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SOKE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

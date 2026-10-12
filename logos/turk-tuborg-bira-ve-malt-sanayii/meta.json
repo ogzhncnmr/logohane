@@ -1,0 +1,20 @@
+{
+  "name": "Türk Tuborg Bira ve Malt Sanayii",
+  "slug": "turk-tuborg-bira-ve-malt-sanayii",
+  "website": "https://www.turktuborg.com.tr",
+  "source": "https://www.turktuborg.com.tr/wp-content/themes/turktuborg/img/turk-tuborg_logo-black.svg",
+  "aliases": [
+    "TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TBORG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

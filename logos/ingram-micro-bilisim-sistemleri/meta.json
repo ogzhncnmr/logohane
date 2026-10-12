@@ -1,0 +1,21 @@
+{
+  "name": "Ingram Micro Bilişim Sistemleri",
+  "slug": "ingram-micro-bilisim-sistemleri",
+  "website": "https://tr.ingrammicro.eu",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241462fd80141556f6a9308a2",
+  "hex": "1776BA",
+  "aliases": [
+    "INGRAM MİCRO BİLİŞİM SİSTEMLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INGRM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

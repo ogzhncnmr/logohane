@@ -1,0 +1,20 @@
+{
+  "name": "İstanbul Faktoring",
+  "slug": "istanbul-faktoring",
+  "website": "https://www.istanbulfaktoring.com.tr",
+  "source": "https://istanbulfaktoring.com.tr/wp-content/uploads/2024/05/LOGOyan.jpg",
+  "hex": "029DD5",
+  "aliases": [
+    "İSTANBUL FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISTFK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

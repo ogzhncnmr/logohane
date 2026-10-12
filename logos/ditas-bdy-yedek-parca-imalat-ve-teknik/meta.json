@@ -1,0 +1,21 @@
+{
+  "name": "Ditaş Bdy Yedek Parça İmalat ve Teknik",
+  "slug": "ditas-bdy-yedek-parca-imalat-ve-teknik",
+  "website": "https://www.ditas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710141179798bb02ed",
+  "hex": "0159AB",
+  "aliases": [
+    "DİTAŞ BDY YEDEK PARÇA İMALAT VE TEKNİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DITAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

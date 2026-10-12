@@ -1,0 +1,20 @@
+{
+  "name": "Tf Varlık Kiralama",
+  "slug": "tf-varlik-kiralama",
+  "website": "https://www.tfvarlikkiralama.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01413b17046806f6",
+  "hex": "8F8F8F",
+  "aliases": [
+    "TF VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TFNVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

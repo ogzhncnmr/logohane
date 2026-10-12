@@ -1,0 +1,20 @@
+{
+  "name": "Europen Endüstri İnşaat",
+  "slug": "europen-endustri-insaat",
+  "website": "https://www.europen.com.tr",
+  "source": "https://www.europen.com.tr/img/logo.svg",
+  "aliases": [
+    "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EUREN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004B9A"
+}

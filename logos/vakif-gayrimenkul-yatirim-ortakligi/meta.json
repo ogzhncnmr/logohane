@@ -1,0 +1,20 @@
+{
+  "name": "Vakıf Gayrimenkul Yatırım Ortaklığı",
+  "slug": "vakif-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.vakifgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed72014101a0d3b501f7",
+  "hex": "F7B02A",
+  "aliases": [
+    "VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VKGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

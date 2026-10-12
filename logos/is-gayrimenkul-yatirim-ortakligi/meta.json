@@ -1,0 +1,21 @@
+{
+  "name": "İş Gayrimenkul Yatırım Ortaklığı",
+  "slug": "is-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.isgyo.com.tr",
+  "source": "https://www.isgyo.com.tr/images/Logo-Blue.svg",
+  "aliases": [
+    "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0033A2"
+}

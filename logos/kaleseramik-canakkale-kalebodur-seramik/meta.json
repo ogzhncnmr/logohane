@@ -1,0 +1,20 @@
+{
+  "name": "Kaleseramik Çanakkale Kalebodur Seramik",
+  "slug": "kaleseramik-canakkale-kalebodur-seramik",
+  "website": "https://www.kale.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f275550140f285f6cf0246",
+  "hex": "D22F04",
+  "aliases": [
+    "KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLSER"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

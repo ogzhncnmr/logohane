@@ -1,0 +1,20 @@
+{
+  "name": "Koton Mağazacılık Tekstil",
+  "slug": "koton-magazacilik-tekstil",
+  "website": "https://www.koton.com",
+  "source": "https://054308f5.cdn.akinoncloud.com/static_omnishop/2026-10-09.2-prod/img/logo.svg",
+  "aliases": [
+    "KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KOTON"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "231F20"
+}

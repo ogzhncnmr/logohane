@@ -1,0 +1,25 @@
+{
+  "name": "Marbaş Menkul Değerler",
+  "slug": "marbas-menkul-degerler",
+  "website": "https://www.marbasmenkul.com.tr",
+  "source": "https://marbas.com.tr/assets/MARBAS_LOGO-1.png",
+  "aliases": [
+    "MARBAŞ MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MRBAS"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "MRS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "BF2126",
+  "traced": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ata Yatırım Menkul Kıymetler",
+  "slug": "ata-yatirim-menkul-kiymetler",
+  "website": "https://www.atayatirim.com.tr",
+  "source": "https://atayatirim.com.tr/img/logo-v4.png",
+  "aliases": [
+    "ATA YATIRIM MENKUL KIYMETLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATA"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ATAYM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "136A7E",
+  "traced": true
+}

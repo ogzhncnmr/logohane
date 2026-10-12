@@ -1,0 +1,21 @@
+{
+  "name": "Vakıf Faktoring",
+  "slug": "vakif-faktoring",
+  "website": "https://www.vakiffaktoring.com.tr",
+  "source": "https://www.vakiffaktoring.com.tr/Templates/Default/assets/img/faktoring-logo.svg",
+  "aliases": [
+    "VAKIF FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VAKFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "73B941"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Işıklar Enerji ve Yapı Holding",
+  "slug": "isiklar-enerji-ve-yapi-holding",
+  "website": "https://www.isiklarenerjiyapiholding.com.tr",
+  "source": "https://www.isiklarenerjiyapiholding.com.tr/code/images/logo.png",
+  "aliases": [
+    "IŞIKLAR ENERJİ VE YAPI HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IEYHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "6D797E",
+  "traced": true
+}

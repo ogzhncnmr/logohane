@@ -1,0 +1,20 @@
+{
+  "name": "Koza Polyester",
+  "slug": "koza-polyester",
+  "website": "https://www.kozapolyester.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c486d22a3b01873668ecf84494",
+  "hex": "F7E8AE",
+  "aliases": [
+    "KOZA POLYESTER SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KOPOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

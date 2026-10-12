@@ -1,0 +1,20 @@
+{
+  "name": "Verusa Holding",
+  "slug": "verusa-holding",
+  "website": "https://www.verusa.com.tr",
+  "source": "https://www.verusa.com.tr/assets/img/logo.png",
+  "aliases": [
+    "VERUSA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VERUS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "125476"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "İş Yatırım Menkul Değerler",
+  "slug": "is-yatirim-menkul-degerler",
+  "website": "https://www.isyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f275530140f277aa100008",
+  "hex": "0132A1",
+  "aliases": [
+    "İŞ YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISMEN"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "IYM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

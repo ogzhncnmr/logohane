@@ -1,0 +1,20 @@
+{
+  "name": "A.v.o.d. Kurutulmuş Gıda ve Tarım Ürünleri",
+  "slug": "a-v-o-d-kurutulmus-gida-ve-tarim-urunleri",
+  "website": "https://www.avod.com.tr",
+  "source": "https://avod.com.tr/wp-content/uploads/2024/02/logo-avod.png",
+  "aliases": [
+    "A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AVOD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "037237"
+}

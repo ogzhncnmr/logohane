@@ -1,0 +1,21 @@
+{
+  "name": "Flap Kongre Toplantı Hizmetleri Otomotiv ve Turizm",
+  "slug": "flap-kongre-toplanti-hizmetleri-otomotiv-ve-turizm",
+  "website": "https://www.flaptour.com.tr",
+  "source": "https://flaptour.com.tr/images/flaptourlogo.png",
+  "aliases": [
+    "FLAP KONGRE TOPLANTI HİZMETLERİ OTOMOTİV VE TURİZM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FLAP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FCB116",
+  "traced": true
+}

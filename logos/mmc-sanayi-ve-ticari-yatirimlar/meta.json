@@ -1,0 +1,21 @@
+{
+  "name": "Mmc Sanayi ve Ticari Yatırımlar",
+  "slug": "mmc-sanayi-ve-ticari-yatirimlar",
+  "website": "https://www.mmcyatirim.com",
+  "source": "https://www.mmcyatirim.com/wp-content/uploads/2023/08/Modern-Letter-M-Logo-1.png",
+  "hex": "014AAD",
+  "aliases": [
+    "MMC SANAYİ VE TİCARİ YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MMCAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

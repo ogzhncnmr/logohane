@@ -1,0 +1,20 @@
+{
+  "name": "Bagfaş Bandırma Gübre Fabrikaları",
+  "slug": "bagfas-bandirma-gubre-fabrikalari",
+  "website": "https://www.bagfas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4701410810f53601c4",
+  "hex": "F1CFB0",
+  "aliases": [
+    "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BAGFS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

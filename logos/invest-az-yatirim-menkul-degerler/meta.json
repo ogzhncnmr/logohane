@@ -1,0 +1,24 @@
+{
+  "name": "Invest-az Yatırım Menkul Değerler",
+  "slug": "invest-az-yatirim-menkul-degerler",
+  "website": "https://www.investaz.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14184e9cf0141934f00662c2e",
+  "hex": "008569",
+  "aliases": [
+    "INVEST-AZ YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IAZ"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "INVAZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

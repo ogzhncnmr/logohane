@@ -1,0 +1,20 @@
+{
+  "name": "Halk Gayrimenkul Yatırım Ortaklığı",
+  "slug": "halk-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.halkgyo.com.tr",
+  "source": "https://www.halkgyo.com.tr/content/experience-fragments/halkgyo/tr/site/footer/master/_jcr_content/root/container_939267177/container/image.coreimg.svg/1643121253132/h-logo.svg",
+  "aliases": [
+    "HALK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HLGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "035595"
+}

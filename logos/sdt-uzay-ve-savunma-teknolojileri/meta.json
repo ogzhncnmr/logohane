@@ -1,0 +1,20 @@
+{
+  "name": "Sdt Uzay ve Savunma Teknolojileri",
+  "slug": "sdt-uzay-ve-savunma-teknolojileri",
+  "website": "https://www.sdt.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c48304fe9e0183ac70038e4941",
+  "hex": "283891",
+  "aliases": [
+    "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SDTTR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

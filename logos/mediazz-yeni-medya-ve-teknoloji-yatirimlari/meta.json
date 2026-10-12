@@ -1,0 +1,21 @@
+{
+  "name": "Mediazz Yeni Medya ve Teknoloji Yatırımları",
+  "slug": "mediazz-yeni-medya-ve-teknoloji-yatirimlari",
+  "website": "https://mediazz.com.tr",
+  "source": "https://srv-cdn.onedio.com/store/a318214faed7df33584c72676e4173d17e2c4096f6eb5dd2e58edbfc3f6252c4.png",
+  "aliases": [
+    "MEDİAZZ YENİ MEDYA VE TEKNOLOJİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MDIAZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "091541",
+  "traced": true
+}

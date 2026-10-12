@@ -1,0 +1,20 @@
+{
+  "name": "Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj",
+  "slug": "mondi-turkey-oluklu-mukavva-kagit-ve-ambalaj",
+  "website": "https://www.mondigroup.com.tr",
+  "source": "https://www.mondigroup.com.tr/ui/gfx/icons/logo.svg",
+  "aliases": [
+    "MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MNDTR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED6607"
+}

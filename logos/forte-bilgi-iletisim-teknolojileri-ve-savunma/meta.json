@@ -1,0 +1,20 @@
+{
+  "name": "Forte Bilgi İletişim Teknolojileri ve Savunma",
+  "slug": "forte-bilgi-iletisim-teknolojileri-ve-savunma",
+  "website": "https://www.forte.com.tr",
+  "source": "https://www.forte.com.tr/forte-20-logo.svg?dpl=83c65454e7e0fa0f53b1ba0e6f75c8c135366cf0",
+  "aliases": [
+    "FORTE BİLGİ İLETİŞİM TEKNOLOJİLERİ VE SAVUNMA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FORTE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005793"
+}

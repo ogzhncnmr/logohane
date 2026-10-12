@@ -1,0 +1,22 @@
+{
+  "name": "Arsan Varlık Yönetim",
+  "slug": "arsan-varlik-yonetim",
+  "website": "https://www.arsanvarlik.com.tr",
+  "source": "https://www.arsanvarlik.com.tr/images/logo.png",
+  "aliases": [
+    "ARSAN VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARSVY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2BA9E1",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Denge Yatırım Holding",
+  "slug": "denge-yatirim-holding",
+  "website": "https://www.dengeholding.com.tr",
+  "source": "https://www.dengeholding.com.tr/media/theme-content/nexus/logo/3dbf1e1b-e07d-45b6-9576-b07793eaca34/dark-surface.webp",
+  "aliases": [
+    "DENGE YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DENGE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0551A7",
+  "traced": true
+}

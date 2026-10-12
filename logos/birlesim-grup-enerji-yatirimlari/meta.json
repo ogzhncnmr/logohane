@@ -1,0 +1,21 @@
+{
+  "name": "Birleşim Grup Enerji Yatırımları",
+  "slug": "birlesim-grup-enerji-yatirimlari",
+  "website": "https://www.birlesimgrupenerji.com",
+  "source": "https://www.birlesimgrupenerji.com/themes/bileener/assets/img/logo-new.png",
+  "aliases": [
+    "BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIGEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2D67B3",
+  "traced": true
+}

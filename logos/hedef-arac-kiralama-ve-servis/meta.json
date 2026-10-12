@@ -1,0 +1,20 @@
+{
+  "name": "Hedef Araç Kiralama ve Servis",
+  "slug": "hedef-arac-kiralama-ve-servis",
+  "website": "https://www.hedeffilo.com",
+  "source": "https://www.hedeffilo.com/images/hedef-filo-red-sources.svg",
+  "aliases": [
+    "HEDEF ARAÇ KİRALAMA VE SERVİS A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HDFFL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AE080F"
+}

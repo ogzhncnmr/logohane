@@ -1,0 +1,20 @@
+{
+  "name": "Deniz Eko Enerji ve Geri Dönüşüm",
+  "slug": "deniz-eko-enerji-ve-geri-donusum",
+  "website": "https://www.denizeko.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4998f24d8019abf7bb7eb4396",
+  "hex": "63AB55",
+  "aliases": [
+    "DENİZ EKO ENERJİ VE GERİ DÖNÜŞÜM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DNZEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

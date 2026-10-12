@@ -1,0 +1,21 @@
+{
+  "name": "Akdeniz Yatırım Holding",
+  "slug": "akdeniz-yatirim-holding",
+  "website": "https://www.akdenizyh.com",
+  "source": "https://akdenizyh.com/wp-content/themes/akguv/assets/img/logo2.svg",
+  "aliases": [
+    "AKDENİZ YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKYHO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "8E714D"
+}

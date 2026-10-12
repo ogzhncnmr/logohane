@@ -1,0 +1,21 @@
+{
+  "name": "Selçuk Ecza Deposu",
+  "slug": "selcuk-ecza-deposu",
+  "website": "https://www.selcukecza.com.tr",
+  "source": "https://selcukecza.com.tr/images/logo.png",
+  "aliases": [
+    "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SELEC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "324B8D",
+  "traced": true
+}

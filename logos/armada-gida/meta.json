@@ -1,0 +1,20 @@
+{
+  "name": "Armada Gıda",
+  "slug": "armada-gida",
+  "website": "https://www.armadafoods.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59145e00e0193f29ce775161c",
+  "hex": "1D468D",
+  "aliases": [
+    "ARMADA GIDA TİCARET SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARMGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

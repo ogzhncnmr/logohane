@@ -1,0 +1,24 @@
+{
+  "name": "Misyon Yatırım Bankası",
+  "slug": "misyon-yatirim-bankasi",
+  "website": "https://www.misyon.com",
+  "source": "https://www.misyon.com/_assets/images/logo/misyon-bank-logo.svg",
+  "aliases": [
+    "MİSYON YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MSY"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "MSYBN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "101821"
+}

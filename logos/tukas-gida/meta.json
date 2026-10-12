@@ -1,0 +1,21 @@
+{
+  "name": "Tukaş Gıda",
+  "slug": "tukas-gida",
+  "website": "https://www.tukas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef470140f373b77f00ac",
+  "hex": "75BB1C",
+  "aliases": [
+    "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TUKAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Artemis Halı",
+  "slug": "artemis-hali",
+  "website": "https://www.artemishali.com.tr",
+  "source": "https://www.artemishali.com.tr/idea/gj/35/themes/selftpl_64afd35444078/assets/uploads/logo.png?revision=8.4.4.0-5-1784719441",
+  "aliases": [
+    "ARTEMİS HALI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARTMS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FDC600"
+}

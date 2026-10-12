@@ -1,0 +1,21 @@
+{
+  "name": "Aksu Enerji",
+  "slug": "aksu-enerji",
+  "website": "https://www.aksuenerji.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed7201413a20480e0851",
+  "hex": "22356C",
+  "aliases": [
+    "AKSU ENERJİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKSUE"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

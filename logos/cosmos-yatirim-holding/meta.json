@@ -1,0 +1,20 @@
+{
+  "name": "Cosmos Yatırım Holding",
+  "slug": "cosmos-yatirim-holding",
+  "website": "https://www.cosmosholding.com",
+  "source": "https://www.cosmosholding.com/assets/images/cosmos-holding-logo.png",
+  "hex": "2F387D",
+  "aliases": [
+    "COSMOS YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "COSMO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "İşbir Sentetik Dokuma",
+  "slug": "isbir-sentetik-dokuma",
+  "website": "https://www.isbirsentetik.com",
+  "source": "https://www.isbirsentetik.com/wp-content/uploads/2021/06/amwerk-logo-inverse-2.png",
+  "aliases": [
+    "İŞBİR SENTETİK DOKUMA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISSEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E31E24",
+  "traced": true
+}

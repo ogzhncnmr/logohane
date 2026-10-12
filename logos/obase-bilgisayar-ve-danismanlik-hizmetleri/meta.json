@@ -1,0 +1,21 @@
+{
+  "name": "Obase Bilgisayar ve Danışmanlık Hizmetleri",
+  "slug": "obase-bilgisayar-ve-danismanlik-hizmetleri",
+  "website": "https://obase.com/tr",
+  "source": "https://obase.com/Content/images/obase-logo-new.webp",
+  "aliases": [
+    "OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OBASE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "378FCD",
+  "traced": true
+}

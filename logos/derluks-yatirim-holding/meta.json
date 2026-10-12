@@ -1,0 +1,22 @@
+{
+  "name": "Derlüks Yatırım Holding",
+  "slug": "derluks-yatirim-holding",
+  "website": "https://www.derluks.com.tr",
+  "source": "https://www.derluks.com.tr/images/logo.png",
+  "aliases": [
+    "DERLÜKS YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DERHL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0E1822",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Aksigorta",
+  "slug": "aksigorta",
+  "website": "https://www.aksigorta.com.tr",
+  "source": "https://www.aksigorta.com.tr/images/logo/logo.svg",
+  "aliases": [
+    "AKSİGORTA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKGRT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DC291E"
+}

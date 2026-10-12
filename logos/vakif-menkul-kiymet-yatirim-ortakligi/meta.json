@@ -1,0 +1,20 @@
+{
+  "name": "Vakıf Menkul Kıymet Yatırım Ortaklığı",
+  "slug": "vakif-menkul-kiymet-yatirim-ortakligi",
+  "website": "https://www.vkfyo.com.tr",
+  "source": "https://www.vkfyo.com.tr/images/logo.png",
+  "aliases": [
+    "VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VKFYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1462B9"
+}

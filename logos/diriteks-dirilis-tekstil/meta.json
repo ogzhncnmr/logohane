@@ -1,0 +1,20 @@
+{
+  "name": "Diriteks Diriliş Tekstil",
+  "slug": "diriteks-dirilis-tekstil",
+  "website": "https://www.diriteks.com",
+  "source": "https://www.diriteks.com/assets/images/logo/diriteks-logo-VVs2neXUs4.png",
+  "aliases": [
+    "DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DIRIT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AD0746"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Halk Varlık Kiralama",
+  "slug": "halk-varlik-kiralama",
+  "website": "https://www.halkvarlikkiralama.com.tr",
+  "source": "https://www.halkvarlikkiralama.com.tr/content/experience-fragments/halkvarlik/tr/site/header/master/_jcr_content/root/responsivegrid/responsivegrid_927816149/responsivegrid_20156/image.coreimg.svg/1619645471712/halkvarlikkiralama-logo.svg",
+  "aliases": [
+    "HALK VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HLVKS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark",
+    "symbol",
+    "symbol-dark"
+  ],
+  "updated": "2026-10-12"
+}

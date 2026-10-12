@@ -1,0 +1,21 @@
+{
+  "name": "Tapdi Oksijen Özel Sağlık ve Eğitim Hizmetleri",
+  "slug": "tapdi-oksijen-ozel-saglik-ve-egitim-hizmetleri",
+  "website": "https://tinaztepe.com",
+  "source": "https://tinaztepe.com/assets/img/tinaztepe.png",
+  "aliases": [
+    "TAPDİ OKSİJEN ÖZEL SAĞLIK VE EĞİTİM HİZMETLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TNZTP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "143C6A",
+  "traced": true
+}

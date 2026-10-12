@@ -1,0 +1,24 @@
+{
+  "name": "Şekerbank",
+  "slug": "sekerbank",
+  "website": "https://www.sekerbank.com.tr",
+  "source": "https://www.sekerbank.com.tr/icons/sekerbankLogo73tr.svg",
+  "aliases": [
+    "ŞEKERBANK T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SEK"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "SKBNK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "018548"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kızılbük Gayrimenkul Yatırım Ortaklığı",
+  "slug": "kizilbuk-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.kizilbukgyo.com",
+  "source": "https://www.kizilbukgyo.com/assets/images/img/sinpas-kizilbuk-gyo-logo.svg",
+  "aliases": [
+    "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KZBGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "906D4F"
+}

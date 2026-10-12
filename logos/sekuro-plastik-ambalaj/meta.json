@@ -1,0 +1,20 @@
+{
+  "name": "Sekuro Plastik Ambalaj",
+  "slug": "sekuro-plastik-ambalaj",
+  "website": "https://www.sekuro.com.tr",
+  "source": "https://www.sekuro.com.tr/tema/img/Sekuro-Logo.png",
+  "hex": "004890",
+  "aliases": [
+    "SEKURO PLASTİK AMBALAJ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SEKUR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

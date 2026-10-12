@@ -1,0 +1,21 @@
+{
+  "name": "Beyaz Filo Oto Kiralama",
+  "slug": "beyaz-filo-oto-kiralama",
+  "website": "https://www.beyazfilo.com",
+  "source": "https://beyazfilo.com/assets/images/beyazsistemlogo.png",
+  "aliases": [
+    "BEYAZ FİLO OTO KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BEYAZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED1D24",
+  "traced": true
+}

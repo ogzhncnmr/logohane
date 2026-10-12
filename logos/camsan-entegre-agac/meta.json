@@ -1,0 +1,21 @@
+{
+  "name": "Çamsan Entegre Ağaç",
+  "slug": "camsan-entegre-agac",
+  "website": "https://www.kap.org.tr/tr/Bildirim/1578873",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1578873",
+  "aliases": [
+    "ÇAMSAN ENTEGRE AĞAÇ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CMSAN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "hex": "2C2C2B",
+  "updated": "2026-10-12"
+}

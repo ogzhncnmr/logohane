@@ -1,0 +1,20 @@
+{
+  "name": "Bor Şeker",
+  "slug": "bor-seker",
+  "website": "https://borseker.com",
+  "source": "https://www.borseker.com/images/logo.png",
+  "aliases": [
+    "BOR ŞEKER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BORSK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "329637"
+}

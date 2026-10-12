@@ -1,0 +1,25 @@
+{
+  "name": "Hedef Yatırım Bankası",
+  "slug": "hedef-yatirim-bankasi",
+  "website": "https://www.hedefyatirimbankasi.com.tr",
+  "source": "https://www.hedefyatirimbankasi.com.tr/img/NavbarLogo.svg",
+  "hex": "27397C",
+  "aliases": [
+    "HEDEF YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HDFYB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "HYB"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

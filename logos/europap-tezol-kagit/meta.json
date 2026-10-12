@@ -1,0 +1,20 @@
+{
+  "name": "Europap Tezol Kağıt",
+  "slug": "europap-tezol-kagit",
+  "website": "https://www.tezol.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c468aeffb7016949376d695d6c",
+  "hex": "0A099C",
+  "aliases": [
+    "EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TEZOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

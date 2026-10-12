@@ -1,0 +1,20 @@
+{
+  "name": "Bereket Varlık Kiralama",
+  "slug": "bereket-varlik-kiralama",
+  "website": "https://www.bereketvarlik.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4508ff7260151497fffa30e9e",
+  "hex": "E51B35",
+  "aliases": [
+    "BEREKET VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRKT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

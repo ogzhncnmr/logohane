@@ -1,0 +1,20 @@
+{
+  "name": "Dap Gayrimenkul Geliştirme",
+  "slug": "dap-gayrimenkul-gelistirme",
+  "website": "https://www.dapgayrimenkulgelistirme.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c47d3bee4e017ea0492b6a0595",
+  "hex": "EC212A",
+  "aliases": [
+    "DAP GAYRİMENKUL GELİŞTİRME A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DAPGM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

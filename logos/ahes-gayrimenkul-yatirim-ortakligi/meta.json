@@ -1,0 +1,21 @@
+{
+  "name": "Ahes Gayrimenkul Yatırım Ortaklığı",
+  "slug": "ahes-gayrimenkul-yatirim-ortakligi",
+  "website": "https://ahesgyo.com",
+  "source": "https://ahesgyo.com/wp-content/uploads/2023/11/AHES-GYO-LOGO-1.png",
+  "aliases": [
+    "AHES GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AHSGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "519C50",
+  "traced": true
+}

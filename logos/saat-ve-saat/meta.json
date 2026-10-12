@@ -1,0 +1,20 @@
+{
+  "name": "Saat ve Saat",
+  "slug": "saat-ve-saat",
+  "website": "https://www.saatvesaat.com.tr",
+  "source": "https://www.saatvesaat.com.tr/media/logo/websites/1/saatvesaat-logo.png",
+  "hex": "231F20",
+  "aliases": [
+    "SAAT VE SAAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SSAAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

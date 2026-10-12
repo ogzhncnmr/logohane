@@ -1,0 +1,21 @@
+{
+  "name": "Akhan Un Fabrikası ve Tarım Ürünleri Gıda",
+  "slug": "akhan-un-fabrikasi-ve-tarim-urunleri-gida",
+  "website": "https://www.akhanun.com.tr",
+  "source": "https://www.akhanun.com.tr/images/logo/logo.png",
+  "aliases": [
+    "AKHAN UN FABRİKASI VE TARIM ÜRÜNLERİ GIDA SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKHAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0F6281",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Akmerkez Gayrimenkul Yatırım Ortaklığı",
+  "slug": "akmerkez-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.akmgyo.com",
+  "source": "https://www.akmgyo.com/media/2313/akmerkaz-logo-siyah.png",
+  "aliases": [
+    "AKMERKEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKMGY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

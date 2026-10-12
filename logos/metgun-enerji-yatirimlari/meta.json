@@ -1,0 +1,22 @@
+{
+  "name": "Metgün Enerji Yatırımları",
+  "slug": "metgun-enerji-yatirimlari",
+  "website": "https://metgunenerji.com.tr",
+  "source": "https://metgunenerji.com.tr/Content/images/MetgunEnerji-Logo.png",
+  "aliases": [
+    "METGÜN ENERJİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "METEN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00A651",
+  "traced": true
+}

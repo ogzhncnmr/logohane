@@ -1,0 +1,20 @@
+{
+  "name": "Yiğit Akü Malzemeleri Nakliyat Turizm İnşaat",
+  "slug": "yigit-aku-malzemeleri-nakliyat-turizm-insaat",
+  "website": "https://www.yigitaku.com",
+  "source": "https://yigitaku.com/Content/assets/svg/yigit_aku_logo.svg",
+  "aliases": [
+    "YİĞİT AKÜ MALZEMELERİ NAKLİYAT TURİZM İNŞAAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YIGIT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DD052B"
+}

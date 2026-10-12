@@ -1,0 +1,22 @@
+{
+  "name": "Klimasan Klima",
+  "slug": "klimasan-klima",
+  "website": "https://www.klimasan.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2416e696c01416f7763e874db",
+  "hex": "07074F",
+  "aliases": [
+    "KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLMSN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

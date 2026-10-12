@@ -1,0 +1,20 @@
+{
+  "name": "Anadolu Efes Biracılık ve Malt Sanayii",
+  "slug": "anadolu-efes-biracilik-ve-malt-sanayii",
+  "website": "https://www.anadoluefes.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140ed2fde10009d",
+  "hex": "0033A1",
+  "aliases": [
+    "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AEFES"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Investco Holding",
+  "slug": "investco-holding",
+  "website": "https://www.investco.com.tr",
+  "source": "https://panel.investco.com.tr/images/uploads/F206/1fbfbb4e-44bd-4f7b-9df6-620a1ae180fe_investco-logo.png",
+  "aliases": [
+    "INVESTCO HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INVES"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "5A697A"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sarkuysan Elektrolitik Bakır",
+  "slug": "sarkuysan-elektrolitik-bakir",
+  "website": "https://www.sarkuysan.com",
+  "source": "https://www.sarkuysan.com/img/logo.png",
+  "aliases": [
+    "SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SARKY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "020101",
+  "traced": true
+}

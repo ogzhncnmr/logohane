@@ -1,0 +1,20 @@
+{
+  "name": "Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları",
+  "slug": "cimbeton-hazirbeton-ve-prefabrik-yapi-elemanlari",
+  "website": "https://www.cimbeton.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24158e42401415ad0dece7d3a",
+  "hex": "525252",
+  "aliases": [
+    "ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CMBTN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

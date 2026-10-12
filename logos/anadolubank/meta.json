@@ -1,0 +1,25 @@
+{
+  "name": "Anadolubank",
+  "slug": "anadolubank",
+  "website": "https://www.anadolubank.com.tr",
+  "source": "https://www.anadolubank.com.tr/assets/img/logo.svg",
+  "aliases": [
+    "ANADOLUBANK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ADB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ADBNK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2D79BE"
+}

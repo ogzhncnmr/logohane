@@ -1,0 +1,21 @@
+{
+  "name": "Enpara Bank",
+  "slug": "enpara-bank",
+  "website": "https://www.enpara.com",
+  "source": "https://www.enpara.com/Frontend/dist/images/enpara.svg?v=2",
+  "aliases": [
+    "ENPARA BANK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENPRA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AB56A2"
+}

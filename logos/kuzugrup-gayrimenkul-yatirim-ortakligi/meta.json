@@ -1,0 +1,21 @@
+{
+  "name": "Kuzugrup Gayrimenkul Yatırım Ortaklığı",
+  "slug": "kuzugrup-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.kzgyo.com",
+  "source": "https://www.kzgyo.com/assets/images/logo/kuzu-grup-gyo-logo-PqAbsTaOpG.png",
+  "aliases": [
+    "KUZUGRUP GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KZGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1946BA",
+  "traced": true
+}

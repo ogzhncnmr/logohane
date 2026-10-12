@@ -1,0 +1,20 @@
+{
+  "name": "Orzaks İlaç ve Kimya",
+  "slug": "orzaks-ilac-ve-kimya",
+  "website": "https://www.orzax.com.tr",
+  "source": "https://www.orzax.com.tr/wp-content/uploads/2026/01/orzax-logo-new.svg",
+  "aliases": [
+    "ORZAKS İLAÇ VE KİMYA SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ORZAX"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "36AF2D"
+}

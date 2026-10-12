@@ -1,0 +1,21 @@
+{
+  "name": "Mhr Gayrimenkul Yatırım Ortaklığı",
+  "slug": "mhr-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.mhrgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c486d22a3a018b03ad439129a9",
+  "hex": "C41632",
+  "aliases": [
+    "MHR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MHRGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

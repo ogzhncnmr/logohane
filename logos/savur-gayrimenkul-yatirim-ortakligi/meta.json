@@ -1,0 +1,22 @@
+{
+  "name": "Savur Gayrimenkul Yatırım Ortaklığı",
+  "slug": "savur-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.savurgyo.com.tr",
+  "source": "https://www.savurgyo.com.tr/logo.png",
+  "aliases": [
+    "SAVUR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SVGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "565251",
+  "traced": true
+}

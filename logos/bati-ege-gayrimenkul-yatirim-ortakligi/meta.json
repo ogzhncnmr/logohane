@@ -1,0 +1,20 @@
+{
+  "name": "Batı Ege Gayrimenkul Yatırım Ortaklığı",
+  "slug": "bati-ege-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.batiegegyo.com.tr",
+  "source": "https://batiegegyo.com.tr/assets/modules/Theme/images/logo.svg",
+  "aliases": [
+    "BATI EGE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BEGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0688BF"
+}

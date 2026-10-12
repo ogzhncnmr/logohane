@@ -1,0 +1,20 @@
+{
+  "name": "Matriks Finansal Teknolojiler",
+  "slug": "matriks-finansal-teknolojiler",
+  "website": "https://www.matriksdata.com/website",
+  "source": "https://www.matriksdata.com/website/assets/images/Matriks_Logo.svg",
+  "aliases": [
+    "MATRİKS FİNANSAL TEKNOLOJİLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MTRKS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "222166"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Garanti Faktoring",
+  "slug": "garanti-faktoring",
+  "website": "https://www.garantibbvafactoring.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ee1ab24b0189",
+  "hex": "193669",
+  "aliases": [
+    "GARANTİ FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GARFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

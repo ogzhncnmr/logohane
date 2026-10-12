@@ -1,0 +1,20 @@
+{
+  "name": "Türkiye Şişe ve Cam Fabrikaları",
+  "slug": "turkiye-sise-ve-cam-fabrikalari",
+  "website": "https://www.sisecam.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f385d5690102",
+  "hex": "08ACCF",
+  "aliases": [
+    "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SISE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

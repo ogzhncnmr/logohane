@@ -1,0 +1,20 @@
+{
+  "name": "Bulls Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "bulls-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://bullsgirisim.com",
+  "source": "https://api.bullsgirisim.com/uploads/setting/site-ayari/logos/img_2266.png",
+  "hex": "D1A998",
+  "aliases": [
+    "BULLS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BULGS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

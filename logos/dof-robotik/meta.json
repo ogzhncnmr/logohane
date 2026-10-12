@@ -1,0 +1,20 @@
+{
+  "name": "Dof Robotik",
+  "slug": "dof-robotik",
+  "website": "https://dofrobotics.com/tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c494bafc930198f4d3cccb4dbb",
+  "hex": "8F358F",
+  "aliases": [
+    "DOF ROBOTİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOFRB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

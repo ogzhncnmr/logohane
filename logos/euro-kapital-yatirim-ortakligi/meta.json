@@ -1,0 +1,20 @@
+{
+  "name": "Euro Kapital Yatırım Ortaklığı",
+  "slug": "euro-kapital-yatirim-ortakligi",
+  "website": "https://www.eurokapitalyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140ed45272800bb",
+  "hex": "3067D0",
+  "aliases": [
+    "EURO KAPİTAL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EUKYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

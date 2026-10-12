@@ -1,0 +1,24 @@
+{
+  "slug": "garanti-bbva",
+  "name": "Garanti BBVA",
+  "website": "https://www.garantibbva.com.tr",
+  "source": "https://www.garantibbva.com.tr/content/dam/public-website/logo/logo.svg",
+  "hex": "004480",
+  "aliases": [
+    "Türkiye Garanti Bankası A.Ş.",
+    "Garanti Bankası"
+  ],
+  "categories": [
+    "banking"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GARAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

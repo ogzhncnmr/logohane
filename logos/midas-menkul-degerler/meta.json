@@ -1,0 +1,24 @@
+{
+  "name": "Midas Menkul Değerler",
+  "slug": "midas-menkul-degerler",
+  "website": "https://www.midasmenkul.com",
+  "source": "https://www.midasmenkul.com/",
+  "aliases": [
+    "MİDAS MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MDASM"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "MDS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4959EA"
+}

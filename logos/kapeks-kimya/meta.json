@@ -1,0 +1,20 @@
+{
+  "name": "Kapeks Kimya",
+  "slug": "kapeks-kimya",
+  "website": "https://www.kapeks.com.tr",
+  "source": "https://kapeks.com.tr/wp-content/uploads/logo-text.png",
+  "aliases": [
+    "KAPEKS KİMYA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KPEKS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

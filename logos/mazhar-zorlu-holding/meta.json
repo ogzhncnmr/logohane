@@ -1,0 +1,21 @@
+{
+  "name": "Mazhar Zorlu Holding",
+  "slug": "mazhar-zorlu-holding",
+  "website": "https://www.mazharzorlu.com",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1570907",
+  "aliases": [
+    "MAZHAR ZORLU HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MZHLD"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "hex": "2B4A8C",
+  "updated": "2026-10-12"
+}

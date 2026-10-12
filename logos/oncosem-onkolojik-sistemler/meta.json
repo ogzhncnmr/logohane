@@ -1,0 +1,20 @@
+{
+  "name": "Oncosem Onkolojik Sistemler",
+  "slug": "oncosem-onkolojik-sistemler",
+  "website": "https://www.oncosem.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4812b870c018161f7cdde10f3",
+  "hex": "151616",
+  "aliases": [
+    "ONCOSEM ONKOLOJİK SİSTEMLER SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ONCSM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

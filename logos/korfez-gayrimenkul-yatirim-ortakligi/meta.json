@@ -1,0 +1,20 @@
+{
+  "name": "Körfez Gayrimenkul Yatırım Ortaklığı",
+  "slug": "korfez-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.korfezgyo.com.tr",
+  "source": "https://www.korfezgyo.com.tr/media/3c0bunml/desk-stripedlogo.svg",
+  "aliases": [
+    "KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "027538"
+}

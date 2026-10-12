@@ -1,0 +1,21 @@
+{
+  "name": "Kapital Gayrimenkul Yatırımı Geliştirme ve İşletmecilik",
+  "slug": "kapital-gayrimenkul-yatirimi-gelistirme-ve-isletmecilik",
+  "website": "https://www.kapitalgy.com.tr",
+  "source": "https://www.kapitalgy.com.tr/images/447d9a75-1d1d-4c43-8ffc-89f07812574elogo.png",
+  "hex": "4371A2",
+  "aliases": [
+    "KAPİTAL GAYRİMENKUL YATIRIMI GELİŞTİRME VE İŞLETMECİLİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KPTGY"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Doğanlar Mobilya Grubu İmalat",
+  "slug": "doganlar-mobilya-grubu-imalat",
+  "website": "https://www.doganlarmobilyagrubu.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f27df70140f2eae68c0032",
+  "hex": "12100B",
+  "aliases": [
+    "DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DGNMO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "San-el Mühendislik Elektrik Taahhüt",
+  "slug": "san-el-muhendislik-elektrik-taahhut",
+  "website": "https://www.san-el.com",
+  "source": "https://san-el.com/wp-content/themes/finbuzz/assets/element/figure97.png",
+  "aliases": [
+    "SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SANEL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FA360A",
+  "traced": true
+}

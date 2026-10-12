@@ -1,0 +1,20 @@
+{
+  "name": "Birlik Mensucat Ticaret ve Sanayi İşletmesi",
+  "slug": "birlik-mensucat-ticaret-ve-sanayi-isletmesi",
+  "website": "https://www.birlikmensucat.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ee243b5b01ba",
+  "hex": "E51C19",
+  "aliases": [
+    "BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRMEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bnp Parıbas Issuance B.v.",
+  "slug": "bnp-paribas-issuance-b-v",
+  "website": "https://group.bnpparibas",
+  "source": "https://cdn-group.bnpparibas.com/build/images/logo-bnp.svg",
+  "hex": "07A874",
+  "aliases": [
+    "BNP PARIBAS ISSUANCE B.V."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BNPPI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

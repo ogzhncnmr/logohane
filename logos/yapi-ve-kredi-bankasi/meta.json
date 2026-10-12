@@ -1,0 +1,24 @@
+{
+  "name": "Yapı ve Kredi Bankası",
+  "slug": "yapi-ve-kredi-bankasi",
+  "website": "https://www.yapikredi.com.tr",
+  "source": "https://assets.yapikredi.com.tr/WebSite/_assets/img/Yapikredi_logo.svg?v6",
+  "aliases": [
+    "YAPI VE KREDİ BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YKB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "YKBNK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004688"
+}

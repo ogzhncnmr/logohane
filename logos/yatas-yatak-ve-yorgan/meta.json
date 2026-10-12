@@ -1,0 +1,21 @@
+{
+  "name": "Yataş Yatak ve Yorgan",
+  "slug": "yatas-yatak-ve-yorgan",
+  "website": "https://www.yatas.com.tr",
+  "source": "https://www.yatasbedding.com.tr/assets/img/yatas/logo.webp",
+  "aliases": [
+    "YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YATAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4398CB",
+  "traced": true
+}

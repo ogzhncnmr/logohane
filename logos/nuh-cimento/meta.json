@@ -1,0 +1,20 @@
+{
+  "name": "Nuh Çimento",
+  "slug": "nuh-cimento",
+  "website": "https://www.nuhcimento.com.tr",
+  "source": "https://www.nuhcimento.com.tr/wp-content/uploads/logo_nuh-1.png",
+  "aliases": [
+    "NUH ÇİMENTO SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NUHCM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "64C1DD"
+}

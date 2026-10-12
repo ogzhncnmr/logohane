@@ -1,0 +1,26 @@
+{
+  "name": "Qnb Bank",
+  "slug": "qnb-bank",
+  "website": "https://www.qnb.com.tr",
+  "source": "https://www.qnb.com.tr/_assets/img/logo.png",
+  "aliases": [
+    "QNB BANK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FIN"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "QNBTR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1B124B",
+  "traced": true
+}

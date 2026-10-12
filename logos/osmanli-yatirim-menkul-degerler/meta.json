@@ -1,0 +1,24 @@
+{
+  "name": "Osmanlı Yatırım Menkul Değerler",
+  "slug": "osmanli-yatirim-menkul-degerler",
+  "website": "https://www.osmanlimenkul.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240ee37a30140ee408ef80002",
+  "hex": "377974",
+  "aliases": [
+    "OSMANLI YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OMD"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "OSMEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

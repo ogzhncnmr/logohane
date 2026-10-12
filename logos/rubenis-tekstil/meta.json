@@ -1,0 +1,21 @@
+{
+  "name": "Rubenis Tekstil",
+  "slug": "rubenis-tekstil",
+  "website": "https://www.rubenis.com",
+  "source": "https://www.rubenis.com/storage/settings/October2023/frcIX1gTbyLkSG793k7t.png",
+  "aliases": [
+    "RUBENİS TEKSTİL SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RUBNS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "102723",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "İhlas Yayın Holding",
+  "slug": "ihlas-yayin-holding",
+  "website": "https://www.ihlasyayinholding.com.tr",
+  "source": "https://www.ihlasyayinholding.com.tr/wp-content/uploads/2026/03/yayinHoldingLogo.svg",
+  "aliases": [
+    "İHLAS YAYIN HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IHYAY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "001F60"
+}

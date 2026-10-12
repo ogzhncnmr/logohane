@@ -1,0 +1,21 @@
+{
+  "name": "Alarko Carrıer",
+  "slug": "alarko-carrier",
+  "website": "https://www.alarko-carrier.com.tr",
+  "source": "https://www.alarko-carrier.com.tr/assets/img/svg/alarko-logo-02.svg",
+  "aliases": [
+    "ALARKO CARRIER SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALCAR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED6C53"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Best Brands Grup Enerji Yatırım",
+  "slug": "best-brands-grup-enerji-yatirim",
+  "website": "https://www.bestbrandsenerji.com",
+  "source": "https://bestbrandsenerji.com/wp-content/uploads/2024/06/bestbrands.png",
+  "aliases": [
+    "BEST BRANDS GRUP ENERJİ YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BESTE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "568B3B",
+  "traced": true
+}

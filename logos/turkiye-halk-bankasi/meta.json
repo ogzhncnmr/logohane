@@ -1,0 +1,25 @@
+{
+  "name": "Türkiye Halk Bankası",
+  "slug": "turkiye-halk-bankasi",
+  "website": "https://www.halkbank.com.tr",
+  "source": "https://www.halkbank.com.tr/content/dam/corporate-website/tr/logo/logo-halkbank-navy.svg",
+  "aliases": [
+    "TÜRKİYE HALK BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HALKB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "THL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005193"
+}

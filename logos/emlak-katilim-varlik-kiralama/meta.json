@@ -1,0 +1,20 @@
+{
+  "name": "Emlak Katılım Varlık Kiralama",
+  "slug": "emlak-katilim-varlik-kiralama",
+  "website": "https://www.emlakkatilimvks.com.tr",
+  "source": "https://www.emlakkatilimvks.com.tr/static/img/logo.svg",
+  "aliases": [
+    "EMLAK KATILIM VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKTVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "01509A"
+}

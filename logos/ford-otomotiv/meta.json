@@ -1,0 +1,20 @@
+{
+  "name": "Ford Otomotiv",
+  "slug": "ford-otomotiv",
+  "website": "https://www.fordotosan.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed71014106890fae0138",
+  "hex": "025596",
+  "aliases": [
+    "FORD OTOMOTİV SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FROTO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

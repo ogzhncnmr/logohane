@@ -1,0 +1,20 @@
+{
+  "name": "Banvit Bandırma Vitaminli Yem",
+  "slug": "banvit-bandirma-vitaminli-yem",
+  "website": "https://www.banvit.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d990141601902e33250",
+  "hex": "F16708",
+  "aliases": [
+    "BANVİT BANDIRMA VİTAMİNLİ YEM SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BANVT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

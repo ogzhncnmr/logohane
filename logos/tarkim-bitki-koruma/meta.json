@@ -1,0 +1,21 @@
+{
+  "name": "Tarkim Bitki Koruma",
+  "slug": "tarkim-bitki-koruma",
+  "website": "https://www.tarkimbk.com.tr",
+  "source": "https://www.tarkimbk.com.tr/assets/front/images/tarim-kredi-logo.png",
+  "aliases": [
+    "TARKİM BİTKİ KORUMA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TARKM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "75391D",
+  "traced": true
+}

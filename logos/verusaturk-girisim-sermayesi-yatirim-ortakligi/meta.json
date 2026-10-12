@@ -1,0 +1,20 @@
+{
+  "name": "Verusaturk Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "verusaturk-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.verusaturk.com.tr",
+  "source": "https://www.verusaturk.com.tr/assets/img/logo.png",
+  "aliases": [
+    "VERUSATURK GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VERTU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "102983"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Icbc Turkey Bank",
+  "slug": "icbc-turkey-bank",
+  "website": "https://www.icbc.com.tr",
+  "source": "https://www.icbc.com.tr/tr/images/icbcmobileapp.png",
+  "aliases": [
+    "ICBC TURKEY BANK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ICB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ICBCT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AF0004"
+}

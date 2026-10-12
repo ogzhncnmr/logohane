@@ -1,0 +1,20 @@
+{
+  "name": "Kütahya Porselen",
+  "slug": "kutahya-porselen",
+  "website": "https://www.kutahyaporselen.com.tr",
+  "source": "https://kurumsal.kutahyaporselen.com/images/logo.svg",
+  "aliases": [
+    "KÜTAHYA PORSELEN SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KUTPO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2A2A2A"
+}

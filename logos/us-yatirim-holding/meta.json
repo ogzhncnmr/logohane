@@ -1,0 +1,21 @@
+{
+  "name": "Us Yatırım Holding",
+  "slug": "us-yatirim-holding",
+  "website": "https://usyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed720141080991640264",
+  "hex": "1A2A56",
+  "aliases": [
+    "US YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "USHOL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

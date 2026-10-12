@@ -1,0 +1,20 @@
+{
+  "name": "Besler Gıda ve Kimya",
+  "slug": "besler-gida-ve-kimya",
+  "website": "https://www.besler.com.tr",
+  "source": "https://www.besler.com.tr/Templates/Default/assets/img/besler-logo.svg",
+  "aliases": [
+    "BESLER GIDA VE KİMYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BESLR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005741"
+}

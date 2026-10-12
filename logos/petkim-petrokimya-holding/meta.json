@@ -1,0 +1,22 @@
+{
+  "name": "Petkim Petrokimya Holding",
+  "slug": "petkim-petrokimya-holding",
+  "website": "https://www.petkim.com.tr",
+  "source": "https://www.petkim.com.tr/assets/uploads/petkim.png",
+  "aliases": [
+    "PETKİM PETROKİMYA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PETKM"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EB0128",
+  "traced": true
+}

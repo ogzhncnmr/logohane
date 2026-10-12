@@ -1,0 +1,20 @@
+{
+  "name": "Suwen Tekstil Sanayi Pazarlama",
+  "slug": "suwen-tekstil-sanayi-pazarlama",
+  "website": "https://www.suwen.com.tr",
+  "source": "https://www.suwen.com.tr/",
+  "aliases": [
+    "SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SUWEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF838B"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Enerya Enerji",
+  "slug": "enerya-enerji",
+  "website": "https://www.enerya.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241733d4201417937d4337e22",
+  "hex": "F6B334",
+  "aliases": [
+    "ENERYA ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENERY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

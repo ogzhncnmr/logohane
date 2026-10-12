@@ -1,18 +1,23 @@
-// Generates dist/ from logos/: optimized SVG, PNG and WebP in several sizes,
-// ticker and ISIN lookup paths, and index files. Run `npm run validate` first.
-import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
+// Generates dist/ from logos/: optimized SVG, and PNG and WebP in two families of
+// sizes, plus ticker and ISIN lookup paths and index files. Run `npm run validate` first.
+//
+//   dist/svg/<name>.svg                     vector logos only
+//   dist/png/<N>/<name>.png                 original aspect ratio, longer side N (RATIO_SIZES)
+//   dist/png/square/<N>/<name>.png          N x N square (SQUARE_SIZES); uses the symbol if there is one
+//   dist/webp/...                           the same as PNG
+//
+// Raster (PNG) sources are never enlarged beyond MAX_UPSCALE, so a logo whose
+// source is small simply has no large sizes; index.json lists the sizes each logo has.
+import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
 import { optimize } from 'svgo';
-import { DIST_DIR, LOGOS_DIR, PNG_SIZES, WEBP_SIZES, loadLogos, variantFile } from './lib.js';
+import { DIST_DIR, LOGOS_DIR, MAX_UPSCALE, RATIO_SIZES, SQUARE_FILL, SQUARE_SIZES, loadLogos, sourceFile, variantFile } from './lib.js';
 
 const SVGO_CONFIG = {
   multipass: true,
-  plugins: [
-    { name: 'preset-default', params: { overrides: { removeViewBox: false } } },
-    'removeDimensions',
-  ],
+  plugins: ['preset-default', 'removeDimensions'],
 };
 
 async function writeAll(paths, data) {
@@ -22,11 +27,39 @@ async function writeAll(paths, data) {
   }
 }
 
-/** Renders an SVG so its longer side is `size` px, keeping a transparent background. */
-function render(svg, size) {
-  return sharp(Buffer.from(svg), { density: 600 })
-    .resize(size, size, { fit: 'inside' })
-    .ensureAlpha();
+/** A loaded source: an optimized SVG string, or a PNG buffer with its size. */
+async function loadSource(file) {
+  if (file.endsWith('.svg')) return { svg: optimize(await readFile(file, 'utf8'), SVGO_CONFIG).data };
+  const png = await readFile(file);
+  const { width, height } = await sharp(png).metadata();
+  return { png, side: Math.max(width, height) };
+}
+
+/** Whether `source` can be drawn with its longer side at `px` without visible enlargement. */
+const sharpAt = (source, px) => !!source.svg || px <= source.side * MAX_UPSCALE;
+
+/** Renders `source` so its longer side is `size` px, on a transparent background. */
+function render(source, size) {
+  let input;
+  if (source.svg) {
+    // Rasterize at about twice the target size: enough for clean edges, and traced
+    // SVGs with large coordinates stay within sharp's pixel limit.
+    const vb = source.svg.match(/viewBox="\s*[-\d.]+[\s,]+[-\d.]+[\s,]+([\d.]+)[\s,]+([\d.]+)\s*"/);
+    const side = vb ? Math.max(Number(vb[1]), Number(vb[2])) : 512;
+    // CorelDRAW viewBoxes reach 381157 units, so the density goes well below 72.
+    input = sharp(Buffer.from(source.svg), { density: Math.min(2400, Math.max(1, (72 * size * 2) / side)) });
+  } else {
+    input = sharp(source.png);
+  }
+  return input.resize(size, size, { fit: 'inside' }).ensureAlpha();
+}
+
+/** Renders `source` centered on a transparent `size` x `size` square. */
+async function renderSquare(source, size) {
+  const inner = Math.round(size * SQUARE_FILL);
+  const logo = await render(source, inner).png().toBuffer();
+  return sharp({ create: { width: size, height: size, channels: 4, background: { r: 0, g: 0, b: 0, alpha: 0 } } })
+    .composite([{ input: logo, gravity: 'center' }]);
 }
 
 export async function build({ logosDir = LOGOS_DIR, distDir = DIST_DIR } = {}) {
@@ -49,23 +82,40 @@ export async function build({ logosDir = LOGOS_DIR, distDir = DIST_DIR } = {}) {
     }
 
     // Every file is written under its slug name and under each alias,
-    // e.g. dist/png/256/turk-hava-yollari.png and dist/png/256/tickers/BIST/THYAO.png.
+    // e.g. dist/png/512/turk-hava-yollari.png and dist/png/512/tickers/BIST/THYAO.png.
     const names = (variant) => {
       const suffix = variant === 'default' ? '' : `-${variant}`;
       return [variantFile(slug, variant), ...aliases.map((a) => a + suffix)];
     };
+    const out = (variant, sub, ext) => names(variant).map((n) => path.join(distDir, sub, `${n}.${ext}`));
 
-    for (const variant of meta.variants) {
-      const raw = await readFile(path.join(dir, `${variantFile(slug, variant)}.svg`), 'utf8');
-      const svg = optimize(raw, SVGO_CONFIG).data;
-      const out = (sub, ext) => names(variant).map((n) => path.join(distDir, sub, `${n}.${ext}`));
+    const files = await readdir(dir);
+    const sources = {};
+    for (const variant of meta.variants) sources[variant] = await loadSource(path.join(dir, sourceFile(files, slug, variant)));
+    const sizes = { ratio: [], square: [] };
 
-      await writeAll(out('svg', 'svg'), svg);
-      for (const size of PNG_SIZES) {
-        await writeAll(out(`png/${size}`, 'png'), await render(svg, size).png({ compressionLevel: 9 }).toBuffer());
+    for (const [variant, source] of Object.entries(sources)) {
+      if (source.svg) await writeAll(out(variant, 'svg', 'svg'), source.svg);
+      for (const size of RATIO_SIZES) {
+        if (!sharpAt(source, size)) continue;
+        const img = render(source, size);
+        await writeAll(out(variant, `png/${size}`, 'png'), await img.clone().png({ compressionLevel: 9 }).toBuffer());
+        await writeAll(out(variant, `webp/${size}`, 'webp'), await img.webp({ lossless: true }).toBuffer());
+        if (variant === 'default') sizes.ratio.push(size);
       }
-      for (const size of WEBP_SIZES) {
-        await writeAll(out(`webp/${size}`, 'webp'), await render(svg, size).webp({ lossless: true }).toBuffer());
+    }
+
+    // Squares for the main logo and its dark version, from the symbol when there is one.
+    for (const variant of ['default', 'dark']) {
+      if (!sources[variant]) continue;
+      const symbol = sources[variant === 'default' ? 'symbol' : 'symbol-dark'];
+      const source = symbol ?? sources[variant];
+      for (const size of SQUARE_SIZES) {
+        if (!sharpAt(source, size * SQUARE_FILL)) continue;
+        const img = await renderSquare(source, size);
+        await writeAll(out(variant, `png/square/${size}`, 'png'), await img.clone().png({ compressionLevel: 9 }).toBuffer());
+        await writeAll(out(variant, `webp/square/${size}`, 'webp'), await img.webp({ lossless: true }).toBuffer());
+        if (variant === 'default') sizes.square.push(size);
       }
     }
 
@@ -81,6 +131,9 @@ export async function build({ logosDir = LOGOS_DIR, distDir = DIST_DIR } = {}) {
       isin: meta.isin ?? null,
       wikidata: meta.wikidata ?? null,
       variants: meta.variants,
+      vector: !!sources.default.svg,
+      traced: meta.traced ?? false,
+      sizes,
       updated: meta.updated,
     });
   }
@@ -92,7 +145,7 @@ export async function build({ logosDir = LOGOS_DIR, distDir = DIST_DIR } = {}) {
   return { count: index.length };
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const { count } = await build();
   console.log(`Built ${count} logo(s) into dist/.`);
 }

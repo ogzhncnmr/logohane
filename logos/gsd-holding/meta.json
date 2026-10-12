@@ -1,0 +1,21 @@
+{
+  "name": "Gsd Holding",
+  "slug": "gsd-holding",
+  "website": "https://www.gsd.com.tr",
+  "source": "https://www.gsd.com.tr/assets/img/gsd-holding-logo.png",
+  "aliases": [
+    "GSD HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GSDHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

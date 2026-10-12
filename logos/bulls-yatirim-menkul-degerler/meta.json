@@ -1,0 +1,24 @@
+{
+  "name": "Bulls Yatırım Menkul Değerler",
+  "slug": "bulls-yatirim-menkul-degerler",
+  "website": "https://www.bullsyatirim.com",
+  "source": "https://bullsyatirim.com/upload/images/logo/bullsyatirim-dark.svg?v=1.02",
+  "aliases": [
+    "BULLS YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BLS"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "BLSMD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2A6FB2"
+}

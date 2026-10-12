@@ -1,0 +1,20 @@
+{
+  "name": "Qua Granıte Hayal Yapı ve Ürünleri",
+  "slug": "qua-granite-hayal-yapi-ve-urunleri",
+  "website": "https://www.qua.com.tr",
+  "source": "https://www.qua.com.tr/cms/phpThumb.php?src=../uploads/logo-color.png&w=240&f=png",
+  "hex": "D6916A",
+  "aliases": [
+    "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QUAGR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

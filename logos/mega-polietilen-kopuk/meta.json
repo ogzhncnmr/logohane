@@ -1,0 +1,21 @@
+{
+  "name": "Mega Polietilen Köpük",
+  "slug": "mega-polietilen-kopuk",
+  "website": "https://www.mega-pol.com.tr",
+  "source": "https://mega-pol.com.tr/img/2023/01/logo-megap-v17-h150px.png",
+  "aliases": [
+    "MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEGAP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F9700C",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tera Yatırım Teknoloji Holding",
+  "slug": "tera-yatirim-teknoloji-holding",
+  "website": "https://www.terayatirimteknoloji.com.tr",
+  "source": "https://www.terayatirimteknoloji.com.tr/img/logo.svg",
+  "aliases": [
+    "TERA YATIRIM TEKNOLOJİ HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TEHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "007AAA"
+}

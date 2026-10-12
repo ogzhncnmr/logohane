@@ -1,0 +1,20 @@
+{
+  "name": "İhlas Holding",
+  "slug": "ihlas-holding",
+  "website": "https://www.ihlas.com.tr",
+  "source": "https://ihlas.com.tr/wp-content/uploads/2026/03/ihlas-holding-logo.svg",
+  "aliases": [
+    "İHLAS HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IHLAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "001F60"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Şeker Finansal Kiralama",
+  "slug": "seker-finansal-kiralama",
+  "website": "https://www.sekerleasing.com.tr",
+  "source": "https://www.sekerleasing.com.tr/Content/images/seker_leasing_logo_y.svg",
+  "aliases": [
+    "ŞEKER FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SEKFK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "006A3D"
+}

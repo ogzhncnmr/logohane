@@ -1,0 +1,20 @@
+{
+  "name": "Egeyapı Avrupa Gayrimenkul Yatırım Ortaklığı",
+  "slug": "egeyapi-avrupa-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.egeyapigyo.com",
+  "source": "https://egeyapigyo.com/assets/images/logo-new.svg",
+  "aliases": [
+    "EGEYAPI AVRUPA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EGEGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0062A7"
+}

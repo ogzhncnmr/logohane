@@ -1,0 +1,20 @@
+{
+  "name": "Eip Eczacıbaşı İlaç Pazarlama",
+  "slug": "eip-eczacibasi-ilac-pazarlama",
+  "website": "https://www.eis.com.tr",
+  "source": "https://www.eis.com.tr/Images/ecz-logo.png",
+  "aliases": [
+    "EİP ECZACIBAŞI İLAÇ PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ECZIP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "F79468",
+  "updated": "2026-10-12"
+}

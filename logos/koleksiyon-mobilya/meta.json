@@ -1,0 +1,20 @@
+{
+  "name": "Koleksiyon Mobilya",
+  "slug": "koleksiyon-mobilya",
+  "website": "https://www.koleksiyondesign.com",
+  "source": "https://www.koleksiyondesign.com/tr/",
+  "aliases": [
+    "KOLEKSİYON MOBİLYA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLSYN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

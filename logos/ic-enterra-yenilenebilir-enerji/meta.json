@@ -1,0 +1,20 @@
+{
+  "name": "Ic Enterra Yenilenebilir Enerji",
+  "slug": "ic-enterra-yenilenebilir-enerji",
+  "website": "https://www.icenterra.com.tr",
+  "source": "https://cms.icenterra.com.tr/storage/images/logos/site_logo_tr_1701870778.png",
+  "aliases": [
+    "IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENTRA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4B9872"
+}

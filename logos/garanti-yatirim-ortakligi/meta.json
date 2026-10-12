@@ -1,0 +1,20 @@
+{
+  "name": "Garanti Yatırım Ortaklığı",
+  "slug": "garanti-yatirim-ortakligi",
+  "website": "https://www.gyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef470141271e9d5104d3",
+  "hex": "085644",
+  "aliases": [
+    "GARANTİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GRNYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

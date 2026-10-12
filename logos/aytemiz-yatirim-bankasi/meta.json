@@ -1,0 +1,24 @@
+{
+  "name": "Aytemiz Yatırım Bankası",
+  "slug": "aytemiz-yatirim-bankasi",
+  "website": "https://www.aytemizbank.com.tr",
+  "source": "https://www.aytemizbank.com.tr/assets/images/logo/tekSatir.svg",
+  "aliases": [
+    "AYTEMİZ YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AYTEM"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "YYA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F11D27"
+}

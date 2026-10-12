@@ -1,0 +1,20 @@
+{
+  "name": "Vbt Yazılım",
+  "slug": "vbt-yazilim",
+  "website": "https://www.vbt.com.tr",
+  "source": "https://vbt.com.tr/assets/img/logo.svg",
+  "aliases": [
+    "VBT YAZILIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VBTYZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF0000"
+}

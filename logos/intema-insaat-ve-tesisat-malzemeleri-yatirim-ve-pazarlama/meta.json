@@ -1,0 +1,21 @@
+{
+  "name": "İntema İnşaat ve Tesisat Malzemeleri Yatırım ve Pazarlama",
+  "slug": "intema-insaat-ve-tesisat-malzemeleri-yatirim-ve-pazarlama",
+  "website": "https://www.eczacibasi.com.tr",
+  "source": "https://www.eczacibasi.com.tr/assets/eczacibasi-logo-2023.png",
+  "aliases": [
+    "İNTEMA İNŞAAT VE TESİSAT MALZEMELERİ YATIRIM VE PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INTEM"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F89468"
+}

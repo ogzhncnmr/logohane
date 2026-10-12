@@ -1,0 +1,21 @@
+{
+  "name": "Türker Proje Gayrimenkul ve Yatırım Geliştirme",
+  "slug": "turker-proje-gayrimenkul-ve-yatirim-gelistirme",
+  "website": "https://www.turker-gg.com",
+  "source": "https://turker-gg.com/wp-content/themes/bst/img/logo.png",
+  "aliases": [
+    "TÜRKER PROJE GAYRİMENKUL VE YATIRIM GELİŞTİRME A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TURGG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D91F26",
+  "traced": true
+}

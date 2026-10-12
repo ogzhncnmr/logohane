@@ -1,0 +1,21 @@
+{
+  "name": "Ulusoy Elektrik İmalat Taahhüt",
+  "slug": "ulusoy-elektrik-imalat-taahhut",
+  "website": "https://www.ulusoyelektrik.com.tr",
+  "source": "https://www.ulusoyelektrik.com.tr/sites/other/ulusoyelektrik/assets//images/logo.png",
+  "aliases": [
+    "ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ULUSE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C70AE",
+  "traced": true
+}

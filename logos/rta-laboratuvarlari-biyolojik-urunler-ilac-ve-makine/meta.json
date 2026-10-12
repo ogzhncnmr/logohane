@@ -1,0 +1,21 @@
+{
+  "name": "Rta Laboratuvarları Biyolojik Ürünler İlaç ve Makine",
+  "slug": "rta-laboratuvarlari-biyolojik-urunler-ilac-ve-makine",
+  "website": "https://www.rtalabs.com.tr",
+  "source": "https://rtalabs.com.tr/wp-content/uploads/2023/12/RTA_Logo_hiRes.png",
+  "aliases": [
+    "RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RTALB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1D4188",
+  "traced": true
+}

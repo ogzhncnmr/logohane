@@ -1,0 +1,20 @@
+{
+  "name": "1000 Yatırımlar Holding",
+  "slug": "1000-yatirimlar-holding",
+  "website": "https://www.1000.com.tr",
+  "source": "https://1000.com.tr/wp-content/themes/1000-yatirimlar/assets/image/trademark/logo-new.svg",
+  "aliases": [
+    "1000 YATIRIMLAR HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BINHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "17138F"
+}

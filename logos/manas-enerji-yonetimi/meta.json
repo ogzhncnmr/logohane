@@ -1,0 +1,20 @@
+{
+  "name": "Manas Enerji Yönetimi",
+  "slug": "manas-enerji-yonetimi",
+  "website": "https://www.manas.com.tr",
+  "source": "https://www.manas.com.tr/img/logo.svg",
+  "aliases": [
+    "MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MANAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "003141"
+}

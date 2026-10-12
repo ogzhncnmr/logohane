@@ -1,0 +1,21 @@
+{
+  "name": "Kafein Yazılım Hizmetleri",
+  "slug": "kafein-yazilim-hizmetleri",
+  "website": "https://www.kafein.com.tr",
+  "source": "https://www.kafein.com.tr/images/logo-light.svg",
+  "aliases": [
+    "KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KFEIN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FD001A"
+}

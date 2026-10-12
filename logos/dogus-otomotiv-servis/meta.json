@@ -1,0 +1,20 @@
+{
+  "name": "Doğuş Otomotiv Servis",
+  "slug": "dogus-otomotiv-servis",
+  "website": "https://www.dogusotomotiv.com.tr",
+  "source": "https://fs.dogusotomotiv.com.tr/assets/images/dogus-otomotiv-logo.svg",
+  "aliases": [
+    "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2D2926"
+}

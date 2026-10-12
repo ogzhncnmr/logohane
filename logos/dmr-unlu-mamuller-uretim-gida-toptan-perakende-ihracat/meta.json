@@ -1,0 +1,20 @@
+{
+  "name": "Dmr Unlu Mamuller Üretim Gıda Toptan Perakende İhracat",
+  "slug": "dmr-unlu-mamuller-uretim-gida-toptan-perakende-ihracat",
+  "website": "https://www.dmrbakery.com",
+  "source": "https://dmrunlumamuller.com/DmrImageFile/DmrLogo.png",
+  "aliases": [
+    "DMR UNLU MAMULLER ÜRETİM GIDA TOPTAN PERAKENDE İHRACAT A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DMRGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B22735"
+}

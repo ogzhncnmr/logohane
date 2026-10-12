@@ -1,0 +1,22 @@
+{
+  "name": "Tarfin Tarım",
+  "slug": "tarfin-tarim",
+  "website": "https://tarfin.com",
+  "source": "https://tarfin.com/build/assets/tarfin-logo-white-Dl_GU2L9.svg",
+  "aliases": [
+    "TARFİN TARIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TARFN"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark",
+    "symbol",
+    "symbol-dark"
+  ],
+  "updated": "2026-10-12"
+}

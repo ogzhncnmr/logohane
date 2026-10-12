@@ -1,0 +1,20 @@
+{
+  "name": "Yayla Agro Gıda",
+  "slug": "yayla-agro-gida",
+  "website": "https://www.yaylaagro.com",
+  "source": "https://www.yaylaagro.com/",
+  "aliases": [
+    "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YYLGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DB0032"
+}

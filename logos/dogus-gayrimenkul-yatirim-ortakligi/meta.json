@@ -1,0 +1,20 @@
+{
+  "name": "Doğuş Gayrimenkul Yatırım Ortaklığı",
+  "slug": "dogus-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.dogusgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e8cfa00140e9497d32002f",
+  "hex": "BA8871",
+  "aliases": [
+    "DOĞUŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DGGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

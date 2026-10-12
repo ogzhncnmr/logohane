@@ -1,0 +1,20 @@
+{
+  "name": "Orçay Ortaköy Çay",
+  "slug": "orcay-ortakoy-cay",
+  "website": "https://www.orcay.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c47afb298b017b5ea1d5ee3d78",
+  "hex": "E30512",
+  "aliases": [
+    "ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ORCAY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

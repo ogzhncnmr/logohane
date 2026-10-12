@@ -1,0 +1,20 @@
+{
+  "name": "Türk Hava Yolları",
+  "slug": "turk-hava-yollari",
+  "website": "https://www.turkishairlines.com",
+  "source": "https://www.turkishairlines.com/tr-tr",
+  "aliases": [
+    "TÜRK HAVA YOLLARI A.O."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "THYAO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C90019"
+}

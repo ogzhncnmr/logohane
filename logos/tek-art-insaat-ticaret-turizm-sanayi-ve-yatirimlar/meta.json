@@ -1,0 +1,22 @@
+{
+  "name": "Tek-art İnşaat Ticaret Turizm Sanayi ve Yatırımlar",
+  "slug": "tek-art-insaat-ticaret-turizm-sanayi-ve-yatirimlar",
+  "website": "https://www.tek-artinsaat.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696301416effc1a04330",
+  "hex": "012F9B",
+  "aliases": [
+    "TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TEKTU"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

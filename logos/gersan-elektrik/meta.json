@@ -1,0 +1,21 @@
+{
+  "name": "Gersan Elektrik",
+  "slug": "gersan-elektrik",
+  "website": "https://www.gersan.com.tr",
+  "source": "https://gersan.com.tr/wp-content/uploads/2025/09/logo.png",
+  "aliases": [
+    "GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GEREL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

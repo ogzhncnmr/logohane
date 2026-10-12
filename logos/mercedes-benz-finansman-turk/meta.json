@@ -1,0 +1,21 @@
+{
+  "name": "Mercedes-benz Finansman Türk",
+  "slug": "mercedes-benz-finansman-turk",
+  "website": "https://www.mercedes-benz-finansalhizmetler.com",
+  "source": "https://www.mercedes-benz-finansalhizmetler.com/images/logo.png",
+  "hex": "26333B",
+  "aliases": [
+    "MERCEDES-BENZ FİNANSMAN TÜRK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MBFTR"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

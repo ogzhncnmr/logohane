@@ -1,0 +1,22 @@
+{
+  "name": "Çağdaş Cam",
+  "slug": "cagdas-cam",
+  "website": "https://www.cagdascam.com",
+  "source": "https://www.cagdascam.com/wp-content/uploads/2025/01/logo.png",
+  "aliases": [
+    "ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CGCAM"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "06478E",
+  "traced": true
+}

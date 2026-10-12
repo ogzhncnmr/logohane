@@ -1,0 +1,22 @@
+{
+  "name": "Vakıf Finansal Kiralama",
+  "slug": "vakif-finansal-kiralama",
+  "website": "https://www.vakifleasing.com.tr",
+  "source": "https://www.vakifleasing.com.tr/resources/files/logo.png",
+  "aliases": [
+    "VAKIF FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VAKFN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FEBD3C",
+  "traced": true
+}

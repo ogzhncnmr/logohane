@@ -1,0 +1,20 @@
+{
+  "name": "Dagi Giyim",
+  "slug": "dagi-giyim",
+  "website": "https://www.dagi.com.tr",
+  "source": "https://www.dagi.com.tr/cdn/shop/files/Dagi-black.svg?v=1737105551&width=180",
+  "aliases": [
+    "DAGİ GİYİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DAGI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1A1A18"
+}

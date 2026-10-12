@@ -1,0 +1,20 @@
+{
+  "name": "Kayatur Filo Kiralama",
+  "slug": "kayatur-filo-kiralama",
+  "website": "https://www.kayaturizm.com.tr",
+  "source": "https://www.kayaturizm.com.tr/upload/logoyatay.png",
+  "hex": "024EA2",
+  "aliases": [
+    "KAYATUR FİLO KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KFILO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

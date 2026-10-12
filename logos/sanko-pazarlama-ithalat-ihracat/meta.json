@@ -1,0 +1,21 @@
+{
+  "name": "Sanko Pazarlama İthalat İhracat",
+  "slug": "sanko-pazarlama-ithalat-ihracat",
+  "website": "https://www.sankopazarlama.com.tr",
+  "source": "https://www.sankopazarlama.com.tr/Uploads/Images/sankopazarlama_logo.png",
+  "aliases": [
+    "SANKO PAZARLAMA İTHALAT İHRACAT A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SANKO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "081C55",
+  "traced": true
+}

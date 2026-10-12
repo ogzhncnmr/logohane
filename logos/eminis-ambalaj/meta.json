@@ -1,0 +1,21 @@
+{
+  "name": "Eminiş Ambalaj",
+  "slug": "eminis-ambalaj",
+  "website": "https://www.eminis.com.tr",
+  "source": "https://eminis.com.tr/wp-content/uploads/2022/05/logobuyuk.png.webp",
+  "aliases": [
+    "EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EMNIS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "017DC2",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Temapol Polimer Plastik ve İnşaat",
+  "slug": "temapol-polimer-plastik-ve-insaat",
+  "website": "https://www.temapol.com.tr",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1570587",
+  "aliases": [
+    "TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TMPOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "039CE5",
+  "updated": "2026-10-12"
+}

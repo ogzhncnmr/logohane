@@ -1,0 +1,20 @@
+{
+  "name": "Marshall Boya ve Vernik Sanayii",
+  "slug": "marshall-boya-ve-vernik-sanayii",
+  "website": "https://www.marshallboya.com",
+  "source": "https://images.akzonobel.com/akzonobel-flourish/marshall/turkey/tu/logo/marshall-boya-logo.png?impolicy=.auto",
+  "hex": "002A68",
+  "aliases": [
+    "MARSHALL BOYA VE VERNİK SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MRSHL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

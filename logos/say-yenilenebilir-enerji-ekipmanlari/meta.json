@@ -1,0 +1,22 @@
+{
+  "name": "Say Yenilenebilir Enerji Ekipmanları",
+  "slug": "say-yenilenebilir-enerji-ekipmanlari",
+  "website": "https://www.sayas-re.com",
+  "source": "https://sayas-re.com/wp-content/uploads/2023/07/Asset-1@2x.png",
+  "aliases": [
+    "SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SAYAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E76B24",
+  "traced": true
+}

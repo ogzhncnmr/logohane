@@ -1,0 +1,21 @@
+{
+  "name": "Menderes Tekstil",
+  "slug": "menderes-tekstil",
+  "website": "https://menderes.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1422d986e01425bfb19b05165",
+  "hex": "04B4CE",
+  "aliases": [
+    "MENDERES TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MNDRS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

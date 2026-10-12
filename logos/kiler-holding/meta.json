@@ -1,0 +1,22 @@
+{
+  "name": "Kiler Holding",
+  "slug": "kiler-holding",
+  "website": "https://www.kilerholding.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d990141600b4b5331e2",
+  "hex": "00305C",
+  "aliases": [
+    "KİLER HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLRHO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Deniz Faktoring",
+  "slug": "deniz-faktoring",
+  "website": "https://www.denizfactoring.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed71014117912e3102bf",
+  "hex": "234B93",
+  "aliases": [
+    "DENİZ FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DENFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

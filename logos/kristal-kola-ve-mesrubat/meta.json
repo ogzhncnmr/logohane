@@ -1,0 +1,20 @@
+{
+  "name": "Kristal Kola ve Meşrubat",
+  "slug": "kristal-kola-ve-mesrubat",
+  "website": "https://www.kristalkola.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c0140f3180014001a",
+  "hex": "CA091A",
+  "aliases": [
+    "KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRSTL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

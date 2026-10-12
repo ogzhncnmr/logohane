@@ -1,0 +1,21 @@
+{
+  "name": "Park Elektrik Üretim Madencilik",
+  "slug": "park-elektrik-uretim-madencilik",
+  "website": "https://www.parkelektrik.com.tr",
+  "source": "https://www.parkelektrik.com.tr/wp-content/uploads/2022/10/parkelektrik_logo2-e1667313309575.png",
+  "aliases": [
+    "PARK ELEKTRİK ÜRETİM MADENCİLİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PRKME"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0167AC",
+  "traced": true
+}

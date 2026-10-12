@@ -1,0 +1,21 @@
+{
+  "name": "Prizma Pres Matbaacılık Yayıncılık",
+  "slug": "prizma-pres-matbaacilik-yayincilik",
+  "website": "https://www.prizmapress.com.tr",
+  "source": "https://www.prizmapress.com.tr/wp-content/uploads/2017/11/prizmalogo.png",
+  "aliases": [
+    "PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PRZMA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

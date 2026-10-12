@@ -1,0 +1,20 @@
+{
+  "name": "Bantaş Bandırma Ambalaj",
+  "slug": "bantas-bandirma-ambalaj",
+  "website": "https://www.bantas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/402821824da3aa9b014ef2c4cda22947",
+  "hex": "455792",
+  "aliases": [
+    "BANTAŞ BANDIRMA AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BNTAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Boğaziçi Beton",
+  "slug": "bogazici-beton",
+  "website": "https://www.bogazicibeton.com",
+  "source": "https://bogazicibeton.com/wp-content/uploads/2021/02/BogaziciBeton-Logo.png",
+  "aliases": [
+    "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BOBET"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF9902"
+}

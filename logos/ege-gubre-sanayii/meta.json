@@ -1,0 +1,20 @@
+{
+  "name": "Ege Gübre Sanayii",
+  "slug": "ege-gubre-sanayii",
+  "website": "https://www.egegubre.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2422d9a78014304d729e3673d",
+  "hex": "018001",
+  "aliases": [
+    "EGE GÜBRE SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EGGUB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kervansaray Yatırım Holding",
+  "slug": "kervansaray-yatirim-holding",
+  "website": "https://www.kervansarayholding.com.tr",
+  "source": "https://kervansarayholding.com.tr/images/logo.png",
+  "aliases": [
+    "KERVANSARAY YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KERVN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FD7317"
+}

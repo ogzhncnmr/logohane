@@ -1,0 +1,20 @@
+{
+  "name": "Birikim Varlık Yönetim",
+  "slug": "birikim-varlik-yonetim",
+  "website": "https://www.birikimvarlik.com.tr",
+  "source": "https://www.birikimvarlik.com.tr/images/logo.png",
+  "hex": "CF141C",
+  "aliases": [
+    "BİRİKİM VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRKVY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

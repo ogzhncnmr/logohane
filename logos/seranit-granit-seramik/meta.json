@@ -1,0 +1,20 @@
+{
+  "name": "Seranit Granit Seramik",
+  "slug": "seranit-granit-seramik",
+  "website": "https://www.seranit.com.tr",
+  "source": "https://www.seranit.com.tr/images/seranit-logo-red-143.png",
+  "hex": "831142",
+  "aliases": [
+    "SERANİT GRANİT SERAMİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SERNT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}
