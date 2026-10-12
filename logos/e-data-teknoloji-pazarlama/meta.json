@@ -1,0 +1,22 @@
+{
+  "name": "E-data Teknoloji Pazarlama",
+  "slug": "e-data-teknoloji-pazarlama",
+  "website": "https://www.e-data.com.tr",
+  "source": "https://e-data.com.tr/wp-content/uploads/2019/07/logo-4.png",
+  "aliases": [
+    "E-DATA TEKNOLOJİ PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EDATA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2B8C36",
+  "traced": true
+}

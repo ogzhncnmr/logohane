@@ -1,0 +1,21 @@
+{
+  "name": "Çan2 Termik",
+  "slug": "can2-termik",
+  "website": "https://www.can2termik.com.tr",
+  "source": "https://www.can2termik.com.tr/assets/images/logo.svg",
+  "aliases": [
+    "ÇAN2 TERMİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CANTE"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FFC600"
+}

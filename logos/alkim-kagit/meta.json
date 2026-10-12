@@ -1,0 +1,20 @@
+{
+  "name": "Alkim Kağıt",
+  "slug": "alkim-kagit",
+  "website": "https://www.alkimkagit.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2416e697d01416f39965a5eb5",
+  "hex": "E40A1E",
+  "aliases": [
+    "ALKİM KAĞIT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALKA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

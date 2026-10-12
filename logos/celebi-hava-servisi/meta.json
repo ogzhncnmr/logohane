@@ -1,0 +1,21 @@
+{
+  "name": "Çelebi Hava Servisi",
+  "slug": "celebi-hava-servisi",
+  "website": "https://www.celebihandling.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140ee84900140f1f1584c0015",
+  "hex": "005CBA",
+  "aliases": [
+    "ÇELEBİ HAVA SERVİSİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CLEBI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

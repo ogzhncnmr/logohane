@@ -1,0 +1,21 @@
+{
+  "name": "Ata Varlık Kiralama",
+  "slug": "ata-varlik-kiralama",
+  "website": "https://www.atavarlik.com.tr",
+  "source": "https://www.atavarlik.com.tr/assets/img/logo.png",
+  "aliases": [
+    "ATA VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATAVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EA7324",
+  "traced": true
+}

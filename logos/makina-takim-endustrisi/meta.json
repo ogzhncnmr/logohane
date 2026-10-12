@@ -1,0 +1,20 @@
+{
+  "name": "Makina Takım Endüstrisi",
+  "slug": "makina-takim-endustrisi",
+  "website": "https://www.makinatakim.com.tr",
+  "source": "https://makinatakim.com.tr/wp-content/uploads/2025/12/logo.svg",
+  "aliases": [
+    "MAKİNA TAKIM ENDÜSTRİSİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MAKTK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F57E20"
+}

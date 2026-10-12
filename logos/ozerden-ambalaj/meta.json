@@ -1,0 +1,20 @@
+{
+  "name": "Özerden Ambalaj",
+  "slug": "ozerden-ambalaj",
+  "website": "https://www.ozerden.com",
+  "source": "https://bizofol.com/assets/img/logo.png",
+  "aliases": [
+    "ÖZERDEN AMBALAJ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OZRDN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2D71B2"
+}

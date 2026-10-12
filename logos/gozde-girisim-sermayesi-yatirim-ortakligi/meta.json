@@ -1,0 +1,20 @@
+{
+  "name": "Gözde Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "gozde-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.gozdegirisim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24158e42201415b0210ba60ef",
+  "hex": "630A11",
+  "aliases": [
+    "GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GOZDE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

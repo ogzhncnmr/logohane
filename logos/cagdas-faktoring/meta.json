@@ -1,0 +1,21 @@
+{
+  "name": "Çağdaş Faktoring",
+  "slug": "cagdas-faktoring",
+  "website": "https://www.cagdasfactoring.com.tr",
+  "source": "https://www.cagdasfactoring.com.tr/assets/logo-6Bz216x6.png",
+  "aliases": [
+    "ÇAĞDAŞ FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CAGFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4E9D2D",
+  "traced": true
+}

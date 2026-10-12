@@ -1,0 +1,20 @@
+{
+  "name": "T.C. Hazine ve Maliye Bakanlığı Darphane ve Damga Matbaası Genel Müdürlüğü",
+  "slug": "t-c-hazine-ve-maliye-bakanligi-darphane-ve-damga-matbaasi-genel-mudurlugu",
+  "website": "https://www.darphane.gov.tr",
+  "source": "https://ms.hmb.gov.tr/uploads/sites/7/2022/11/darphane-logo-siyah.png",
+  "aliases": [
+    "T.C. HAZİNE VE MALİYE BAKANLIĞI DARPHANE VE DAMGA MATBAASI GENEL MÜDÜRLÜĞÜ"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DRPHN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "DE0024",
+  "updated": "2026-10-12"
+}

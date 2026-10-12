@@ -1,0 +1,20 @@
+{
+  "name": "Türker Vangölü Enerji Yatırım",
+  "slug": "turker-vangolu-enerji-yatirim",
+  "website": "https://www.turkerveyas.com.tr",
+  "source": "https://www.turkerveyas.com.tr/assets/images/veyas-logo.svg?v=1",
+  "aliases": [
+    "TÜRKER VANGÖLÜ ENERJİ YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VEYAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1500AF"
+}

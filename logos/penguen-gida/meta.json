@@ -1,0 +1,21 @@
+{
+  "name": "Penguen Gıda",
+  "slug": "penguen-gida",
+  "website": "https://www.penguen.com.tr",
+  "source": "https://www.penguen.com.tr/wp-content/uploads/2020/11/Penguen_Logo500.png",
+  "aliases": [
+    "PENGUEN GIDA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PENGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0168B3",
+  "traced": true
+}

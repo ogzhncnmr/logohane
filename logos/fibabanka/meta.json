@@ -1,0 +1,25 @@
+{
+  "name": "Fibabanka",
+  "slug": "fibabanka",
+  "website": "https://www.fibabanka.com.tr",
+  "source": "https://cdn.fibabanka.com.tr/ResourcePackages/Fibabanka/assets/img/fibabanka-logo.png",
+  "hex": "B3D56F",
+  "aliases": [
+    "FİBABANKA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FBB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "FBBNK"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

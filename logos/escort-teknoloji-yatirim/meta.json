@@ -1,0 +1,21 @@
+{
+  "name": "Escort Teknoloji Yatırım",
+  "slug": "escort-teknoloji-yatirim",
+  "website": "https://www.escort.com.tr",
+  "source": "https://www.escort.com.tr/wp-content/uploads/2022/03/30yil-escom-logo.png",
+  "aliases": [
+    "ESCORT TEKNOLOJİ YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ESCOM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "683A98",
+  "traced": true
+}

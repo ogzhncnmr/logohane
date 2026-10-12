@@ -1,0 +1,21 @@
+{
+  "name": "Uşak Seramik",
+  "slug": "usak-seramik",
+  "website": "https://www.usakseramik.com",
+  "source": "https://www.usakseramik.com/img/logo-black.png",
+  "aliases": [
+    "UŞAK SERAMİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "USAK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

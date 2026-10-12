@@ -1,0 +1,22 @@
+{
+  "name": "Trend Gayrimenkul Yatırım Ortaklığı",
+  "slug": "trend-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.trendgyo.com.tr",
+  "source": "https://www.trendgyo.com.tr/wp-content/uploads/2024/02/Logo_Kisa-PhotoRoom.png-PhotoRoom.png",
+  "aliases": [
+    "TREND GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TDGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DA1C23",
+  "traced": true
+}

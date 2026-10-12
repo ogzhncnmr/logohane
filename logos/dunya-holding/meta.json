@@ -1,0 +1,20 @@
+{
+  "name": "Dünya Holding",
+  "slug": "dunya-holding",
+  "website": "https://dunyaholding.com.tr",
+  "source": "https://minio.dunyaholding.com.tr/dunyaholding/service/dunya-grup-medya-gazetecilik-anonim-sirketi/ana-resim/ekran-resmi-2025-08-25-22.37.53.png",
+  "hex": "DA203E",
+  "aliases": [
+    "DÜNYA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DUNYH"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

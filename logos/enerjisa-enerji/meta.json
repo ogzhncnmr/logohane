@@ -1,0 +1,20 @@
+{
+  "name": "Enerjisa Enerji",
+  "slug": "enerjisa-enerji",
+  "website": "https://www.enerjisa.com.tr",
+  "source": "https://www.enerjisa.com.tr/assets/logo/enerjisa-tr.png",
+  "hex": "FDCA15",
+  "aliases": [
+    "ENERJİSA ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENJSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

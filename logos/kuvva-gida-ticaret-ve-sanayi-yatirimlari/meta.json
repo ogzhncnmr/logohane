@@ -1,0 +1,20 @@
+{
+  "name": "Kuvva Gıda Ticaret ve Sanayi Yatırımları",
+  "slug": "kuvva-gida-ticaret-ve-sanayi-yatirimlari",
+  "website": "https://www.serve.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2422d9a6e01424699b9d061ec",
+  "hex": "1F9170",
+  "aliases": [
+    "KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KUVVA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

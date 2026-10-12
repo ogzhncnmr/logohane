@@ -1,0 +1,21 @@
+{
+  "name": "Arçelik",
+  "slug": "arcelik",
+  "website": "https://www.arcelikglobal.com",
+  "source": "https://cdn.cookielaw.org/logos/1ee6a6ce-9b09-49bd-b9e4-a3544706c63e/d1ef1077-675a-42d7-a786-b3f5f0e6186c/84a8f2db-a072-4b19-9a62-bc99a78ac662/logo-en.png",
+  "aliases": [
+    "ARÇELİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARCLK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D1202F",
+  "traced": true
+}

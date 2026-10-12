@@ -1,0 +1,20 @@
+{
+  "name": "Ensari Sınai Yatırımlar",
+  "slug": "ensari-sinai-yatirimlar",
+  "website": "https://www.ensariyatirimlar.com",
+  "source": "https://www.ensariyatirimlar.com/r/w-500_h-212/firmalar/fi-2.svg",
+  "aliases": [
+    "ENSARİ SINAİ YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ENSRI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "01C9D4"
+}

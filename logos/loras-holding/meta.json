@@ -1,0 +1,21 @@
+{
+  "name": "Loras Holding",
+  "slug": "loras-holding",
+  "website": "https://www.lorasholding.com",
+  "source": "https://www.lorasholding.com/assets/img/loras-holding-logo-renkli.png",
+  "aliases": [
+    "LORAS HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LRSHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2AD3C6",
+  "traced": true
+}

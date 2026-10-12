@@ -1,0 +1,20 @@
+{
+  "name": "Gediz Ambalaj",
+  "slug": "gediz-ambalaj",
+  "website": "https://www.gedizambalaj.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14158e41e01415b2a655f6cca",
+  "hex": "1E83D1",
+  "aliases": [
+    "GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GEDZA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

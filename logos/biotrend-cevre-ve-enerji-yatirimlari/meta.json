@@ -1,0 +1,21 @@
+{
+  "name": "Biotrend Çevre ve Enerji Yatırımları",
+  "slug": "biotrend-cevre-ve-enerji-yatirimlari",
+  "website": "https://www.biotrendenerji.com.tr",
+  "source": "https://www.biotrendenerji.com.tr/themes/biotrend/img/dark-logo.png",
+  "aliases": [
+    "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIOEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "3E869E",
+  "traced": true
+}

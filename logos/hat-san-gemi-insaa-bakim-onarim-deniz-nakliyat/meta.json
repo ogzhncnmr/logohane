@@ -1,0 +1,20 @@
+{
+  "name": "Hat-san Gemi İnşaa Bakım Onarım Deniz Nakliyat",
+  "slug": "hat-san-gemi-insaa-bakim-onarim-deniz-nakliyat",
+  "website": "https://www.hat-san.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c51018a739bad647f5a",
+  "hex": "4D7895",
+  "aliases": [
+    "HAT-SAN GEMİ İNŞAA BAKIM ONARIM DENİZ NAKLİYAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HATSN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

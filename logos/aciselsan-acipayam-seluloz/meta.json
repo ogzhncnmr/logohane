@@ -1,0 +1,20 @@
+{
+  "name": "Acıselsan Acıpayam Selüloz",
+  "slug": "aciselsan-acipayam-seluloz",
+  "website": "https://www.aciselsan.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2420327a4014209c55161144d",
+  "hex": "CA262D",
+  "aliases": [
+    "ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ACSEL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

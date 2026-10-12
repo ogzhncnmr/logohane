@@ -1,0 +1,20 @@
+{
+  "name": "Emlak Konut Damla Kent Gms",
+  "slug": "emlak-konut-damla-kent-gms",
+  "website": "https://www.emlakkonut.com.tr",
+  "source": "https://www.emlakkonut.com.tr/images/uploads/original/c2d2914995604d7cbfdf9ba92146a424.svg",
+  "aliases": [
+    "EMLAK KONUT DAMLA KENT GMS"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DMLKT"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

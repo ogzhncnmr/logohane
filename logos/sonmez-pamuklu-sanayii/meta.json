@@ -1,0 +1,20 @@
+{
+  "name": "Sönmez Pamuklu Sanayii",
+  "slug": "sonmez-pamuklu-sanayii",
+  "website": "https://www.sonmezpamuklu.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01412ad919a504dd",
+  "hex": "122753",
+  "aliases": [
+    "SÖNMEZ PAMUKLU SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SNPAM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

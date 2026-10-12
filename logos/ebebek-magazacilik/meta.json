@@ -1,0 +1,21 @@
+{
+  "name": "Ebebek Mağazacılık",
+  "slug": "ebebek-magazacilik",
+  "website": "https://www.ebebek.com",
+  "source": "https://api2.e-bebek.com/medias/ebebek-25-Beyaz-Zemin.png?context=bWFzdGVyfGltYWdlc3wzNjE4NHxpbWFnZS9wbmd8YURZNEwyaGtPQzh4TkRNNU56RTJNRFV5TVRjMU9DOWxZbVZpWldzdE1qVXRRbVY1WVhvdFdtVnRhVzR1Y0c1bnw4ZDhhYTQ1NWEyNDZiNWJkNDE3OGE5NjE2NjIxOWRiMTc2ZjA2MzczNzUxZjg3MzU4NTQwYjBhMzdmN2Y5MWY2",
+  "aliases": [
+    "EBEBEK MAĞAZACILIK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EBEBK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1A91D2",
+  "traced": true
+}

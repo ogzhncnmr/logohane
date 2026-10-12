@@ -1,0 +1,20 @@
+{
+  "name": "İş Yatırım Ortaklığı",
+  "slug": "is-yatirim-ortakligi",
+  "website": "https://www.isyatort.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240ee866c0140f2710c33013d",
+  "hex": "0234A3",
+  "aliases": [
+    "İŞ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

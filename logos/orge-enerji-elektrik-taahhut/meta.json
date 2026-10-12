@@ -1,0 +1,20 @@
+{
+  "name": "Orge Enerji Elektrik Taahhüt",
+  "slug": "orge-enerji-elektrik-taahhut",
+  "website": "https://www.orge.com.tr",
+  "source": "https://www.orge.com.tr/wp-content/uploads/2023/04/ORGE-LOGO-kucuk-web-e1681817962467.png",
+  "hex": "0D233E",
+  "aliases": [
+    "ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ORGE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

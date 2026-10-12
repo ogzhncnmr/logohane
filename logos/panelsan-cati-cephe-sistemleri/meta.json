@@ -1,0 +1,20 @@
+{
+  "name": "Panelsan Çatı Cephe Sistemleri",
+  "slug": "panelsan-cati-cephe-sistemleri",
+  "website": "https://www.panelsan.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c47d3bee50017db95876e6220e",
+  "hex": "F25523",
+  "aliases": [
+    "PANELSAN ÇATI CEPHE SİSTEMLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PNLSN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

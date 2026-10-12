@@ -1,0 +1,21 @@
+{
+  "name": "Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim",
+  "slug": "buyuk-sefler-gida-turizm-tekstil-danismanlik-organizasyon-egitim",
+  "website": "https://www.bigchefs.com.tr",
+  "source": "https://bigchefs.com.tr/wp-content/uploads/2023/10/bigchef-siyah-footer-buyuk-logo.png",
+  "aliases": [
+    "BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIGCH"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

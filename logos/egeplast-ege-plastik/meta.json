@@ -1,0 +1,21 @@
+{
+  "name": "Egeplast Ege Plastik",
+  "slug": "egeplast-ege-plastik",
+  "website": "https://egeplast.com.tr",
+  "source": "https://egeplast.com.tr/wp-content/uploads/2020/06/egeplstnew.png",
+  "aliases": [
+    "EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EPLAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EE6F03",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Şeker Gayrimenkul Yatırım Ortaklığı",
+  "slug": "seker-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.sekergyo.com.tr",
+  "source": "https://www.sekergyo.com.tr/Themes/default/images/logo.svg",
+  "aliases": [
+    "ŞEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SEGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "007934"
+}

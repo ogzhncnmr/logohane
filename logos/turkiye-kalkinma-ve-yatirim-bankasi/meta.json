@@ -1,0 +1,24 @@
+{
+  "name": "Türkiye Kalkınma ve Yatırım Bankası",
+  "slug": "turkiye-kalkinma-ve-yatirim-bankasi",
+  "website": "https://www.kalkinma.com.tr",
+  "source": "https://www.kalkinma.com.tr/assets/image/logo.png",
+  "hex": "EA1B23",
+  "aliases": [
+    "TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLN"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "KLNMA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

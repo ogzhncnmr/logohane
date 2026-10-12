@@ -1,0 +1,22 @@
+{
+  "name": "Lydia Yeşil Enerji Kaynakları",
+  "slug": "lydia-yesil-enerji-kaynaklari",
+  "website": "https://www.lydiayesilenerji.com",
+  "source": "https://www.lydiayesilenerji.com/assets/front/images/logo.png",
+  "aliases": [
+    "LYDİA YEŞİL ENERJİ KAYNAKLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LYDYE"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "115A55",
+  "traced": true
+}

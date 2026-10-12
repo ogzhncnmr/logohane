@@ -1,0 +1,20 @@
+{
+  "name": "Ostim Endüstriyel Yatırımlar ve İşletme",
+  "slug": "ostim-endustriyel-yatirimlar-ve-isletme",
+  "website": "https://www.ostimyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241462fd8014149e82fb004c5",
+  "hex": "034491",
+  "aliases": [
+    "OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OSTIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

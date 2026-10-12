@@ -1,0 +1,21 @@
+{
+  "name": "Ag Anadolu Grubu Holding",
+  "slug": "ag-anadolu-grubu-holding",
+  "website": "https://www.anadolugrubu.com.tr",
+  "source": "https://data.anadolugroup.com/media-data/others/2024/10/23/anadolu-grubu-eygmricr.svg",
+  "aliases": [
+    "AG ANADOLU GRUBU HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AGHOL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EC0029"
+}

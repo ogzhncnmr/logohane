@@ -1,0 +1,20 @@
+{
+  "name": "Qnb Varlık Kiralama",
+  "slug": "qnb-varlik-kiralama",
+  "website": "https://www.qnbvarlik.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c468aeffb70169914527d01563",
+  "hex": "001857",
+  "aliases": [
+    "QNB VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QNBVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

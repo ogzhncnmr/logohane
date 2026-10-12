@@ -1,0 +1,21 @@
+{
+  "name": "Qnb Faktoring",
+  "slug": "qnb-faktoring",
+  "website": "https://www.qnbfaktoring.com.tr",
+  "source": "https://www.qnbfaktoring.com.tr/_assets/images/logo.svg",
+  "aliases": [
+    "QNB FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QNBFF"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1D2752"
+}

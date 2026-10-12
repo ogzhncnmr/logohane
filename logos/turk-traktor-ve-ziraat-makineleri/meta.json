@@ -1,0 +1,20 @@
+{
+  "name": "Türk Traktör ve Ziraat Makineleri",
+  "slug": "turk-traktor-ve-ziraat-makineleri",
+  "website": "https://www.turktraktor.com.tr",
+  "source": "https://www.turktraktor.com.tr/getmedia/0ddbd3b1-ca05-46f3-aaa9-cc2b29d4371f/logolar-turk-traktor.svg?ext=.svg",
+  "aliases": [
+    "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TTRAK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000"
+}

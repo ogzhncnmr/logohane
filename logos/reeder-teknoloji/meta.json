@@ -1,0 +1,22 @@
+{
+  "name": "Reeder Teknoloji",
+  "slug": "reeder-teknoloji",
+  "website": "https://www.reeder.com.tr",
+  "source": "https://reeder.com.tr/cdn/shop/files/reeder-logo.png?v=1753274326&width=280",
+  "aliases": [
+    "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "REEDR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "85B851",
+  "traced": true
+}

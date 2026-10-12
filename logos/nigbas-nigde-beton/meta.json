@@ -1,0 +1,20 @@
+{
+  "name": "Niğbaş Niğde Beton",
+  "slug": "nigbas-nigde-beton",
+  "website": "https://www.nigbas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1413b7ef501413bc24123002f",
+  "hex": "062678",
+  "aliases": [
+    "NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NIBAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

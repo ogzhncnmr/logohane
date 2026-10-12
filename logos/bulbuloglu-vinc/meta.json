@@ -1,0 +1,21 @@
+{
+  "name": "Bülbüloğlu Vinç",
+  "slug": "bulbuloglu-vinc",
+  "website": "https://www.bvs.com.tr",
+  "source": "https://bvs.com.tr/wp-content/uploads/2020/07/BVSLOGO.png",
+  "aliases": [
+    "BÜLBÜLOĞLU VİNÇ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BVSAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00438B",
+  "traced": true
+}

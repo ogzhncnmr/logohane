@@ -1,0 +1,20 @@
+{
+  "name": "Bilici Yatırım",
+  "slug": "bilici-yatirim",
+  "website": "https://www.biliciyatirim.com",
+  "source": "https://www.biliciyatirim.com/upload/logo.png",
+  "hex": "BF0506",
+  "aliases": [
+    "BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BLCYT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

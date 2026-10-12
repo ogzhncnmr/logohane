@@ -1,0 +1,22 @@
+{
+  "name": "Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat",
+  "slug": "safkar-ege-sogutmacilik-klima-soguk-hava-tesisleri-ihracat-ithalat",
+  "website": "https://www.safkar.com",
+  "source": "https://webservisry.safkar.com/uploads/settings/1764244889856-581797334.jpeg",
+  "aliases": [
+    "SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SAFKR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0156A8",
+  "traced": true
+}

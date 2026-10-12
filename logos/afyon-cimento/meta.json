@@ -1,0 +1,20 @@
+{
+  "name": "Afyon Çimento",
+  "slug": "afyon-cimento",
+  "website": "https://www.afyoncimento.com",
+  "source": "https://www.afyoncimento.com/wp-content/uploads/2023/07/afyon-cimento-logo-1.svg",
+  "aliases": [
+    "AFYON ÇİMENTO SANAYİ T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AFYON"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004A97"
+}

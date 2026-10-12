@@ -1,0 +1,20 @@
+{
+  "name": "Panora Gayrimenkul Yatırım Ortaklığı",
+  "slug": "panora-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.panoragyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c014134d6641f062a",
+  "hex": "FDCF09",
+  "aliases": [
+    "PANORA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PAGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

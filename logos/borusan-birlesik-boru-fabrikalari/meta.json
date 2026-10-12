@@ -1,0 +1,20 @@
+{
+  "name": "Borusan Birleşik Boru Fabrikaları",
+  "slug": "borusan-birlesik-boru-fabrikalari",
+  "website": "https://www.borusanboru.com",
+  "source": "https://www.borusanboru.com/Content/assets/images/logoDark.svg",
+  "aliases": [
+    "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRSAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F36929"
+}

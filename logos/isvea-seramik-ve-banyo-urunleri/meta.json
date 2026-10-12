@@ -1,0 +1,21 @@
+{
+  "name": "İsvea Seramik ve Banyo Ürünleri",
+  "slug": "isvea-seramik-ve-banyo-urunleri",
+  "website": "https://www.isvea.com.tr",
+  "source": "https://static.wixstatic.com/media/85510a_51323d7d36664d1cb8677df79df86c81~mv2.png/v1/fill/w_320,h_102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/isvea%20logo.png",
+  "aliases": [
+    "İSVEA SERAMİK VE BANYO ÜRÜNLERİ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISVEA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B41211",
+  "traced": true
+}

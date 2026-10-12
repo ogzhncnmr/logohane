@@ -1,0 +1,20 @@
+{
+  "name": "D Varlık Kiralama",
+  "slug": "d-varlik-kiralama",
+  "website": "https://www.dvarlikkiralama.com.tr",
+  "source": "https://www.dvarlikkiralama.com.tr/images/logo/logo.png",
+  "hex": "002857",
+  "aliases": [
+    "D VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DVRLK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

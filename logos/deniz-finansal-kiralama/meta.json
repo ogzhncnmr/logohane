@@ -1,0 +1,20 @@
+{
+  "name": "Deniz Finansal Kiralama",
+  "slug": "deniz-finansal-kiralama",
+  "website": "https://www.denizleasing.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed7101411793bae502d5",
+  "hex": "245597",
+  "aliases": [
+    "DENİZ FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DNFIN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

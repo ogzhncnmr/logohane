@@ -1,0 +1,20 @@
+{
+  "name": "Doğan Trend Otomotiv Ticaret Hizmet ve Teknoloji",
+  "slug": "dogan-trend-otomotiv-ticaret-hizmet-ve-teknoloji",
+  "website": "https://www.dogantrend.com/tr",
+  "source": "https://cdn.dogantrend.com/asset/images/dogan-trend-logo.webp?1",
+  "hex": "0A71CE",
+  "aliases": [
+    "DOĞAN TREND OTOMOTİV TİCARET HİZMET VE TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DTRND"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

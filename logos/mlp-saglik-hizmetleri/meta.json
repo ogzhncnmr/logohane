@@ -1,0 +1,20 @@
+{
+  "name": "Mlp Sağlık Hizmetleri",
+  "slug": "mlp-saglik-hizmetleri",
+  "website": "https://www.mlpcare.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1462cc5dd01465c9550782baa",
+  "hex": "F40505",
+  "aliases": [
+    "MLP SAĞLIK HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MPARK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

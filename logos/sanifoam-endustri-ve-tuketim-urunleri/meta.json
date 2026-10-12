@@ -1,0 +1,21 @@
+{
+  "name": "Sanifoam Endüstri ve Tüketim Ürünleri",
+  "slug": "sanifoam-endustri-ve-tuketim-urunleri",
+  "website": "https://www.sanifoam.com.tr",
+  "source": "https://www.sanifoam.com.tr/images/logo/logo.png",
+  "aliases": [
+    "SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SANFM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00B0F2",
+  "traced": true
+}

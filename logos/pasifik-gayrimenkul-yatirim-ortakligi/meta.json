@@ -1,0 +1,21 @@
+{
+  "name": "Pasifik Gayrimenkul Yatırım Ortaklığı",
+  "slug": "pasifik-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.pasifikgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4794d364a017a51e9e5d256c9",
+  "hex": "223D50",
+  "aliases": [
+    "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PSGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

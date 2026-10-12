@@ -1,0 +1,22 @@
+{
+  "name": "Merit Turizm Yatırım ve İşletme",
+  "slug": "merit-turizm-yatirim-ve-isletme",
+  "website": "https://www.meritturizm.com",
+  "source": "https://www.meritturizm.com/assets/images/logo@2x.png",
+  "aliases": [
+    "MERİT TURİZM YATIRIM VE İŞLETME A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MERIT"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "BB9A6A",
+  "traced": true
+}

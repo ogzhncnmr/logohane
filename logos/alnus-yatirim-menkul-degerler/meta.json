@@ -1,0 +1,25 @@
+{
+  "name": "Alnus Yatırım Menkul Değerler",
+  "slug": "alnus-yatirim-menkul-degerler",
+  "website": "https://www.alnusyatirim.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a141da49e50141e085b2112b8a",
+  "hex": "EE1C24",
+  "aliases": [
+    "ALNUS YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALNUS"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ANC"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

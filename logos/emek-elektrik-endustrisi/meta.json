@@ -1,0 +1,21 @@
+{
+  "name": "Emek Elektrik Endüstrisi",
+  "slug": "emek-elektrik-endustrisi",
+  "website": "https://www.emek.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241a25fcb0141a289218b0302",
+  "hex": "003A5C",
+  "aliases": [
+    "EMEK ELEKTRİK ENDÜSTRİSİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EMKEL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

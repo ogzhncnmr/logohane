@@ -1,0 +1,21 @@
+{
+  "name": "Bera Holding",
+  "slug": "bera-holding",
+  "website": "https://www.beraholding.com.tr",
+  "source": "https://beraholding.com.tr/images/logo.png",
+  "aliases": [
+    "BERA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BERA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C5131A",
+  "traced": true
+}

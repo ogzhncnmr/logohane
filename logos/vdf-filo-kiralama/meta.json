@@ -1,0 +1,20 @@
+{
+  "name": "Vdf Filo Kiralama",
+  "slug": "vdf-filo-kiralama",
+  "website": "https://www.vdffilo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c56faf888c0171e54394012909",
+  "hex": "29A4BC",
+  "aliases": [
+    "VDF FİLO KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VDFLO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

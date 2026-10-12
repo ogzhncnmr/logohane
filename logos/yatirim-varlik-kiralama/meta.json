@@ -1,0 +1,22 @@
+{
+  "name": "Yatırım Varlık Kiralama",
+  "slug": "yatirim-varlik-kiralama",
+  "website": "https://www.yatirimvks.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c56d759b01016e02beaf763330",
+  "hex": "092F88",
+  "aliases": [
+    "YATIRIM VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YATVK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "İnallar Otomotiv",
+  "slug": "inallar-otomotiv",
+  "website": "https://www.inallar.com.tr",
+  "source": "https://inallar.com.tr/template/inallar/images/inallar-logo.svg",
+  "aliases": [
+    "İNALLAR OTOMOTİV SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INALR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "231F20"
+}

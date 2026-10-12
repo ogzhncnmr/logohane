@@ -1,0 +1,20 @@
+{
+  "name": "Bakırcı Gayrimenkul Yatırım Ortaklığı",
+  "slug": "bakirci-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.bakircigyo.com.tr",
+  "source": "https://www.bakircigyo.com.tr/uploads/logo/footer-logo-ed1b20e073a9.svg",
+  "aliases": [
+    "BAKIRCI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BKRGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C89272"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Burgan Bank",
+  "slug": "burgan-bank",
+  "website": "https://www.burgan.com.tr",
+  "source": "https://www.burgan.com.tr/assets/img/BurganBank_Logo.png",
+  "aliases": [
+    "BURGAN BANK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRGAN"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "BUR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "006FAF",
+  "traced": true
+}

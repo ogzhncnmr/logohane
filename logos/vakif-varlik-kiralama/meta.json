@@ -1,0 +1,21 @@
+{
+  "name": "Vakıf Varlık Kiralama",
+  "slug": "vakif-varlik-kiralama",
+  "website": "https://www.vakifvarlikkiralama.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c45835eb6501589126775520fb",
+  "hex": "1B4E8F",
+  "aliases": [
+    "VAKIF VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VAKVK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

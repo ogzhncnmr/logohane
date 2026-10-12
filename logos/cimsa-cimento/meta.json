@@ -1,0 +1,21 @@
+{
+  "name": "Çimsa Çimento",
+  "slug": "cimsa-cimento",
+  "website": "https://www.cimsa.com.tr",
+  "source": "https://cimsa.com.tr/wp-content/uploads/2022/01/Cimsa-logo-Backgroundsuz.png",
+  "aliases": [
+    "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CIMSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004897",
+  "traced": true
+}

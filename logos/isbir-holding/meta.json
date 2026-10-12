@@ -1,0 +1,22 @@
+{
+  "name": "İşbir Holding",
+  "slug": "isbir-holding",
+  "website": "https://www.isbir.com.tr",
+  "source": "https://www.isbir.com.tr/wp-content/uploads/2019/05/isbir-holding.png",
+  "aliases": [
+    "İŞBİR HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISBIR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED1C24",
+  "traced": true
+}

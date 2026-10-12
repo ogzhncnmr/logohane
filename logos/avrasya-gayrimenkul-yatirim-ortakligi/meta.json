@@ -1,0 +1,20 @@
+{
+  "name": "Avrasya Gayrimenkul Yatırım Ortaklığı",
+  "slug": "avrasya-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.avrasyagyo.com.tr",
+  "source": "https://www.avrasyagyo.com.tr/storage/temp/public/a73/ea6/746/thumb_662_255_125_0_0_crop__255.png",
+  "aliases": [
+    "AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AVGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E20A16"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Lydia Holding",
+  "slug": "lydia-holding",
+  "website": "https://www.lydiaholding.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4701411763ed38047c",
+  "hex": "B59265",
+  "aliases": [
+    "LYDİA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LYDHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

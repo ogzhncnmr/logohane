@@ -1,0 +1,21 @@
+{
+  "name": "Teb Faktoring",
+  "slug": "teb-faktoring",
+  "website": "https://www.tebfaktoring.com.tr",
+  "source": "https://www.tebfaktoring.com.tr/assets/svg/logotype-color.svg",
+  "aliases": [
+    "TEB FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TEBFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "018959"
+}

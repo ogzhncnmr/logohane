@@ -1,0 +1,21 @@
+{
+  "name": "Rönesans Gayrimenkul Yatırım",
+  "slug": "ronesans-gayrimenkul-yatirim",
+  "website": "https://www.rgy.com.tr",
+  "source": "https://rgy.com.tr/content/files/logo-67836601785daa9886.07038753.svg",
+  "aliases": [
+    "RÖNESANS GAYRİMENKUL YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RGYAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004B8D"
+}

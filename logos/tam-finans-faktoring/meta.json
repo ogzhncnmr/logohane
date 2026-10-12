@@ -1,0 +1,21 @@
+{
+  "name": "Tam Finans Faktoring",
+  "slug": "tam-finans-faktoring",
+  "website": "https://www.tamfinans.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241da4bed0141dfd84e062851",
+  "hex": "851C67",
+  "aliases": [
+    "TAM FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TAMFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

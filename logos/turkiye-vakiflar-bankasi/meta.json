@@ -1,0 +1,25 @@
+{
+  "name": "Türkiye Vakıflar Bankası",
+  "slug": "turkiye-vakiflar-bankasi",
+  "website": "https://www.vakifbank.com.tr",
+  "source": "https://www.vakifbank.com.tr/Templates/Default/assets/img/logo.svg",
+  "aliases": [
+    "TÜRKİYE VAKIFLAR BANKASI T.A.O."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TVB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "VAKBN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FDB912"
+}

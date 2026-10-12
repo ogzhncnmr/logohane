@@ -1,0 +1,21 @@
+{
+  "name": "Kalkınma Yatırım Varlık Kiralama",
+  "slug": "kalkinma-yatirim-varlik-kiralama",
+  "website": "https://www.kalkinmavks.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c47afb298b017b638d20d840cd",
+  "hex": "EA1B23",
+  "aliases": [
+    "KALKINMA YATIRIM VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLVKS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

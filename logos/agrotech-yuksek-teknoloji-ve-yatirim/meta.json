@@ -1,0 +1,21 @@
+{
+  "name": "Agrotech Yüksek Teknoloji ve Yatırım",
+  "slug": "agrotech-yuksek-teknoloji-ve-yatirim",
+  "website": "https://www.agrotech.com.tr",
+  "source": "https://agrotech.com.tr/wp-content/uploads/2024/03/black.png",
+  "aliases": [
+    "AGROTECH YÜKSEK TEKNOLOJİ VE YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AGROT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0E572C",
+  "traced": true
+}

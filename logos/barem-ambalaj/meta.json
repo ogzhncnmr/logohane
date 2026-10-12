@@ -1,0 +1,21 @@
+{
+  "name": "Barem Ambalaj",
+  "slug": "barem-ambalaj",
+  "website": "https://www.baremambalaj.com",
+  "source": "https://baremambalaj.com/logo.png",
+  "aliases": [
+    "BAREM AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BARMA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "67676B"
+}

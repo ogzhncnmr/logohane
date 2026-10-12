@@ -1,0 +1,21 @@
+{
+  "name": "Eyg Gayrimenkul Yatırım Ortaklığı",
+  "slug": "eyg-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.eyggyo.com.tr",
+  "source": "https://www.eyggyo.com.tr/images/eyg_logo.png",
+  "aliases": [
+    "EYG GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EYGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B8834F",
+  "traced": true
+}

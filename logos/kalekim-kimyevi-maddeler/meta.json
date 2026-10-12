@@ -1,0 +1,20 @@
+{
+  "name": "Kalekim Kimyevi Maddeler",
+  "slug": "kalekim-kimyevi-maddeler",
+  "website": "https://www.kalekim.com.tr",
+  "source": "https://www.kalekim.com/",
+  "aliases": [
+    "KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLKIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EA5C52"
+}

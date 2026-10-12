@@ -1,0 +1,21 @@
+{
+  "name": "Dyo Boya Fabrikaları",
+  "slug": "dyo-boya-fabrikalari",
+  "website": "https://www.dyo.com.tr",
+  "source": "https://www.dyo.com.tr/Content/assets/img/logo.png",
+  "aliases": [
+    "DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DYOBY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D22031",
+  "traced": true
+}

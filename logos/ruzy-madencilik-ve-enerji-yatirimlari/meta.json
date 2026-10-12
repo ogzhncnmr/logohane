@@ -1,0 +1,20 @@
+{
+  "name": "Ruzy Madencilik ve Enerji Yatırımları",
+  "slug": "ruzy-madencilik-ve-enerji-yatirimlari",
+  "website": "https://www.ruzymadencilik.com.tr",
+  "source": "https://ruzymadencilik.com.tr/wp-content/themes/ruzy/assets/images/logo.svg",
+  "aliases": [
+    "RUZY MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RUZYE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "3A1317"
+}

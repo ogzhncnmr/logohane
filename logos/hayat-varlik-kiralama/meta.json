@@ -1,0 +1,21 @@
+{
+  "name": "Hayat Varlık Kiralama",
+  "slug": "hayat-varlik-kiralama",
+  "website": "https://www.hayatvarlikkiralama.com.tr",
+  "source": "https://www.hayatvarlikkiralama.com.tr/logo.png",
+  "aliases": [
+    "HAYAT VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HAYVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "193984",
+  "traced": true
+}

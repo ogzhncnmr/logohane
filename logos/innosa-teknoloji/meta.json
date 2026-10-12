@@ -1,0 +1,21 @@
+{
+  "name": "İnnosa Teknoloji",
+  "slug": "innosa-teknoloji",
+  "website": "https://www.innosateknoloji.com.tr",
+  "source": "https://www.innosateknoloji.com.tr/public/assets/images/logo/logo.png",
+  "aliases": [
+    "İNNOSA TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INTEK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0034A2",
+  "traced": true
+}

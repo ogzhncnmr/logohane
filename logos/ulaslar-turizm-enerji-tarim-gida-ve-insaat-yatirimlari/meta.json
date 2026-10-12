@@ -1,0 +1,21 @@
+{
+  "name": "Ulaşlar Turizm Enerji Tarım Gıda ve İnşaat Yatırımları",
+  "slug": "ulaslar-turizm-enerji-tarim-gida-ve-insaat-yatirimlari",
+  "website": "https://www.ulaslar.com.tr",
+  "source": "https://www.ulaslar.com.tr/assets/img/logoo.png",
+  "aliases": [
+    "ULAŞLAR TURİZM ENERJİ TARIM GIDA VE İNŞAAT YATIRIMLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ULAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D86B0F",
+  "traced": true
+}

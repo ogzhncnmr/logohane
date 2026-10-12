@@ -1,0 +1,24 @@
+{
+  "name": "Ak Yatırım Menkul Değerler",
+  "slug": "ak-yatirim-menkul-degerler",
+  "website": "https://www.akyatirim.com.tr",
+  "source": "https://www.akyatirim.com.tr/images/logo.svg",
+  "aliases": [
+    "AK YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKM"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "AKMEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DA1E25"
+}

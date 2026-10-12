@@ -1,0 +1,22 @@
+{
+  "name": "Sümer Faktoring",
+  "slug": "sumer-faktoring",
+  "website": "https://www.sumerfaktoring.com.tr",
+  "source": "https://sumerfaktoring.com/wp-content/uploads/2022/09/7business-hd-e1663139878731.png",
+  "aliases": [
+    "SÜMER FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SMRFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "292679",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt",
+  "slug": "lokman-hekim-engurusag-saglik-turizm-egitim-hizmetleri-ve-insaat-taahhut",
+  "website": "https://www.lokmanhekim.com.tr",
+  "source": "https://lokmanhekim.com.tr/wp-content/uploads/2026/05/Logo.svg",
+  "aliases": [
+    "LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LKMNH"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0094DA"
+}

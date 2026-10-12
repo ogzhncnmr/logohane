@@ -1,0 +1,21 @@
+{
+  "name": "Nasmed Özel Sağlık Hizmetleri",
+  "slug": "nasmed-ozel-saglik-hizmetleri",
+  "website": "https://www.egepolhastanesi.com",
+  "source": "https://www.egepolhastanesi.com/wp-content/uploads/2023/09/EGEPOL_HASTANELERI%CC%87_Mavi-1024x273.png",
+  "hex": "173765",
+  "aliases": [
+    "NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EGEPO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

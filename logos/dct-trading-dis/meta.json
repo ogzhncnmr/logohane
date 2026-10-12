@@ -1,0 +1,21 @@
+{
+  "name": "Dct Trading Dış",
+  "slug": "dct-trading-dis",
+  "website": "https://www.dcttrading.com.tr/tr",
+  "source": "https://www.dcttrading.com.tr/asset/img/logo.png",
+  "aliases": [
+    "DCT TRADİNG DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DCTTR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "BF9C60",
+  "traced": true
+}

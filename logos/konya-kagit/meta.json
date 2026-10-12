@@ -1,0 +1,20 @@
+{
+  "name": "Konya Kağıt",
+  "slug": "konya-kagit",
+  "website": "https://www.konyakagit.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a244a08180014619dea2160482",
+  "hex": "ED1B24",
+  "aliases": [
+    "KONYA KAĞIT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KONKA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

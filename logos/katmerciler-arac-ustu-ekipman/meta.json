@@ -1,0 +1,20 @@
+{
+  "name": "Katmerciler Araç Üstü Ekipman",
+  "slug": "katmerciler-arac-ustu-ekipman",
+  "website": "https://www.katmerciler.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14184e9cf01419c001e945a74",
+  "hex": "A42A25",
+  "aliases": [
+    "KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KATMR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

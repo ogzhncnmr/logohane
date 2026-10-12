@@ -1,0 +1,21 @@
+{
+  "name": "Ofis Yem Gıda",
+  "slug": "ofis-yem-gida",
+  "website": "https://www.ofisyem.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c510189bf5dfc710286",
+  "hex": "0F145B",
+  "aliases": [
+    "OFİS YEM GIDA SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OFSYM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

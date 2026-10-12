@@ -1,0 +1,20 @@
+{
+  "name": "Bizim Toptan Satış Mağazaları",
+  "slug": "bizim-toptan-satis-magazalari",
+  "website": "https://www.bizimtoptan.com.tr",
+  "source": "https://img-bizimtoptan.mncdn.com/Content/Images/Thumbs/1689417.svg",
+  "aliases": [
+    "BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIZIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0156A4"
+}

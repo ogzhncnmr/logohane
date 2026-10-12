@@ -1,0 +1,20 @@
+{
+  "name": "Tat Gıda",
+  "slug": "tat-gida",
+  "website": "https://www.tatgida.com",
+  "source": "https://tatgida.azureedge.net/wp-prod/wp-content/uploads/2023/09/tat-logo@3x.png",
+  "aliases": [
+    "TAT GIDA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TATGD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E22726"
+}

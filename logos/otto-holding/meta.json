@@ -1,0 +1,21 @@
+{
+  "name": "Otto Holding",
+  "slug": "otto-holding",
+  "website": "https://www.ottoholding.com.tr",
+  "source": "https://ottoholding.com.tr/wp-content/uploads/2023/10/otto_bronz_logo_1024x1024.webp",
+  "aliases": [
+    "OTTO HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OTTO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B2896F",
+  "traced": true
+}

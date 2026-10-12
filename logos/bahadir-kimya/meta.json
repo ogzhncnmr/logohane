@@ -1,0 +1,21 @@
+{
+  "name": "Bahadır Kimya",
+  "slug": "bahadir-kimya",
+  "website": "https://www.bahadirkimya.com.tr",
+  "source": "https://www.bahadirkimya.com.tr/public/images/bahadirkimya-logo2.png",
+  "aliases": [
+    "BAHADIR KİMYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BAHKM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1E2863",
+  "traced": true
+}

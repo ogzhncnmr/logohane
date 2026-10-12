@@ -1,0 +1,20 @@
+{
+  "name": "Mint Finansman",
+  "slug": "mint-finansman",
+  "website": "https://www.mintfinansman.com.tr",
+  "source": "https://www.mintfinansman.com.tr/assets/img/logo/logo.png",
+  "hex": "01757A",
+  "aliases": [
+    "MİNT FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MINTF"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

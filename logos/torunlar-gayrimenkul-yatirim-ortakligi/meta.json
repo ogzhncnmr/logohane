@@ -1,0 +1,20 @@
+{
+  "name": "Torunlar Gayrimenkul Yatırım Ortaklığı",
+  "slug": "torunlar-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.torunlargyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1413b7ef5014144f83882011f",
+  "hex": "D60C28",
+  "aliases": [
+    "TORUNLAR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Lila Kağıt",
+  "slug": "lila-kagit",
+  "website": "https://www.lilakagit.com",
+  "source": "https://lilakagit.com/wp-content/themes/lila_backend/dist/img/lilakagit.svg",
+  "aliases": [
+    "LİLA KAĞIT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LILAK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "099E49"
+}

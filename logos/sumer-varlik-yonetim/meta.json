@@ -1,0 +1,22 @@
+{
+  "name": "Sümer Varlık Yönetim",
+  "slug": "sumer-varlik-yonetim",
+  "website": "https://www.sumervarlik.com.tr",
+  "source": "https://www.sumervarlik.com.tr/content/img/sumer.png",
+  "aliases": [
+    "SÜMER VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SMRVA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "22459D",
+  "traced": true
+}

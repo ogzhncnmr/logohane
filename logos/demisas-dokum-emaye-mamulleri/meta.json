@@ -1,0 +1,21 @@
+{
+  "name": "Demisaş Döküm Emaye Mamülleri",
+  "slug": "demisas-dokum-emaye-mamulleri",
+  "website": "https://www.demisas.com.tr",
+  "source": "https://demisas.com/Assets/Logos/demisas_logo.png",
+  "aliases": [
+    "DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DMSAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DB1F2C",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Akçansa Çimento",
+  "slug": "akcansa-cimento",
+  "website": "https://www.akcansa.com.tr",
+  "source": "https://www.akcansa.com.tr/wp-content/uploads/2026/09/AKCANSA_logo-1-scaled.png",
+  "aliases": [
+    "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKCNS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "06502B",
+  "traced": true
+}

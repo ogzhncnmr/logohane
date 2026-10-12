@@ -1,0 +1,24 @@
+{
+  "name": "Yapı Kredi Yatırım Menkul Değerler",
+  "slug": "yapi-kredi-yatirim-menkul-degerler",
+  "website": "https://www.ykyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01412ae47c99052d",
+  "hex": "0C356E",
+  "aliases": [
+    "YAPI KREDİ YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YKR"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "YKYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

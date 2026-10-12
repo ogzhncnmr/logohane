@@ -1,0 +1,21 @@
+{
+  "name": "Yapı Kredi Faktoring",
+  "slug": "yapi-kredi-faktoring",
+  "website": "https://www.yapikredifaktoring.com.tr",
+  "source": "https://www.yapikredifaktoring.com.tr/Assets/Build/assets/img/header/logo@3x.png",
+  "aliases": [
+    "YAPI KREDİ FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YKFKT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004689",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Mobiltel İletişim Hizmetleri",
+  "slug": "mobiltel-iletisim-hizmetleri",
+  "website": "https://www.mobiltel.com.tr",
+  "source": "https://www.mobiltel.com.tr/",
+  "aliases": [
+    "MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MOBTL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00377C"
+}

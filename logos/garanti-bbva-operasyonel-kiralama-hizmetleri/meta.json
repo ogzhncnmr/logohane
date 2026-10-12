@@ -1,0 +1,22 @@
+{
+  "name": "Garanti Bbva Operasyonel Kiralama Hizmetleri",
+  "slug": "garanti-bbva-operasyonel-kiralama-hizmetleri",
+  "website": "https://www.garantibbvakirala.com.tr",
+  "source": "https://garantibbvakirala.com.tr/_next/static/media/logo.cfeac0f1.png",
+  "aliases": [
+    "GARANTİ BBVA OPERASYONEL KİRALAMA HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GARFL"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004787",
+  "traced": true
+}

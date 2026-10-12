@@ -1,0 +1,22 @@
+{
+  "name": "Trabzon Liman İşletmeciliği",
+  "slug": "trabzon-liman-isletmeciligi",
+  "website": "https://www.trabzonport.com.tr",
+  "source": "https://www.trabzonport.com.tr/wp-content/uploads/2020/06/logo.png",
+  "aliases": [
+    "TRABZON LİMAN İŞLETMECİLİĞİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TLMAN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1B4178",
+  "traced": true
+}

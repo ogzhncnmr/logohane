@@ -1,0 +1,20 @@
+{
+  "name": "Zorlu Enerji Elektrik Üretim",
+  "slug": "zorlu-enerji-elektrik-uretim",
+  "website": "https://www.zorluenerji.com.tr",
+  "source": "https://www.zorluenerji.com.tr/_assets/images/logo/logo.svg",
+  "aliases": [
+    "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZOREN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C61E48"
+}

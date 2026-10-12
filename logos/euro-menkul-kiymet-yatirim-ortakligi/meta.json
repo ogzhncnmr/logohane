@@ -1,0 +1,22 @@
+{
+  "name": "Euro Menkul Kıymet Yatırım Ortaklığı",
+  "slug": "euro-menkul-kiymet-yatirim-ortakligi",
+  "website": "https://www.euroyatirimortakligi.com",
+  "source": "https://euroyatirimortakligi.com/wp-content/uploads/2023/11/logoeuro-2.png",
+  "aliases": [
+    "EURO MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EUYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2F72F3",
+  "traced": true
+}

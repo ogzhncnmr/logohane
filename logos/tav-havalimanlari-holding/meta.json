@@ -1,0 +1,20 @@
+{
+  "name": "Tav Havalimanları Holding",
+  "slug": "tav-havalimanlari-holding",
+  "website": "https://www.tavhavalimanlari.com.tr",
+  "source": "https://tavairports.com/images/TAV-Airport-International-logo.svg",
+  "aliases": [
+    "TAV HAVALİMANLARI HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TAVHL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "101872"
+}

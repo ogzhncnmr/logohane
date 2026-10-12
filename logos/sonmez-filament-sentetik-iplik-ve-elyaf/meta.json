@@ -1,0 +1,20 @@
+{
+  "name": "Sönmez Filament Sentetik İplik ve Elyaf",
+  "slug": "sonmez-filament-sentetik-iplik-ve-elyaf",
+  "website": "https://www.sonmezfilament.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01412ad6196104d2",
+  "hex": "122753",
+  "aliases": [
+    "SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SONME"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

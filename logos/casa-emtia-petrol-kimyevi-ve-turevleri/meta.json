@@ -1,0 +1,22 @@
+{
+  "name": "Casa Emtia Petrol Kimyevi ve Türevleri",
+  "slug": "casa-emtia-petrol-kimyevi-ve-turevleri",
+  "website": "https://www.casaemtia.com.tr",
+  "source": "https://www.casaemtia.com.tr/images/logo2.png",
+  "aliases": [
+    "CASA EMTİA PETROL KİMYEVİ VE TÜREVLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CASA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "011F5E",
+  "traced": true
+}

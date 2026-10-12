@@ -1,0 +1,20 @@
+{
+  "name": "Gate Group Teknoloji Medya ve Siber Güvenlik Hizmetleri",
+  "slug": "gate-group-teknoloji-medya-ve-siber-guvenlik-hizmetleri",
+  "website": "https://www.gategroup.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/402821824bf524dd014c27907cd65b79",
+  "hex": "061C96",
+  "aliases": [
+    "GATE GROUP TEKNOLOJİ MEDYA VE SİBER GÜVENLİK HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GATEG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

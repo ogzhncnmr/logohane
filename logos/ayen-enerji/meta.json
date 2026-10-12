@@ -1,0 +1,21 @@
+{
+  "name": "Ayen Enerji",
+  "slug": "ayen-enerji",
+  "website": "https://www.ayen.com.tr",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1650550",
+  "aliases": [
+    "AYEN ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AYEN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "hex": "EC0123",
+  "updated": "2026-10-12"
+}

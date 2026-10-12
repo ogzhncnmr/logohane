@@ -1,0 +1,20 @@
+{
+  "name": "Rainbow Polikarbonat",
+  "slug": "rainbow-polikarbonat",
+  "website": "https://www.rainbowpc.com.tr",
+  "source": "https://rainbowpc.com.tr/images/logo/7873626991644-374-rainbow_logo-220px.png",
+  "aliases": [
+    "RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RNPOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "023A7D"
+}

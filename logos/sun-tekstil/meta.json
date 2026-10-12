@@ -1,0 +1,21 @@
+{
+  "name": "Sun Tekstil",
+  "slug": "sun-tekstil",
+  "website": "https://www.suntekstil.com.tr",
+  "source": "https://www.suntekstil.com.tr/wp-content/uploads/2021/03/suntekstil_color.png",
+  "aliases": [
+    "SUN TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SUNTK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "01168A",
+  "traced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Duran Doğan Basım ve Ambalaj",
+  "slug": "duran-dogan-basim-ve-ambalaj",
+  "website": "https://www.durandogan.com",
+  "source": "https://www.durandogan.com/wp-content/uploads/2022/01/duran-logo-retina.png",
+  "aliases": [
+    "DURAN DOĞAN BASIM VE AMBALAJ SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DURDO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "8E282B",
+  "traced": true
+}

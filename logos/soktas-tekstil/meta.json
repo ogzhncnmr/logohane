@@ -1,0 +1,21 @@
+{
+  "name": "Söktaş Tekstil",
+  "slug": "soktas-tekstil",
+  "website": "https://www.soktasgroup.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f275530140f27bc043017d",
+  "hex": "512C6D",
+  "aliases": [
+    "SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SKTAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

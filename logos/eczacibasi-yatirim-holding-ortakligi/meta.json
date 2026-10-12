@@ -1,0 +1,20 @@
+{
+  "name": "Eczacıbaşı Yatırım Holding Ortaklığı",
+  "slug": "eczacibasi-yatirim-holding-ortakligi",
+  "website": "https://www.eyh.eczacibasi.com.tr",
+  "source": "https://eyh.eczacibasi.com.tr/Images/ecz-logo.png",
+  "aliases": [
+    "ECZACIBAŞI YATIRIM HOLDİNG ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ECZYT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F79468"
+}

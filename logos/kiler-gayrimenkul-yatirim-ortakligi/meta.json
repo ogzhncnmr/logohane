@@ -1,0 +1,20 @@
+{
+  "name": "Kiler Gayrimenkul Yatırım Ortaklığı",
+  "slug": "kiler-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.kilergyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2415f4f8101415f7009a809a2",
+  "hex": "032F59",
+  "aliases": [
+    "KİLER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KLGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Gentaş Kimya Sanayi ve Ticaret Pazarlama",
+  "slug": "gentas-kimya-sanayi-ve-ticaret-pazarlama",
+  "website": "https://www.gentaskimya.com",
+  "source": "https://gentaskimya.com/wp-content/uploads/2025/10/logo.png",
+  "aliases": [
+    "GENTAŞ KİMYA SANAYİ VE TİCARET PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GENKM"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1C5BA5",
+  "traced": true
+}

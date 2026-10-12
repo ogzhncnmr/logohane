@@ -1,0 +1,21 @@
+{
+  "name": "Rodrigo Tekstil",
+  "slug": "rodrigo-tekstil",
+  "website": "https://www.rodrigo.com.tr",
+  "source": "https://rodrigo.com/cdn/shop/files/Rodrigo.png?v=1769601643&width=500",
+  "aliases": [
+    "RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RODRG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "543D30",
+  "traced": true
+}

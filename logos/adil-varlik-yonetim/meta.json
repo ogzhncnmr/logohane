@@ -1,0 +1,20 @@
+{
+  "name": "Adil Varlık Yönetim",
+  "slug": "adil-varlik-yonetim",
+  "website": "https://www.adilvarlik.com.tr",
+  "source": "https://www.adilvarlik.com.tr/assets/adil-logo-GO9tDdGm.svg",
+  "aliases": [
+    "ADİL VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ADLVY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "203562"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tuğçelik Alüminyum ve Metal Mamülleri",
+  "slug": "tugcelik-aluminyum-ve-metal-mamulleri",
+  "website": "https://www.tugcelik.com.tr",
+  "source": "https://www.tugcelik.com.tr/tr/assets/images/logo.svg",
+  "aliases": [
+    "TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TUCLK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1374BC"
+}

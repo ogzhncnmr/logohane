@@ -1,0 +1,20 @@
+{
+  "name": "Bak Ambalaj",
+  "slug": "bak-ambalaj",
+  "website": "https://www.bakambalaj.com.tr",
+  "source": "https://www.bakambalaj.com.tr/images/bak-ambalaj-logo.svg?v=3_ar85Gjb75UhQ4wMotPOdkbDdbJG9B1vd2BjN3ppCk",
+  "aliases": [
+    "BAK AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BAKAB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "B02C36"
+}

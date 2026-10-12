@@ -1,0 +1,22 @@
+{
+  "name": "Kuyaş Yatırım",
+  "slug": "kuyas-yatirim",
+  "website": "https://www.kuyas.com.tr",
+  "source": "https://kuyas.com.tr/wp-content/uploads/2023/01/Kuyas-Logo.png",
+  "aliases": [
+    "KUYAŞ YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KUYAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "987952",
+  "traced": true
+}

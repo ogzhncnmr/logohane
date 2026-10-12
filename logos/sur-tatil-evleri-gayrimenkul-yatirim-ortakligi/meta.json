@@ -1,0 +1,21 @@
+{
+  "name": "Sur Tatil Evleri Gayrimenkul Yatırım Ortaklığı",
+  "slug": "sur-tatil-evleri-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.surtatilevlerigyo.com.tr",
+  "source": "https://www.surtatilevlerigyo.com.tr/dosyalar/site_resim/ayar/4416254.png",
+  "aliases": [
+    "SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SURGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "29317E",
+  "traced": true
+}

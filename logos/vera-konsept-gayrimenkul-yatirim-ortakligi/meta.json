@@ -1,0 +1,20 @@
+{
+  "name": "Vera Konsept Gayrimenkul Yatırım Ortaklığı",
+  "slug": "vera-konsept-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.verakonseptgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c486d22a3a018b27e15c37493e",
+  "hex": "032E6E",
+  "aliases": [
+    "VERA KONSEPT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VRGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

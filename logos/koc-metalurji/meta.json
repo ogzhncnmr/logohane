@@ -1,0 +1,21 @@
+{
+  "name": "Koç Metalurji",
+  "slug": "koc-metalurji",
+  "website": "https://www.kocmetalurji.com.tr",
+  "source": "https://www.kocmetalurji.com.tr/images/logo/7619519430641-503-KO%C3%87%20LOGO-2024-1.png",
+  "aliases": [
+    "KOÇ METALURJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KOCMT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "216CE9",
+  "traced": true
+}

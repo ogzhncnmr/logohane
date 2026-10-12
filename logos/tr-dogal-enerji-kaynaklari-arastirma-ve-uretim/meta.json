@@ -1,0 +1,20 @@
+{
+  "name": "Tr Doğal Enerji Kaynakları Araştırma ve Üretim",
+  "slug": "tr-dogal-enerji-kaynaklari-arastirma-ve-uretim",
+  "website": "https://www.trdogalenerji.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2422d9a6e0142bd9255a37a70",
+  "hex": "D2A544",
+  "aliases": [
+    "TR DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRENJ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

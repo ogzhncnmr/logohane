@@ -1,0 +1,21 @@
+{
+  "name": "Hürriyet Gazetecilik ve Matbaacılık",
+  "slug": "hurriyet-gazetecilik-ve-matbaacilik",
+  "website": "https://www.hurriyetkurumsal.com",
+  "source": "https://www.hurriyetkurumsal.com/wp-content/uploads/2020/11/logo.png",
+  "aliases": [
+    "HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HURGZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED0C10",
+  "traced": true
+}

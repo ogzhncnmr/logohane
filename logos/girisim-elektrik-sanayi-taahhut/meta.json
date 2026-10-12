@@ -1,0 +1,20 @@
+{
+  "name": "Girişim Elektrik Sanayi Taahhüt",
+  "slug": "girisim-elektrik-sanayi-taahhut",
+  "website": "https://www.girisimelk.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4794d364a017af66863e41bae",
+  "hex": "F42B2C",
+  "aliases": [
+    "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GESAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

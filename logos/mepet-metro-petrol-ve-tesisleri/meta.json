@@ -1,0 +1,20 @@
+{
+  "name": "Mepet Metro Petrol ve Tesisleri",
+  "slug": "mepet-metro-petrol-ve-tesisleri",
+  "website": "https://www.metropetrol.com.tr",
+  "source": "https://www.metropetrol.com.tr/Content/images/metropetrol-logo.png",
+  "hex": "FF6A01",
+  "aliases": [
+    "MEPET METRO PETROL VE TESİSLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEPET"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

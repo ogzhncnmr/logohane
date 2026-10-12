@@ -1,0 +1,21 @@
+{
+  "name": "Elite Naturel Organik Gıda",
+  "slug": "elite-naturel-organik-gida",
+  "website": "https://www.elitenaturel.com",
+  "source": "https://elitenaturel.com/wp-content/uploads/2025/11/cropped-Elite_Organic.png",
+  "aliases": [
+    "ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ELITE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E60445",
+  "traced": true
+}

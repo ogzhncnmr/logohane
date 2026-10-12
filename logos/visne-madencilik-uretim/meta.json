@@ -1,0 +1,21 @@
+{
+  "name": "Vişne Madencilik Üretim",
+  "slug": "visne-madencilik-uretim",
+  "website": "https://www.visnemadencilik.com",
+  "source": "https://visnemadencilik.com/images/logo-tr.webp",
+  "aliases": [
+    "VİŞNE MADENCİLİK ÜRETİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VSNMD"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0332A5"
+}

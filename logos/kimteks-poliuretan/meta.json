@@ -1,0 +1,21 @@
+{
+  "name": "Kimteks Poliüretan",
+  "slug": "kimteks-poliuretan",
+  "website": "https://www.kimpur.com",
+  "source": "https://kimpur.com/wp-content/uploads/2025/02/kimpur_logo.svg",
+  "aliases": [
+    "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KMPUR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "732383"
+}

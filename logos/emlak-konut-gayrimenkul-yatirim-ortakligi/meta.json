@@ -1,0 +1,21 @@
+{
+  "name": "Emlak Konut Gayrimenkul Yatırım Ortaklığı",
+  "slug": "emlak-konut-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.emlakkonut.com.tr",
+  "source": "https://www.emlakkonut.com.tr/images/uploads/original/a2abeff298c74a47979b167c183d8544.png",
+  "aliases": [
+    "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004F9F",
+  "traced": true
+}

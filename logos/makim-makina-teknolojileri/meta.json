@@ -1,0 +1,21 @@
+{
+  "name": "Makim Makina Teknolojileri",
+  "slug": "makim-makina-teknolojileri",
+  "website": "https://www.makim.com.tr",
+  "source": "https://framerusercontent.com/images/eNVTI5dSgDdDUUR0NtsCg6xII.png",
+  "aliases": [
+    "MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MAKIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "14457D",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Margün Enerji Üretim",
+  "slug": "margun-enerji-uretim",
+  "website": "https://www.margunenerji.com.tr",
+  "source": "https://framerusercontent.com/images/n5d5nYhZu2wVwMFlpoZWD6VYBeQ.png?width=304&height=103",
+  "aliases": [
+    "MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MAGEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "ED6707",
+  "traced": true
+}

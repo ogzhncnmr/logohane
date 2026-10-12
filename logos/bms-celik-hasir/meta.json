@@ -1,0 +1,21 @@
+{
+  "name": "Bms Çelik Hasır",
+  "slug": "bms-celik-hasir",
+  "website": "https://www.bmsch.com.tr",
+  "source": "https://www.bmsch.com.tr/wp-content/uploads/2023/09/bms-celik-yeni-logo-1.png",
+  "aliases": [
+    "BMS ÇELİK HASIR SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BMSCH"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "325573",
+  "traced": true
+}

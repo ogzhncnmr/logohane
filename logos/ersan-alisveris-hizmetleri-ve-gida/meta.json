@@ -1,0 +1,22 @@
+{
+  "name": "Ersan Alışveriş Hizmetleri ve Gıda",
+  "slug": "ersan-alisveris-hizmetleri-ve-gida",
+  "website": "https://www.kimmarket.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5794d3d6a01795f597b820707",
+  "hex": "EC1F27",
+  "aliases": [
+    "ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KIMMR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ziraat Gayrimenkul Yatırım Ortaklığı",
+  "slug": "ziraat-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.ziraatgyo.com.tr",
+  "source": "https://www.ziraatgyo.com.tr/media/1jkp5msc/logo-gyo.svg",
+  "aliases": [
+    "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZRGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D20810"
+}

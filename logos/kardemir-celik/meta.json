@@ -1,0 +1,21 @@
+{
+  "name": "Kardemir Çelik",
+  "slug": "kardemir-celik",
+  "website": "https://www.kar-demir.com.tr",
+  "source": "https://www.kar-demir.com.tr/wp-content/uploads/2024/07/kardemir-logo-new-1.png",
+  "aliases": [
+    "KARDEMİR ÇELİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KARCL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1D1E1C",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ekinciler Demir ve Çelik",
+  "slug": "ekinciler-demir-ve-celik",
+  "website": "https://www.ekinciler.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241558bd9014155d8e91505c8",
+  "hex": "033376",
+  "aliases": [
+    "EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKDMR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

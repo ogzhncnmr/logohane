@@ -1,0 +1,21 @@
+{
+  "name": "Bien Yapı Ürünleri Sanayi Turizm",
+  "slug": "bien-yapi-urunleri-sanayi-turizm",
+  "website": "https://www.bienseramik.com.tr",
+  "source": "https://www.bienseramik.com.tr/cms/phpThumb.php?src=../uploads/logo-dark.png&w=240&f=png",
+  "aliases": [
+    "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIENY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "221F20",
+  "traced": true
+}

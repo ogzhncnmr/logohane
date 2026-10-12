@@ -1,0 +1,20 @@
+{
+  "name": "Net Holding",
+  "slug": "net-holding",
+  "website": "https://www.netholding.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed7101412ba0829f034d",
+  "hex": "2E5494",
+  "aliases": [
+    "NET HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NTHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Servet Gayrimenkul Yatırım Ortaklığı",
+  "slug": "servet-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.servetgyo.com.tr",
+  "source": "https://servetgyo.com.tr/content/assets/images/servet-gyo-logo.svg",
+  "aliases": [
+    "SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SRVGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "960148"
+}

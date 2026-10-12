@@ -1,0 +1,21 @@
+{
+  "name": "Sanica Isı",
+  "slug": "sanica-isi",
+  "website": "https://www.sanicaisi.com.tr",
+  "source": "https://www.sanicaisi.com.tr/wp-content/uploads/2020/12/sanica-isi.png",
+  "aliases": [
+    "SANİCA ISI SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SNICA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

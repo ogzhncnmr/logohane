@@ -1,0 +1,21 @@
+{
+  "name": "Dimes Gıda",
+  "slug": "dimes-gida",
+  "website": "https://www.dimes.com.tr",
+  "source": "https://www.dimes.com.tr/assets/img/logo-yeni.png",
+  "aliases": [
+    "DİMES GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DIMES"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E50A4C",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bursa Çimento Fabrikası",
+  "slug": "bursa-cimento-fabrikasi",
+  "website": "https://www.bursacimento.com.tr",
+  "source": "https://www.bursacimento.com.tr/images/pics_logoPanel.png",
+  "aliases": [
+    "BURSA ÇİMENTO FABRİKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BUCIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "137252"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Koray Gayrimenkul Yatırım Ortaklığı",
+  "slug": "koray-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.koraygyo.com",
+  "source": "https://www.koraygyo.com/storage/logo.png",
+  "aliases": [
+    "KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "000000",
+  "traced": true
+}

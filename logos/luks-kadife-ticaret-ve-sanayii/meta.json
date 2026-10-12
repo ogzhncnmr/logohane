@@ -1,0 +1,20 @@
+{
+  "name": "Lüks Kadife Ticaret ve Sanayii",
+  "slug": "luks-kadife-ticaret-ve-sanayii",
+  "website": "https://www.lukskadife.com.tr",
+  "source": "https://www.lukskadife.com.tr/assets/images/logo/color.svg",
+  "aliases": [
+    "LÜKS KADİFE TİCARET VE SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LUKSK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D13363"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri",
+  "slug": "yibitas-yozgat-isci-birligi-insaat-malzemeleri",
+  "website": "https://www.yibitasyozgat.com",
+  "source": "https://www.yibitasyozgat.com/inc/uploads/votorantim-logo-1.png",
+  "aliases": [
+    "YİBİTAŞ YOZGAT İŞÇİ BİRLİĞİ İNŞAAT MALZEMELERİ TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YBTAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0000C6",
+  "traced": true
+}

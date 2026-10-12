@@ -1,0 +1,20 @@
+{
+  "name": "Kuştur Kuşadası Turizm Endüstrisi",
+  "slug": "kustur-kusadasi-turizm-endustrisi",
+  "website": "https://www.kusturclub.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a141462df201414f97fa07221a",
+  "hex": "6479EB",
+  "aliases": [
+    "KUŞTUR KUŞADASI TURİZM ENDÜSTRİSİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KSTUR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

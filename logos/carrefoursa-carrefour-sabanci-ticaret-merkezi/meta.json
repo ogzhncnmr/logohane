@@ -1,0 +1,20 @@
+{
+  "name": "Carrefoursa Carrefour Sabancı Ticaret Merkezi",
+  "slug": "carrefoursa-carrefour-sabanci-ticaret-merkezi",
+  "website": "https://www.carrefoursa.com",
+  "source": "https://images.csfour.com/staticimage/carrefoursacom-logo.svg",
+  "aliases": [
+    "CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CRFSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "004F9C"
+}

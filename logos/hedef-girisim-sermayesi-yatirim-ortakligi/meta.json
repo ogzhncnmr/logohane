@@ -1,0 +1,21 @@
+{
+  "name": "Hedef Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "hedef-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.hedefgirisim.com.tr",
+  "source": "https://www.hedefgirisim.com.tr/",
+  "aliases": [
+    "HEDEF GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HDFGS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "07B203"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Hektaş",
+  "slug": "hektas",
+  "website": "https://www.hektas.com.tr",
+  "source": "https://hektas.com.tr/",
+  "aliases": [
+    "HEKTAŞ TİCARET T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HEKTS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "007938"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Efor Yatırım",
+  "slug": "efor-yatirim",
+  "website": "https://www.eforcay.com",
+  "source": "https://www.eforcay.com/storage/logo/logo-cliEp5ONs6.svg",
+  "aliases": [
+    "EFOR YATIRIM SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EFOR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "161615"
+}

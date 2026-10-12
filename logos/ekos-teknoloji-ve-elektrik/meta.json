@@ -1,0 +1,22 @@
+{
+  "name": "Ekos Teknoloji ve Elektrik",
+  "slug": "ekos-teknoloji-ve-elektrik",
+  "website": "https://www.ekoselectric.com",
+  "source": "https://ekoselectric.com/",
+  "aliases": [
+    "EKOS TEKNOLOJİ VE ELEKTRİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKOS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark",
+    "symbol",
+    "symbol-dark"
+  ],
+  "updated": "2026-10-12"
+}

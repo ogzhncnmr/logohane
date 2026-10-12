@@ -1,0 +1,20 @@
+{
+  "name": "İndeks Bilgisayar Sistemleri Mühendislik",
+  "slug": "indeks-bilgisayar-sistemleri-muhendislik",
+  "website": "https://www.index.com.tr",
+  "source": "https://www.index.com.tr/Content/assets/images/logoRed.svg",
+  "aliases": [
+    "İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INDES"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EE2027"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "İzmir Demir Çelik",
+  "slug": "izmir-demir-celik",
+  "website": "https://www.izdemir.com.tr",
+  "source": "https://www.izdemir.com.tr/assets/svg/logotype-color.svg",
+  "aliases": [
+    "İZMİR DEMİR ÇELİK SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IZMDC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "05357A"
+}

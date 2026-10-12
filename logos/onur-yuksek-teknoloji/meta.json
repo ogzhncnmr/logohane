@@ -1,0 +1,21 @@
+{
+  "name": "Onur Yüksek Teknoloji",
+  "slug": "onur-yuksek-teknoloji",
+  "website": "https://www.onur.net",
+  "source": "https://www.onur.net/wp-content/uploads/2024/01/Asset-1-1.svg",
+  "aliases": [
+    "ONUR YÜKSEK TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ONRYT"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005292"
+}

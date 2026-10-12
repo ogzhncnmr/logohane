@@ -1,0 +1,20 @@
+{
+  "name": "Mopaş Marketçilik Gıda",
+  "slug": "mopas-marketcilik-gida",
+  "website": "https://www.mopas.com.tr",
+  "source": "https://cdngeneral.mopas.com.tr/mopascdncontainer/mopasStaticImages/siteImages/logo.png",
+  "aliases": [
+    "MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MOPAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

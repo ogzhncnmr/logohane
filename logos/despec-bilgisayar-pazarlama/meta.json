@@ -1,0 +1,21 @@
+{
+  "name": "Despec Bilgisayar Pazarlama",
+  "slug": "despec-bilgisayar-pazarlama",
+  "website": "https://www.despec.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2416e697d01416ea9d5741424",
+  "hex": "0295D7",
+  "aliases": [
+    "DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DESPC"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

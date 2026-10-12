@@ -1,0 +1,20 @@
+{
+  "name": "İş Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "is-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.isgirisim.com.tr",
+  "source": "https://www.isgirisim.com.tr/img/logo.svg",
+  "aliases": [
+    "İŞ GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISGSY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "13499C"
+}

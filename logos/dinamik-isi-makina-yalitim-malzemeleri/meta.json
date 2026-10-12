@@ -1,0 +1,21 @@
+{
+  "name": "Dinamik Isı Makina Yalıtım Malzemeleri",
+  "slug": "dinamik-isi-makina-yalitim-malzemeleri",
+  "website": "https://www.dinamik-izmir.com",
+  "source": "https://www.dinamik-izmir.com/img/logo.png",
+  "aliases": [
+    "DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DNISI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF0101",
+  "traced": true
+}

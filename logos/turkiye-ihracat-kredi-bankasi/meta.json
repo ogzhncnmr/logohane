@@ -1,0 +1,24 @@
+{
+  "name": "Türkiye İhracat Kredi Bankası",
+  "slug": "turkiye-ihracat-kredi-bankasi",
+  "website": "https://www.eximbank.gov.tr",
+  "source": "https://www.eximbank.gov.tr/Content/images/eximbank-logo.svg",
+  "aliases": [
+    "TÜRKİYE İHRACAT KREDİ BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EXIMB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "THR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C4053F"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Martı Otel İşletmeleri",
+  "slug": "marti-otel-isletmeleri",
+  "website": "https://www.marti.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d9b0141603d6cec410f",
+  "hex": "8C7148",
+  "aliases": [
+    "MARTI OTEL İŞLETMELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MARTI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

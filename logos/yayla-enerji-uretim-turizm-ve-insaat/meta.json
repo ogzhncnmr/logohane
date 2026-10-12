@@ -1,0 +1,22 @@
+{
+  "name": "Yayla Enerji Üretim Turizm ve İnşaat",
+  "slug": "yayla-enerji-uretim-turizm-ve-insaat",
+  "website": "https://www.yayla.tc",
+  "source": "https://yayla.tc/wp-content/uploads/2024/11/yayla-logo-son2.webp",
+  "aliases": [
+    "YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YAYLA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0A3D7E",
+  "traced": true
+}

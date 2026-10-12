@@ -1,0 +1,20 @@
+{
+  "name": "Formül Plastik ve Metal",
+  "slug": "formul-plastik-ve-metal",
+  "website": "https://www.formul.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5998f25d7019b732d9c623a64",
+  "hex": "017931",
+  "aliases": [
+    "FORMÜL PLASTİK VE METAL SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FRMPL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

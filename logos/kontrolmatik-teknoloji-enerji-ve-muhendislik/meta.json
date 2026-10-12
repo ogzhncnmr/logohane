@@ -1,0 +1,21 @@
+{
+  "name": "Kontrolmatik Teknoloji Enerji ve Mühendislik",
+  "slug": "kontrolmatik-teknoloji-enerji-ve-muhendislik",
+  "website": "https://www.kontrolmatik.com",
+  "source": "https://www.kontrolmatik.com/",
+  "aliases": [
+    "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KONTR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF0000"
+}

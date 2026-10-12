@@ -1,0 +1,20 @@
+{
+  "name": "Emlak Varlık Kiralama",
+  "slug": "emlak-varlik-kiralama",
+  "website": "https://www.emlakvks.com.tr",
+  "source": "https://emlakvks.com.tr/static/img/logo.svg",
+  "aliases": [
+    "EMLAK VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EMVAR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "016D8E"
+}

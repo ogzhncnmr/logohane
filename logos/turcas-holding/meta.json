@@ -1,0 +1,20 @@
+{
+  "name": "Turcas Holding",
+  "slug": "turcas-holding",
+  "website": "https://www.turcas.com.tr",
+  "source": "https://www.turcas.com.tr/images/logo-yatay.png",
+  "aliases": [
+    "TURCAS HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRCAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F8974A"
+}

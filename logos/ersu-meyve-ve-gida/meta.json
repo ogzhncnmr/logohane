@@ -1,0 +1,20 @@
+{
+  "name": "Ersu Meyve ve Gıda",
+  "slug": "ersu-meyve-ve-gida",
+  "website": "https://www.ersu.com.tr",
+  "source": "https://www.ersu.com.tr/files/web/img/logo.svg",
+  "aliases": [
+    "ERSU MEYVE VE GIDA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ERSU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "009A3A"
+}

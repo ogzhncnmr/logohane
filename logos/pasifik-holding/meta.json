@@ -1,0 +1,20 @@
+{
+  "name": "Pasifik Holding",
+  "slug": "pasifik-holding",
+  "website": "https://www.pasifik.com",
+  "source": "https://pasifik.com/Content/assets/images/pasifik-holding-logo.svg",
+  "aliases": [
+    "PASİFİK HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PAHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00073A"
+}

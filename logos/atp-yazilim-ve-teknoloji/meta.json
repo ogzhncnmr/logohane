@@ -1,0 +1,21 @@
+{
+  "name": "Atp Yazılım ve Teknoloji",
+  "slug": "atp-yazilim-ve-teknoloji",
+  "website": "https://www.atptech.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4794d364801798f781baf0fad",
+  "hex": "E47738",
+  "aliases": [
+    "ATP YAZILIM VE TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATATP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

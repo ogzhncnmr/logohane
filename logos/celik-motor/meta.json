@@ -1,0 +1,21 @@
+{
+  "name": "Çelik Motor",
+  "slug": "celik-motor",
+  "website": "https://www.celikmotor.com",
+  "source": "https://www.celikmotor.com//upload/CmsBrand/praticar-logo-seffaf_6b9d7f.png",
+  "aliases": [
+    "ÇELİK MOTOR TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CLKMT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0172D1",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Metro Yatırım Ortaklığı",
+  "slug": "metro-yatirim-ortakligi",
+  "website": "https://www.metroyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14158e41f01415b1cecc4619f",
+  "hex": "F68322",
+  "aliases": [
+    "METRO YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MTRYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tekfen Holding",
+  "slug": "tekfen-holding",
+  "website": "https://www.tekfen.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed720140f31367840112",
+  "hex": "A6A6A8",
+  "aliases": [
+    "TEKFEN HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TKFEN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

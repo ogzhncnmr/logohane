@@ -1,0 +1,20 @@
+{
+  "name": "Ünlü Yatırım Holding",
+  "slug": "unlu-yatirim-holding",
+  "website": "https://www.unluco.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24bcf2bca014be9def2a47203",
+  "hex": "006AAB",
+  "aliases": [
+    "ÜNLÜ YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "UNLU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

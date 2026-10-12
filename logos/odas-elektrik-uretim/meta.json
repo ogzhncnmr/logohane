@@ -1,0 +1,21 @@
+{
+  "name": "Odaş Elektrik Üretim",
+  "slug": "odas-elektrik-uretim",
+  "website": "https://www.odas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2416e696c01416edd70713183",
+  "hex": "2E5990",
+  "aliases": [
+    "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ODAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

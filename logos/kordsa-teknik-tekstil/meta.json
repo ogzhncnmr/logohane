@@ -1,0 +1,20 @@
+{
+  "name": "Kordsa Teknik Tekstil",
+  "slug": "kordsa-teknik-tekstil",
+  "website": "https://kordsa.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed720140f30606a700ec",
+  "hex": "0255A6",
+  "aliases": [
+    "KORDSA TEKNİK TEKSTİL A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KORDS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

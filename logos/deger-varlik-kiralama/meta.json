@@ -1,0 +1,22 @@
+{
+  "name": "Değer Varlık Kiralama",
+  "slug": "deger-varlik-kiralama",
+  "website": "https://www.degervarlik.com",
+  "source": "https://degervarlik.com/Documents/Photo/7_deger-varlik-logo.png",
+  "aliases": [
+    "DEĞER VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DGRVK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EE6636",
+  "traced": true
+}

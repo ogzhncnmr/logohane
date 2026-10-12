@@ -1,0 +1,20 @@
+{
+  "name": "Mng Faktoring",
+  "slug": "mng-faktoring",
+  "website": "https://www.mngfaktoring.com.tr",
+  "source": "https://www.mngfaktoring.com.tr/assets/img/logo/logo.svg",
+  "aliases": [
+    "MNG FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MNGFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4C8BB0"
+}

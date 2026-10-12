@@ -1,0 +1,21 @@
+{
+  "name": "Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış",
+  "slug": "koroplast-temizlik-ambalaj-urunleri-sanayi-ve-dis",
+  "website": "https://www.koroplast.com",
+  "source": "https://www.koroplast.com/",
+  "aliases": [
+    "KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRPLS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "391EE2"
+}

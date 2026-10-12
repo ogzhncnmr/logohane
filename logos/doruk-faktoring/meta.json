@@ -1,0 +1,20 @@
+{
+  "name": "Doruk Faktoring",
+  "slug": "doruk-faktoring",
+  "website": "https://www.kap.org.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a141462dfe01414b0e029d286f",
+  "hex": "062D6D",
+  "aliases": [
+    "DORUK FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DFKTR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

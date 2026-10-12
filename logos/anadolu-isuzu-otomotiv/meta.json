@@ -1,0 +1,20 @@
+{
+  "name": "Anadolu Isuzu Otomotiv",
+  "slug": "anadolu-isuzu-otomotiv",
+  "website": "https://anadoluisuzu.com.tr",
+  "source": "https://anadoluisuzu.com.tr/img/aIsuzu.svg",
+  "aliases": [
+    "ANADOLU ISUZU OTOMOTİV SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ASUZU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E62129"
+}

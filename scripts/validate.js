@@ -5,7 +5,9 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
-import { LOGOS_DIR, MAX_SVG_BYTES, ROOT, SLUG_RE, loadLogos, loadRemoved, variantFile } from './lib.js';
+import sharp from 'sharp';
+import { LOGOS_DIR, MAX_PNG_BYTES, MAX_SVG_BYTES, MIN_PNG_SIDE, MIN_SYMBOL_SIDE, ROOT, SLUG_RE, loadLogos, loadRemoved, variantFile } from './lib.js';
+import { lightBackgroundProblems, renderSvg } from './image-checks.js';
 
 const FORBIDDEN_SVG = [
   [/<script[\s>]/i, 'contains <script>'],
@@ -24,6 +26,43 @@ export function checkSvg(content) {
   if (!/\sviewBox\s*=/.test(root)) problems.push('has no viewBox');
   if (/\s(width|height)\s*=\s*["'][^"']*\d/.test(root)) problems.push('sets a fixed width/height on <svg>; use viewBox only');
   for (const [re, msg] of FORBIDDEN_SVG) if (re.test(content)) problems.push(msg);
+  return problems;
+}
+
+export async function checkPng(buffer, minSide = MIN_PNG_SIDE) {
+  let meta;
+  try { meta = await sharp(buffer).metadata(); } catch { return ['is not a readable image']; }
+  if (meta.format !== 'png') return [`is ${meta.format}, not PNG`];
+  const problems = [];
+  if (Math.max(meta.width, meta.height) < minSide) problems.push(`is ${meta.width}x${meta.height}px; the longer side must be at least ${minSide}px`);
+  if (!meta.hasAlpha) problems.push('has no transparency');
+  else {
+    // Fully opaque is fine for a logo that is itself a colored box (BİM, Teknosa), but
+    // not for one printed on a white or light background: check the outermost pixels.
+    const { data, info } = await sharp(buffer).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+    let transparent = false;
+    for (let i = 3; i < data.length && !transparent; i += 4) transparent = data[i] < 16;
+    if (!transparent) {
+      const { width: w, height: h } = info;
+      let border = 0;
+      let light = 0;
+      for (let x = 0; x < w; x++) {
+        for (const y of [0, h - 1]) {
+          const i = (y * w + x) * 4;
+          border++;
+          if (0.2126 * data[i] + 0.7152 * data[i + 1] + 0.0722 * data[i + 2] > 235) light++;
+        }
+      }
+      for (let y = 0; y < h; y++) {
+        for (const x of [0, w - 1]) {
+          const i = (y * w + x) * 4;
+          border++;
+          if (0.2126 * data[i] + 0.7152 * data[i + 1] + 0.0722 * data[i + 2] > 235) light++;
+        }
+      }
+      if (light / border > 0.5) problems.push('background is not transparent');
+    }
+  }
   return problems;
 }
 
@@ -51,18 +90,36 @@ export async function validate({ logosDir = LOGOS_DIR, root = ROOT } = {}) {
     const { meta } = logo;
     if (meta.slug !== logo.slug) err(`meta.json slug "${meta.slug}" does not match folder name`);
 
-    const expected = new Set(meta.variants.map((v) => `${variantFile(logo.slug, v)}.svg`));
+    const names = new Set(meta.variants.map((v) => variantFile(logo.slug, v)));
     for (const file of logo.files) {
       if (file === 'meta.json') continue;
-      if (!file.endsWith('.svg')) { err(`${file}: only .svg files and meta.json belong here (PNG/WebP are generated)`); continue; }
-      if (!expected.has(file)) err(`${file}: not listed in meta.json variants`);
+      const ext = path.extname(file);
+      if (ext !== '.svg' && ext !== '.png') { err(`${file}: only .svg or .png sources and meta.json belong here (other formats are generated)`); continue; }
+      if (!names.has(path.basename(file, ext))) err(`${file}: not listed in meta.json variants`);
     }
-    for (const file of expected) {
-      if (!logo.files.includes(file)) { err(`${file}: listed in variants but missing`); continue; }
+    for (const name of names) {
+      if (logo.files.includes(`${name}.svg`) && logo.files.includes(`${name}.png`)) { err(`${name}: has both .svg and .png; keep only the .svg`); continue; }
+      const file = [`${name}.svg`, `${name}.png`].find((f) => logo.files.includes(f));
+      if (!file) { err(`${name}.svg: listed in variants but missing`); continue; }
       const full = path.join(logo.dir, file);
       const { size } = await stat(full);
-      if (size > MAX_SVG_BYTES) err(`${file}: ${Math.round(size / 1024)} KB, limit is ${MAX_SVG_BYTES / 1024} KB`);
-      for (const p of checkSvg(await readFile(full, 'utf8'))) err(`${file}: ${p}`);
+      let rendered;
+      if (file.endsWith('.svg')) {
+        if (size > MAX_SVG_BYTES) err(`${file}: ${Math.round(size / 1024)} KB, limit is ${MAX_SVG_BYTES / 1024} KB`);
+        const svg = await readFile(full, 'utf8');
+        const problems = checkSvg(svg);
+        for (const p of problems) err(`${file}: ${p}`);
+        if (!problems.length) rendered = await renderSvg(svg, 256).catch(() => err(`${file}: cannot be rendered`));
+      } else {
+        if (size > MAX_PNG_BYTES) err(`${file}: ${Math.round(size / 1024)} KB, limit is ${MAX_PNG_BYTES / 1024} KB`);
+        rendered = await readFile(full);
+        const minSide = name.slice(logo.slug.length).startsWith('-symbol') ? MIN_SYMBOL_SIDE : MIN_PNG_SIDE;
+        for (const p of await checkPng(rendered, minSide)) err(`${file}: ${p}`);
+      }
+      // Dark variants are meant for dark backgrounds; everything else must show on white.
+      if (rendered && !/(^|-)dark$/.test(name.slice(logo.slug.length))) {
+        for (const p of await lightBackgroundProblems(rendered)) err(`${file}: ${p} (run npm run process)`);
+      }
     }
 
     for (const t of meta.tickers ?? []) {
@@ -78,7 +135,7 @@ export async function validate({ logosDir = LOGOS_DIR, root = ROOT } = {}) {
   return { count: logos.length, errors };
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const { count, errors } = await validate();
   if (errors.length) {
     console.error(errors.join('\n'));

@@ -1,0 +1,21 @@
+{
+  "name": "Merko Gıda",
+  "slug": "merko-gida",
+  "website": "https://www.merko.com.tr",
+  "source": "https://www.merko.com.tr/wp-content/uploads/2022/09/merko-logo-64x200-1.png",
+  "aliases": [
+    "MERKO GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MERKO"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

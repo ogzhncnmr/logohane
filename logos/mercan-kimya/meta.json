@@ -1,0 +1,21 @@
+{
+  "name": "Mercan Kimya",
+  "slug": "mercan-kimya",
+  "website": "https://www.mercankimya.com.tr",
+  "source": "https://www.mercankimya.com.tr/img/HD-Logo2-Renkli.webp",
+  "aliases": [
+    "MERCAN KİMYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MERCN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "4A4D55",
+  "traced": true
+}

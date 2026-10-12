@@ -1,0 +1,20 @@
+{
+  "name": "Vestel Elektronik",
+  "slug": "vestel-elektronik",
+  "website": "https://vestelinternational.com/tr/yatirimci-iliskileri",
+  "source": "https://vestelinternational.com/tr/yatirimci-iliskileri",
+  "aliases": [
+    "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VESTL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DF2228"
+}

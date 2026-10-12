@@ -1,0 +1,29 @@
+{
+  "name": "Kardemir Karabük Demir Çelik",
+  "slug": "kardemir-karabuk-demir-celik",
+  "website": "https://www.kardemir.com",
+  "source": "https://www.kardemir.com/images/anasayfa/logotr.png",
+  "aliases": [
+    "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRDMA"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "KRDMB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "KRDMD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D3111B",
+  "traced": true
+}

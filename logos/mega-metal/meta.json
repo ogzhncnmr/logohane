@@ -1,0 +1,20 @@
+{
+  "name": "Mega Metal",
+  "slug": "mega-metal",
+  "website": "https://www.megametal.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5594ca644015964a5bef50e57",
+  "hex": "C35528",
+  "aliases": [
+    "MEGA METAL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEGMT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

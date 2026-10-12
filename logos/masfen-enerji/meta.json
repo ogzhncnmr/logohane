@@ -1,0 +1,21 @@
+{
+  "name": "Masfen Enerji",
+  "slug": "masfen-enerji",
+  "website": "https://www.masfen.com.tr",
+  "source": "https://masfen.com.tr/wp-content/uploads/2021/11/masfen-logo.png",
+  "aliases": [
+    "MASFEN ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MASFN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FFCD00",
+  "traced": true
+}

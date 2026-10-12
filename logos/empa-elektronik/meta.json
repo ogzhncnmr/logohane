@@ -1,0 +1,20 @@
+{
+  "name": "Empa Elektronik",
+  "slug": "empa-elektronik",
+  "website": "https://www.empa.com",
+  "source": "https://empa.witcdn.net/Data/EditorFiles/empa-motto-logo-2025-web.svg",
+  "aliases": [
+    "EMPA ELEKTRONİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EMPAE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0D8CCF"
+}

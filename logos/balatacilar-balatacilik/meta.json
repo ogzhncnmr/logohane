@@ -1,0 +1,21 @@
+{
+  "name": "Balatacılar Balatacılık",
+  "slug": "balatacilar-balatacilik",
+  "website": "https://www.balatacilar.com",
+  "source": "https://balatacilar.com/wp-content/uploads/2026/03/balatacilar-logo-renkli-unvan-1024x212.png",
+  "aliases": [
+    "BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BALAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "174789",
+  "traced": true
+}

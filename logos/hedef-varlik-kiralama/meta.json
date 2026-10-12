@@ -1,0 +1,22 @@
+{
+  "name": "Hedef Varlık Kiralama",
+  "slug": "hedef-varlik-kiralama",
+  "website": "https://www.hedefvarlik.com.tr",
+  "source": "https://www.hedefvarlik.com.tr/media/img/hedef_varlik_kiralama.png",
+  "aliases": [
+    "HEDEF VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HDFVK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1947BA",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Yapı Kredi Finansal Kiralama",
+  "slug": "yapi-kredi-finansal-kiralama",
+  "website": "https://www.yapikredileasing.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1413b7ef401414503a8c00095",
+  "hex": "B8C5D0",
+  "aliases": [
+    "YAPI KREDİ FİNANSAL KİRALAMA A.O."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YKFIN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

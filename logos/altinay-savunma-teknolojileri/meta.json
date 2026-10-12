@@ -1,0 +1,20 @@
+{
+  "name": "Altınay Savunma Teknolojileri",
+  "slug": "altinay-savunma-teknolojileri",
+  "website": "https://www.altinaysavunma.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c58b2fa64e018f3d2d712476e2",
+  "hex": "D91F3D",
+  "aliases": [
+    "ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALTNY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

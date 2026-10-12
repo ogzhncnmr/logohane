@@ -1,0 +1,20 @@
+{
+  "name": "Galata Wınd Enerji",
+  "slug": "galata-wind-enerji",
+  "website": "https://www.galatawindenerji.com",
+  "source": "https://www.galatawindenerji.com/images/logo.svg",
+  "aliases": [
+    "GALATA WIND ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GWIND"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1E3C7B"
+}

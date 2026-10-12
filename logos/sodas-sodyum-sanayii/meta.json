@@ -1,0 +1,20 @@
+{
+  "name": "Sodaş Sodyum Sanayii",
+  "slug": "sodas-sodyum-sanayii",
+  "website": "https://www.sodas.com.tr",
+  "source": "https://www.sodas.com.tr/sodas/images/logo.png",
+  "aliases": [
+    "SODAŞ SODYUM SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SODSN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2A2772"
+}

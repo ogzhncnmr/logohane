@@ -1,0 +1,20 @@
+{
+  "name": "Link Bilgisayar Sistemleri Yazılımı ve Donanımı",
+  "slug": "link-bilgisayar-sistemleri-yazilimi-ve-donanimi",
+  "website": "https://www.link.com.tr",
+  "source": "https://link.com.tr/wp-content/uploads/2025/02/link-logo.svg",
+  "aliases": [
+    "LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LINK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EE1C24"
+}

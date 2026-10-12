@@ -1,0 +1,20 @@
+{
+  "name": "Quıck Finansman",
+  "slug": "quick-finansman",
+  "website": "https://www.quickfinans.com.tr",
+  "source": "https://quickfinans.com.tr/img/logos/quick-finans-blue-logo.svg",
+  "aliases": [
+    "QUICK FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QUFIN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1F2346"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Meksa Yatırım Menkul Değerler",
+  "slug": "meksa-yatirim-menkul-degerler",
+  "website": "https://www.meksa.com.tr",
+  "source": "https://www.meksa.com.tr/themes/custom/meksa/logo.svg",
+  "aliases": [
+    "MEKSA YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEKMD"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "MSA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1E4074"
+}

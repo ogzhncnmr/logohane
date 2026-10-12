@@ -1,0 +1,20 @@
+{
+  "name": "Batıçim Çimento",
+  "slug": "baticim-cimento",
+  "website": "https://www.batisoke.com.tr",
+  "source": "https://www.batisoke.com.tr/build/img/logo.3c812bfb.svg",
+  "aliases": [
+    "BATIÇİM ÇİMENTO SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BSOKE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005590"
+}

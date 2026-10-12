@@ -1,0 +1,21 @@
+{
+  "name": "Akfen Gayrimenkul Yatırım Ortaklığı",
+  "slug": "akfen-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.akfengyo.com.tr",
+  "source": "https://akfengyo.com.tr/wp-content/uploads/2024/02/2432774792_31-12-2022-akfen-gayrimenkul-yatirim-ortakligi-a-sfaaliyet-raporu.pdf",
+  "hex": "CC161E",
+  "aliases": [
+    "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKFGY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

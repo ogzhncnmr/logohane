@@ -1,0 +1,21 @@
+{
+  "name": "Fonet Bilgi Teknolojileri",
+  "slug": "fonet-bilgi-teknolojileri",
+  "website": "https://www.fonetbt.com",
+  "source": "https://www.fonetbt.com/assets/img/Orijinal_Logo.webp",
+  "aliases": [
+    "FONET BİLGİ TEKNOLOJİLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FONET"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "196DB5",
+  "traced": true
+}

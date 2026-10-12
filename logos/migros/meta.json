@@ -1,0 +1,20 @@
+{
+  "name": "Migros",
+  "slug": "migros",
+  "website": "https://www.migroskurumsal.com",
+  "source": "https://www.migroskurumsal.com/dist/images/migros-kurumsal-logo.svg?v=7aMBKOglg1EX-kzWyaiy-Y99ju3Xt_z-n-IOKYLK6AI",
+  "aliases": [
+    "MİGROS TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MGROS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F78320"
+}

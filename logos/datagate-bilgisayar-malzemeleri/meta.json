@@ -1,0 +1,20 @@
+{
+  "name": "Datagate Bilgisayar Malzemeleri",
+  "slug": "datagate-bilgisayar-malzemeleri",
+  "website": "https://www.datagate.com.tr",
+  "source": "https://www.datagate.com.tr/Content/assets/images/datagate-logo-blue.svg",
+  "aliases": [
+    "DATAGATE BİLGİSAYAR MALZEMELERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DGATE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00B0D7"
+}

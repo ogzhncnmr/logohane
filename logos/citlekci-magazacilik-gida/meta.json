@@ -1,0 +1,21 @@
+{
+  "name": "Çitlekçi Mağazacılık Gıda",
+  "slug": "citlekci-magazacilik-gida",
+  "website": "https://www.citlekci.com.tr",
+  "source": "https://cdn.myikas.com/images/b6327f78-5749-4459-b135-27ef38dda6aa/43fb798d-b286-4aa5-b974-099c666fc8fb/image_1080.webp",
+  "aliases": [
+    "ÇİTLEKÇİ MAĞAZACILIK GIDA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CITAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DC6819",
+  "traced": true
+}

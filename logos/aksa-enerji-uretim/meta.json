@@ -1,0 +1,20 @@
+{
+  "name": "Aksa Enerji Üretim",
+  "slug": "aksa-enerji-uretim",
+  "website": "https://www.aksaenerji.com.tr",
+  "source": "https://www.aksaenerji.com.tr/dist/img/logo-aksa-enerji.svg",
+  "aliases": [
+    "AKSA ENERJİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKSEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1673C3"
+}

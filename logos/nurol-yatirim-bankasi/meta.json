@@ -1,0 +1,24 @@
+{
+  "name": "Nurol Yatırım Bankası",
+  "slug": "nurol-yatirim-bankasi",
+  "website": "https://www.nurolbank.com.tr",
+  "source": "https://www.nurolbank.com.tr/tr/images/logo/logo-25yil.svg",
+  "aliases": [
+    "NUROL YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NRBNK"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "NYB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "263C82"
+}

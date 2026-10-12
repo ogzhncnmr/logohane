@@ -1,0 +1,21 @@
+{
+  "name": "Oylum Sınai Yatırımlar",
+  "slug": "oylum-sinai-yatirimlar",
+  "website": "https://www.oylum.com",
+  "source": "https://www.oylum.com/wp-content/uploads/2025/04/oylum-logo.png",
+  "aliases": [
+    "OYLUM SINAİ YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OYLUM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E30612",
+  "traced": true
+}

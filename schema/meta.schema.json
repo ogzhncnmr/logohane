@@ -32,9 +32,10 @@
       "type": "array",
       "minItems": 1,
       "uniqueItems": true,
-      "items": { "type": "string", "pattern": "^(default|wordmark|dark|light|mono)(-(dark|light|mono))?$" },
+      "items": { "type": "string", "pattern": "^(default|wordmark|symbol|dark|light|mono)(-(dark|light|mono))?$" },
       "contains": { "const": "default" }
     },
+    "traced": { "type": "boolean", "description": "True when the SVG was traced from a raster source (npm run vectorize), not taken as an official vector." },
     "updated": { "type": "string", "format": "date" }
   }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "Yeşil Yapı Endüstrisi",
+  "slug": "yesil-yapi-endustrisi",
+  "website": "https://www.yyapi.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696301416f35f8425ec3",
+  "hex": "77777B",
+  "aliases": [
+    "YEŞİL YAPI ENDÜSTRİSİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YYAPI"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

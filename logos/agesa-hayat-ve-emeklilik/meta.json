@@ -1,0 +1,20 @@
+{
+  "name": "Agesa Hayat ve Emeklilik",
+  "slug": "agesa-hayat-ve-emeklilik",
+  "website": "https://www.agesa.com.tr",
+  "source": "https://www.agesa.com.tr/i/assets/images/svg/logo.svg",
+  "aliases": [
+    "AGESA HAYAT VE EMEKLİLİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AGESA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0A1B8C"
+}

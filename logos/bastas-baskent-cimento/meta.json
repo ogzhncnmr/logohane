@@ -1,0 +1,20 @@
+{
+  "name": "Baştaş Başkent Çimento",
+  "slug": "bastas-baskent-cimento",
+  "website": "https://www.bastas.com.tr",
+  "source": "https://www.bastas.com.tr/sites/default/files/styles/logo_150x108/public/site_logo/credentialing_providers/Bastas_Cement.png?itok=cPUHyDBW",
+  "aliases": [
+    "BAŞTAŞ BAŞKENT ÇİMENTO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BASCM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C4685"
+}

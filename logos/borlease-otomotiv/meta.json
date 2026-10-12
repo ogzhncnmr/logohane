@@ -1,0 +1,21 @@
+{
+  "name": "Borlease Otomotiv",
+  "slug": "borlease-otomotiv",
+  "website": "https://www.borlease.com.tr",
+  "source": "https://www.borlease.com.tr/",
+  "aliases": [
+    "BORLEASE OTOMOTİV A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BORLS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "003F80"
+}

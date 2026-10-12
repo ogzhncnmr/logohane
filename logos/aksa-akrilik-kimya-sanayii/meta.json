@@ -1,0 +1,20 @@
+{
+  "name": "Aksa Akrilik Kimya Sanayii",
+  "slug": "aksa-akrilik-kimya-sanayii",
+  "website": "https://www.aksa.com",
+  "source": "https://asset.aksa.com/media-data/others/2025/10/15/aksa-yeni-logo-jxcl124w.svg",
+  "aliases": [
+    "AKSA AKRİLİK KİMYA SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "00AE66"
+}

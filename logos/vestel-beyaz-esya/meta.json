@@ -1,0 +1,20 @@
+{
+  "name": "Vestel Beyaz Eşya",
+  "slug": "vestel-beyaz-esya",
+  "website": "https://vestelinternational.com/tr/yatirimci-iliskileri-vesbe",
+  "source": "https://vestelinternational.com/tr/yatirimci-iliskileri-vesbe",
+  "aliases": [
+    "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VESBE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DF2228"
+}

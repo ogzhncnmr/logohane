@@ -1,0 +1,21 @@
+{
+  "name": "Ak Finansal Kiralama",
+  "slug": "ak-finansal-kiralama",
+  "website": "https://www.aklease.com",
+  "source": "https://www.aklease.com/tr/images/aklease-logo.png",
+  "aliases": [
+    "AK FİNANSAL KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKFK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E30613",
+  "traced": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "İnfo Yatırım Menkul Değerler",
+  "slug": "info-yatirim-menkul-degerler",
+  "website": "https://www.infoyatirim.com",
+  "source": "https://infoyatirim.com/assets/img/logo-transparent.svg",
+  "aliases": [
+    "İNFO YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "INFO"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "IYF"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "6ABE4B"
+}

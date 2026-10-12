@@ -1,0 +1,20 @@
+{
+  "name": "Çimentaş İzmir Çimento Fabrikası",
+  "slug": "cimentas-izmir-cimento-fabrikasi",
+  "website": "https://www.cimentas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24158e42401415ad34c7f7db7",
+  "hex": "919091",
+  "aliases": [
+    "ÇİMENTAŞ İZMİR ÇİMENTO FABRİKASI T.A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CMENT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

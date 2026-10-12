@@ -1,0 +1,20 @@
+{
+  "name": "Turk Finansman",
+  "slug": "turk-finansman",
+  "website": "https://www.kredim.com.tr",
+  "source": "https://imagedelivery.net/Q4DnrlGH-eT_sIcpeHiGGg/97d178bf-b5d9-4233-a6e5-87cc45590100/kredim",
+  "aliases": [
+    "TURK FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRKFN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "26D07E"
+}

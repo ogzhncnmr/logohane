@@ -1,0 +1,20 @@
+{
+  "name": "Özak Gayrimenkul Yatırım Ortaklığı",
+  "slug": "ozak-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.ozakgyo.com",
+  "source": "https://www.ozakgyo.com/assets/images/logo.svg",
+  "aliases": [
+    "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OZKGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AD862E"
+}

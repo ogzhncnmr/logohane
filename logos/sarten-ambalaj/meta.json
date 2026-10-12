@@ -1,0 +1,20 @@
+{
+  "name": "Sarten Ambalaj",
+  "slug": "sarten-ambalaj",
+  "website": "https://www.sarten.com.tr",
+  "source": "https://www.sarten.com.tr/wp-content/uploads/2024/01/SARTEN-LOGO-500-2-.png",
+  "aliases": [
+    "SARTEN AMBALAJ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SARTN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "29348D"
+}

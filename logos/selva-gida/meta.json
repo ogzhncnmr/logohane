@@ -1,0 +1,21 @@
+{
+  "name": "Selva Gıda",
+  "slug": "selva-gida",
+  "website": "https://www.selva.com.tr",
+  "source": "https://selva.com.tr/content/SelvaLogo.png",
+  "aliases": [
+    "SELVA GIDA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SELVA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E21F1C",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tab Gıda",
+  "slug": "tab-gida",
+  "website": "https://www.tabgida.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a141e536460141e5aa84740938",
+  "hex": "124B9B",
+  "aliases": [
+    "TAB GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TABGD"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Batıçim Batı Anadolu",
+  "slug": "baticim-bati-anadolu",
+  "website": "https://www.baticim.com.tr",
+  "source": "https://www.baticim.com.tr/build/img/logo.35d13aa4.svg",
+  "aliases": [
+    "BATIÇİM BATI ANADOLU SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BTCIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005490"
+}

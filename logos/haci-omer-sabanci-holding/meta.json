@@ -1,0 +1,20 @@
+{
+  "name": "Hacı Ömer Sabancı Holding",
+  "slug": "haci-omer-sabanci-holding",
+  "website": "https://www.sabanci.com",
+  "source": "https://www.sabanci.com/tr/images/logo/sabanci_logo.svg",
+  "aliases": [
+    "HACI ÖMER SABANCI HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SAHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "161696"
+}

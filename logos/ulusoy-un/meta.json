@@ -1,0 +1,20 @@
+{
+  "name": "Ulusoy Un",
+  "slug": "ulusoy-un",
+  "website": "https://www.ulusoyun.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14371e09d0143c4d925022442",
+  "hex": "8C744C",
+  "aliases": [
+    "ULUSOY UN SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ULUUN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

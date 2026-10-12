@@ -1,0 +1,20 @@
+{
+  "name": "Ahlatcı Doğal Gaz Dağıtım Enerji ve Yatırım",
+  "slug": "ahlatci-dogal-gaz-dagitim-enerji-ve-yatirim",
+  "website": "https://www.ahlatcidogalgaz.com.tr",
+  "source": "https://www.ahlatcidogalgaz.com.tr/files/ahlatcilogo.svg",
+  "aliases": [
+    "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AHGAZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "8D8373"
+}

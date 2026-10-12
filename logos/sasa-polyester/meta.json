@@ -1,0 +1,21 @@
+{
+  "name": "Sasa Polyester",
+  "slug": "sasa-polyester",
+  "website": "https://www.sasa.com.tr",
+  "source": "https://www.sasa.com.tr/Themes/sasa/assets/sasa-images/SASA.PNG",
+  "aliases": [
+    "SASA POLYESTER SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SASA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2B2B81",
+  "traced": true
+}

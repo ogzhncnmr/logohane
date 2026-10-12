@@ -1,0 +1,20 @@
+{
+  "name": "Icu Girişim Sermayesi Yatırım Ortaklığı",
+  "slug": "icu-girisim-sermayesi-yatirim-ortakligi",
+  "website": "https://www.icugirisim.com.tr",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1563934",
+  "aliases": [
+    "ICU GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ICUGS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "hex": "3B2B96",
+  "updated": "2026-10-12"
+}

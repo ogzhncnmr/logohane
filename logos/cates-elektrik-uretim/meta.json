@@ -1,0 +1,21 @@
+{
+  "name": "Çates Elektrik Üretim",
+  "slug": "cates-elektrik-uretim",
+  "website": "https://www.cates.com.tr",
+  "source": "https://www.cates.com.tr/assets/img/logo.svg",
+  "aliases": [
+    "ÇATES ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CATES"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "294881"
+}

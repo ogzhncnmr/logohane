@@ -1,0 +1,22 @@
+{
+  "name": "Hun Yenilenebilir Enerji Üretim",
+  "slug": "hun-yenilenebilir-enerji-uretim",
+  "website": "https://www.hunyenilenebilirenerji.com",
+  "source": "https://www.hunyenilenebilirenerji.com/images/hun-enerji-logo.png",
+  "aliases": [
+    "HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HUNER"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FBCD01",
+  "traced": true
+}

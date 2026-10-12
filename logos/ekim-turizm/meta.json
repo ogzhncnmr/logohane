@@ -1,0 +1,20 @@
+{
+  "name": "Ekim Turizm",
+  "slug": "ekim-turizm",
+  "website": "https://www.intercityfilo.com",
+  "source": "https://www.intercityfilo.com/dist/images/homepage/logo-intercity-2.svg",
+  "aliases": [
+    "EKİM TURİZM TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "231F20"
+}

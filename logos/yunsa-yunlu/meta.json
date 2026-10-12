@@ -1,0 +1,21 @@
+{
+  "name": "Yünsa Yünlü",
+  "slug": "yunsa-yunlu",
+  "website": "https://www.yunsa.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c014101b726fa011d",
+  "hex": "111516",
+  "aliases": [
+    "YÜNSA YÜNLÜ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YUNSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

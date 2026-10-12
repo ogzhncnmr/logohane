@@ -1,0 +1,20 @@
+{
+  "name": "Birko Birleşik Koyunlulular Mensucat",
+  "slug": "birko-birlesik-koyunlulular-mensucat",
+  "website": "https://www.birko.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ee21c40601aa",
+  "hex": "D0142C",
+  "aliases": [
+    "BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRKO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

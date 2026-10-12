@@ -1,0 +1,20 @@
+{
+  "name": "Etiler Gıda ve Ticari Yatırımlar",
+  "slug": "etiler-gida-ve-ticari-yatirimlar",
+  "website": "https://www.etilermarmaris.com.tr",
+  "source": "https://etilermarmaris.com.tr/website/images/login_logo.png?v=Ir1hMP6OlpMl-Iwouta6B6P6koQrt8xtLb5KIhqKqlw",
+  "aliases": [
+    "ETİLER GIDA VE TİCARİ YATIRIMLAR SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ETILR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E4110F"
+}

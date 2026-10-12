@@ -1,0 +1,22 @@
+{
+  "name": "Ata Turizm İşletmecilik Taşımacılık Madencilik Kuyumculuk Sanayi ve Dış",
+  "slug": "ata-turizm-isletmecilik-tasimacilik-madencilik-kuyumculuk-sanayi-ve-dis",
+  "website": "https://www.ataturizm.com.tr",
+  "source": "https://ataturizm.com.tr/static/fotosold/ata-logo-new.39eaf63b615c.png",
+  "aliases": [
+    "ATA TURİZM İŞLETMECİLİK TAŞIMACILIK MADENCİLİK KUYUMCULUK SANAYİ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATATR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "01168A",
+  "traced": true
+}

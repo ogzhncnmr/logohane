@@ -1,0 +1,20 @@
+{
+  "name": "Coca-cola İçecek",
+  "slug": "coca-cola-icecek",
+  "website": "https://www.cci.com.tr",
+  "source": "https://www.cci.com.tr/assets/images/logo.svg",
+  "aliases": [
+    "COCA-COLA İÇECEK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CCOLA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E51E2B"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mackolik İnternet Hizmetleri",
+  "slug": "mackolik-internet-hizmetleri",
+  "website": "https://www.mackolik.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c48304fe9e0183694124c82d0a",
+  "hex": "125A8D",
+  "aliases": [
+    "MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MACKO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

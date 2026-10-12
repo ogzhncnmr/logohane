@@ -1,0 +1,22 @@
+{
+  "name": "Ekiz Kimya",
+  "slug": "ekiz-kimya",
+  "website": "https://www.ekizkimya.com",
+  "source": "https://ekizkimya.com/img/logo.png",
+  "aliases": [
+    "EKİZ KİMYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EKIZ"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "82A33E",
+  "traced": true
+}

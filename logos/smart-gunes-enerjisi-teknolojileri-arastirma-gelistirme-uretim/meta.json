@@ -1,0 +1,21 @@
+{
+  "name": "Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim",
+  "slug": "smart-gunes-enerjisi-teknolojileri-arastirma-gelistirme-uretim",
+  "website": "https://www.smartsolar.com.tr",
+  "source": "https://www.smartsolar.com.tr/images/logo.png",
+  "aliases": [
+    "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SMRTG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005CB9",
+  "traced": true
+}

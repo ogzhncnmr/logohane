@@ -1,0 +1,20 @@
+{
+  "name": "İskenderun Demir ve Çelik",
+  "slug": "iskenderun-demir-ve-celik",
+  "website": "https://www.isdemir.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2416e696c01416ee8eb7b3770",
+  "hex": "EC2228",
+  "aliases": [
+    "İSKENDERUN DEMİR VE ÇELİK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISDMR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

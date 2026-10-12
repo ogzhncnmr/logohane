@@ -1,0 +1,22 @@
+{
+  "name": "Ulusal Faktoring",
+  "slug": "ulusal-faktoring",
+  "website": "https://www.ulusalfaktoring.com",
+  "source": "https://www.ulusalfaktoring.com/wp-content/uploads/2023/05/ulusalfaktoring-logo-01-1024x311.png",
+  "aliases": [
+    "ULUSAL FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ULUFA"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0B2462",
+  "traced": true
+}

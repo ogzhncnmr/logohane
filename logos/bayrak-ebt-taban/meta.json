@@ -1,0 +1,22 @@
+{
+  "name": "Bayrak Ebt Taban",
+  "slug": "bayrak-ebt-taban",
+  "website": "https://www.bayrakebt.com.tr",
+  "source": "https://bayrakebt.com.tr/wp-content/uploads/2020/05/bayrak-ebt-logo.png",
+  "aliases": [
+    "BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BAYRK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AC0F2B",
+  "traced": true
+}

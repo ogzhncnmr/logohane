@@ -1,0 +1,20 @@
+{
+  "name": "Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı",
+  "slug": "baskent-dogalgaz-dagitim-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.baskentdogalgaz.com.tr",
+  "source": "https://www.baskentdogalgaz.com.tr/",
+  "aliases": [
+    "BAŞKENT DOĞALGAZ DAĞITIM GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BASGZ"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "68B7E7"
+}

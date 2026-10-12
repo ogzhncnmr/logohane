@@ -1,0 +1,20 @@
+{
+  "name": "İstanbul Varlık Yönetim",
+  "slug": "istanbul-varlik-yonetim",
+  "website": "https://www.kap.org.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a142140a8c014222e455c72489",
+  "hex": "006AAB",
+  "aliases": [
+    "İSTANBUL VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISTVY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

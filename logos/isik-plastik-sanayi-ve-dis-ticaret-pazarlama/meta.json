@@ -1,0 +1,20 @@
+{
+  "name": "Işık Plastik Sanayi ve Dış Ticaret Pazarlama",
+  "slug": "isik-plastik-sanayi-ve-dis-ticaret-pazarlama",
+  "website": "https://www.isikplastik.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c575a1b5b601770603623b7c43",
+  "hex": "EF3027",
+  "aliases": [
+    "IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ISKPL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

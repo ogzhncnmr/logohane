@@ -1,0 +1,20 @@
+{
+  "name": "Vakko Tekstil ve Hazır Giyim Sanayi İşletmeleri",
+  "slug": "vakko-tekstil-ve-hazir-giyim-sanayi-isletmeleri",
+  "website": "https://vakko.com.tr",
+  "source": "https://www.vakko.com/assets/img/logo2.svg",
+  "aliases": [
+    "VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "VAKKO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1C1819"
+}

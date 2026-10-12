@@ -1,0 +1,20 @@
+{
+  "name": "Alcatel Lucent Teletaş Telekomünikasyon",
+  "slug": "alcatel-lucent-teletas-telekomunikasyon",
+  "website": "https://www.alcatel-lucent.com.tr",
+  "source": "https://www.nokia.com/themes/custom/onenokia_reskin/logo.svg",
+  "aliases": [
+    "ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALCTL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "005AFF"
+}

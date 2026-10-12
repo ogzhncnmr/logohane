@@ -1,0 +1,21 @@
+{
+  "name": "Yeni Gimat Gayrimenkul Yatırım Ortaklığı",
+  "slug": "yeni-gimat-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.yenigimatgyo.com.tr",
+  "source": "https://www.yenigimatgyo.com.tr/devralinan/logo.png",
+  "aliases": [
+    "YENİ GİMAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YGGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "64B8B0",
+  "traced": true
+}

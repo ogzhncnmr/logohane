@@ -1,0 +1,20 @@
+{
+  "name": "Skyalp Finansal Teknolojiler ve Danışmanlık",
+  "slug": "skyalp-finansal-teknolojiler-ve-danismanlik",
+  "website": "https://www.skyalp.com.tr",
+  "source": "https://cdn.skyalp.com.tr/skyalp/images/redLogo.svg",
+  "aliases": [
+    "SKYALP FİNANSAL TEKNOLOJİLER VE DANIŞMANLIK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SKYLP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D73828"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Umpaş Holding",
+  "slug": "umpas-holding",
+  "website": "https://www.umpasholding.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c0140f38be24f0091",
+  "hex": "FD0101",
+  "aliases": [
+    "UMPAŞ HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "UMPAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

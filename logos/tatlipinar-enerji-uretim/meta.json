@@ -1,0 +1,22 @@
+{
+  "name": "Tatlıpınar Enerji Üretim",
+  "slug": "tatlipinar-enerji-uretim",
+  "website": "https://www.tatlipinarenerji.com.tr",
+  "source": "https://tatlipinarenerji.com.tr/content/files/logo-45681655b2c453e0758.32886492.png",
+  "aliases": [
+    "TATLIPINAR ENERJİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TATEN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2C33B7",
+  "traced": true
+}

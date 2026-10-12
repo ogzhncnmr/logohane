@@ -1,0 +1,20 @@
+{
+  "name": "Peker Gayrimenkul Yatırım Ortaklığı",
+  "slug": "peker-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.pekergyo.com",
+  "source": "https://www.pekergyo.com/storage/media/eb1c0d45-9130-4da5-88c3-2a86c1774182.png",
+  "aliases": [
+    "PEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PEKGY"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F5D36F"
+}

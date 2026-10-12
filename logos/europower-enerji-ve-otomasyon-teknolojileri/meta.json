@@ -1,0 +1,20 @@
+{
+  "name": "Europower Enerji ve Otomasyon Teknolojileri",
+  "slug": "europower-enerji-ve-otomasyon-teknolojileri",
+  "website": "https://www.europowerenerji.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c486d22a3b01875b5644ea61c4",
+  "hex": "0489CC",
+  "aliases": [
+    "EUROPOWER ENERJİ VE OTOMASYON TEKNOLOJİLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EUPWR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Pasha Yatırım Bankası",
+  "slug": "pasha-yatirim-bankasi",
+  "website": "https://www.kap.org.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14184e9c9014192aa6c1c1e03",
+  "hex": "258768",
+  "aliases": [
+    "PASHA YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PBT"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "PBTR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Arsan Holding",
+  "slug": "arsan-holding",
+  "website": "https://www.arsanholding.com.tr",
+  "source": "https://arsanholding.com.tr/wp-content/uploads/2026/01/arsan-holding-logo-1.png",
+  "aliases": [
+    "ARSAN HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARSAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "AA7D5C"
+}

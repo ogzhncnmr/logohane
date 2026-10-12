@@ -1,0 +1,20 @@
+{
+  "name": "Tr Anadolu Metal Madencilik İşletmeleri",
+  "slug": "tr-anadolu-metal-madencilik-isletmeleri",
+  "website": "https://www.tranadolumetal.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a2422d9a6e0142bd921d307a6d",
+  "hex": "D1A543",
+  "aliases": [
+    "TR ANADOLU METAL MADENCİLİK İŞLETMELERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRMET"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

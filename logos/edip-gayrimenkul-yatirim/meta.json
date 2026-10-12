@@ -1,0 +1,20 @@
+{
+  "name": "Edip Gayrimenkul Yatırım",
+  "slug": "edip-gayrimenkul-yatirim",
+  "website": "https://www.edip.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240e95dc90140ecc568850014",
+  "hex": "568472",
+  "aliases": [
+    "EDİP GAYRİMENKUL YATIRIM SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EDIP"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

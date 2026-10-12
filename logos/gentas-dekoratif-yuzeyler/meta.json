@@ -1,0 +1,21 @@
+{
+  "name": "Gentaş Dekoratif Yüzeyler",
+  "slug": "gentas-dekoratif-yuzeyler",
+  "website": "https://www.gentas.com.tr",
+  "source": "https://www.gentas.com.tr/wp-content/uploads/2021/05/gentas-grup-logo-yeni.png",
+  "aliases": [
+    "GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GENTS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F6B434",
+  "traced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Karsan Otomotiv Sanayii",
+  "slug": "karsan-otomotiv-sanayii",
+  "website": "https://www.karsan.com.tr",
+  "source": "https://cdn.karsan.com/Delivery/Public/Image/Download/karsan_logo_yuksek_5985662443.jpg",
+  "hex": "EE2736",
+  "aliases": [
+    "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KARSN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Otosor Otomotiv",
+  "slug": "otosor-otomotiv",
+  "website": "https://www.otosor.com.tr",
+  "source": "https://www.otosor.com.tr/",
+  "aliases": [
+    "OTOSOR OTOMOTİV A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OTOSR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "081F2C"
+}

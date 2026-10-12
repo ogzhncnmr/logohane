@@ -1,0 +1,20 @@
+{
+  "name": "Deva Holding",
+  "slug": "deva-holding",
+  "website": "https://www.deva.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710141116ab1d60241",
+  "hex": "035785",
+  "aliases": [
+    "DEVA HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DEVA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Meysu Gıda",
+  "slug": "meysu-gida",
+  "website": "https://www.meysu.com.tr",
+  "source": "https://meysu.com.tr/wp-content/uploads/2026/04/meysu.svg",
+  "aliases": [
+    "MEYSU GIDA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEYSU"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E3261D"
+}

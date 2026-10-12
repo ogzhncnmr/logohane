@@ -1,0 +1,20 @@
+{
+  "name": "Tv8 Tv Yayıncılık",
+  "slug": "tv8-tv-yayincilik",
+  "website": "https://www.tv8.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d9b014160385b35407b",
+  "hex": "8E9090",
+  "aliases": [
+    "TV8 TV YAYINCILIK A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TV8TV"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

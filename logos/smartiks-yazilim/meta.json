@@ -1,0 +1,21 @@
+{
+  "name": "Smartiks Yazılım",
+  "slug": "smartiks-yazilim",
+  "website": "https://www.smartiks.com.tr",
+  "source": "https://www.smartiks.com.tr/",
+  "aliases": [
+    "SMARTİKS YAZILIM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SMART"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FCAC29"
+}

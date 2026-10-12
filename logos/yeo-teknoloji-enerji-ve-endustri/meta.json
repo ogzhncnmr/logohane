@@ -1,0 +1,21 @@
+{
+  "name": "Yeo Teknoloji Enerji ve Endüstri",
+  "slug": "yeo-teknoloji-enerji-ve-endustri",
+  "website": "https://www.yeo.com.tr",
+  "source": "https://yeo.com.tr/wp-content/uploads/2023/05/Logo-YEO-350.png",
+  "aliases": [
+    "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YEOTK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "90ABBD",
+  "traced": true
+}

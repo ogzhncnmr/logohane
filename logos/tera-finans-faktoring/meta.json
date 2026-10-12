@@ -1,0 +1,21 @@
+{
+  "name": "Tera Finans Faktoring",
+  "slug": "tera-finans-faktoring",
+  "website": "https://www.terafinansfaktoring.com.tr",
+  "source": "https://terafinansfaktoring.com.tr/uploads/p/tera-finans-faktoring_5.png",
+  "aliases": [
+    "TERA FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRFFA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "002757",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tgs Dış",
+  "slug": "tgs-dis",
+  "website": "https://www.tgsas.com",
+  "source": "https://www.tgsas.com/content/images/logo.png",
+  "hex": "36008C",
+  "aliases": [
+    "TGS DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TGSAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

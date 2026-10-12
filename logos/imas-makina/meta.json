@@ -1,0 +1,21 @@
+{
+  "name": "İmaş Makina",
+  "slug": "imas-makina",
+  "website": "https://www.imas.com.tr",
+  "source": "https://www.imas.com.tr/content/img/logo-imas.svg",
+  "aliases": [
+    "İMAŞ MAKİNA SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "IMASM"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D60812"
+}

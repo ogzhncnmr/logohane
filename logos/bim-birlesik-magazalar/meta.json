@@ -1,0 +1,21 @@
+{
+  "name": "Bim Birleşik Mağazalar",
+  "slug": "bim-birlesik-magazalar",
+  "website": "https://www.bim.com.tr",
+  "source": "https://cdn2.bim.com.tr/templates/images/bim-logo-single.png",
+  "aliases": [
+    "BİM BİRLEŞİK MAĞAZALAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BIMAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EB1B24",
+  "traced": true
+}

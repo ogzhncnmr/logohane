@@ -1,0 +1,23 @@
+{
+  "slug": "akbank",
+  "name": "Akbank",
+  "website": "https://www.akbank.com",
+  "source": "https://www.akbank.com/SiteAssets/img/logo.svg",
+  "hex": "DC0005",
+  "aliases": [
+    "Akbank T.A.Ş."
+  ],
+  "categories": [
+    "banking"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKBNK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

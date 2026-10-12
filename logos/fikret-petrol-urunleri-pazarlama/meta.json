@@ -1,0 +1,20 @@
+{
+  "name": "Fikret Petrol Ürünleri Pazarlama",
+  "slug": "fikret-petrol-urunleri-pazarlama",
+  "website": "https://www.kap.org.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59b85fa03019c74a8114c4f4c",
+  "hex": "1AA29A",
+  "aliases": [
+    "FİKRET PETROL ÜRÜNLERİ PAZARLAMA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FKPET"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

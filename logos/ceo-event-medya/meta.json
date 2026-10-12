@@ -1,0 +1,20 @@
+{
+  "name": "Ceo Event Medya",
+  "slug": "ceo-event-medya",
+  "website": "https://www.ceoevent.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c469cee2a20169ed8afa9112ee",
+  "hex": "F7901D",
+  "aliases": [
+    "CEO EVENT MEDYA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CEOEM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gen İlaç ve Sağlık Ürünleri",
+  "slug": "gen-ilac-ve-saglik-urunleri",
+  "website": "https://www.genilac.com.tr",
+  "source": "https://www.genilac.com.tr/wp-content/uploads/2024/01/Gen-logo-3x.png",
+  "aliases": [
+    "GEN İLAÇ VE SAĞLIK ÜRÜNLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GENIL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1066B0",
+  "traced": true
+}

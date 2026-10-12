@@ -1,0 +1,20 @@
+{
+  "name": "Netaş Telekomünikasyon",
+  "slug": "netas-telekomunikasyon",
+  "website": "https://www.netas.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef47014111d7df220232",
+  "hex": "019BA5",
+  "aliases": [
+    "NETAŞ TELEKOMÜNİKASYON A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NETAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Teknika Plast Teknik Kalıp Plastik",
+  "slug": "teknika-plast-teknik-kalip-plastik",
+  "website": "https://www.teknikaplast.com.tr",
+  "source": "https://teknikaplast.com.tr/frontend/images/teknikaplast.svg",
+  "aliases": [
+    "TEKNİKA PLAST TEKNİK KALIP PLASTİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TKNKA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0E3D52"
+}

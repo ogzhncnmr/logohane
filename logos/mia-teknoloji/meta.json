@@ -1,0 +1,21 @@
+{
+  "name": "Mia Teknoloji",
+  "slug": "mia-teknoloji",
+  "website": "https://www.miateknoloji.com",
+  "source": "https://cdn.miateknoloji.com/images/logo_mia_1000px.png",
+  "aliases": [
+    "MİA TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MIATK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "04488F",
+  "traced": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Arzum Elektrikli Ev Aletleri",
+  "slug": "arzum-elektrikli-ev-aletleri",
+  "website": "https://www.arzum.com.tr",
+  "source": "https://www.arzum.com.tr/Data/EditorFiles/logo.png",
+  "aliases": [
+    "ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARZUM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E3251B",
+  "traced": true
+}

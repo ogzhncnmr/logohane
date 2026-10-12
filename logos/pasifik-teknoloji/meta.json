@@ -1,0 +1,20 @@
+{
+  "name": "Pasifik Teknoloji",
+  "slug": "pasifik-teknoloji",
+  "website": "https://www.pasifikteknoloji.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c58b2fa64e018d63b9afbd4e6c",
+  "hex": "231F59",
+  "aliases": [
+    "PASİFİK TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PATEK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

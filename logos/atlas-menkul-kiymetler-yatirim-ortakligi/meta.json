@@ -1,0 +1,21 @@
+{
+  "name": "Atlas Menkul Kıymetler Yatırım Ortaklığı",
+  "slug": "atlas-menkul-kiymetler-yatirim-ortakligi",
+  "website": "https://www.atlasyo.com.tr",
+  "source": "https://www.atlasyo.com.tr/storage/app/uploads/public/673/741/7cd/6737417cd77de196330338.svg",
+  "aliases": [
+    "ATLAS MENKUL KIYMETLER YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATLAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E11F26"
+}

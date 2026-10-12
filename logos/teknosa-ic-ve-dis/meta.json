@@ -1,0 +1,20 @@
+{
+  "name": "Teknosa İç ve Dış",
+  "slug": "teknosa-ic-ve-dis",
+  "website": "https://www.teknosa.com",
+  "source": "https://img-teknosa-sap.mncdn.com/_ui/responsive/theme-teknosa/assets/images/logo.svg",
+  "aliases": [
+    "TEKNOSA İÇ VE DIŞ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TKNSA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "F37221"
+}

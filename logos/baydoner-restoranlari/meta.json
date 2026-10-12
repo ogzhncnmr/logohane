@@ -1,0 +1,20 @@
+{
+  "name": "Baydöner Restoranları",
+  "slug": "baydoner-restoranlari",
+  "website": "https://www.baydoner.com",
+  "source": "https://www.baydoner.com/assets/img/logo.svg",
+  "aliases": [
+    "BAYDÖNER RESTORANLARI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BYDNR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E4001A"
+}

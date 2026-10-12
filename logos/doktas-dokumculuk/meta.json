@@ -1,0 +1,20 @@
+{
+  "name": "Döktaş Dökümcülük",
+  "slug": "doktas-dokumculuk",
+  "website": "https://www.doktas.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a241558bd9014155c9b19e03b7",
+  "hex": "E37A03",
+  "aliases": [
+    "DÖKTAŞ DÖKÜMCÜLÜK TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOKTA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

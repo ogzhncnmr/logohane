@@ -1,0 +1,22 @@
+{
+  "name": "Nurol Varlık Kiralama",
+  "slug": "nurol-varlik-kiralama",
+  "website": "https://www.nurolvarlikkiralama.com.tr",
+  "source": "https://www.nurolvarlikkiralama.com.tr/img/NurolVKS_logo.png",
+  "aliases": [
+    "NUROL VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NURVK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "213A85",
+  "traced": true
+}

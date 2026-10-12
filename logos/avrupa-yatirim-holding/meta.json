@@ -1,0 +1,21 @@
+{
+  "name": "Avrupa Yatırım Holding",
+  "slug": "avrupa-yatirim-holding",
+  "website": "https://avrupayatirim.com.tr",
+  "source": "https://avrupayatirim.com.tr/logo.png",
+  "aliases": [
+    "AVRUPA YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AVHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D10911",
+  "traced": true
+}

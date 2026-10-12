@@ -1,0 +1,21 @@
+{
+  "name": "Horoz Lojistik Kargo Hizmetleri",
+  "slug": "horoz-lojistik-kargo-hizmetleri",
+  "website": "https://www.horoz.com.tr",
+  "source": "https://www.horoz.com.tr/_assets/images/logo/horoz-logo-color.svg",
+  "aliases": [
+    "HOROZ LOJİSTİK KARGO HİZMETLERİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HOROZ"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C31E3E"
+}

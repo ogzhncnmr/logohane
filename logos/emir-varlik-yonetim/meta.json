@@ -1,0 +1,21 @@
+{
+  "name": "Emir Varlık Yönetim",
+  "slug": "emir-varlik-yonetim",
+  "website": "https://www.emirvarlik.com",
+  "source": "https://emirvarlik.com/assets/logo.png?v=3",
+  "aliases": [
+    "EMİR VARLIK YÖNETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "EMIRV"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0EA6B6",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ağaoğlu Avrasya Gayrimenkul Yatırım Ortaklığı",
+  "slug": "agaoglu-avrasya-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.agaoglugyo.com.tr",
+  "source": "https://agaoglugyo.com.tr/content/files/logo_white-23810698c572c50a854.15076748.png",
+  "aliases": [
+    "AĞAOĞLU AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AAGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DD6C0C"
+}

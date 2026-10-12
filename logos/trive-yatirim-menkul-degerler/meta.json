@@ -1,0 +1,24 @@
+{
+  "name": "Trıve Yatırım Menkul Değerler",
+  "slug": "trive-yatirim-menkul-degerler",
+  "website": "https://www.trive.com.tr",
+  "source": "https://trive.com.tr/",
+  "aliases": [
+    "TRIVE YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TRMEN"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TVM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "1A2B36"
+}

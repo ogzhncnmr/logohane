@@ -1,0 +1,21 @@
+{
+  "name": "Bosch Fren Sistemleri",
+  "slug": "bosch-fren-sistemleri",
+  "website": "https://www.boschfren.com.tr",
+  "source": "https://www.boschfren.com.tr/",
+  "aliases": [
+    "BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BFREN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "EF0007"
+}

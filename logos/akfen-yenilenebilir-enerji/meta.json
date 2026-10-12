@@ -1,0 +1,20 @@
+{
+  "name": "Akfen Yenilenebilir Enerji",
+  "slug": "akfen-yenilenebilir-enerji",
+  "website": "https://www.akfenren.com.tr",
+  "source": "https://www.akfenren.com.tr/wp-content/uploads/2024/02/akfenren-logo.png",
+  "hex": "76A243",
+  "aliases": [
+    "AKFEN YENİLENEBİLİR ENERJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "AKFYE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gedik Yatırım Menkul Değerler",
+  "slug": "gedik-yatirim-menkul-degerler",
+  "website": "https://www.gedik.com",
+  "source": "https://cdn.gedik.com/media/media/tsdiqzzo/logo.png",
+  "aliases": [
+    "GEDİK YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GEDIK"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

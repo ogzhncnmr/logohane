@@ -1,0 +1,20 @@
+{
+  "name": "Karel Elektronik",
+  "slug": "karel-elektronik",
+  "website": "https://www.karel.com.tr",
+  "source": "https://www.karel.com.tr/themes/custom/karel/logo.svg",
+  "aliases": [
+    "KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KAREL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "009FE3"
+}

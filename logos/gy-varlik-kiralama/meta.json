@@ -1,0 +1,21 @@
+{
+  "name": "Gy Varlık Kiralama",
+  "slug": "gy-varlik-kiralama",
+  "website": "https://www.gedik.com",
+  "source": "https://cdn.gedik.com/media/media/tsdiqzzo/logo.png",
+  "aliases": [
+    "GY VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GYVAR"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

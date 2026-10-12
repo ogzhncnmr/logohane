@@ -1,0 +1,24 @@
+{
+  "name": "Albaraka Türk Katılım Bankası",
+  "slug": "albaraka-turk-katilim-bankasi",
+  "website": "https://www.albaraka.com.tr",
+  "source": "https://www.albaraka.com.tr/_assets/img/albaraka-logo.svg",
+  "aliases": [
+    "ALBARAKA TÜRK KATILIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALBRK"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "ALK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E41837"
+}

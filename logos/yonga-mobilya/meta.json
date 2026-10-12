@@ -1,0 +1,20 @@
+{
+  "name": "Yonga Mobilya",
+  "slug": "yonga-mobilya",
+  "website": "https://www.yongamobilya.com",
+  "source": "https://www.yongamobilya.com/dosya/somass.svg",
+  "aliases": [
+    "YONGA MOBİLYA SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YONGA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "040404"
+}

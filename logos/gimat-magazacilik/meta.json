@@ -1,0 +1,20 @@
+{
+  "name": "Gimat Mağazacılık",
+  "slug": "gimat-magazacilik",
+  "website": "https://www.gimatgross.net",
+  "source": "https://www.gimatgross.net/wp-content/uploads/2020/11/logo.png",
+  "hex": "E71E2A",
+  "aliases": [
+    "GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GMTAS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

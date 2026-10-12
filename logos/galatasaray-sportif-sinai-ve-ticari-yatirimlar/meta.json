@@ -1,0 +1,21 @@
+{
+  "name": "Galatasaray Sportif Sınai ve Ticari Yatırımlar",
+  "slug": "galatasaray-sportif-sinai-ve-ticari-yatirimlar",
+  "website": "https://sportif.galatasaray.org",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14203278a0142095598f114ba",
+  "hex": "A80532",
+  "aliases": [
+    "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GSRAY"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

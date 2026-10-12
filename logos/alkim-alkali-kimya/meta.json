@@ -1,0 +1,20 @@
+{
+  "name": "Alkim Alkali Kimya",
+  "slug": "alkim-alkali-kimya",
+  "website": "https://www.alkim.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95be70140ed147846003c",
+  "hex": "E50917",
+  "aliases": [
+    "ALKİM ALKALİ KİMYA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALKIM"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

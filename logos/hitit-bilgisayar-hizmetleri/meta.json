@@ -1,0 +1,20 @@
+{
+  "name": "Hitit Bilgisayar Hizmetleri",
+  "slug": "hitit-bilgisayar-hizmetleri",
+  "website": "https://hitit.com",
+  "source": "https://hitit.com/themes/custom/hitit2026/img/icon-logo.svg",
+  "aliases": [
+    "HİTİT BİLGİSAYAR HİZMETLERİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "HTTBT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "A22629"
+}

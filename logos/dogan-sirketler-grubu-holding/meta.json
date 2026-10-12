@@ -1,0 +1,21 @@
+{
+  "name": "Doğan Şirketler Grubu Holding",
+  "slug": "dogan-sirketler-grubu-holding",
+  "website": "https://www.doganholding.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a141462df201414ff732983087",
+  "hex": "163E86",
+  "aliases": [
+    "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DOHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

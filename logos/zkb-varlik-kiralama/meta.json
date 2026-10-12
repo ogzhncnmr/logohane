@@ -1,0 +1,20 @@
+{
+  "name": "Zkb Varlık Kiralama",
+  "slug": "zkb-varlik-kiralama",
+  "website": "https://www.zkbvks.com.tr",
+  "source": "https://www.zkbvks.com.tr/sites/zkbvks.com.tr/themes/custom/zkbvks/images/zkbvks-logo.svg",
+  "aliases": [
+    "ZKB VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZKBVR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E2251B"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Alves Kablo",
+  "slug": "alves-kablo",
+  "website": "https://www.alveskablo.com.tr",
+  "source": "https://www.alveskablo.com.tr/assets/uploads/65b210b053f48170616849691.png",
+  "aliases": [
+    "ALVES KABLO SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALVES"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2B326C",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Figo Finans Faktoring",
+  "slug": "figo-finans-faktoring",
+  "website": "https://www.figofinans.com",
+  "source": "https://www.figofinans.com/assets/FigofinansLogoDark.svg",
+  "aliases": [
+    "FİGO FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FIGOF"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "130F26"
+}

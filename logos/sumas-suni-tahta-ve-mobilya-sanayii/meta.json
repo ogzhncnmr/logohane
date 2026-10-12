@@ -1,0 +1,23 @@
+{
+  "name": "Sumaş Suni Tahta ve Mobilya Sanayii",
+  "slug": "sumas-suni-tahta-ve-mobilya-sanayii",
+  "website": "https://www.sumas.com.tr",
+  "source": "https://www.sumas.com.tr/assets/img/logo.png",
+  "hex": "E3692E",
+  "aliases": [
+    "SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SUMAS"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark",
+    "symbol",
+    "symbol-dark"
+  ],
+  "updated": "2026-10-12"
+}

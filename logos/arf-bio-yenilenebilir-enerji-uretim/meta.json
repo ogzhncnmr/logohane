@@ -1,0 +1,21 @@
+{
+  "name": "Arf Bio Yenilenebilir Enerji Üretim",
+  "slug": "arf-bio-yenilenebilir-enerji-uretim",
+  "website": "https://www.arfbio.com",
+  "source": "https://arfbio.com/assets/images/logo-dark.png",
+  "aliases": [
+    "ARF BİO YENİLENEBİLİR ENERJİ ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ARFYE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "67AE45",
+  "traced": true
+}

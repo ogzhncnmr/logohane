@@ -1,0 +1,21 @@
+{
+  "name": "Atlantis Yatırım Holding",
+  "slug": "atlantis-yatirim-holding",
+  "website": "https://www.atlantisholding.com.tr",
+  "source": "https://www.atlantisholding.com.tr/wp-content/uploads/2020/05/atlantis-logo.png",
+  "hex": "E73528",
+  "aliases": [
+    "ATLANTİS YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ATSYH"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-12"
+}

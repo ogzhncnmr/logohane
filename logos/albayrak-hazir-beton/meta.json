@@ -1,0 +1,20 @@
+{
+  "name": "Albayrak Hazır Beton",
+  "slug": "albayrak-hazir-beton",
+  "website": "https://www.albayrakbeton.com.tr",
+  "source": "https://www.albayrakbeton.com.tr/images/logo-dark.svg",
+  "aliases": [
+    "ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALBTN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "DC0C26"
+}

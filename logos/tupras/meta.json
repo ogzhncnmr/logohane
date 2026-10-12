@@ -1,0 +1,23 @@
+{
+  "slug": "tupras",
+  "name": "Tüpraş",
+  "website": "https://www.tupras.com.tr",
+  "source": "https://www.tupras.com.tr",
+  "hex": "D9000D",
+  "aliases": [
+    "Türkiye Petrol Rafinerileri A.Ş."
+  ],
+  "categories": [
+    "energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TUPRS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

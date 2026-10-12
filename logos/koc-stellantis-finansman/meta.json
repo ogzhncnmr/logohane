@@ -1,0 +1,20 @@
+{
+  "name": "Koç Stellantis Finansman",
+  "slug": "koc-stellantis-finansman",
+  "website": "https://www.kocstellantisfinansman.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f2f01f960011",
+  "hex": "1B4387",
+  "aliases": [
+    "KOÇ STELLANTİS FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KSFIN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

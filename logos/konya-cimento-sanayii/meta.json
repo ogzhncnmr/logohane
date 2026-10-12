@@ -1,0 +1,20 @@
+{
+  "name": "Konya Çimento Sanayii",
+  "slug": "konya-cimento-sanayii",
+  "website": "https://www.konyacimento.com.tr",
+  "source": "https://www.konyacimento.com.tr/sites/default/files/styles/logo_150x108/public/site_logo/credentialing_providers/Konya_Cement.png?itok=OnU8ySLP",
+  "aliases": [
+    "KONYA ÇİMENTO SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KONYA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C4685"
+}

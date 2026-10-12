@@ -1,0 +1,21 @@
+{
+  "name": "Naturel Yenilenebilir Enerji",
+  "slug": "naturel-yenilenebilir-enerji",
+  "website": "https://www.naturelenerji.com.tr",
+  "source": "https://framerusercontent.com/images/EUCvLxzuhBZOJcrjv7Hn9LbmvM.png?scale-down-to=512&width=682&height=186",
+  "aliases": [
+    "NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "NATEN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E2111E",
+  "traced": true
+}

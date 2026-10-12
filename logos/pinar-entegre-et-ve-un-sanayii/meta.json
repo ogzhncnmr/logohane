@@ -1,0 +1,21 @@
+{
+  "name": "Pınar Entegre Et ve Un Sanayii",
+  "slug": "pinar-entegre-et-ve-un-sanayii",
+  "website": "https://www.pinar.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240ee866c0140f1f7b3990027",
+  "hex": "018C4E",
+  "aliases": [
+    "PINAR ENTEGRE ET VE UN SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PETUN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

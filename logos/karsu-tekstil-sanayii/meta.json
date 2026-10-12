@@ -1,0 +1,20 @@
+{
+  "name": "Karsu Tekstil Sanayii",
+  "slug": "karsu-tekstil-sanayii",
+  "website": "https://www.karsu.com.tr",
+  "source": "https://www.karsu.com.tr/lib/assets/images/logo.jpg?v=638886860353963933",
+  "hex": "D2030B",
+  "aliases": [
+    "KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRTEK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

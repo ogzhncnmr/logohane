@@ -1,0 +1,21 @@
+{
+  "name": "Oba Makarnacılık",
+  "slug": "oba-makarnacilik",
+  "website": "https://www.obamakarna.com.tr",
+  "source": "https://www.obamakarna.com.tr/themes/oba/images/logo.png",
+  "aliases": [
+    "OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "OBAMS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E31B17",
+  "traced": true
+}

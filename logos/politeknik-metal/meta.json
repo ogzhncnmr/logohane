@@ -1,0 +1,20 @@
+{
+  "name": "Politeknik Metal",
+  "slug": "politeknik-metal",
+  "website": "https://www.pm.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a246b4c5a90147fcd473d37f85",
+  "hex": "02A2E6",
+  "aliases": [
+    "POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "POLTK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

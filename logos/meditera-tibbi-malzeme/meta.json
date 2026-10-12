@@ -1,0 +1,20 @@
+{
+  "name": "Meditera Tıbbi Malzeme",
+  "slug": "meditera-tibbi-malzeme",
+  "website": "https://www.meditera.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5794d3d6a017a1de13bf04ff2",
+  "hex": "029CD3",
+  "aliases": [
+    "MEDİTERA TIBBİ MALZEME SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MEDTR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

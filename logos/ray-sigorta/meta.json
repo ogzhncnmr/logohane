@@ -1,0 +1,20 @@
+{
+  "name": "Ray Sigorta",
+  "slug": "ray-sigorta",
+  "website": "https://www.raysigorta.com.tr",
+  "source": "https://www.raysigorta.com.tr/",
+  "aliases": [
+    "RAY SİGORTA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "RAYSG"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E5000E"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Borusan Yatırım ve Pazarlama",
+  "slug": "borusan-yatirim-ve-pazarlama",
+  "website": "https://www.borusanyatirim.com",
+  "source": "https://www.borusanyatirim.com/Content/assets/images/logoDark.png",
+  "aliases": [
+    "BORUSAN YATIRIM VE PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BRYAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "FF671B",
+  "traced": true
+}

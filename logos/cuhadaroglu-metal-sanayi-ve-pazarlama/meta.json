@@ -1,0 +1,21 @@
+{
+  "name": "Çuhadaroğlu Metal Sanayi ve Pazarlama",
+  "slug": "cuhadaroglu-metal-sanayi-ve-pazarlama",
+  "website": "https://www.cuhadaroglu.com",
+  "source": "https://cms.cuhadaroglu.com/uploads/CUHADAROGLU_black%20and%20white_qualicoat-logo%20-%20scale3.png",
+  "aliases": [
+    "ÇUHADAROĞLU METAL SANAYİ VE PAZARLAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "CUSAN"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "010101",
+  "traced": true
+}

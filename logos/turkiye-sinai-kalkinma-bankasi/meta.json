@@ -1,0 +1,24 @@
+{
+  "name": "Türkiye Sınai Kalkınma Bankası",
+  "slug": "turkiye-sinai-kalkinma-bankasi",
+  "website": "https://www.tskb.com.tr",
+  "source": "https://www.tskb.com.tr/assets/svg/logotype-color.svg",
+  "aliases": [
+    "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TSK"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TSKB"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "C32525"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Koç Holding",
+  "slug": "koc-holding",
+  "website": "https://www.koc.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f2f4d6c70039",
+  "hex": "EE4829",
+  "aliases": [
+    "KOÇ HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KCHOL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Gsd Denizcilik Gayrimenkul İnşaat",
+  "slug": "gsd-denizcilik-gayrimenkul-insaat",
+  "website": "https://www.gsdmarin.com.tr",
+  "source": "https://www.gsdmarin.com.tr/assets/img/gsd-marin-logo.png",
+  "hex": "000000",
+  "aliases": [
+    "GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GSDDE"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

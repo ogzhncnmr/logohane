@@ -1,0 +1,21 @@
+{
+  "name": "Kent Gıda Maddeleri Sanayii",
+  "slug": "kent-gida-maddeleri-sanayii",
+  "website": "https://www.kentgida.net",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14184e9cf01419c41a8125db1",
+  "hex": "E41712",
+  "aliases": [
+    "KENT GIDA MADDELERİ SANAYİİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KENT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Katılım Varlık Kiralama",
+  "slug": "katilim-varlik-kiralama",
+  "website": "https://www.katilimvarlikkiralama.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c45835eb6501589126d8f220fc",
+  "hex": "194D8F",
+  "aliases": [
+    "KATILIM VARLIK KİRALAMA A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KATVK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

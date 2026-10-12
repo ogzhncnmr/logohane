@@ -1,0 +1,21 @@
+{
+  "name": "Zedur Enerji Elektrik Üretim",
+  "slug": "zedur-enerji-elektrik-uretim",
+  "website": "https://www.zedur.net",
+  "source": "https://www.zedur.net/Assets/ZedurLogo.svg",
+  "aliases": [
+    "ZEDUR ENERJİ ELEKTRİK ÜRETİM A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ZEDUR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "8C6A56"
+}

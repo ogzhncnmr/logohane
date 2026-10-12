@@ -1,0 +1,21 @@
+{
+  "name": "Goldman Sachs Internatıonal",
+  "slug": "goldman-sachs-international",
+  "website": "https://www.goldmansachs.com",
+  "source": "https://www.goldmansachs.com/images/gs-wordmark-black.png",
+  "hex": "000000",
+  "aliases": [
+    "GOLDMAN SACHS INTERNATIONAL"
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GSIPD"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "traced": true
+}

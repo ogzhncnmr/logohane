@@ -1,0 +1,22 @@
+{
+  "name": "Ecogreen Enerji Holding",
+  "slug": "ecogreen-enerji-holding",
+  "website": "https://ecogreenenerji.com",
+  "source": "https://framerusercontent.com/images/2NeMV40hFUUB1Mif8jFhUi0Gb8.png?scale-down-to=512",
+  "aliases": [
+    "ECOGREEN ENERJİ HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ECOGR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "50A447",
+  "traced": true
+}

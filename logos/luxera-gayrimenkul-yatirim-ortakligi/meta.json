@@ -1,0 +1,20 @@
+{
+  "name": "Luxera Gayrimenkul Yatırım Ortaklığı",
+  "slug": "luxera-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.luxera.com.tr",
+  "source": "https://cdn.luxera.com.tr/uploads/logo/logo_2025-12-20_18-11-14_101b46.svg",
+  "aliases": [
+    "LUXERA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "LXGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "030303"
+}

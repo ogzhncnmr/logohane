@@ -1,0 +1,20 @@
+{
+  "name": "Destek Finans Faktoring",
+  "slug": "destek-finans-faktoring",
+  "website": "https://www.destekfaktoring.com.tr",
+  "source": "https://www.destekfaktoring.com.tr/",
+  "aliases": [
+    "DESTEK FİNANS FAKTORİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "DSTKF"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "2A3137"
+}

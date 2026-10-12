@@ -1,0 +1,20 @@
+{
+  "name": "Global Yatırım Holding",
+  "slug": "global-yatirim-holding",
+  "website": "https://www.globalyatirim.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140ee24416e0197",
+  "hex": "686768",
+  "aliases": [
+    "GLOBAL YATIRIM HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "GLYHO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

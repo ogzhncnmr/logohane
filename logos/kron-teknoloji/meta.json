@@ -1,0 +1,20 @@
+{
+  "name": "Kron Teknoloji",
+  "slug": "kron-teknoloji",
+  "website": "https://www.kron.com.tr",
+  "source": "https://krontech.com/project/_resources/images/kt-dark-logo-en.png",
+  "hex": "1563FF",
+  "aliases": [
+    "KRON TEKNOLOJİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KRONT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

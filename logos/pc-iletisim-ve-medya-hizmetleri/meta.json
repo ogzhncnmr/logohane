@@ -1,0 +1,21 @@
+{
+  "name": "Pc İletişim ve Medya Hizmetleri",
+  "slug": "pc-iletisim-ve-medya-hizmetleri",
+  "website": "https://www.pciletisimmedya.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c5782a4e6d017844c378070abd",
+  "hex": "26374D",
+  "aliases": [
+    "PC İLETİŞİM VE MEDYA HİZMETLERİ SANAYİ TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PCILT"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

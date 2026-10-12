@@ -1,0 +1,26 @@
+{
+  "name": "Q Yatırım Bankası",
+  "slug": "q-yatirim-bankasi",
+  "website": "https://qyatirimbankasi.com.tr",
+  "source": "https://qyatirimbankasi.com.tr/assets/images/logo.png",
+  "aliases": [
+    "Q YATIRIM BANKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "QYATB"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "YBQ"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "CB1D5B",
+  "traced": true
+}

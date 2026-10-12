@@ -1,0 +1,20 @@
+{
+  "name": "Bms Birleşik Metal",
+  "slug": "bms-birlesik-metal",
+  "website": "https://www.bmstel.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c47f7cb49201802bda6cbf6b77",
+  "hex": "392982",
+  "aliases": [
+    "BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "BMSTL"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

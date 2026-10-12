@@ -1,0 +1,24 @@
+{
+  "name": "Tera Yatırım Menkul Değerler",
+  "slug": "tera-yatirim-menkul-degerler",
+  "website": "https://www.terayatirim.com",
+  "source": "https://www.terayatirim.com/dosyalar/site/logo.svg",
+  "aliases": [
+    "TERA YATIRIM MENKUL DEĞERLER A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "TERA"
+    },
+    {
+      "exchange": "BIST",
+      "symbol": "TRA"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "0C214C"
+}

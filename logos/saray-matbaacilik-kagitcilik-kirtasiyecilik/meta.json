@@ -1,0 +1,21 @@
+{
+  "name": "Saray Matbaacılık Kağıtçılık Kırtasiyecilik",
+  "slug": "saray-matbaacilik-kagitcilik-kirtasiyecilik",
+  "website": "https://www.saraymatbaa.com.tr",
+  "source": "https://saraymatbaa.com.tr/wp-content/uploads/2024/04/logo.png",
+  "aliases": [
+    "SARAY MATBAACILIK KAĞITÇILIK KIRTASİYECİLİK TİCARET VE SANAYİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "SAMAT"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12",
+  "hex": "01B4F7",
+  "traced": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Martı Gayrimenkul Yatırım Ortaklığı",
+  "slug": "marti-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.martigyo.com",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d9b0141603d2b414108",
+  "hex": "8D7248",
+  "aliases": [
+    "MARTI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MRGYO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

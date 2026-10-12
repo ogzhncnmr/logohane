@@ -1,0 +1,21 @@
+{
+  "name": "Mistral Gayrimenkul Yatırım Ortaklığı",
+  "slug": "mistral-gayrimenkul-yatirim-ortakligi",
+  "website": "https://www.mistralgyo.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4540d444501545d374f8d070a",
+  "hex": "74A7B8",
+  "aliases": [
+    "MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "MSGYO"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12"
+}

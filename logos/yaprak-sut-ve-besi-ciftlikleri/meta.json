@@ -1,0 +1,20 @@
+{
+  "name": "Yaprak Süt ve Besi Çiftlikleri",
+  "slug": "yaprak-sut-ve-besi-ciftlikleri",
+  "website": "https://www.yaprakciftligi.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1416e696501416eec8e443d62",
+  "hex": "231F20",
+  "aliases": [
+    "YAPRAK SÜT VE BESİ ÇİFTLİKLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "YAPRK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

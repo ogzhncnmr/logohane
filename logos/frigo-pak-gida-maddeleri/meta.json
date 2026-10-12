@@ -1,0 +1,20 @@
+{
+  "name": "Frigo-pak Gıda Maddeleri",
+  "slug": "frigo-pak-gida-maddeleri",
+  "website": "https://www.frigo-pak.com.tr",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a1415f4d9b01415fee1db939f4",
+  "hex": "F58D45",
+  "aliases": [
+    "FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FRIGO"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-12"
+}

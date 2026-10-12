@@ -1,0 +1,21 @@
+{
+  "name": "Alarko Holding",
+  "slug": "alarko-holding",
+  "website": "https://www.alarko.com.tr",
+  "source": "https://www.alarko.com.tr/assets/images/alarko-dark.svg",
+  "aliases": [
+    "ALARKO HOLDİNG A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "ALARK"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "E66C59"
+}

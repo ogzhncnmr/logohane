@@ -1,0 +1,21 @@
+{
+  "name": "Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri",
+  "slug": "platform-turizm-tasimacilik-gida-insaat-temizlik-hizmetleri",
+  "website": "https://www.platformturizm.com",
+  "source": "https://www.platformturizm.com/platform-logo.svg",
+  "aliases": [
+    "PLATFORM TURİZM TAŞIMACILIK GIDA İNŞAAT TEMİZLİK HİZMETLERİ SANAYİ VE TİCARET A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PLTUR"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-12",
+  "hex": "D71F18"
+}
