@@ -20,18 +20,32 @@ hangi şirketten bahsettiğinizi göstermeniz gereken her yerde kullanabilirsini
 Her logoya **slug** (küçük harfli şirket adı) ile, `meta.json` dosyasında
 kayıtlıysa ayrıca **hisse kodu** ve **ISIN** ile erişilir.
 
-```
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/<slug>.svg
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/<boyut>/<slug>.png          # orijinal oran, uzun kenar: 256, 512, 1024
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/square/<boyut>/<slug>.png   # kare: 32, 64, 128, 256, 512
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/<boyut>/<slug>.webp        # PNG ile aynı boyutlar
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/webp/square/<boyut>/<slug>.webp
+**PNG ve WebP** dosyaları GitHub Pages'ten sunulur:
 
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/tickers/<BORSA>/<KOD>.svg
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/512/tickers/BIST/THYAO.png
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/png/square/128/tickers/BIST/THYAO.png
-https://cdn.jsdelivr.net/npm/logohane@latest/dist/svg/isin/<ISIN>.svg
 ```
+https://ogzhncnmr.github.io/logohane/png/<boyut>/<slug>.png           # orijinal oran, uzun kenar: 256, 512, 1024
+https://ogzhncnmr.github.io/logohane/png/square/<boyut>/<slug>.png    # kare: 32, 64, 128, 256, 512
+https://ogzhncnmr.github.io/logohane/webp/<boyut>/<slug>.webp         # PNG ile aynı boyutlar
+https://ogzhncnmr.github.io/logohane/webp/square/<boyut>/<slug>.webp
+
+https://ogzhncnmr.github.io/logohane/png/512/tickers/BIST/THYAO.png
+https://ogzhncnmr.github.io/logohane/png/square/128/tickers/BIST/THYAO.png
+https://ogzhncnmr.github.io/logohane/png/512/isin/<ISIN>.png
+```
+
+**SVG** dosyaları npm paketinde de bulunur; jsDelivr üzerinden sürüm
+sabitlenerek kullanılabilir (örneğin `logohane@0.1`):
+
+```
+https://cdn.jsdelivr.net/npm/logohane@0.1/dist/svg/<slug>.svg
+https://cdn.jsdelivr.net/npm/logohane@0.1/dist/svg/tickers/<BORSA>/<KOD>.svg
+https://cdn.jsdelivr.net/npm/logohane@0.1/dist/svg/isin/<ISIN>.svg
+```
+
+GitHub Pages her zaman en güncel logoları sunar; adresler sürümden bağımsızdır.
+Tüm logoların listesi: `https://ogzhncnmr.github.io/logohane/index.json`.
+SVG yalnızca şirketin vektör logosu varsa vardır (`index.json` içindeki
+`vector` alanı); PNG ve WebP her logo için vardır.
 
 **Kare** dosyalar logoyu şeffaf bir karenin ortasına yerleştirir (favicon, liste
 ikonu, avatar). Şirketin sembolü varsa karede sembol kullanılır, yoksa logonun
@@ -42,12 +56,10 @@ Varyantlar bir ek alır: `<slug>-symbol` (isimsiz, yalnızca işaret), `<slug>-d
 
 Kaynağı yalnızca resim (PNG) olan logolar hiçbir zaman büyütülmez: kaynak küçükse
 büyük boyutları üretilmez, böylece bulanık dosya yoktur. Her logonun hangi
-boyutlarda olduğu `dist/index.json` içindeki `sizes` alanında yazar
+boyutlarda olduğu `index.json` içindeki `sizes` alanında yazar
 (`{ "ratio": [256, 512, 1024], "square": [32, 64, 128, 256, 512] }`). `vector`
 alanı SVG'nin olup olmadığını, `traced` alanı ise SVG'nin resimden otomatik
 çizildiğini gösterir.
-
-Canlı ortamda yolların değişmemesi için ana sürümü sabitleyin (`logohane@1`).
 
 ### npm
 
@@ -55,7 +67,8 @@ Canlı ortamda yolların değişmemesi için ana sürümü sabitleyin (`logohane
 npm install logohane
 ```
 
-Dosyalar `node_modules/logohane/dist/` altındadır. `dist/index.json` her
+Paket SVG'leri ve dizin dosyalarını içerir (PNG ve WebP yalnızca GitHub
+Pages'tedir). Dosyalar `node_modules/logohane/dist/` altındadır. `dist/index.json` her
 logonun adını, web sitesini ve varyantlarını; biliniyorsa marka rengini,
 hisse kodlarını, ISIN'ini ve Wikidata kimliğini listeler (bilinmeyenler
 `null` ya da boştur). `dist/tickers.json` ve `dist/isin.json` bu kimlikleri
