@@ -1,0 +1,21 @@
+{
+  "name": "Parsan Makina Parçaları Sanayii",
+  "slug": "parsan-makina-parcalari-sanayii",
+  "website": "https://www.parsan.com",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1647846",
+  "hex": "E37B01",
+  "aliases": [
+    "PARSAN MAKİNA PARÇALARI SANAYİİ A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PARSN"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-14"
+}

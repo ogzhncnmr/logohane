@@ -1,0 +1,21 @@
+{
+  "name": "Kütahya Şeker Fabrikası",
+  "slug": "kutahya-seker-fabrikasi",
+  "website": "https://www.kutahyaseker.com.tr",
+  "source": "https://www.kutahyaseker.com.tr/data/sirkettanitimi.pdf",
+  "hex": "005A00",
+  "aliases": [
+    "KÜTAHYA ŞEKER FABRİKASI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "KTSKR"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14",
+  "traced": true
+}
