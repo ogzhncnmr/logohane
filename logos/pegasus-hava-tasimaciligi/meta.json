@@ -1,0 +1,20 @@
+{
+  "name": "Pegasus Hava Taşımacılığı",
+  "slug": "pegasus-hava-tasimaciligi",
+  "website": "https://www.flypgs.com",
+  "source": "https://www.kap.org.tr/tr/Bildirim/1661724",
+  "hex": "E52129",
+  "aliases": [
+    "PEGASUS HAVA TAŞIMACILIĞI A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "PGSUS"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

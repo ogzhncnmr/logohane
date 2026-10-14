@@ -1,0 +1,20 @@
+{
+  "name": "Ufuk Yatırım Yönetim ve Gayrimenkul",
+  "slug": "ufuk-yatirim-yonetim-ve-gayrimenkul",
+  "website": "https://www.ufukyyg.com.tr",
+  "source": "https://www.ufukyyg.com.tr/assets/front/images/logo.png",
+  "hex": "2A2F32",
+  "aliases": [
+    "UFUK YATIRIM YÖNETİM VE GAYRİMENKUL A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "UFUK"
+    }
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

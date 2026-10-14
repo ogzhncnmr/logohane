@@ -1,0 +1,22 @@
+{
+  "name": "Fair Finansman",
+  "slug": "fair-finansman",
+  "website": "https://www.fairfinansman.com.tr/tr",
+  "source": "https://www.fairfinansman.com.tr/assets/fairFinansLogo.png",
+  "hex": "024167",
+  "aliases": [
+    "FAİR FİNANSMAN A.Ş."
+  ],
+  "tickers": [
+    {
+      "exchange": "BIST",
+      "symbol": "FAIRF"
+    }
+  ],
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-14",
+  "traced": true
+}

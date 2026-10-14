@@ -1,6 +1,6 @@
 {
   "source": "https://www.kap.org.tr/tr/bist-sirketler",
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "companies": [
     {
       "tickers": [
@@ -3374,7 +3374,7 @@
         "https://www.fairfinansman.com.tr/tr"
       ],
       "kap": "https://www.kap.org.tr/tr/sirket-bilgileri/genel/6138-fair-finansman-a-s",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -5375,7 +5375,7 @@
         "https://www.kutahyaseker.com.tr"
       ],
       "kap": "https://www.kap.org.tr/tr/sirket-bilgileri/genel/5365-kutahya-seker-fabrikasi-a-s",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -6726,7 +6726,7 @@
         "https://www.parsan.com"
       ],
       "kap": "https://www.kap.org.tr/tr/sirket-bilgileri/genel/1050-parsan-makina-parcalari-sanayii-a-s",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -6846,7 +6846,7 @@
         "https://www.pegasusyatirimciiliskileri.com/tr/default.aspx"
       ],
       "kap": "https://www.kap.org.tr/tr/sirket-bilgileri/genel/1710-pegasus-hava-tasimaciligi-a-s",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -8488,7 +8488,7 @@
         "https://www.ufukyyg.com.tr"
       ],
       "kap": "https://www.kap.org.tr/tr/sirket-bilgileri/genel/1444-ufuk-yatirim-yonetim-ve-gayrimenkul-a-s",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [

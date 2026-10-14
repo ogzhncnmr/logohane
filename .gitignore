@@ -11,6 +11,7 @@ extension/
 studio/
 scripts/import-logos.js
 scripts/kap-logos.js
+scripts/kap-reports.js
 scripts/logo-tools.js
 scripts/process-logos.js
 scripts/review.js
