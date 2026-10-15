@@ -1,0 +1,22 @@
+{
+  "name": "Mid-America Apartment Communities",
+  "slug": "mid-america-apartment-communities",
+  "website": "https://www.maac.com",
+  "source": "https://www.maac.com",
+  "hex": "F2922C",
+  "aliases": [
+    "Mid-America Apartment Communities"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MAA"
+    }
+  ],
+  "isin": "US59522J1034",
+  "wikidata": "Q27988239",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

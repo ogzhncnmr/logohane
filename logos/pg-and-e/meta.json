@@ -1,0 +1,22 @@
+{
+  "name": "PG&E Corporation",
+  "slug": "pg-and-e",
+  "website": "https://www.pge.com",
+  "source": "https://www.pge.com",
+  "hex": "1689C5",
+  "aliases": [
+    "PG&E Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PCG"
+    }
+  ],
+  "wikidata": "Q108535726",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

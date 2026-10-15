@@ -1,0 +1,23 @@
+{
+  "name": "Public Service Enterprise Group",
+  "slug": "public-service-enterprise-group",
+  "website": "https://www.pseg.com",
+  "source": "https://www.pseg.com",
+  "hex": "F35A13",
+  "aliases": [
+    "Public Service Enterprise Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PEG"
+    }
+  ],
+  "isin": "US7445731067",
+  "wikidata": "Q930919",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

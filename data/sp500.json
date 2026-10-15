@@ -3681,7 +3681,7 @@
       "sector": "Industrials",
       "industry": "Trading Companies & Distributors",
       "headquarters": "Newport News, Virginia",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3741,7 +3741,7 @@
       "sector": "Financials",
       "industry": "Transaction & Payment Processing Services",
       "headquarters": "Jacksonville, Florida",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3885,7 +3885,7 @@
       "sector": "Information Technology",
       "industry": "Semiconductors",
       "headquarters": "Tempe, Arizona",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -4329,7 +4329,7 @@
       "sector": "Consumer Discretionary",
       "industry": "Leisure Products",
       "headquarters": "Pawtucket, Rhode Island",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -5429,7 +5429,7 @@
       "sector": "Consumer Staples",
       "industry": "Food Retail",
       "headquarters": "Cincinnati, Ohio",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -5849,7 +5849,7 @@
       "sector": "Real Estate",
       "industry": "Multi-Family Residential REITs",
       "headquarters": "Memphis, Tennessee",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -6589,7 +6589,7 @@
       "sector": "Utilities",
       "industry": "Multi-Utilities",
       "headquarters": "Merrillville, Indiana",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -7113,7 +7113,7 @@
       "sector": "Utilities",
       "industry": "Multi-Utilities",
       "headquarters": "Oakland, California",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -7133,7 +7133,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Newark, New Jersey",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -7853,7 +7853,7 @@
       "sector": "Information Technology",
       "industry": "Electronic Equipment & Instruments",
       "headquarters": "Sarasota, Florida",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -8253,7 +8253,7 @@
       "sector": "Utilities",
       "industry": "Multi-Utilities",
       "headquarters": "San Diego, California",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [

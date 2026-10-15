@@ -1,0 +1,22 @@
+{
+  "name": "Fidelity National Information Services",
+  "slug": "fidelity-national-information-services",
+  "website": "https://www.fidelityinfoservices.com",
+  "source": "https://www.fidelityinfoservices.com",
+  "hex": "4BCD3E",
+  "aliases": [
+    "Fidelity National Information Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FIS"
+    }
+  ],
+  "isin": "US31620M1062",
+  "wikidata": "Q1411295",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}
