@@ -2,8 +2,8 @@
   "name": "United Parcel Service",
   "slug": "united-parcel-service",
   "website": "https://www.ups.com",
-  "source": "https://uhs.com/wp-content/uploads/2024/12/uhs_logo_new.png",
-  "hex": "94002A",
+  "source": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026019882/ups2025arsa.pdf",
+  "hex": "FFC700",
   "aliases": [
     "United Parcel Service"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

@@ -2,7 +2,7 @@
   "name": "Workday, Inc.",
   "slug": "workday",
   "website": "https://www.workday.com",
-  "source": "https://www.workday.com/content/dam/web/ux-images/wdr-logo-w-dub.svg",
+  "source": "https://workday.scene7.com/is/image/workday/workday-logo-tm-primary-rgb?fmt=png-alpha&wid=2400",
   "aliases": [
     "Workday, Inc."
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "0F2E67"
 }

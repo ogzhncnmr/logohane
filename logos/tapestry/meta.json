@@ -2,7 +2,7 @@
   "name": "Tapestry, Inc.",
   "slug": "tapestry",
   "website": "https://www.tapestry.com",
-  "source": "https://assets.tapestry.com/tapestrycorp/assets/images/uploads/2021/new-design/Common/Logo_Coach_White.svg",
+  "source": "https://assets.tapestry.com/tapestrycorp/assets/images/uploads/2021/new-design/Common/TapestryLogo-Lunacy.svg",
   "aliases": [
     "Tapestry, Inc."
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "000000"
 }

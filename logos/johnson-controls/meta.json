@@ -2,8 +2,8 @@
   "name": "Johnson Controls",
   "slug": "johnson-controls",
   "website": "https://www.johnsoncontrols.com",
-  "source": "https://www.johnsoncontrols.com/-/media/project/jci-global/brand-logos/silentaire.png?la=en&h=320&w=720&hash=045901C2572A0ACCBD25B2E4E0F9CB71",
-  "hex": "2876A8",
+  "source": "https://www.sec.gov/Archives/edgar/data/833444/000110465926004571/tm2524665d9_ars.pdf",
+  "hex": "1A458A",
   "aliases": [
     "Johnson Controls"
   ],
@@ -17,5 +17,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }
