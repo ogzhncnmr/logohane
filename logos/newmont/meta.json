@@ -2,7 +2,7 @@
   "name": "Newmont",
   "slug": "newmont",
   "website": "https://www.newmont.com",
-  "source": "https://s24.q4cdn.com/382246808/files/design/logo/Newmont-Color-Rev-RGB.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/1164727/000110465926035231/nem-20251231xars.pdf",
   "aliases": [
     "Newmont"
   ],
@@ -18,5 +18,5 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

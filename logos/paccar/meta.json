@@ -2,7 +2,7 @@
   "name": "Paccar",
   "slug": "paccar",
   "website": "https://www.paccar.com",
-  "source": "https://www.paccar.com/media/ragia4d5/logo_paccar.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/75362/000119312526113873/2025_annual_report_-_ars.pdf",
   "aliases": [
     "Paccar"
   ],
@@ -18,5 +18,5 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

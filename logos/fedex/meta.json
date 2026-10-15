@@ -2,8 +2,8 @@
   "name": "FedEx",
   "slug": "fedex",
   "website": "https://www.fedex.com",
-  "source": "https://www.fedex.com/content/dam/fedex-com/logos/logo.png",
-  "hex": "FF6600",
+  "source": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926097845/tm2617164d3_ars.pdf",
+  "hex": "36246C",
   "aliases": [
     "FedEx"
   ],
@@ -19,5 +19,5 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

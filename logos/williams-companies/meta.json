@@ -2,8 +2,8 @@
   "name": "Williams Companies",
   "slug": "williams-companies",
   "website": "https://www.williams.com",
-  "source": "https://www.williams.com/wp-content/uploads/sites/14/2019/11/williams-logo@2x.png",
-  "hex": "0071AE",
+  "source": "https://www.sec.gov/Archives/edgar/data/107263/000119312526112664/wmb_2025_ars.pdf",
+  "hex": "0079C2",
   "aliases": [
     "Williams Companies"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

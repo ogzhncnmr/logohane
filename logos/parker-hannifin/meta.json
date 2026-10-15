@@ -2,7 +2,7 @@
   "name": "Parker Hannifin",
   "slug": "parker-hannifin",
   "website": "https://www.parker.com",
-  "source": "https://www.parker.com/content/dam/Corporate/parker_logo.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000142/phfy26ararscompliant.pdf",
   "hex": "231F20",
   "aliases": [
     "Parker Hannifin"
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

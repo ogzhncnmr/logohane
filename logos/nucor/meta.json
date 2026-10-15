@@ -2,7 +2,7 @@
   "name": "Nucor",
   "slug": "nucor",
   "website": "https://www.nucor.com",
-  "source": "https://nucor.com/wp-content/uploads/nucor_logo_white_@2x.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/73309/000119312526127746/d51842dars.pdf",
   "aliases": [
     "Nucor"
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "095530"
 }
