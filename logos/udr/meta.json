@@ -1,0 +1,22 @@
+{
+  "name": "UDR, Inc.",
+  "slug": "udr",
+  "website": "https://www.udr.com",
+  "source": "https://www.udr.com",
+  "hex": "1E8A3E",
+  "aliases": [
+    "UDR, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UDR"
+    }
+  ],
+  "isin": "US9026531049",
+  "wikidata": "Q27988153",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

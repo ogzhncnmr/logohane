@@ -8813,7 +8813,7 @@
       "sector": "Financials",
       "industry": "Asset Management & Custody Banks",
       "headquarters": "Baltimore, Maryland",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9033,7 +9033,7 @@
       "sector": "Industrials",
       "industry": "Passenger Airlines",
       "headquarters": "Chicago, Illinois",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9073,7 +9073,7 @@
       "sector": "Real Estate",
       "industry": "Multi-Family Residential REITs",
       "headquarters": "Highlands Ranch, Colorado",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9093,7 +9093,7 @@
       "sector": "Health Care",
       "industry": "Health Care Facilities",
       "headquarters": "King of Prussia, Pennsylvania",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9633,7 +9633,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Milwaukee, Wisconsin",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9693,7 +9693,7 @@
       "sector": "Industrials",
       "industry": "Environmental & Facilities Services",
       "headquarters": "Houston, Texas",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -9753,7 +9753,7 @@
       "sector": "Financials",
       "industry": "Property & Casualty Insurance",
       "headquarters": "Greenwich, Connecticut",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [

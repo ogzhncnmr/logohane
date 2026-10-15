@@ -1,0 +1,24 @@
+{
+  "name": "W. R. Berkley Corporation",
+  "slug": "w-r-berkley",
+  "website": "https://www.wrberkley.com",
+  "source": "https://www.berkley.com",
+  "hex": "0C5941",
+  "aliases": [
+    "W. R. Berkley Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WRB"
+    }
+  ],
+  "isin": "US0844231029",
+  "wikidata": "Q1369955",
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

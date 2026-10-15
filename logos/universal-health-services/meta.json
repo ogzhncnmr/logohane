@@ -1,0 +1,23 @@
+{
+  "name": "Universal Health Services",
+  "slug": "universal-health-services",
+  "website": "https://www.uhsinc.com",
+  "source": "https://uhs.com",
+  "hex": "903843",
+  "aliases": [
+    "Universal Health Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UHS"
+    }
+  ],
+  "isin": "US9139031002",
+  "wikidata": "Q7893967",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

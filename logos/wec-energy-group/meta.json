@@ -1,0 +1,22 @@
+{
+  "name": "WEC Energy Group",
+  "slug": "wec-energy-group",
+  "website": "https://www.wisconsinenergy.com",
+  "source": "https://www.wecenergygroup.com",
+  "hex": "1189CB",
+  "aliases": [
+    "WEC Energy Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WEC"
+    }
+  ],
+  "isin": "US92939U1060",
+  "wikidata": "Q8027166",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}
