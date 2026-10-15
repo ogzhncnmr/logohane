@@ -2,7 +2,7 @@
   "name": "ExxonMobil",
   "slug": "exxonmobil",
   "website": "https://corporate.exxonmobil.com",
-  "source": "https://corporate.exxonmobil.com/-/media/global/icons/logos/exxonmobillogocolor2x.png",
+  "source": "https://corporate.exxonmobil.com/-/media/global/icons/footer/sites/logo-exxonmobil-main.svg",
   "hex": "FE000C",
   "aliases": [
     "ExxonMobil"
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

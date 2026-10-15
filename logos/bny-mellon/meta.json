@@ -2,7 +2,7 @@
   "name": "BNY Mellon",
   "slug": "bny-mellon",
   "website": "https://www.bnymellon.com",
-  "source": "https://www.bny.com/content/dam/bnymellon/web/logo/bnym-logo.png",
+  "source": "https://www.bny.com/corporate/global/en.html",
   "hex": "2D9BAD",
   "aliases": [
     "BNY Mellon"
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

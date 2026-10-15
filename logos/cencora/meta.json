@@ -2,8 +2,8 @@
   "name": "Cencora",
   "slug": "cencora",
   "website": "https://www.cencora.com",
-  "source": "https://www.cencora.com/-/media/assets/corporate/global/logos/cencora-logo.png?h=60&w=250&la=en&hash=0463B9CEBA8D3A73118B6C4951E55D03",
-  "hex": "471E98",
+  "source": "https://www.cencora.com/-/media/assets/corporate/global/logos/cencora-logo.png?h=143&w=1000&la=en&hash=DFF891C159422E8111541D1A372212CB",
+  "hex": "461E97",
   "aliases": [
     "Cencora"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }
