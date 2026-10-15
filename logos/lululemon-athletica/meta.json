@@ -2,8 +2,8 @@
   "name": "Lululemon Athletica",
   "slug": "lululemon-athletica",
   "website": "https://shop.lululemon.com",
-  "source": "https://cdn.cookielaw.org/logos/b5ce4b51-ea0c-47e5-b855-c12d511f57c9/0191fd07-6c6f-7dca-8554-7ce8a7f27ba5/df5a59c3-baf2-48a3-b218-6ad21f1bb909/lululemon_Yogo_Black.png",
-  "hex": "140F0F",
+  "source": "https://www.sec.gov/Archives/edgar/data/1397187/000121390026058096/ea0281698-08.pdf",
+  "hex": "292627",
   "aliases": [
     "Lululemon Athletica"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

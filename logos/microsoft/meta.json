@@ -2,8 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "website": "https://www.microsoft.com",
-  "source": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-  "hex": "F34F21",
+  "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312525245177/d61995dars.pdf",
+  "hex": "F36522",
   "aliases": [
     "Microsoft"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

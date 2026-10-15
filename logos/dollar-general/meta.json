@@ -2,8 +2,8 @@
   "name": "Dollar General",
   "slug": "dollar-general",
   "website": "https://www.dollargeneral.com",
-  "source": "https://investor.dollargeneral.com/images/dollar-logo.png",
-  "hex": "FFF300",
+  "source": "https://www.sec.gov/Archives/edgar/data/29534/000110465926040416/tm265050d2_ars.pdf",
+  "hex": "FEF300",
   "aliases": [
     "Dollar General"
   ],

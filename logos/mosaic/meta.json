@@ -2,8 +2,8 @@
   "name": "Mosaic Company (The)",
   "slug": "mosaic",
   "website": "https://www.mosaicco.com",
-  "source": "https://mosaicco.com/images/admin/logo-project.png",
-  "hex": "B84B16",
+  "source": "https://www.sec.gov/Archives/edgar/data/1285785/000119312526158446/d37864dars.pdf",
+  "hex": "BB4D24",
   "aliases": [
     "Mosaic Company (The)"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

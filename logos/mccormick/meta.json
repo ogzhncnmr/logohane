@@ -2,8 +2,8 @@
   "name": "McCormick & Company",
   "slug": "mccormick",
   "website": "https://www.mccormickcorporation.com",
-  "source": "https://www.mccormickcorporation.com/-/media/corporate/site-logo/desktop/logomccormick2xdesktop.png?rev=d598f96c55df4d939849b8d15ea1ddb3&vd=20250225T180611Z&extension=webp&hash=D148F8B4835B9C1D1B06BDF8E6F2A7F5",
-  "hex": "00468B",
+  "source": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000142/mccormick_2025xarxupdated.pdf",
+  "hex": "002F87",
   "aliases": [
     "McCormick & Company"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

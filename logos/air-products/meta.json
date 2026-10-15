@@ -2,8 +2,8 @@
   "name": "Air Products",
   "slug": "air-products",
   "website": "https://airproducts.com",
-  "source": "https://www.airproducts.com/-/media/images/navigation/header/air-products-logo.png?h=43&w=198&hash=D778F4AFEA9427DBD5FFD8B85CC5EAB2",
-  "hex": "2B9A69",
+  "source": "https://www.sec.gov/Archives/edgar/data/2969/000130817925000645/apd0014238-ars.pdf",
+  "hex": "109B49",
   "aliases": [
     "Air Products"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

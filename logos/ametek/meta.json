@@ -2,8 +2,8 @@
   "name": "Ametek",
   "slug": "ametek",
   "website": "https://www.ametek.com",
-  "source": "https://www.ametek.com/-/media/project/oneweb/oneweb/oneweb/logos/default-logo.png?h=33&w=216&revision=19c8369c-a1ce-43a0-9399-74476f6b8457&hash=FD110BFD930AC1F855B5552CAAF77354",
-  "hex": "010101",
+  "source": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000065/a2025ametekannualreport.pdf",
+  "hex": "000000",
   "aliases": [
     "Ametek"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

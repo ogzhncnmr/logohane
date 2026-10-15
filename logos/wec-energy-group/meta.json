@@ -2,8 +2,8 @@
   "name": "WEC Energy Group",
   "slug": "wec-energy-group",
   "website": "https://www.wisconsinenergy.com",
-  "source": "https://www.wecenergygroup.com",
-  "hex": "1189CB",
+  "source": "https://www.sec.gov/Archives/edgar/data/783325/000078332526000037/wec2025annualreport.pdf",
+  "hex": "0083CC",
   "aliases": [
     "WEC Energy Group"
   ],

@@ -2,8 +2,8 @@
   "name": "NRG Energy",
   "slug": "nrg-energy",
   "website": "https://www.nrg.com",
-  "source": "https://www.nrg.com/content/dam/nrg/web/en/multimedia/logos/nrg/NRG-Logo_FullColor-Black-NoTrademark.webp",
-  "hex": "EF008E",
+  "source": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926030902/tm265626d2_ars.pdf",
+  "hex": "EE008D",
   "aliases": [
     "NRG Energy"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

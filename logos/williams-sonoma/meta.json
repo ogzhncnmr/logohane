@@ -2,7 +2,7 @@
   "name": "Williams-Sonoma, Inc.",
   "slug": "williams-sonoma",
   "website": "https://www.williams-sonomainc.com",
-  "source": "https://www.williams-sonomainc.com/corpimgs/i/202640/0002/images/nav/logo-wsi.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000111/a2025williams-sonoma_incan.pdf",
   "aliases": [
     "Williams-Sonoma, Inc."
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "221E1F"
 }

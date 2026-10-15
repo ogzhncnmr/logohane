@@ -2,8 +2,8 @@
   "name": "General Dynamics",
   "slug": "general-dynamics",
   "website": "https://www.gd.com",
-  "source": "https://www.gd.com/-/media/gd-corporate/global/gd-logo.ashx?la=en&h=50&w=722&hash=B635D1BB06B5E774525270BECC1AC358",
-  "hex": "003189",
+  "source": "https://www.sec.gov/Archives/edgar/data/40533/000130817926000173/gd014595-ars.pdf",
+  "hex": "0B308A",
   "aliases": [
     "General Dynamics"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

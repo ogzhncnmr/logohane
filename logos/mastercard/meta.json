@@ -2,8 +2,8 @@
   "name": "Mastercard",
   "slug": "mastercard",
   "website": "https://www.mastercard.com",
-  "source": "https://www.mastercard.com/content/dam/mccom/shared/ma_symbol.png",
-  "hex": "E51B24",
+  "source": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000025/ma12312025-10xkasfiled.pdf",
+  "hex": "E41B23",
   "aliases": [
     "Mastercard"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

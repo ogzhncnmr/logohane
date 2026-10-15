@@ -2,8 +2,8 @@
   "name": "Omnicom Group",
   "slug": "omnicom-group",
   "website": "https://www.omnicomgroup.com",
-  "source": "https://www.omc.com/wp-content/uploads/2026/06/Omnicom-Logo-2x-1.png#8274",
-  "hex": "000000",
+  "source": "https://www.sec.gov/Archives/edgar/data/29989/000121390026034817/ea0274271-03.pdf",
+  "hex": "4179BD",
   "aliases": [
     "Omnicom Group"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

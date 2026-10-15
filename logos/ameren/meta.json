@@ -2,8 +2,8 @@
   "name": "Ameren",
   "slug": "ameren",
   "website": "https://www.ameren.com",
-  "source": "https://www.ameren.com",
-  "hex": "43943B",
+  "source": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926037774/tm2534584d2_ars.pdf",
+  "hex": "4C8D41",
   "aliases": [
     "Ameren"
   ],

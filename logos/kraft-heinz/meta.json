@@ -2,8 +2,8 @@
   "name": "Kraft Heinz",
   "slug": "kraft-heinz",
   "website": "https://www.kraftheinzcompany.com",
-  "source": "https://www.kraftheinzcompany.com/images/logo_main.png",
-  "hex": "1B3C6D",
+  "source": "https://www.sec.gov/Archives/edgar/data/1637459/000119312526141440/d27769dars.pdf",
+  "hex": "E93234",
   "aliases": [
     "Kraft Heinz"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

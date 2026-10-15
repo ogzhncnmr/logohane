@@ -2,8 +2,8 @@
   "name": "Steel Dynamics",
   "slug": "steel-dynamics",
   "website": "https://www.steeldynamics.com",
-  "source": "https://www.steeldynamics.com/wp-content/uploads/2021/03/mobile-logo.jpg",
-  "hex": "A2000D",
+  "source": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926035859/tm269804d1_ars.pdf",
+  "hex": "AD1D35",
   "aliases": [
     "Steel Dynamics"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

@@ -2,8 +2,8 @@
   "name": "Sempra",
   "slug": "sempra",
   "website": "https://www.sempra.com",
-  "source": "https://www.sempra.com",
-  "hex": "01158A",
+  "source": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000018/sempra2025annualreport.pdf",
+  "hex": "26387A",
   "aliases": [
     "Sempra"
   ],

@@ -2,7 +2,7 @@
   "name": "Arista Networks",
   "slug": "arista-networks",
   "website": "https://www.arista.com",
-  "source": "https://www.arista.com/templates/arista_v2/img/logo_arista.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/1596532/000119312526158961/d65447dars.pdf",
   "aliases": [
     "Arista Networks"
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "143A62"
 }

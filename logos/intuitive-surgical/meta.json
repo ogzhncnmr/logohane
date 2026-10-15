@@ -2,8 +2,8 @@
   "name": "Intuitive Surgical",
   "slug": "intuitive-surgical",
   "website": "https://www.intuitive.com",
-  "source": "https://cdn.cookielaw.org/logos/2d81edac-a4d2-43b5-aaad-2f1926e3e40e/670cb061-7b74-41a0-850b-349ca43f5152/e146af79-afd0-4c73-86e0-088e3f3f823c/intuitive_logo160.png",
-  "hex": "2A2627",
+  "source": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000025/a2025_annualreportxv4.pdf",
+  "hex": "000000",
   "aliases": [
     "Intuitive Surgical"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

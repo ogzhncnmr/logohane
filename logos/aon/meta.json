@@ -2,8 +2,8 @@
   "name": "Aon plc",
   "slug": "aon",
   "website": "https://www.aon.com",
-  "source": "https://cdn.cookielaw.org/logos/3f996699-ab81-49df-b284-e640e5fe59d5/c8acab65-fb9f-4127-aac7-6867bd482c6a/2185d97a-9d51-4ce1-81d3-2eb52b72ab70/aon_logo_signature_red_rgb.png",
-  "hex": "EC0017",
+  "source": "https://www.sec.gov/Archives/edgar/data/315293/000119312526187633/aon_plc_2025_ars.pdf",
+  "hex": "EF252C",
   "aliases": [
     "Aon plc"
   ],
@@ -17,5 +17,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

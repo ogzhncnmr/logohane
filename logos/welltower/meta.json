@@ -2,8 +2,8 @@
   "name": "Welltower",
   "slug": "welltower",
   "website": "https://welltower.com",
-  "source": "https://welltower.com/wp-content/uploads/2026/07/Welltower_Logo.jpg",
-  "hex": "010101",
+  "source": "https://www.sec.gov/Archives/edgar/data/766704/000119312526150344/d25686dars.pdf",
+  "hex": "231F20",
   "aliases": [
     "Welltower"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

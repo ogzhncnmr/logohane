@@ -2,8 +2,8 @@
   "name": "Dover Corporation",
   "slug": "dover",
   "website": "https://www.dovercorporation.com",
-  "source": "https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2",
-  "hex": "004B8D",
+  "source": "https://www.sec.gov/Archives/edgar/data/29905/000119312526120721/d936738dars.pdf",
+  "hex": "0C3375",
   "aliases": [
     "Dover Corporation"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

@@ -2,8 +2,8 @@
   "name": "Veeva Systems",
   "slug": "veeva-systems",
   "website": "https://www.veeva.com",
-  "source": "https://www.veeva.com/wp-content/uploads/2023/05/Veeva_2c_300x69.png",
-  "hex": "F89C27",
+  "source": "https://www.sec.gov/Archives/edgar/data/1393052/000114036126018799/ny20062821x4_ars.pdf",
+  "hex": "F5831F",
   "aliases": [
     "Veeva Systems"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }
