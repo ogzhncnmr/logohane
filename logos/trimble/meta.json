@@ -2,8 +2,8 @@
   "name": "Trimble Inc.",
   "slug": "trimble",
   "website": "https://www.trimble.com",
-  "source": "https://images.ctfassets.net/citn2sn5tdjr/1h9ipQdkQiZfuw7UWPfCpv/dd2bc6de125e484e7805d948d2b75984/partners-logo-esri-544x362.png",
-  "hex": "010101",
+  "source": "https://www.sec.gov/Archives/edgar/data/864749/000086474926000039/trmb2025annualreport.pdf",
+  "hex": "0064A5",
   "aliases": [
     "Trimble Inc."
   ],
@@ -15,7 +15,8 @@
   ],
   "wikidata": "Q2297063",
   "variants": [
-    "default"
+    "default",
+    "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }

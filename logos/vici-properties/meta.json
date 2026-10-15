@@ -2,7 +2,7 @@
   "name": "Vici Properties",
   "slug": "vici-properties",
   "website": "https://viciproperties.com",
-  "source": "https://live-vici-properties.pantheonsite.io/wp-content/uploads/2020/09/logo-white.png",
+  "source": "https://www.sec.gov/Archives/edgar/data/1705696/000110465926028582/tm268202d3_ars.pdf",
   "aliases": [
     "Vici Properties"
   ],
@@ -18,5 +18,6 @@
     "default",
     "dark"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15",
+  "hex": "000000"
 }

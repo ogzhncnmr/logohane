@@ -2,8 +2,8 @@
   "name": "Brown & Brown",
   "slug": "brown-and-brown",
   "website": "https://www.bbinsurance.com",
-  "source": "https://4972039.fs1.hubspotusercontent-na1.net/hub/4972039/hubfs/BBRetail001-CMYK%20(1).jpg?width=690&height=96&name=BBRetail001-CMYK%20(1).jpg",
-  "hex": "032B59",
+  "source": "https://www.sec.gov/Archives/edgar/data/79282/000119312526122185/d33536dars.pdf",
+  "hex": "172F59",
   "aliases": [
     "Brown & Brown"
   ],
@@ -18,5 +18,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }
