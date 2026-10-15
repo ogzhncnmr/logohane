@@ -1,0 +1,21 @@
+{
+  "name": "Pentair",
+  "slug": "pentair",
+  "website": "https://www.pentair.com",
+  "source": "https://www.pentair.com/content/dam/extranet/enterprise/images/logos/pentair/pentair-logo-web.svg",
+  "hex": "092450",
+  "aliases": [
+    "Pentair"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PNR"
+    }
+  ],
+  "wikidata": "Q7165001",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

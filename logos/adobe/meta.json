@@ -1,0 +1,22 @@
+{
+  "name": "Adobe Inc.",
+  "slug": "adobe",
+  "website": "https://www.adobe.com",
+  "source": "https://www.adobe.com/content/dam/cc/icons/adobe_wordmark_red.svg",
+  "hex": "EC1000",
+  "aliases": [
+    "Adobe Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ADBE"
+    }
+  ],
+  "isin": "US00724F1012",
+  "wikidata": "Q11463",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

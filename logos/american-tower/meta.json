@@ -1,0 +1,22 @@
+{
+  "name": "American Tower",
+  "slug": "american-tower",
+  "website": "https://www.americantower.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526146429/d54935dars.pdf",
+  "hex": "D11F43",
+  "aliases": [
+    "American Tower"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AMT"
+    }
+  ],
+  "isin": "US03027X1000",
+  "wikidata": "Q4745263",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

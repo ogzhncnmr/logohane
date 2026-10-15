@@ -1,0 +1,21 @@
+{
+  "name": "Trane Technologies",
+  "slug": "trane-technologies",
+  "website": "https://www.tranetechnologies.com",
+  "source": "https://www.tranetechnologies.com/content/dam/cs-corporate/images/logos/logo-TT.svg",
+  "hex": "6500FF",
+  "aliases": [
+    "Trane Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TT"
+    }
+  ],
+  "wikidata": "Q131744111",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

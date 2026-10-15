@@ -1,0 +1,22 @@
+{
+  "name": "Elevance Health",
+  "slug": "elevance-health",
+  "website": "https://www.elevancehealth.com",
+  "source": "https://s202.q4cdn.com/665319960/files/design/Elevance_Health_sm_rgb_c.svg",
+  "hex": "1A3674",
+  "aliases": [
+    "Elevance Health"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ELV"
+    }
+  ],
+  "isin": "US0367521038",
+  "wikidata": "Q677488",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

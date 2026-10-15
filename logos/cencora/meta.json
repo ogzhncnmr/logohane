@@ -1,0 +1,22 @@
+{
+  "name": "Cencora",
+  "slug": "cencora",
+  "website": "https://www.cencora.com",
+  "source": "https://www.cencora.com/-/media/assets/corporate/global/logos/cencora-logo.png?h=143&w=1000&la=en&hash=DFF891C159422E8111541D1A372212CB",
+  "hex": "461E97",
+  "aliases": [
+    "Cencora"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "COR"
+    }
+  ],
+  "isin": "US03073E1055",
+  "wikidata": "Q470156",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

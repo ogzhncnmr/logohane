@@ -1,0 +1,22 @@
+{
+  "name": "Deckers Brands",
+  "slug": "deckers-brands",
+  "website": "https://www.deckers.com",
+  "source": "https://www.deckers.com/themes/custom/my_olivero_subtheme/logo.svg",
+  "hex": "333E47",
+  "aliases": [
+    "Deckers Brands"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DECK"
+    }
+  ],
+  "isin": "US2435371073",
+  "wikidata": "Q1181953",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

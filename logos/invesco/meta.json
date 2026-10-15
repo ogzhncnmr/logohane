@@ -1,0 +1,21 @@
+{
+  "name": "Invesco",
+  "slug": "invesco",
+  "website": "https://www.invesco.com",
+  "source": "https://www.invesco.com/content/dam/invesco/global/en/images/invesco-blue.svg",
+  "hex": "000AD4",
+  "aliases": [
+    "Invesco"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IVZ"
+    }
+  ],
+  "wikidata": "Q522617",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

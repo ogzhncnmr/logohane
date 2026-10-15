@@ -1,0 +1,22 @@
+{
+  "name": "Tyler Technologies",
+  "slug": "tyler-technologies",
+  "website": "https://tylertech.com",
+  "source": "https://www.tylertech.com/Portals/0/NavBar-Logo.png?ver=pxEKh0lVGhYQJ0B_emcakg%3d%3d",
+  "hex": "415391",
+  "aliases": [
+    "Tyler Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TYL"
+    }
+  ],
+  "isin": "US9022521051",
+  "wikidata": "Q48802335",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

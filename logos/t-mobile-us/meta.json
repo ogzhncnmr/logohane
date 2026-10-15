@@ -1,0 +1,22 @@
+{
+  "name": "T-Mobile US",
+  "slug": "t-mobile-us",
+  "website": "https://www.t-mobile.com",
+  "source": "https://www.t-mobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v4.svg",
+  "hex": "E20074",
+  "aliases": [
+    "T-Mobile US"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TMUS"
+    }
+  ],
+  "isin": "US8725901040",
+  "wikidata": "Q3511885",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

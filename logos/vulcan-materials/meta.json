@@ -1,0 +1,22 @@
+{
+  "name": "Vulcan Materials Company",
+  "slug": "vulcan-materials",
+  "website": "https://www.vulcanmaterials.com",
+  "source": "https://images.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/bltb80ed161817f9c5d/68e3f4c9b0493a969bcce170/Vulcan_Logo_Blue.svg?auto=avif",
+  "hex": "253977",
+  "aliases": [
+    "Vulcan Materials Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VMC"
+    }
+  ],
+  "isin": "US9291601097",
+  "wikidata": "Q1685287",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

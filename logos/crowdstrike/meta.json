@@ -1,0 +1,22 @@
+{
+  "name": "CrowdStrike",
+  "slug": "crowdstrike",
+  "website": "https://www.crowdstrike.com",
+  "source": "https://assets.crowdstrike.com/is/content/crowdstrikeinc/CS_Logo_Falcon",
+  "hex": "000000",
+  "aliases": [
+    "CrowdStrike"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CRWD"
+    }
+  ],
+  "isin": "US22788C1053",
+  "wikidata": "Q24890758",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

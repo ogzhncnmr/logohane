@@ -1,0 +1,23 @@
+{
+  "name": "PTC Inc.",
+  "slug": "ptc",
+  "website": "https://www.ptc.com",
+  "source": "https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/c22e1d0a2ced49ccacb3fae025b2eb00?v=33c3645b",
+  "hex": "40AB1D",
+  "aliases": [
+    "PTC Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PTC"
+    }
+  ],
+  "isin": "US69370C1009",
+  "wikidata": "Q1760641",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

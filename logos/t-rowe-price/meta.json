@@ -1,0 +1,24 @@
+{
+  "name": "T. Rowe Price",
+  "slug": "t-rowe-price",
+  "website": "https://www.troweprice.com",
+  "source": "https://www.troweprice.com",
+  "hex": "01CFEC",
+  "aliases": [
+    "T. Rowe Price"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TROW"
+    }
+  ],
+  "isin": "US74144T1088",
+  "wikidata": "Q3511946",
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

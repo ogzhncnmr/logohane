@@ -1,0 +1,22 @@
+{
+  "name": "Kroger",
+  "slug": "kroger",
+  "website": "https://www.kroger.com",
+  "source": "https://www.kroger.com",
+  "hex": "134B96",
+  "aliases": [
+    "Kroger"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KR"
+    }
+  ],
+  "isin": "US5010441013",
+  "wikidata": "Q153417",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

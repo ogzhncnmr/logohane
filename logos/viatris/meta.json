@@ -1,0 +1,22 @@
+{
+  "name": "Viatris",
+  "slug": "viatris",
+  "website": "https://www.viatris.com/en",
+  "source": "https://www.viatris.com/-/media/project/common/viatris/viatris_logo_horiz_rgb_violet_resized_header_icon.png?h=3620&iar=0&w=8483&hash=CEC39BBA66C0DF62083197FD4B2102A1",
+  "hex": "703E98",
+  "aliases": [
+    "Viatris"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "VTRS"
+    }
+  ],
+  "isin": "US92556V1061",
+  "wikidata": "Q101983981",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

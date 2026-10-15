@@ -1,0 +1,21 @@
+{
+  "name": "Linde plc",
+  "slug": "linde",
+  "website": "https://www.linde.com",
+  "source": "https://assets.linde.com/-/media/shared/logo/linde-logo-desktop.png?r=67f656cb1f",
+  "hex": "015590",
+  "aliases": [
+    "Linde plc"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LIN"
+    }
+  ],
+  "wikidata": "Q682759",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

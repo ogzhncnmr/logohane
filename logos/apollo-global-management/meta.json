@@ -1,0 +1,21 @@
+{
+  "name": "Apollo Global Management",
+  "slug": "apollo-global-management",
+  "website": "https://www.apollo.com",
+  "source": "https://www.apollo.com/",
+  "aliases": [
+    "Apollo Global Management"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "APO"
+    }
+  ],
+  "wikidata": "Q619121",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

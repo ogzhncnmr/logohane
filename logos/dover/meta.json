@@ -1,0 +1,22 @@
+{
+  "name": "Dover Corporation",
+  "slug": "dover",
+  "website": "https://www.dovercorporation.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/29905/000119312526120721/d936738dars.pdf",
+  "hex": "0C3375",
+  "aliases": [
+    "Dover Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DOV"
+    }
+  ],
+  "isin": "US2600031080",
+  "wikidata": "Q16974527",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GE HealthCare",
+  "slug": "ge-healthcare",
+  "website": "https://www.gehealthcare.com",
+  "source": "https://s7d9.scene7.com/is/image/gehealthcare/logo-Light-GEHC?fmt=webp-alpha&1744792326863",
+  "hex": "6322AB",
+  "aliases": [
+    "GE HealthCare"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "GEHC"
+    }
+  ],
+  "isin": "US36266G1076",
+  "wikidata": "Q1152374",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

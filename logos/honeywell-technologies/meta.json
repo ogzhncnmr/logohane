@@ -1,0 +1,22 @@
+{
+  "name": "Honeywell Technologies",
+  "slug": "honeywell-technologies",
+  "website": "https://honeywell.com",
+  "source": "https://www.honeywell.com/content/dam/honcorp/us-en/common-assets/logos/hon-honeywell-technologies-logo-full-horizontal.svg",
+  "hex": "E50100",
+  "aliases": [
+    "Honeywell Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HON"
+    }
+  ],
+  "isin": "US4385161066",
+  "wikidata": "Q898208",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Qualcomm",
+  "slug": "qualcomm",
+  "website": "https://www.qualcomm.com",
+  "source": "https://cdn.cookielaw.org/logos/b0a5f2cc-0b29-4907-89bf-3f6b380a03c8/019b2956-bc55-75aa-8570-6d773b2bae4b/5e4f142a-c83a-4c87-9ff6-54a22a735113/1280px-Qualcomm-Logo.svg.png",
+  "hex": "3253DC",
+  "aliases": [
+    "Qualcomm"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "QCOM"
+    }
+  ],
+  "isin": "US7475251036",
+  "wikidata": "Q544847",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

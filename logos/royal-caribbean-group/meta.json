@@ -1,0 +1,21 @@
+{
+  "name": "Royal Caribbean Group",
+  "slug": "royal-caribbean-group",
+  "website": "https://www.royalcaribbeangroup.com",
+  "source": "https://www.royalcaribbeangroup.com/images/logo2.svg",
+  "hex": "004ECE",
+  "aliases": [
+    "Royal Caribbean Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RCL"
+    }
+  ],
+  "wikidata": "Q427881",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

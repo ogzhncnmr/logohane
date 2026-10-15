@@ -1,0 +1,21 @@
+{
+  "name": "Fifth Third Bancorp",
+  "slug": "fifth-third-bancorp",
+  "website": "https://ir.53.com",
+  "source": "https://s23.q4cdn.com/252949160/files/design/2025_11-17-Fifth-Third-Bancorp-Logo_Left-Aligned_Blue-Text.png",
+  "hex": "1D4196",
+  "aliases": [
+    "Fifth Third Bancorp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FITB"
+    }
+  ],
+  "wikidata": "Q130624258",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

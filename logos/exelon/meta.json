@@ -1,0 +1,22 @@
+{
+  "name": "Exelon",
+  "slug": "exelon",
+  "website": "https://www.exeloncorp.com",
+  "source": "https://www.exeloncorp.com/content/dam/exelon/logo/Exelon_Registered_Trademark.svg",
+  "hex": "170D68",
+  "aliases": [
+    "Exelon"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EXC"
+    }
+  ],
+  "isin": "US30161N1019",
+  "wikidata": "Q1383669",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

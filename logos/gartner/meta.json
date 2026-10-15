@@ -1,0 +1,22 @@
+{
+  "name": "Gartner",
+  "slug": "gartner",
+  "website": "https://www.gartner.com",
+  "source": "https://emt.gartnerweb.com/ngw/commonassets/images/build-graphics/gartner-logos/gartner_logo_light.svg",
+  "hex": "00286A",
+  "aliases": [
+    "Gartner"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IT"
+    }
+  ],
+  "isin": "US3666511072",
+  "wikidata": "Q174198",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

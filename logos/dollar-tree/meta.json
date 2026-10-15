@@ -1,0 +1,22 @@
+{
+  "name": "Dollar Tree",
+  "slug": "dollar-tree",
+  "website": "https://www.dollartree.com",
+  "source": "https://www.dollartree.com/file/general/DT-second-logo-green.svg",
+  "hex": "6FBE4A",
+  "aliases": [
+    "Dollar Tree"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "DLTR"
+    }
+  ],
+  "isin": "US2567461080",
+  "wikidata": "Q5289230",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "A. O. Smith",
+  "slug": "a-o-smith",
+  "website": "https://www.aosmith.com",
+  "source": "https://www.aosmith.com/on/demandware.static/Sites-aosmith-Site/-/default/dw1bf1488e/images/logo-small.svg",
+  "hex": "007934",
+  "aliases": [
+    "A. O. Smith"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AOS"
+    }
+  ],
+  "isin": "US8318652091",
+  "wikidata": "Q4648219",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Block, Inc.",
+  "slug": "block",
+  "website": "https://block.xyz",
+  "source": "https://block.xyz/",
+  "hex": "000000",
+  "aliases": [
+    "Block, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "XYZ"
+    }
+  ],
+  "isin": "US8522341036",
+  "wikidata": "Q110778747",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

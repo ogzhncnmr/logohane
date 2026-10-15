@@ -1,0 +1,22 @@
+{
+  "name": "Verisk Analytics",
+  "slug": "verisk-analytics",
+  "website": "https://www.verisk.com",
+  "source": "https://www.verisk.com/4a5ce1/globalassets/svgs/verisk_logo.svg",
+  "hex": "00358F",
+  "aliases": [
+    "Verisk Analytics"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "VRSK"
+    }
+  ],
+  "isin": "US92345Y1064",
+  "wikidata": "Q7921370",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Boston Scientific",
+  "slug": "boston-scientific",
+  "website": "https://www.bostonscientific.com",
+  "source": "https://www.bostonscientific.com/content/dam/logo-bsc.svg",
+  "hex": "13477D",
+  "aliases": [
+    "Boston Scientific"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BSX"
+    }
+  ],
+  "isin": "US1011371077",
+  "wikidata": "Q894585",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

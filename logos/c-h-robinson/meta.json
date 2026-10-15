@@ -1,0 +1,22 @@
+{
+  "name": "C.H. Robinson",
+  "slug": "c-h-robinson",
+  "website": "https://www.chrobinson.com",
+  "source": "https://www.chrobinson.com/en-US/-/media/Default%20Website/Logos/CHR_Logo_Horz_2C_RGB.svg",
+  "hex": "00AAEA",
+  "aliases": [
+    "C.H. Robinson"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CHRW"
+    }
+  ],
+  "isin": "US12541W2098",
+  "wikidata": "Q931200",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

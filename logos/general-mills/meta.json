@@ -1,0 +1,22 @@
+{
+  "name": "General Mills",
+  "slug": "general-mills",
+  "website": "https://www.generalmills.com",
+  "source": "https://edge.sitecorecloud.io/generalmill1621-cmsplatforme170-production28a1-f426/media/Project/GMI/Corporate/T0/SiteLogo/General-Mills-logo-white.svg?h=1354&iar=0&w=2400",
+  "hex": "E42227",
+  "aliases": [
+    "General Mills"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GIS"
+    }
+  ],
+  "wikidata": "Q629998",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

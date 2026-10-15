@@ -1,0 +1,23 @@
+{
+  "name": "Jabil",
+  "slug": "jabil",
+  "website": "https://www.jabil.com",
+  "source": "https://www.jabil.com/.resources/jabil-main/themes/jabil-one-26/src/img/2024/logos/logo-jabil.svg",
+  "hex": "14BEF0",
+  "aliases": [
+    "Jabil"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "JBL"
+    }
+  ],
+  "isin": "US4663131039",
+  "wikidata": "Q2171646",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

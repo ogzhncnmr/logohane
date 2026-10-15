@@ -1,0 +1,21 @@
+{
+  "name": "Flex Ltd.",
+  "slug": "flex",
+  "website": "https://www.flex.com",
+  "source": "https://flex.com/wp-content/themes/flex-parent/images/logo.svg",
+  "hex": "009ADD",
+  "aliases": [
+    "Flex Ltd."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FLEX"
+    }
+  ],
+  "wikidata": "Q1140680",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

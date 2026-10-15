@@ -1,0 +1,21 @@
+{
+  "name": "NXP Semiconductors",
+  "slug": "nxp-semiconductors",
+  "website": "https://www.nxp.com",
+  "source": "https://www.nxp.com/",
+  "hex": "FCA600",
+  "aliases": [
+    "NXP Semiconductors"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NXPI"
+    }
+  ],
+  "wikidata": "Q1155668",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

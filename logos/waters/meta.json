@@ -1,0 +1,22 @@
+{
+  "name": "Waters Corporation",
+  "slug": "waters",
+  "website": "https://www.waters.com",
+  "source": "https://www.waters.com/content/dam/waters/en/brand-assets/logos/waters-logo-black.svg",
+  "hex": "000000",
+  "aliases": [
+    "Waters Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WAT"
+    }
+  ],
+  "isin": "US9418481035",
+  "wikidata": "Q1322011",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

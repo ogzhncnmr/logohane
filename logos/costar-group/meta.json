@@ -1,0 +1,22 @@
+{
+  "name": "CoStar Group",
+  "slug": "costar-group",
+  "website": "https://www.costargroup.com",
+  "source": "https://www.costargroup.com/sites/costargroup.com/files/costar-group-logo.png",
+  "hex": "000000",
+  "aliases": [
+    "CoStar Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CSGP"
+    }
+  ],
+  "isin": "US22160N1090",
+  "wikidata": "Q16988748",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

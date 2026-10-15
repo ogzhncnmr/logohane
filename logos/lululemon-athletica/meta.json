@@ -1,0 +1,22 @@
+{
+  "name": "Lululemon Athletica",
+  "slug": "lululemon-athletica",
+  "website": "https://shop.lululemon.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1397187/000121390026058096/ea0281698-08.pdf",
+  "hex": "292627",
+  "aliases": [
+    "Lululemon Athletica"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LULU"
+    }
+  ],
+  "isin": "US5500211090",
+  "wikidata": "Q6702957",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

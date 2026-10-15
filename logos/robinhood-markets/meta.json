@@ -1,0 +1,22 @@
+{
+  "name": "Robinhood Markets",
+  "slug": "robinhood-markets",
+  "website": "https://www.robinhood.com",
+  "source": "https://robinhood.com/us/en/",
+  "aliases": [
+    "Robinhood Markets"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HOOD"
+    }
+  ],
+  "isin": "US7707001027",
+  "wikidata": "Q18155123",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

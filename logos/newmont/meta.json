@@ -1,0 +1,22 @@
+{
+  "name": "Newmont",
+  "slug": "newmont",
+  "website": "https://www.newmont.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1164727/000110465926035231/nem-20251231xars.pdf",
+  "aliases": [
+    "Newmont"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NEM"
+    }
+  ],
+  "isin": "US6516391066",
+  "wikidata": "Q1785405",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

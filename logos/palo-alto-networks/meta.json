@@ -1,0 +1,22 @@
+{
+  "name": "Palo Alto Networks",
+  "slug": "palo-alto-networks",
+  "website": "https://www.paloaltonetworks.com",
+  "source": "https://www.paloaltonetworks.com/etc/clientlibs/clean/imgs/pan-logo-dark.svg",
+  "hex": "FB592D",
+  "aliases": [
+    "Palo Alto Networks"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PANW"
+    }
+  ],
+  "isin": "US6974351057",
+  "wikidata": "Q7128508",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

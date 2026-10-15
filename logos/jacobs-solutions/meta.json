@@ -1,0 +1,22 @@
+{
+  "name": "Jacobs Solutions",
+  "slug": "jacobs-solutions",
+  "website": "https://www.jacobs.com",
+  "source": "https://www.jacobs.com/themes/custom/jacobs/components/03-formations/footer/Jacobs_logo.svg",
+  "aliases": [
+    "Jacobs Solutions"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "J"
+    }
+  ],
+  "isin": "US4698141078",
+  "wikidata": "Q3157622",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

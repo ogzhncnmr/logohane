@@ -1,0 +1,22 @@
+{
+  "name": "Mosaic Company (The)",
+  "slug": "mosaic",
+  "website": "https://www.mosaicco.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1285785/000119312526158446/d37864dars.pdf",
+  "hex": "BB4D24",
+  "aliases": [
+    "Mosaic Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MOS"
+    }
+  ],
+  "isin": "US61945C1036",
+  "wikidata": "Q7752327",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

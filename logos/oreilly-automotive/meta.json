@@ -1,0 +1,22 @@
+{
+  "name": "O'Reilly Automotive",
+  "slug": "oreilly-automotive",
+  "website": "https://www.oreillyauto.com",
+  "source": "https://oreilly-development.mystagingwebsite.com/wp-content/uploads/2024/12/OR_4C_website_bannerlogo_horizontal-1-1.png",
+  "hex": "CC2028",
+  "aliases": [
+    "O'Reilly Automotive"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ORLY"
+    }
+  ],
+  "isin": "US67103H1077",
+  "wikidata": "Q7071951",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

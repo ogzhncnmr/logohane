@@ -1,0 +1,22 @@
+{
+  "name": "NextEra Energy",
+  "slug": "nextera-energy",
+  "website": "https://www.nexteraenergy.com",
+  "source": "https://www.nexteraenergy.com/content/dam/nee/us/en/neecommon/images/logo.png",
+  "hex": "0096D7",
+  "aliases": [
+    "NextEra Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NEE"
+    }
+  ],
+  "isin": "US3025711041",
+  "wikidata": "Q967868",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

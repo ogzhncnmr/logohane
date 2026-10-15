@@ -1,0 +1,22 @@
+{
+  "name": "Colgate-Palmolive",
+  "slug": "colgate-palmolive",
+  "website": "https://www.colgatepalmolive.com",
+  "source": "https://www.colgatepalmolive.com.tr/content/experience-fragments/cp-sites-aem/corporate/corporate/tr_tr/structure/header/master/_jcr_content/root/container/container_1578944328/image.coreimg.svg/1753442478781/logo-new.svg",
+  "hex": "002B47",
+  "aliases": [
+    "Colgate-Palmolive"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CL"
+    }
+  ],
+  "isin": "US1941621039",
+  "wikidata": "Q609466",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

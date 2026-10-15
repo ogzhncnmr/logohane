@@ -1,0 +1,22 @@
+{
+  "name": "Akamai Technologies",
+  "slug": "akamai-technologies",
+  "website": "https://www.akamai.com",
+  "source": "https://www.akamai.com/site/akamai-logo-v5.svg",
+  "hex": "00146D",
+  "aliases": [
+    "Akamai Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AKAM"
+    }
+  ],
+  "isin": "US00971T1016",
+  "wikidata": "Q415598",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

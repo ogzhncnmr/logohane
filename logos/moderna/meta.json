@@ -1,0 +1,22 @@
+{
+  "name": "Moderna",
+  "slug": "moderna",
+  "website": "https://www.modernatx.com",
+  "source": "https://www.modernatx.com/",
+  "hex": "E71838",
+  "aliases": [
+    "Moderna"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MRNA"
+    }
+  ],
+  "isin": "US60770K1079",
+  "wikidata": "Q17081612",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

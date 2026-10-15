@@ -1,0 +1,22 @@
+{
+  "name": "Charles Schwab Corporation",
+  "slug": "charles-schwab",
+  "website": "https://www.schwab.com",
+  "source": "https://www.schwab.com/",
+  "hex": "009CDB",
+  "aliases": [
+    "Charles Schwab Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SCHW"
+    }
+  ],
+  "isin": "US8085131055",
+  "wikidata": "Q1066028",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

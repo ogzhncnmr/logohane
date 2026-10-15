@@ -1,0 +1,23 @@
+{
+  "name": "Williams-Sonoma, Inc.",
+  "slug": "williams-sonoma",
+  "website": "https://www.williams-sonomainc.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000111/a2025williams-sonoma_incan.pdf",
+  "aliases": [
+    "Williams-Sonoma, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WSM"
+    }
+  ],
+  "isin": "US9699041011",
+  "wikidata": "Q2581220",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "221E1F"
+}

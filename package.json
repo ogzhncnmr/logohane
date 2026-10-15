@@ -32,6 +32,7 @@
     "validate": "node scripts/validate.js",
     "build": "node scripts/build.js",
     "bist": "node scripts/bist.js",
+    "sp500": "node scripts/sp500.js",
     "test": "node --test",
     "prepublishOnly": "npm run validate && npm test && npm run build"
   },

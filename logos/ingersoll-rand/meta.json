@@ -1,0 +1,21 @@
+{
+  "name": "Ingersoll Rand",
+  "slug": "ingersoll-rand",
+  "website": "https://company.ingersollrand.com",
+  "source": "https://azure-na-images.contentstack.com/v3/assets/blta8b68ee4d57aa34b/bltec884852b3e562e5/6880eec793b713f4a18091d6/ingersoll_rand_bigger_logo.jpg?format=pjpeg&width=2000&quality=75&auto=webp",
+  "hex": "D5291C",
+  "aliases": [
+    "Ingersoll Rand"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IR"
+    }
+  ],
+  "wikidata": "Q55453962",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fastenal",
+  "slug": "fastenal",
+  "website": "https://www.fastenal.com",
+  "source": "https://crafter.fastenal.com/static-assets/images/fastenal.png",
+  "aliases": [
+    "Fastenal"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FAST"
+    }
+  ],
+  "isin": "US3119001044",
+  "wikidata": "Q3067119",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

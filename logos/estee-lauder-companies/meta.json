@@ -1,0 +1,22 @@
+{
+  "name": "Estée Lauder Companies (The)",
+  "slug": "estee-lauder-companies",
+  "website": "https://www.elcompanies.com",
+  "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Est%C3%A9e_Lauder_Companies_Logo.svg",
+  "hex": "003472",
+  "aliases": [
+    "Estée Lauder Companies (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EL"
+    }
+  ],
+  "isin": "US5184391044",
+  "wikidata": "Q1260606",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

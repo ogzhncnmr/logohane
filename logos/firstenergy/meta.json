@@ -1,0 +1,22 @@
+{
+  "name": "FirstEnergy",
+  "slug": "firstenergy",
+  "website": "https://www.firstenergycorp.com",
+  "source": "https://www.firstenergycorp.com/content/dam/opcologos/header/small/fe.png",
+  "hex": "004A9D",
+  "aliases": [
+    "FirstEnergy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FE"
+    }
+  ],
+  "isin": "US3379321074",
+  "wikidata": "Q1419248",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

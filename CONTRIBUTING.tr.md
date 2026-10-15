@@ -45,6 +45,22 @@ npm run bist -- --offline # ağ olmadan sadece "logo" alanlarını günceller
 npm run bist -- --refresh # tüm web sitelerini KAP'tan yeniden çeker
 ```
 
+## S&P 500 iş listesi
+
+`data/sp500.json`, S&P 500'deki tüm şirketleri hisse kodları ve borsası
+(`NYSE`, `NASDAQ`, `CBOE`), önerilen slug, resmi web sitesi, Wikidata kimliği,
+ISIN, sektör ve logosunun eklenip eklenmediği bilgisiyle listeler. Bir şirketin
+farklı hisse sınıfları (`GOOGL`/`GOOG`) tek kayıttır. Liste Wikipedia'daki
+"List of S&P 500 companies" tablosundan, web siteleri, ISIN'ler ve Wikidata
+kimlikleri Wikidata'dan gelir (Wikipedia makalesi ya da SEC CIK ile eşlenir).
+Logolar yine yalnızca şirketin kendi kaynaklarından alınır: web sitesi, basın ya
+da marka sayfası, faaliyet raporu.
+
+```bash
+npm run sp500              # listeyi günceller
+npm run sp500 -- --offline # ağ olmadan sadece "logo" alanlarını günceller
+```
+
 ## Sembol sürümü
 
 "Sembol + isim" logolarında ana dosya ikisini birden içerir; `<slug>-symbol`

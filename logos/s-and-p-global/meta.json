@@ -1,0 +1,22 @@
+{
+  "name": "S&P Global",
+  "slug": "s-and-p-global",
+  "website": "https://www.spglobal.com/en",
+  "source": "https://spglobal.scene7.com/is/image/spglobalcom/sandp-1?$responsive$",
+  "hex": "D50329",
+  "aliases": [
+    "S&P Global"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SPGI"
+    }
+  ],
+  "isin": "US78409V1044",
+  "wikidata": "Q868587",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

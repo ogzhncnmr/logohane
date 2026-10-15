@@ -1,0 +1,22 @@
+{
+  "name": "Abbott Laboratories",
+  "slug": "abbott-laboratories",
+  "website": "https://abbott.com",
+  "source": "https://cdn.cookielaw.org/logos/0552bb11-8c3e-44bd-a24f-d87c2f1dc0c3/019bb2e4-71cb-71b9-b07c-5ce5f0aa2906/f2c69bcf-68ac-47b4-8594-914ee7e7cd4f/Abbott_fixed_signature_logo_digital@2x.png",
+  "hex": "354143",
+  "aliases": [
+    "Abbott Laboratories"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ABT"
+    }
+  ],
+  "isin": "US0028241000",
+  "wikidata": "Q306764",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ametek",
+  "slug": "ametek",
+  "website": "https://www.ametek.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000065/a2025ametekannualreport.pdf",
+  "hex": "000000",
+  "aliases": [
+    "Ametek"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AME"
+    }
+  ],
+  "isin": "US0311001004",
+  "wikidata": "Q470317",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

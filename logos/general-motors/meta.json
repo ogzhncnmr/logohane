@@ -1,0 +1,22 @@
+{
+  "name": "General Motors",
+  "slug": "general-motors",
+  "website": "https://www.gm.com",
+  "source": "https://www.gm.com/",
+  "hex": "000000",
+  "aliases": [
+    "General Motors"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GM"
+    }
+  ],
+  "isin": "US37045V1008",
+  "wikidata": "Q81965",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

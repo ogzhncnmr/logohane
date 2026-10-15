@@ -14,6 +14,7 @@ scripts/kap-logos.js
 scripts/kap-reports.js
 scripts/logo-tools.js
 scripts/process-logos.js
+scripts/quality.js
 scripts/review.js
 scripts/site-logos.js
 scripts/split-logos.js

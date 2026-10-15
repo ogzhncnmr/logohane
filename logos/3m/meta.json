@@ -1,0 +1,22 @@
+{
+  "name": "3M",
+  "slug": "3m",
+  "website": "https://www.3m.com",
+  "source": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+  "hex": "FF0000",
+  "aliases": [
+    "3M"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MMM"
+    }
+  ],
+  "isin": "US88579Y1010",
+  "wikidata": "Q159433",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CenterPoint Energy",
+  "slug": "centerpoint-energy",
+  "website": "https://www.centerpointenergy.com",
+  "source": "https://edge.sitecorecloud.io/centerpointd332-cnpdigital9938-prod15ff-c206/media/project/centerpoint/shared/centerpointenergy-logo-white.svg?iar=0",
+  "hex": "0099DC",
+  "aliases": [
+    "CenterPoint Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CNP"
+    }
+  ],
+  "isin": "US15189T1079",
+  "wikidata": "Q1053560",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

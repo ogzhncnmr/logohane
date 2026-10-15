@@ -1,0 +1,22 @@
+{
+  "name": "Idexx Laboratories",
+  "slug": "idexx-laboratories",
+  "website": "https://www.idexx.com",
+  "source": "https://www.idexx.com/static/img/logo/logo-white.03cb18b36364.svg",
+  "aliases": [
+    "Idexx Laboratories"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "IDXX"
+    }
+  ],
+  "isin": "US45168D1046",
+  "wikidata": "Q1758392",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

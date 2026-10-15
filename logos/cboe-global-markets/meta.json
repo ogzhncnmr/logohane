@@ -1,0 +1,22 @@
+{
+  "name": "Cboe Global Markets",
+  "slug": "cboe-global-markets",
+  "website": "https://www.cboe.com",
+  "source": "https://www.cboe.com/",
+  "hex": "000000",
+  "aliases": [
+    "Cboe Global Markets"
+  ],
+  "tickers": [
+    {
+      "exchange": "CBOE",
+      "symbol": "CBOE"
+    }
+  ],
+  "isin": "US12503M1080",
+  "wikidata": "Q30635731",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

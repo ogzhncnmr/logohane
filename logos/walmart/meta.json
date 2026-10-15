@@ -1,0 +1,23 @@
+{
+  "name": "Walmart",
+  "slug": "walmart",
+  "website": "https://www.walmart.com",
+  "source": "https://i5.walmartimages.com/dfw/63fd9f59-b3e1/7a569e53-f29a-4c3d-bfaf-6f7a158bfadd/v1/walmartLogo.svg",
+  "hex": "F4B63B",
+  "aliases": [
+    "Walmart"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WMT"
+    }
+  ],
+  "isin": "US9311421039",
+  "wikidata": "Q483551",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

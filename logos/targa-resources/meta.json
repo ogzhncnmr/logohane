@@ -1,0 +1,22 @@
+{
+  "name": "Targa Resources",
+  "slug": "targa-resources",
+  "website": "https://www.targaresources.com",
+  "source": "https://www.targaresources.com/sites/g/files/knoqqb113071/themes/site/nir_pid1837/dist/images/targa-logo.jpg",
+  "hex": "1B4279",
+  "aliases": [
+    "Targa Resources"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TRGP"
+    }
+  ],
+  "isin": "US87612G1013",
+  "wikidata": "Q7685824",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

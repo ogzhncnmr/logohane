@@ -45,6 +45,21 @@ npm run bist -- --offline # only update the "logo" flags, no network
 npm run bist -- --refresh # re-fetch every website from KAP
 ```
 
+## S&P 500 to-do list
+
+`data/sp500.json` lists every S&P 500 constituent with its tickers and exchange
+(`NYSE`, `NASDAQ`, `CBOE`), a suggested slug, its official website, Wikidata
+ID, ISIN, sector and whether its logo has been added. Share classes of one
+company (`GOOGL`/`GOOG`) are a single entry. The list comes from Wikipedia's
+"List of S&P 500 companies"; websites, ISINs and Wikidata IDs from Wikidata,
+matched by the Wikipedia article or the SEC CIK. Logos still come only from
+the company's own sources: its website, press or brand page, or annual report.
+
+```bash
+npm run sp500              # refresh the list
+npm run sp500 -- --offline # only update the "logo" flags, no network
+```
+
 ## Symbol variant
 
 For "symbol + name" logos the main file keeps both; `<slug>-symbol` holds only

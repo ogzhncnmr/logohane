@@ -1,0 +1,22 @@
+{
+  "name": "KeyCorp",
+  "slug": "keycorp",
+  "website": "https://www.key.com",
+  "source": "https://www.key.com/personal/index.html",
+  "hex": "000000",
+  "aliases": [
+    "KeyCorp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KEY"
+    }
+  ],
+  "isin": "US4932671088",
+  "wikidata": "Q1740314",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

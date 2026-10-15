@@ -1,0 +1,23 @@
+{
+  "name": "Constellation Brands",
+  "slug": "constellation-brands",
+  "website": "https://www.cbrands.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/16918/000001691826000025/stz2282026annualreport.pdf",
+  "hex": "1C2454",
+  "aliases": [
+    "Constellation Brands"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "STZ"
+    }
+  ],
+  "isin": "US21036P1084",
+  "wikidata": "Q1128160",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

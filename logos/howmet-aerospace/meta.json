@@ -1,0 +1,21 @@
+{
+  "name": "Howmet Aerospace",
+  "slug": "howmet-aerospace",
+  "website": "https://www.howmet.com",
+  "source": "https://www.howmet.com/wp-content/uploads/sites/3/2023/05/logo.svg",
+  "hex": "00ACC9",
+  "aliases": [
+    "Howmet Aerospace"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HWM"
+    }
+  ],
+  "wikidata": "Q25104597",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CME Group",
+  "slug": "cme-group",
+  "website": "https://www.cmegroup.com",
+  "source": "https://www.cmegroup.com/",
+  "hex": "26B0E9",
+  "aliases": [
+    "CME Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CME"
+    }
+  ],
+  "isin": "US12572Q1058",
+  "wikidata": "Q1023876",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

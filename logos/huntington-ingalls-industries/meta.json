@@ -1,0 +1,22 @@
+{
+  "name": "Huntington Ingalls Industries",
+  "slug": "huntington-ingalls-industries",
+  "website": "https://hii.com",
+  "source": "https://www.hii.com/logo.svg",
+  "hex": "18414E",
+  "aliases": [
+    "Huntington Ingalls Industries"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HII"
+    }
+  ],
+  "isin": "US4464131063",
+  "wikidata": "Q7257522",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

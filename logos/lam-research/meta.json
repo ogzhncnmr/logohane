@@ -1,0 +1,22 @@
+{
+  "name": "Lam Research",
+  "slug": "lam-research",
+  "website": "https://www.lamresearch.com",
+  "source": "https://investor.lamresearch.com",
+  "aliases": [
+    "Lam Research"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LRCX"
+    }
+  ],
+  "isin": "US5128071082",
+  "wikidata": "Q1342041",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

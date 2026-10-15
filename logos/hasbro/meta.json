@@ -1,0 +1,22 @@
+{
+  "name": "Hasbro",
+  "slug": "hasbro",
+  "website": "https://shop.hasbro.com",
+  "source": "https://shop.hasbro.com",
+  "hex": "007AC4",
+  "aliases": [
+    "Hasbro"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HAS"
+    }
+  ],
+  "isin": "US4180561072",
+  "wikidata": "Q501476",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

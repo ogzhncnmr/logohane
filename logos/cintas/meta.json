@@ -1,0 +1,22 @@
+{
+  "name": "Cintas",
+  "slug": "cintas",
+  "website": "https://www.cintas.com",
+  "source": "https://assets-prd.cintas.com/sf-assets/images/default-source/default-album/cintas-logo-header.png?sfvrsn=400e0362_3",
+  "hex": "01216A",
+  "aliases": [
+    "Cintas"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CTAS"
+    }
+  ],
+  "isin": "US1729081059",
+  "wikidata": "Q1092571",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

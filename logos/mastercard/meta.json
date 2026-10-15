@@ -1,0 +1,22 @@
+{
+  "name": "Mastercard",
+  "slug": "mastercard",
+  "website": "https://www.mastercard.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000025/ma12312025-10xkasfiled.pdf",
+  "hex": "E41B23",
+  "aliases": [
+    "Mastercard"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MA"
+    }
+  ],
+  "isin": "US57636Q1040",
+  "wikidata": "Q489921",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

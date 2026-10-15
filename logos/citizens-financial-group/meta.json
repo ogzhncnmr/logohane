@@ -1,0 +1,22 @@
+{
+  "name": "Citizens Financial Group",
+  "slug": "citizens-financial-group",
+  "website": "https://www.citizensbank.com",
+  "source": "https://www.citizensbank.com/assets/CB_resources/images/cbds-logos/logo-citizens__horz-green.svg",
+  "hex": "008656",
+  "aliases": [
+    "Citizens Financial Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CFG"
+    }
+  ],
+  "isin": "US1746101054",
+  "wikidata": "Q5122694",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

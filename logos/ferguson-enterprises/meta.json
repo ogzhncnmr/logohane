@@ -1,0 +1,22 @@
+{
+  "name": "Ferguson Enterprises",
+  "slug": "ferguson-enterprises",
+  "website": "https://www.ferguson.com",
+  "source": "https://www.ferguson.com",
+  "hex": "07456A",
+  "aliases": [
+    "Ferguson Enterprises"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FERG"
+    }
+  ],
+  "isin": "US31488V1070",
+  "wikidata": "Q5444235",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

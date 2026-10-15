@@ -1,0 +1,22 @@
+{
+  "name": "SBA Communications",
+  "slug": "sba-communications",
+  "website": "https://www.sbasite.com",
+  "source": "https://www.sbasite.com/wp-content/themes/sba-communications/assets/img/sba-logo.svg",
+  "hex": "024B8E",
+  "aliases": [
+    "SBA Communications"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SBAC"
+    }
+  ],
+  "isin": "US78410G1040",
+  "wikidata": "Q7388926",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

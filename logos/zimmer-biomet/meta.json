@@ -1,0 +1,22 @@
+{
+  "name": "Zimmer Biomet",
+  "slug": "zimmer-biomet",
+  "website": "https://www.zimmer.com",
+  "source": "https://www.zimmerbiomet.com/en",
+  "hex": "2179CC",
+  "aliases": [
+    "Zimmer Biomet"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ZBH"
+    }
+  ],
+  "isin": "US98956P1021",
+  "wikidata": "Q203552",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

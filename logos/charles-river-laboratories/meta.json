@@ -1,0 +1,22 @@
+{
+  "name": "Charles River Laboratories",
+  "slug": "charles-river-laboratories",
+  "website": "https://www.criver.com",
+  "source": "https://www.criver.com/assets/_next/logo-white.svg",
+  "aliases": [
+    "Charles River Laboratories"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CRL"
+    }
+  ],
+  "isin": "US1598641074",
+  "wikidata": "Q5082076",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

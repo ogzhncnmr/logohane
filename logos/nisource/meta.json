@@ -1,0 +1,22 @@
+{
+  "name": "NiSource",
+  "slug": "nisource",
+  "website": "https://www.nisource.com",
+  "source": "https://www.nisource.com",
+  "hex": "0268A6",
+  "aliases": [
+    "NiSource"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NI"
+    }
+  ],
+  "isin": "US65473P1057",
+  "wikidata": "Q1984481",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

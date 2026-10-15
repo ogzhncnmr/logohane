@@ -1,0 +1,22 @@
+{
+  "name": "PPG Industries",
+  "slug": "ppg-industries",
+  "website": "https://www.ppg.com",
+  "source": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/330b9fb6-e1aa-4f5b-a448-bf83f86cc942/ppg-logo.svg",
+  "hex": "0078A9",
+  "aliases": [
+    "PPG Industries"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PPG"
+    }
+  ],
+  "isin": "US6935061076",
+  "wikidata": "Q48754",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

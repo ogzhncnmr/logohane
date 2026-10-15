@@ -1,0 +1,22 @@
+{
+  "name": "Masco",
+  "slug": "masco",
+  "website": "https://www.masco.com",
+  "source": "https://s21.q4cdn.com/596588259/files/design/site_logo/masco-logo.png",
+  "hex": "323E48",
+  "aliases": [
+    "Masco"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MAS"
+    }
+  ],
+  "isin": "US5745991068",
+  "wikidata": "Q6782872",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

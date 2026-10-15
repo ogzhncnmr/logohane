@@ -1,0 +1,22 @@
+{
+  "name": "McKesson",
+  "slug": "mckesson",
+  "website": "https://www.mckesson.com",
+  "source": "https://s24.q4cdn.com/128197368/files/design/mck_logo_blue.svg",
+  "hex": "005A8D",
+  "aliases": [
+    "McKesson"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MCK"
+    }
+  ],
+  "isin": "US58155Q1031",
+  "wikidata": "Q570473",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Monolithic Power Systems",
+  "slug": "monolithic-power-systems",
+  "website": "https://www.monolithicpower.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1280452/000143774926014091/mpwr20260429e_ars.pdf",
+  "hex": "1C4DFF",
+  "aliases": [
+    "Monolithic Power Systems"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MPWR"
+    }
+  ],
+  "isin": "US6098391054",
+  "wikidata": "Q22058448",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

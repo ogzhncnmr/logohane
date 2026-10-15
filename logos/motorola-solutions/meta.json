@@ -1,0 +1,22 @@
+{
+  "name": "Motorola Solutions",
+  "slug": "motorola-solutions",
+  "website": "https://www.motorolasolutions.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/68505/000119312526139017/d62027dars.pdf",
+  "hex": "231F20",
+  "aliases": [
+    "Motorola Solutions"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MSI"
+    }
+  ],
+  "isin": "US6200763075",
+  "wikidata": "Q634815",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Southwest Airlines",
+  "slug": "southwest-airlines",
+  "website": "https://www.southwest.com",
+  "source": "https://www.southwest.com/swa-resources/images/globalnav/logos/swa_logo_dark.svg",
+  "hex": "304CB3",
+  "aliases": [
+    "Southwest Airlines"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LUV"
+    }
+  ],
+  "isin": "US8447411088",
+  "wikidata": "Q503308",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

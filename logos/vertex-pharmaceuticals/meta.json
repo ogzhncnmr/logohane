@@ -1,0 +1,22 @@
+{
+  "name": "Vertex Pharmaceuticals",
+  "slug": "vertex-pharmaceuticals",
+  "website": "https://www.vrtx.com",
+  "source": "https://www.vrtx.com/themes/custom/vrtx/images/vertexlogo.png",
+  "hex": "42247F",
+  "aliases": [
+    "Vertex Pharmaceuticals"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "VRTX"
+    }
+  ],
+  "isin": "US92532F1003",
+  "wikidata": "Q2744099",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

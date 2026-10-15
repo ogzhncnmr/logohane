@@ -1,0 +1,23 @@
+{
+  "name": "First Solar",
+  "slug": "first-solar",
+  "website": "https://www.firstsolar.com",
+  "source": "https://www.firstsolar.com",
+  "hex": "EE2821",
+  "aliases": [
+    "First Solar"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FSLR"
+    }
+  ],
+  "isin": "US3364331070",
+  "wikidata": "Q1138888",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

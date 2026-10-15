@@ -1,0 +1,22 @@
+{
+  "name": "Synchrony Financial",
+  "slug": "synchrony-financial",
+  "website": "https://www.synchronybank.com",
+  "source": "https://www.synchrony.com/syc/img/synchrony-logo-black-big-first.png",
+  "hex": "FFD549",
+  "aliases": [
+    "Synchrony Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SYF"
+    }
+  ],
+  "isin": "US87165B1035",
+  "wikidata": "Q18387139",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

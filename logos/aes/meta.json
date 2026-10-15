@@ -1,0 +1,22 @@
+{
+  "name": "AES Corporation",
+  "slug": "aes",
+  "website": "https://www.aes.com",
+  "source": "https://www.aes.com/themes/custom/aes_ds/public/images/aeslogo.svg",
+  "hex": "9A70FF",
+  "aliases": [
+    "AES Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AES"
+    }
+  ],
+  "isin": "US00130H1059",
+  "wikidata": "Q291508",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

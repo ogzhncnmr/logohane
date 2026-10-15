@@ -1,0 +1,22 @@
+{
+  "name": "CSX Corporation",
+  "slug": "csx",
+  "website": "https://www.csx.com",
+  "source": "https://www.csx.com/sites/wwwcsx15/includes/themes/wwwcsx/images/csxlogo_3.png",
+  "aliases": [
+    "CSX Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CSX"
+    }
+  ],
+  "isin": "US1264081035",
+  "wikidata": "Q1024454",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

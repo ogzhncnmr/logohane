@@ -1,0 +1,22 @@
+{
+  "name": "Southern Company",
+  "slug": "southern",
+  "website": "https://www.southerncompany.com",
+  "source": "https://www.southerncompany.com/content/dam/southerncompany/logos/southern_company_logo_dark_text_horizontal.svg",
+  "hex": "EF1D24",
+  "aliases": [
+    "Southern Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SO"
+    }
+  ],
+  "isin": "US8425871071",
+  "wikidata": "Q2304693",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Baxter International",
+  "slug": "baxter-international",
+  "website": "https://www.baxter.com",
+  "source": "https://www.baxter.com/themes/custom/cosmos/logo.svg",
+  "hex": "154898",
+  "aliases": [
+    "Baxter International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BAX"
+    }
+  ],
+  "isin": "US0718131099",
+  "wikidata": "Q761965",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

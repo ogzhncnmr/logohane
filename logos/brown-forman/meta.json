@@ -1,0 +1,22 @@
+{
+  "name": "Brown–Forman",
+  "slug": "brown-forman",
+  "website": "https://www.brown-forman.com",
+  "source": "https://www.brown-forman.com/",
+  "hex": "A36850",
+  "aliases": [
+    "Brown–Forman"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BF.B"
+    }
+  ],
+  "isin": "US1156371007",
+  "wikidata": "Q392221",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

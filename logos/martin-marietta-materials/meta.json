@@ -1,0 +1,22 @@
+{
+  "name": "Martin Marietta Materials",
+  "slug": "martin-marietta-materials",
+  "website": "https://www.martinmarietta.com",
+  "source": "https://www.martinmarietta.com/",
+  "hex": "000000",
+  "aliases": [
+    "Martin Marietta Materials"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MLM"
+    }
+  ],
+  "isin": "US5732841060",
+  "wikidata": "Q6776123",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

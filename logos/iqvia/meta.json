@@ -1,0 +1,22 @@
+{
+  "name": "IQVIA",
+  "slug": "iqvia",
+  "website": "https://www.iqvia.com",
+  "source": "https://s201.q4cdn.com/580005511/files/design/svg/logo.svg",
+  "aliases": [
+    "IQVIA"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IQV"
+    }
+  ],
+  "isin": "US46266C1053",
+  "wikidata": "Q305473",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

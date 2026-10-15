@@ -1,0 +1,22 @@
+{
+  "name": "IBM",
+  "slug": "ibm",
+  "website": "https://www.ibm.com",
+  "source": "https://assets.ibm.com/is/image/ibm/ibm-logo-2x1?ts=1791531621001&dpr=off",
+  "hex": "0F63FE",
+  "aliases": [
+    "IBM"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IBM"
+    }
+  ],
+  "isin": "US4592001014",
+  "wikidata": "Q37156",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Aptiv",
+  "slug": "aptiv",
+  "website": "https://www.aptiv.com",
+  "source": "https://www.aptiv.com/Assets/aptiv-logo.svg",
+  "hex": "FA4118",
+  "aliases": [
+    "Aptiv"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "APTV"
+    }
+  ],
+  "wikidata": "Q643626",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

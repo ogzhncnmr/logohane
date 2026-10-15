@@ -1,0 +1,22 @@
+{
+  "name": "Brown & Brown",
+  "slug": "brown-and-brown",
+  "website": "https://www.bbinsurance.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/79282/000119312526122185/d33536dars.pdf",
+  "hex": "172F59",
+  "aliases": [
+    "Brown & Brown"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BRO"
+    }
+  ],
+  "isin": "US1152361010",
+  "wikidata": "Q4976010",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

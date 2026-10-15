@@ -1,0 +1,23 @@
+{
+  "name": "Tapestry, Inc.",
+  "slug": "tapestry",
+  "website": "https://www.tapestry.com",
+  "source": "https://assets.tapestry.com/tapestrycorp/assets/images/uploads/2021/new-design/Common/TapestryLogo-Lunacy.svg",
+  "aliases": [
+    "Tapestry, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TPR"
+    }
+  ],
+  "isin": "US8760301072",
+  "wikidata": "Q56273715",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "000000"
+}

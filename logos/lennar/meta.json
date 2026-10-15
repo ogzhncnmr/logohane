@@ -1,0 +1,22 @@
+{
+  "name": "Lennar",
+  "slug": "lennar",
+  "website": "https://www.lennar.com",
+  "source": "https://www.lennar.com/",
+  "hex": "235CA3",
+  "aliases": [
+    "Lennar"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LEN"
+    }
+  ],
+  "isin": "US5260571048",
+  "wikidata": "Q16981175",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

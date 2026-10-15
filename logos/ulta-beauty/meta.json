@@ -1,0 +1,22 @@
+{
+  "name": "Ulta Beauty",
+  "slug": "ulta-beauty",
+  "website": "https://www.ulta.com",
+  "source": "https://www.ulta.com/",
+  "hex": "F47930",
+  "aliases": [
+    "Ulta Beauty"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ULTA"
+    }
+  ],
+  "isin": "US90384S3031",
+  "wikidata": "Q7880076",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

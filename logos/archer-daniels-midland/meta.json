@@ -1,0 +1,22 @@
+{
+  "name": "Archer Daniels Midland",
+  "slug": "archer-daniels-midland",
+  "website": "https://adm.com",
+  "source": "https://www.adm.com/v6b4e5281/globalassets/header-and-footer/adm-logo-header-large.png",
+  "hex": "212C66",
+  "aliases": [
+    "Archer Daniels Midland"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ADM"
+    }
+  ],
+  "isin": "US0394831020",
+  "wikidata": "Q632694",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

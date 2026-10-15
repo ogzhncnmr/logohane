@@ -1,0 +1,22 @@
+{
+  "name": "MGM Resorts",
+  "slug": "mgm-resorts",
+  "website": "https://www.mgmresorts.com",
+  "source": "https://images.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blt778375ced579c397/64ac6f3ea80c2537e7c8ead8/logo-mgm-rewards-inverted.svg",
+  "aliases": [
+    "MGM Resorts"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MGM"
+    }
+  ],
+  "isin": "US5529531015",
+  "wikidata": "Q568532",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

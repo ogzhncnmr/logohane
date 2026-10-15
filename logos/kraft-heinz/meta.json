@@ -1,0 +1,22 @@
+{
+  "name": "Kraft Heinz",
+  "slug": "kraft-heinz",
+  "website": "https://www.kraftheinzcompany.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1637459/000119312526141440/d27769dars.pdf",
+  "hex": "E93234",
+  "aliases": [
+    "Kraft Heinz"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KHC"
+    }
+  ],
+  "isin": "US5007541064",
+  "wikidata": "Q19681433",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

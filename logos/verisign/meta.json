@@ -1,0 +1,22 @@
+{
+  "name": "Verisign",
+  "slug": "verisign",
+  "website": "https://www.verisign.com",
+  "source": "https://www.verisign.com/img/general/verisign_logo.min.e2353926dddcdf1d30390ecc21110351f6d9378b32501c3cb94fc7cbeedd4bb6.svg",
+  "hex": "015994",
+  "aliases": [
+    "Verisign"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "VRSN"
+    }
+  ],
+  "isin": "US92343E1029",
+  "wikidata": "Q734338",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

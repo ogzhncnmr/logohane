@@ -1,0 +1,23 @@
+{
+  "name": "Interactive Brokers",
+  "slug": "interactive-brokers",
+  "website": "https://www.interactivebrokers.com",
+  "source": "https://www.interactivebrokers.com/images/web/logos/ib-logo-text-white.png",
+  "hex": "D71222",
+  "aliases": [
+    "Interactive Brokers"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "IBKR"
+    }
+  ],
+  "isin": "US45841N1072",
+  "wikidata": "Q20011294",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

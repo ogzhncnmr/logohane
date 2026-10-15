@@ -1,0 +1,22 @@
+{
+  "name": "Live Nation Entertainment",
+  "slug": "live-nation-entertainment",
+  "website": "https://www.livenationentertainment.com",
+  "source": "https://assets.livenationcdn.com/uploads/c0534c5d-e631-44b6-bd4d-4ca0ae4348ba.svg",
+  "aliases": [
+    "Live Nation Entertainment"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LYV"
+    }
+  ],
+  "isin": "US5380341090",
+  "wikidata": "Q1061903",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

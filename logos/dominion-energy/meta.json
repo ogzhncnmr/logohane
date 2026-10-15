@@ -1,0 +1,22 @@
+{
+  "name": "Dominion Energy",
+  "slug": "dominion-energy",
+  "website": "https://www.dominionenergy.com",
+  "source": "https://s2.q4cdn.com/510812146/files/design/logo/dominion-logo-large.png",
+  "hex": "0072CF",
+  "aliases": [
+    "Dominion Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "D"
+    }
+  ],
+  "isin": "US25746U1097",
+  "wikidata": "Q677464",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

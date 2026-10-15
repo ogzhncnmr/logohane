@@ -1,0 +1,22 @@
+{
+  "name": "Fiserv",
+  "slug": "fiserv",
+  "website": "https://www.fiserv.com",
+  "source": "https://www.fiserv.com/content/dam/fiserv-ent/final-files/digital-graphics/fiserv-com-graphics/fiserv-logo-orange-ff6600.svg",
+  "hex": "FF6600",
+  "aliases": [
+    "Fiserv"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FISV"
+    }
+  ],
+  "isin": "US3377381088",
+  "wikidata": "Q1420513",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

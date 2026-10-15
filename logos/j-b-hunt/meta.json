@@ -1,0 +1,22 @@
+{
+  "name": "J.B. Hunt",
+  "slug": "j-b-hunt",
+  "website": "https://www.jbhunt.com",
+  "source": "https://www.jbhunt.com/content/experience-fragments/jbhunt/primary-nav/master/_jcr_content/root/main-par/header_v3/image.coreimg.png/1745513542586/jbh-logo-hires.png",
+  "hex": "FDDA00",
+  "aliases": [
+    "J.B. Hunt"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "JBHT"
+    }
+  ],
+  "isin": "US4456581077",
+  "wikidata": "Q4041705",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

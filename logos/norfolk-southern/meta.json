@@ -1,0 +1,22 @@
+{
+  "name": "Norfolk Southern",
+  "slug": "norfolk-southern",
+  "website": "https://www.norfolksouthern.com",
+  "source": "https://www.norfolksouthern.com/content/dam/nscorp/images/logos/NS-white-logo.svg",
+  "aliases": [
+    "Norfolk Southern"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NSC"
+    }
+  ],
+  "isin": "US6558441084",
+  "wikidata": "Q1321054",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

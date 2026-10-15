@@ -1,0 +1,22 @@
+{
+  "name": "M&T Bank",
+  "slug": "m-and-t-bank",
+  "website": "https://www3.mtb.com",
+  "source": "https://www.mtb.com/content/dam/mtb-web/images/mtb_logo_white.svg",
+  "aliases": [
+    "M&T Bank"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MTB"
+    }
+  ],
+  "isin": "US55261F1049",
+  "wikidata": "Q3272257",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

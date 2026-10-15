@@ -1,0 +1,22 @@
+{
+  "name": "Stanley Black & Decker",
+  "slug": "stanley-black-and-decker",
+  "website": "https://www.stanleyblackanddecker.com",
+  "source": "https://www.stanleyblackanddecker.com/themes/custom/stanley_default/logo.svg",
+  "hex": "FBCF28",
+  "aliases": [
+    "Stanley Black & Decker"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SWK"
+    }
+  ],
+  "isin": "US8545021011",
+  "wikidata": "Q706094",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Valero Energy",
+  "slug": "valero-energy",
+  "website": "https://www.valero.com",
+  "source": "https://www.valero.com/themes/custom/valero/logo.svg",
+  "hex": "0070AD",
+  "aliases": [
+    "Valero Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VLO"
+    }
+  ],
+  "isin": "US91913Y1001",
+  "wikidata": "Q1283291",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

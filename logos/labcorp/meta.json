@@ -1,0 +1,22 @@
+{
+  "name": "Labcorp",
+  "slug": "labcorp",
+  "website": "https://www.labcorp.com",
+  "source": "https://www.labcorp.com/content/dam/labcorp/logos/labcorp-logos/logo.png",
+  "hex": "4CD5F7",
+  "aliases": [
+    "Labcorp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LH"
+    }
+  ],
+  "isin": "US50540R4092",
+  "wikidata": "Q6466630",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

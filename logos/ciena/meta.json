@@ -1,0 +1,22 @@
+{
+  "name": "Ciena",
+  "slug": "ciena",
+  "website": "https://www.ciena.com",
+  "source": "https://www.ciena.com/__data/assets/git_bridge/0015/101616/build/images/logo_light.svg",
+  "hex": "DC0000",
+  "aliases": [
+    "Ciena"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CIEN"
+    }
+  ],
+  "isin": "US1717793095",
+  "wikidata": "Q1091783",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

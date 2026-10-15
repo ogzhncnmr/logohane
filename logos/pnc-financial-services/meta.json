@@ -1,0 +1,23 @@
+{
+  "name": "PNC Financial Services",
+  "slug": "pnc-financial-services",
+  "website": "https://www.pnc.com",
+  "source": "https://www.pnc.com/content/experience-fragments/pnc-com/en/navigation/pnc-navigation---main-menu/master/_jcr_content/root/container/image.coreimg.svg/1657336133655/pnc-logo-rev.svg",
+  "hex": "F68126",
+  "aliases": [
+    "PNC Financial Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PNC"
+    }
+  ],
+  "isin": "US6934751057",
+  "wikidata": "Q38928",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

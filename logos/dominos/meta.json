@@ -1,0 +1,22 @@
+{
+  "name": "Domino's",
+  "slug": "dominos",
+  "website": "https://www.dominos.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1286681/000128668126000014/dpz_ars_2026.pdf",
+  "hex": "EE3524",
+  "aliases": [
+    "Domino's"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DPZ"
+    }
+  ],
+  "isin": "US25754A2015",
+  "wikidata": "Q839466",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

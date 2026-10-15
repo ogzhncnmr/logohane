@@ -1,0 +1,22 @@
+{
+  "name": "American Express",
+  "slug": "american-express",
+  "website": "https://www.americanexpress.com",
+  "source": "https://www.aexp-static.com/cdaas/one/statics/axp-static-assets/1.8.0/package/dist/img/logos/dls-logo-bluebox-solid.svg",
+  "hex": "016FCF",
+  "aliases": [
+    "American Express"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AXP"
+    }
+  ],
+  "isin": "US0258161092",
+  "wikidata": "Q194360",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

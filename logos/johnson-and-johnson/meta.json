@@ -1,0 +1,22 @@
+{
+  "name": "Johnson & Johnson",
+  "slug": "johnson-and-johnson",
+  "website": "https://www.jnj.com",
+  "source": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+  "hex": "EF1700",
+  "aliases": [
+    "Johnson & Johnson"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "JNJ"
+    }
+  ],
+  "isin": "US4781601046",
+  "wikidata": "Q333718",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fortinet",
+  "slug": "fortinet",
+  "website": "https://www.fortinet.com",
+  "source": "https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg",
+  "hex": "DA291C",
+  "aliases": [
+    "Fortinet"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FTNT"
+    }
+  ],
+  "isin": "US34959E1091",
+  "wikidata": "Q2749364",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

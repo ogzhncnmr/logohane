@@ -1,0 +1,22 @@
+{
+  "name": "Extra Space Storage",
+  "slug": "extra-space-storage",
+  "website": "https://www.extraspace.com",
+  "source": "https://s205.q4cdn.com/976395199/files/design/EXR-Color-Logo-01.png",
+  "hex": "90C63D",
+  "aliases": [
+    "Extra Space Storage"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EXR"
+    }
+  ],
+  "isin": "US30225T1025",
+  "wikidata": "Q5422162",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Trimble Inc.",
+  "slug": "trimble",
+  "website": "https://www.trimble.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/864749/000086474926000039/trmb2025annualreport.pdf",
+  "hex": "0064A5",
+  "aliases": [
+    "Trimble Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TRMB"
+    }
+  ],
+  "wikidata": "Q2297063",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

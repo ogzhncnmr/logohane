@@ -1,0 +1,22 @@
+{
+  "name": "Airbnb",
+  "slug": "airbnb",
+  "website": "https://www.airbnb.com",
+  "source": "https://www.airbnb.com.tr/",
+  "hex": "FF385C",
+  "aliases": [
+    "Airbnb"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ABNB"
+    }
+  ],
+  "isin": "US0090661010",
+  "wikidata": "Q63327",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

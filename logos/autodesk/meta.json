@@ -1,0 +1,22 @@
+{
+  "name": "Autodesk",
+  "slug": "autodesk",
+  "website": "https://www.autodesk.com",
+  "source": "https://www.autodesk.com",
+  "aliases": [
+    "Autodesk"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ADSK"
+    }
+  ],
+  "isin": "US0527691069",
+  "wikidata": "Q628051",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

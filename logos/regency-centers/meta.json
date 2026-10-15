@@ -1,0 +1,22 @@
+{
+  "name": "Regency Centers",
+  "slug": "regency-centers",
+  "website": "https://www.regencycenters.com",
+  "source": "https://www.regencycenters.com/ResourcePackages/Regency/assets/dist/images/regency-centers.svg",
+  "hex": "EB622D",
+  "aliases": [
+    "Regency Centers"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "REG"
+    }
+  ],
+  "isin": "US7588491032",
+  "wikidata": "Q7308000",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

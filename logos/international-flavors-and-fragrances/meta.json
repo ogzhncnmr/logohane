@@ -1,0 +1,22 @@
+{
+  "name": "International Flavors & Fragrances",
+  "slug": "international-flavors-and-fragrances",
+  "website": "https://www.iff.com",
+  "source": "https://www.iff.com/",
+  "aliases": [
+    "International Flavors & Fragrances"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IFF"
+    }
+  ],
+  "isin": "US4595061015",
+  "wikidata": "Q1666568",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

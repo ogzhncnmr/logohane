@@ -1,0 +1,21 @@
+{
+  "name": "HP Inc.",
+  "slug": "hp",
+  "website": "https://www.hp.com",
+  "source": "https://www.hp.com/tr-tr/home.html",
+  "hex": "024AD8",
+  "aliases": [
+    "HP Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HPQ"
+    }
+  ],
+  "wikidata": "Q21404084",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

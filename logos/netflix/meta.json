@@ -1,0 +1,22 @@
+{
+  "name": "Netflix",
+  "slug": "netflix",
+  "website": "https://ir.netflix.net",
+  "source": "https://s22.q4cdn.com/959853165/files/design/logo.png",
+  "hex": "E50813",
+  "aliases": [
+    "Netflix"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NFLX"
+    }
+  ],
+  "isin": "US64110L1061",
+  "wikidata": "Q116452644",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

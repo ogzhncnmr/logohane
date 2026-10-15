@@ -1,0 +1,22 @@
+{
+  "name": "Sherwin-Williams",
+  "slug": "sherwin-williams",
+  "website": "https://www.sherwinwilliams.com",
+  "source": "https://s7d2.scene7.com/is/image/sherwinwilliams/sw-logo-header-up?scl=1&fmt=png-alpha",
+  "hex": "0168B3",
+  "aliases": [
+    "Sherwin-Williams"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SHW"
+    }
+  ],
+  "isin": "US8243481061",
+  "wikidata": "Q48881",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

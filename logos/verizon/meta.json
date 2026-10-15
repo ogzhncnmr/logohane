@@ -1,0 +1,22 @@
+{
+  "name": "Verizon",
+  "slug": "verizon",
+  "website": "https://www.verizon.com",
+  "source": "https://www.verizon.com/",
+  "hex": "EE001E",
+  "aliases": [
+    "Verizon"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VZ"
+    }
+  ],
+  "isin": "US92343V1044",
+  "wikidata": "Q467752",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

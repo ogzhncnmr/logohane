@@ -1,0 +1,22 @@
+{
+  "name": "Hubbell Incorporated",
+  "slug": "hubbell",
+  "website": "https://www.hubbell.com",
+  "source": "https://images.ctfassets.net/j8yo2paviu13/2OKxh3d32Wpf2JrZLV7GkM/07126e1bfc5c8f856efb1d48ff42f19c/hubbell-corporate_primary_digital_logo_color.svg?fm=&q=80",
+  "hex": "FCDA32",
+  "aliases": [
+    "Hubbell Incorporated"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HUBB"
+    }
+  ],
+  "isin": "US4435106079",
+  "wikidata": "Q21036456",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "D. R. Horton",
+  "slug": "d-r-horton",
+  "website": "https://www.drhorton.com",
+  "source": "https://investor.drhorton.com/~/media/Images/D/D-R-Horton-IR/icons/logo-new-v2.png",
+  "aliases": [
+    "D. R. Horton"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DHI"
+    }
+  ],
+  "isin": "US23331A1097",
+  "wikidata": "Q5203782",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

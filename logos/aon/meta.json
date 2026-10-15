@@ -1,0 +1,21 @@
+{
+  "name": "Aon plc",
+  "slug": "aon",
+  "website": "https://www.aon.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/315293/000119312526187633/aon_plc_2025_ars.pdf",
+  "hex": "EF252C",
+  "aliases": [
+    "Aon plc"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AON"
+    }
+  ],
+  "wikidata": "Q739518",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

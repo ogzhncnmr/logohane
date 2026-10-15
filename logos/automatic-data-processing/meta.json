@@ -1,0 +1,22 @@
+{
+  "name": "Automatic Data Processing",
+  "slug": "automatic-data-processing",
+  "website": "https://www.adp.com",
+  "source": "https://www.adp.com/-/media/adp2025/ui/logo-adp.svg?rev=2ffd0a893eca4842b0f071c1e9c186b8&hash=85D6D9870432E605FE0FD7F830F16744",
+  "hex": "D1271D",
+  "aliases": [
+    "Automatic Data Processing"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ADP"
+    }
+  ],
+  "isin": "US0530151036",
+  "wikidata": "Q489080",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

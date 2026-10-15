@@ -1,0 +1,21 @@
+{
+  "name": "Erie Indemnity",
+  "slug": "erie-indemnity",
+  "website": "https://www.erieinsurance.com",
+  "source": "https://www.erieinsurance.com/",
+  "aliases": [
+    "Erie Indemnity"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ERIE"
+    }
+  ],
+  "wikidata": "Q5388314",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

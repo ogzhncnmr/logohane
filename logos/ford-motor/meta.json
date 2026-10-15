@@ -1,0 +1,22 @@
+{
+  "name": "Ford Motor Company",
+  "slug": "ford-motor",
+  "website": "https://www.ford.com",
+  "source": "https://corporate.ford.com",
+  "hex": "00085A",
+  "aliases": [
+    "Ford Motor Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "F"
+    }
+  ],
+  "isin": "US3453708600",
+  "wikidata": "Q44294",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

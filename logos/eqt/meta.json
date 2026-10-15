@@ -1,0 +1,23 @@
+{
+  "name": "EQT Corporation",
+  "slug": "eqt",
+  "website": "https://www.eqt.com",
+  "source": "https://cdn.prod.website-files.com/6751b0d7add5edb1f0141aef/6761ae0e863fce11fa55c408_EQT%20White.webp",
+  "hex": "E7066F",
+  "aliases": [
+    "EQT Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EQT"
+    }
+  ],
+  "isin": "US26884L1098",
+  "wikidata": "Q5323987",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

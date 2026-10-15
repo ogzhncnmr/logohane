@@ -1,0 +1,22 @@
+{
+  "name": "Church & Dwight",
+  "slug": "church-and-dwight",
+  "website": "https://www.churchdwight.com",
+  "source": "https://www.churchdwight.com/img/church-dwight-logo-tm.png",
+  "hex": "BA0B2E",
+  "aliases": [
+    "Church & Dwight"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CHD"
+    }
+  ],
+  "isin": "US1713401024",
+  "wikidata": "Q5116536",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

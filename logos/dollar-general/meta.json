@@ -1,0 +1,22 @@
+{
+  "name": "Dollar General",
+  "slug": "dollar-general",
+  "website": "https://www.dollargeneral.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/29534/000110465926040416/tm265050d2_ars.pdf",
+  "hex": "FEF300",
+  "aliases": [
+    "Dollar General"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DG"
+    }
+  ],
+  "isin": "US2566771059",
+  "wikidata": "Q145168",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

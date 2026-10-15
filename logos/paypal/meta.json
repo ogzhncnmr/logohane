@@ -1,0 +1,21 @@
+{
+  "name": "PayPal",
+  "slug": "paypal",
+  "website": "https://www.paypal.com",
+  "source": "https://newsroom.paypal-corp.com/download/PayPal-Logo-Black-2024.zip",
+  "hex": "000000",
+  "aliases": [
+    "PayPal"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PYPL"
+    }
+  ],
+  "wikidata": "Q483959",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

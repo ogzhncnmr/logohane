@@ -1,0 +1,22 @@
+{
+  "name": "McDonald's",
+  "slug": "mcdonalds",
+  "website": "https://www.mcdonalds.com",
+  "source": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/newsroom/Golden%20Arches.png",
+  "hex": "FEBC0D",
+  "aliases": [
+    "McDonald's"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MCD"
+    }
+  ],
+  "isin": "US5801351017",
+  "wikidata": "Q38076",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

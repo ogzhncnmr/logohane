@@ -1,0 +1,21 @@
+{
+  "name": "Schlumberger",
+  "slug": "schlumberger",
+  "website": "https://www.slb.com",
+  "source": "https://www.slb.com/-/media/images/logo/SLB_Logo_Positive_RGB_TM.svg",
+  "hex": "0014DC",
+  "aliases": [
+    "Schlumberger"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SLB"
+    }
+  ],
+  "wikidata": "Q1425316",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

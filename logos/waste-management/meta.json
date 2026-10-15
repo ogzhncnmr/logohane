@@ -1,0 +1,23 @@
+{
+  "name": "Waste Management",
+  "slug": "waste-management",
+  "website": "https://www.wm.com",
+  "source": "https://www.wm.com",
+  "hex": "EBAC1D",
+  "aliases": [
+    "Waste Management"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WM"
+    }
+  ],
+  "isin": "US94106L1098",
+  "wikidata": "Q2552219",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

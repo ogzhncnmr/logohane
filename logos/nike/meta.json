@@ -1,0 +1,22 @@
+{
+  "name": "Nike, Inc.",
+  "slug": "nike",
+  "website": "https://www.nike.com",
+  "source": "https://www.nike.com/tr/",
+  "hex": "111111",
+  "aliases": [
+    "Nike, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NKE"
+    }
+  ],
+  "isin": "US6541061031",
+  "wikidata": "Q483915",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

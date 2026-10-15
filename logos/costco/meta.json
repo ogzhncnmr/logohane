@@ -1,0 +1,22 @@
+{
+  "name": "Costco",
+  "slug": "costco",
+  "website": "https://www.costco.com",
+  "source": "https://s201.q4cdn.com/287523651/files/design/svg/CostcoWholesale_Logo.svg",
+  "hex": "E31836",
+  "aliases": [
+    "Costco"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "COST"
+    }
+  ],
+  "isin": "US22160K1051",
+  "wikidata": "Q715583",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

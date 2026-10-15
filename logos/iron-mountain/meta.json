@@ -1,0 +1,23 @@
+{
+  "name": "Iron Mountain",
+  "slug": "iron-mountain",
+  "website": "https://www.ironmountain.com",
+  "source": "https://edge.sitecorecloud.io/ironmountain-c8dd68e9/media/project/iron-mountain/iron-mountain/images/brand/logos/im-logo-lockup-v-reverse.svg?h=140&iar=0&w=269&sc_lang=en",
+  "hex": "6FD3F9",
+  "aliases": [
+    "Iron Mountain"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IRM"
+    }
+  ],
+  "isin": "US46284V1017",
+  "wikidata": "Q1673079",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Merck & Co.",
+  "slug": "merck",
+  "website": "https://www.merck.com",
+  "source": "https://www.merck.com/wp-content/uploads/sites/124/2025/08/site-logo.svg",
+  "hex": "007A73",
+  "aliases": [
+    "Merck & Co."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MRK"
+    }
+  ],
+  "isin": "US58933Y1055",
+  "wikidata": "Q247489",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

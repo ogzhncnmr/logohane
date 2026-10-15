@@ -1,0 +1,24 @@
+{
+  "name": "United Airlines Holdings",
+  "slug": "united-airlines-holdings",
+  "website": "https://ir.united.com",
+  "source": "https://www.united.com",
+  "hex": "0130A6",
+  "aliases": [
+    "United Airlines Holdings"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "UAL"
+    }
+  ],
+  "isin": "US9100471096",
+  "wikidata": "Q871700",
+  "variants": [
+    "default",
+    "symbol"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

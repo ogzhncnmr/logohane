@@ -1,0 +1,22 @@
+{
+  "name": "Las Vegas Sands",
+  "slug": "las-vegas-sands",
+  "website": "https://www.lasvegassands.com",
+  "source": "https://www.sands.com/content/themes/base/assets/img/logos/logo.png",
+  "hex": "B9995A",
+  "aliases": [
+    "Las Vegas Sands"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LVS"
+    }
+  ],
+  "isin": "US5178341070",
+  "wikidata": "Q1506045",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

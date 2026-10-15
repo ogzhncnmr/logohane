@@ -1,0 +1,22 @@
+{
+  "name": "Oracle Corporation",
+  "slug": "oracle",
+  "website": "https://www.oracle.com",
+  "source": "https://www.oracle.com/",
+  "hex": "C94634",
+  "aliases": [
+    "Oracle Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ORCL"
+    }
+  ],
+  "isin": "US68389X1054",
+  "wikidata": "Q19900",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

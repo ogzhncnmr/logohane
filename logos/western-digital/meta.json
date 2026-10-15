@@ -1,0 +1,22 @@
+{
+  "name": "Western Digital",
+  "slug": "western-digital",
+  "website": "https://www.westerndigital.com",
+  "source": "https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo-mobile.svg",
+  "hex": "FC185A",
+  "aliases": [
+    "Western Digital"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WDC"
+    }
+  ],
+  "isin": "US9581021055",
+  "wikidata": "Q738770",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

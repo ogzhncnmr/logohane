@@ -1,0 +1,22 @@
+{
+  "name": "Pfizer",
+  "slug": "pfizer",
+  "website": "https://www.pfizer.com",
+  "source": "https://www.pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/public/assets/images/logo-blue.svg",
+  "hex": "0000CA",
+  "aliases": [
+    "Pfizer"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PFE"
+    }
+  ],
+  "isin": "US7170811035",
+  "wikidata": "Q206921",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

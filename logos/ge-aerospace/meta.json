@@ -1,0 +1,21 @@
+{
+  "name": "GE Aerospace",
+  "slug": "ge-aerospace",
+  "website": "https://www.geaerospace.com",
+  "source": "https://www.geaerospace.com/themes/custom/aero_sub_theme/logo.svg",
+  "aliases": [
+    "GE Aerospace"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GE"
+    }
+  ],
+  "wikidata": "Q1485061",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

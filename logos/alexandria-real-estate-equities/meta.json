@@ -1,0 +1,22 @@
+{
+  "name": "Alexandria Real Estate Equities",
+  "slug": "alexandria-real-estate-equities",
+  "website": "https://www.are.com",
+  "source": "https://www.are.com/Portals/0/logo.gif",
+  "hex": "01285A",
+  "aliases": [
+    "Alexandria Real Estate Equities"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ARE"
+    }
+  ],
+  "isin": "US0152711091",
+  "wikidata": "Q48739877",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

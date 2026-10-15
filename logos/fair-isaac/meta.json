@@ -1,0 +1,22 @@
+{
+  "name": "Fair Isaac",
+  "slug": "fair-isaac",
+  "website": "https://www.fico.com",
+  "source": "https://www.fico.com/themes/custom/fico_general/assets/icons/fico-logo-blue.svg",
+  "hex": "0A6DE7",
+  "aliases": [
+    "Fair Isaac"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FICO"
+    }
+  ],
+  "isin": "US3032501047",
+  "wikidata": "Q1392999",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Marriott International",
+  "slug": "marriott-international",
+  "website": "https://www.marriott.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1048286/000114036126011592/ny20062722x773_ars.pdf",
+  "hex": "030404",
+  "aliases": [
+    "Marriott International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MAR"
+    }
+  ],
+  "isin": "US5719032022",
+  "wikidata": "Q1141173",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

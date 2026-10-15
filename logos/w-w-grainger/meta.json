@@ -1,0 +1,23 @@
+{
+  "name": "W. W. Grainger",
+  "slug": "w-w-grainger",
+  "website": "https://www.grainger.com",
+  "source": "https://www.grainger.com/",
+  "hex": "CA102E",
+  "aliases": [
+    "W. W. Grainger"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GWW"
+    }
+  ],
+  "isin": "US3848021040",
+  "wikidata": "Q1627894",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

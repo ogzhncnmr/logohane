@@ -1,0 +1,22 @@
+{
+  "name": "Axon Enterprise",
+  "slug": "axon-enterprise",
+  "website": "https://www.axon.com",
+  "source": "https://www.axon.com/",
+  "hex": "000000",
+  "aliases": [
+    "Axon Enterprise"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AXON"
+    }
+  ],
+  "isin": "US87651B1044",
+  "wikidata": "Q690604",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

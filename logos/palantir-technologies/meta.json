@@ -1,0 +1,22 @@
+{
+  "name": "Palantir Technologies",
+  "slug": "palantir-technologies",
+  "website": "https://www.palantir.com",
+  "source": "https://www.palantir.com/",
+  "aliases": [
+    "Palantir Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PLTR"
+    }
+  ],
+  "isin": "US69608A1088",
+  "wikidata": "Q2047336",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

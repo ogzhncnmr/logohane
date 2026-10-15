@@ -1,0 +1,22 @@
+{
+  "name": "Paychex",
+  "slug": "paychex",
+  "website": "https://www.paychex.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_d290ce5963ad4dacb50125bc931fc8e9/paychex/files/theme/images/logo.svg",
+  "hex": "005AA3",
+  "aliases": [
+    "Paychex"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PAYX"
+    }
+  ],
+  "isin": "US7043261079",
+  "wikidata": "Q946080",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

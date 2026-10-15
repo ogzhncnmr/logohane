@@ -1,0 +1,22 @@
+{
+  "name": "Rollins, Inc.",
+  "slug": "rollins",
+  "website": "https://www.rollins.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_e330cda593ea825b8ce8cc38dc4c9bfe/rollins/db/1002/9855/image.svg",
+  "hex": "CE0E2D",
+  "aliases": [
+    "Rollins, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ROL"
+    }
+  ],
+  "isin": "US7757111049",
+  "wikidata": "Q7361273",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Veeva Systems",
+  "slug": "veeva-systems",
+  "website": "https://www.veeva.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1393052/000114036126018799/ny20062821x4_ars.pdf",
+  "hex": "F5831F",
+  "aliases": [
+    "Veeva Systems"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VEEV"
+    }
+  ],
+  "isin": "US9224751084",
+  "wikidata": "Q24204493",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NRG Energy",
+  "slug": "nrg-energy",
+  "website": "https://www.nrg.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926030902/tm265626d2_ars.pdf",
+  "hex": "EE008D",
+  "aliases": [
+    "NRG Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NRG"
+    }
+  ],
+  "isin": "US6293775085",
+  "wikidata": "Q6955139",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

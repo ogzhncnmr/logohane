@@ -1,0 +1,22 @@
+{
+  "name": "AppLovin",
+  "slug": "applovin",
+  "website": "https://www.applovin.com",
+  "source": "https://www.applovin.com/en",
+  "hex": "000000",
+  "aliases": [
+    "AppLovin"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "APP"
+    }
+  ],
+  "isin": "US03831W1080",
+  "wikidata": "Q27150212",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Oneok",
+  "slug": "oneok",
+  "website": "https://www.oneok.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1039684/000103968426000012/ars2025.pdf",
+  "hex": "1687CB",
+  "aliases": [
+    "Oneok"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OKE"
+    }
+  ],
+  "isin": "US6826801036",
+  "wikidata": "Q11074156",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

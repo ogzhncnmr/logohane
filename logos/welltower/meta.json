@@ -1,0 +1,22 @@
+{
+  "name": "Welltower",
+  "slug": "welltower",
+  "website": "https://welltower.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/766704/000119312526150344/d25686dars.pdf",
+  "hex": "231F20",
+  "aliases": [
+    "Welltower"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WELL"
+    }
+  ],
+  "isin": "US95040Q1040",
+  "wikidata": "Q20486917",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

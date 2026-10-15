@@ -1,0 +1,21 @@
+{
+  "name": "Willis Towers Watson",
+  "slug": "willis-towers-watson",
+  "website": "https://www.wtwco.com",
+  "source": "https://edge.sitecorecloud.io/willistower8735-wtw7458-prode832-66e2/media/project/wtw-sites/wtwco/logo/logo_desktop.svg?iar=0",
+  "hex": "7F35B2",
+  "aliases": [
+    "Willis Towers Watson"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WTW"
+    }
+  ],
+  "wikidata": "Q21189883",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

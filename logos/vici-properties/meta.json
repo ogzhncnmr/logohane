@@ -1,0 +1,23 @@
+{
+  "name": "Vici Properties",
+  "slug": "vici-properties",
+  "website": "https://viciproperties.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1705696/000110465926028582/tm268202d3_ars.pdf",
+  "aliases": [
+    "Vici Properties"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VICI"
+    }
+  ],
+  "isin": "US9256521090",
+  "wikidata": "Q54263910",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "000000"
+}

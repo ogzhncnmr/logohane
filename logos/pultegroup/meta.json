@@ -1,0 +1,23 @@
+{
+  "name": "PulteGroup",
+  "slug": "pultegroup",
+  "website": "https://pulte.com",
+  "source": "https://www.pulte.com/",
+  "hex": "F2C65E",
+  "aliases": [
+    "PulteGroup"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PHM"
+    }
+  ],
+  "isin": "US7458671010",
+  "wikidata": "Q7259716",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Apple Inc.",
+  "slug": "apple",
+  "website": "https://apple.com",
+  "source": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202610011401",
+  "hex": "666666",
+  "aliases": [
+    "Apple Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AAPL"
+    }
+  ],
+  "isin": "US0378331005",
+  "wikidata": "Q312",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

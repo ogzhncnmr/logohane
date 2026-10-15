@@ -1,0 +1,22 @@
+{
+  "name": "Copart",
+  "slug": "copart",
+  "website": "https://www.copart.com",
+  "source": "https://www.copart.com/",
+  "hex": "24262F",
+  "aliases": [
+    "Copart"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CPRT"
+    }
+  ],
+  "isin": "US2172041061",
+  "wikidata": "Q16951448",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

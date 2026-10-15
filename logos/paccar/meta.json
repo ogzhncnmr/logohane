@@ -1,0 +1,22 @@
+{
+  "name": "Paccar",
+  "slug": "paccar",
+  "website": "https://www.paccar.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/75362/000119312526113873/2025_annual_report_-_ars.pdf",
+  "aliases": [
+    "Paccar"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PCAR"
+    }
+  ],
+  "isin": "US6937181088",
+  "wikidata": "Q1477661",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

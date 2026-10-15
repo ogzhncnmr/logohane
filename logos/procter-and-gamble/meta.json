@@ -1,0 +1,22 @@
+{
+  "name": "Procter & Gamble",
+  "slug": "procter-and-gamble",
+  "website": "https://www.pg.com",
+  "source": "https://images.ctfassets.net/oggad6svuzkv/7znyJc3Y7SecEoKSYKWoaQ/4a24e9015c360799cfb072adcd92cc5e/P_G_Logo_RGB.svg",
+  "hex": "073391",
+  "aliases": [
+    "Procter & Gamble"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PG"
+    }
+  ],
+  "isin": "US7427181091",
+  "wikidata": "Q212405",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

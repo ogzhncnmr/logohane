@@ -1,0 +1,22 @@
+{
+  "name": "Williams Companies",
+  "slug": "williams-companies",
+  "website": "https://www.williams.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/107263/000119312526112664/wmb_2025_ars.pdf",
+  "hex": "0079C2",
+  "aliases": [
+    "Williams Companies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WMB"
+    }
+  ],
+  "isin": "US9694571004",
+  "wikidata": "Q930639",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

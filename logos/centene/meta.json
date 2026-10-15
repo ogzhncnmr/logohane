@@ -1,0 +1,22 @@
+{
+  "name": "Centene Corporation",
+  "slug": "centene",
+  "website": "https://www.centene.com",
+  "source": "https://www.centene.com/content/dam/centenedotcom/logos/centene_logo_2023.jpg",
+  "hex": "02548C",
+  "aliases": [
+    "Centene Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CNC"
+    }
+  ],
+  "isin": "US15135B1017",
+  "wikidata": "Q5059102",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

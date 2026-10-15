@@ -1,0 +1,22 @@
+{
+  "name": "Loews Corporation",
+  "slug": "loews",
+  "website": "https://www.loews.com",
+  "source": "https://s203.q4cdn.com/873173963/files/design/site_logo/loews-logo.png",
+  "hex": "034F9C",
+  "aliases": [
+    "Loews Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "L"
+    }
+  ],
+  "isin": "US5404241086",
+  "wikidata": "Q826526",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

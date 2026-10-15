@@ -1,0 +1,22 @@
+{
+  "name": "Intuitive Surgical",
+  "slug": "intuitive-surgical",
+  "website": "https://www.intuitive.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000025/a2025_annualreportxv4.pdf",
+  "hex": "000000",
+  "aliases": [
+    "Intuitive Surgical"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ISRG"
+    }
+  ],
+  "isin": "US46120E6023",
+  "wikidata": "Q2743863",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

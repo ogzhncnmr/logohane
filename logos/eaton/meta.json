@@ -1,0 +1,21 @@
+{
+  "name": "Eaton Corporation",
+  "slug": "eaton",
+  "website": "https://www.eaton.com/us/en-us.html",
+  "source": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105133/etn-2025-ars.pdf",
+  "hex": "1B5FAD",
+  "aliases": [
+    "Eaton Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ETN"
+    }
+  ],
+  "wikidata": "Q48872",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

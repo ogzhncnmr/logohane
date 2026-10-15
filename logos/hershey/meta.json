@@ -1,0 +1,22 @@
+{
+  "name": "Hershey Company (The)",
+  "slug": "hershey",
+  "website": "https://www.thehersheycompany.com/en_us/home.html",
+  "source": "https://www.thehersheycompany.com/content/dam/hershey-corporate/images/icons/the-hershey-company-logo.svg",
+  "aliases": [
+    "Hershey Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HSY"
+    }
+  ],
+  "isin": "US4278661081",
+  "wikidata": "Q1056637",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

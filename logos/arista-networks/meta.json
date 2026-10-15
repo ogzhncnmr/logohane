@@ -1,0 +1,23 @@
+{
+  "name": "Arista Networks",
+  "slug": "arista-networks",
+  "website": "https://www.arista.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1596532/000119312526158961/d65447dars.pdf",
+  "aliases": [
+    "Arista Networks"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ANET"
+    }
+  ],
+  "isin": "US0404131064",
+  "wikidata": "Q2861324",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "143A62"
+}

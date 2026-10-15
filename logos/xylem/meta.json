@@ -1,0 +1,22 @@
+{
+  "name": "Xylem Inc.",
+  "slug": "xylem",
+  "website": "https://www.xylem.com",
+  "source": "https://www.xylem.com/images/xylem-white-logo.svg",
+  "aliases": [
+    "Xylem Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "XYL"
+    }
+  ],
+  "isin": "US98419M1009",
+  "wikidata": "Q3146975",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

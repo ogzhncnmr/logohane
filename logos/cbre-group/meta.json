@@ -1,0 +1,22 @@
+{
+  "name": "CBRE Group",
+  "slug": "cbre-group",
+  "website": "https://www.cbre.com",
+  "source": "https://www.cbre.com/",
+  "aliases": [
+    "CBRE Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CBRE"
+    }
+  ],
+  "isin": "US12504L1098",
+  "wikidata": "Q1023013",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Evergy",
+  "slug": "evergy",
+  "website": "https://www.evergy.com",
+  "source": "https://www.evergy.com",
+  "hex": "003355",
+  "aliases": [
+    "Evergy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EVRG"
+    }
+  ],
+  "isin": "US30034W1062",
+  "wikidata": "Q7987107",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

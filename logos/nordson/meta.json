@@ -1,0 +1,22 @@
+{
+  "name": "Nordson Corporation",
+  "slug": "nordson",
+  "website": "https://www.nordson.com/de-de/pages/home.aspx",
+  "source": "https://www.nordson.com/de-de/pages/home.aspx",
+  "hex": "007AC9",
+  "aliases": [
+    "Nordson Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NDSN"
+    }
+  ],
+  "isin": "US6556631025",
+  "wikidata": "Q1998662",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

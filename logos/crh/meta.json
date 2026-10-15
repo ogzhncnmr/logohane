@@ -1,0 +1,21 @@
+{
+  "name": "CRH plc",
+  "slug": "crh",
+  "website": "https://www.crh.com",
+  "source": "https://www.crh.com/wp-content/uploads/2025/03/CRH_OrigMark_Keyline-1.svg",
+  "hex": "0066FF",
+  "aliases": [
+    "CRH plc"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CRH"
+    }
+  ],
+  "wikidata": "Q1053299",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

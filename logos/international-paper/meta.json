@@ -1,0 +1,22 @@
+{
+  "name": "International Paper",
+  "slug": "international-paper",
+  "website": "https://www.internationalpaper.com",
+  "source": "https://www.internationalpaper.com/themes/custom/themekit/logo.svg",
+  "hex": "006A64",
+  "aliases": [
+    "International Paper"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IP"
+    }
+  ],
+  "isin": "US4601461035",
+  "wikidata": "Q202972",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Omnicom Group",
+  "slug": "omnicom-group",
+  "website": "https://www.omnicomgroup.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/29989/000121390026034817/ea0274271-03.pdf",
+  "hex": "4179BD",
+  "aliases": [
+    "Omnicom Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OMC"
+    }
+  ],
+  "isin": "US6819191064",
+  "wikidata": "Q1519267",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

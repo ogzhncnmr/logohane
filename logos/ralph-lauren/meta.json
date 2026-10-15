@@ -1,0 +1,22 @@
+{
+  "name": "Ralph Lauren Corporation",
+  "slug": "ralph-lauren",
+  "website": "https://www.ralphlauren.com",
+  "source": "https://fastlymaintenancesites.s3.us-east-1.amazonaws.com/ralphlauren/apacmaintenance/logo-navy.svg",
+  "hex": "031E39",
+  "aliases": [
+    "Ralph Lauren Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RL"
+    }
+  ],
+  "isin": "US7512121010",
+  "wikidata": "Q1641437",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

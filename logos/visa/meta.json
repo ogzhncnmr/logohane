@@ -1,0 +1,22 @@
+{
+  "name": "Visa Inc.",
+  "slug": "visa",
+  "website": "https://corporate.visa.com",
+  "source": "https://www.visa.com/vcom-assets/content/dam/visa/header/Vector.png",
+  "aliases": [
+    "Visa Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "V"
+    }
+  ],
+  "isin": "US92826C8394",
+  "wikidata": "Q328840",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

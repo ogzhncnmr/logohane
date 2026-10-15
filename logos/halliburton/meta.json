@@ -1,0 +1,22 @@
+{
+  "name": "Halliburton",
+  "slug": "halliburton",
+  "website": "https://www.halliburton.com",
+  "source": "https://cdn.brandfolder.io/3I2CY2XL/as/vkc5w586w5gtr898396p3w/halliburton-logo.svg",
+  "hex": "CF0000",
+  "aliases": [
+    "Halliburton"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HAL"
+    }
+  ],
+  "isin": "US4062161017",
+  "wikidata": "Q656165",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

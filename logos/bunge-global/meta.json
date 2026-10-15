@@ -1,0 +1,21 @@
+{
+  "name": "Bunge Global",
+  "slug": "bunge-global",
+  "website": "https://www.bunge.com",
+  "source": "https://delivery.bunge.com/-/jssmedia/feature/components/basic/icons/newlogo.ashx?iar=0&hash=F544E33B7C336344D37599CBB3053C28",
+  "hex": "002D6F",
+  "aliases": [
+    "Bunge Global"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BG"
+    }
+  ],
+  "wikidata": "Q1009458",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Darden Restaurants",
+  "slug": "darden-restaurants",
+  "website": "https://www.darden.com",
+  "source": "https://www.darden.com/wp-content/uploads/2026/07/darden-logo.svg",
+  "hex": "1B1A19",
+  "aliases": [
+    "Darden Restaurants"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DRI"
+    }
+  ],
+  "isin": "US2371941053",
+  "wikidata": "Q742196",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

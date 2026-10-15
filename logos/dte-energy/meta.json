@@ -1,0 +1,22 @@
+{
+  "name": "DTE Energy",
+  "slug": "dte-energy",
+  "website": "https://www.dteenergy.com",
+  "source": "https://www.dteenergy.com",
+  "hex": "0A2264",
+  "aliases": [
+    "DTE Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DTE"
+    }
+  ],
+  "wikidata": "Q5206232",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Veralto",
+  "slug": "veralto",
+  "website": "https://www.veralto.com",
+  "source": "https://www.veralto.com/wp-content/uploads/2023/09/Veralto_tm_w-rgb-146x40-1.svg",
+  "aliases": [
+    "Veralto"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VLTO"
+    }
+  ],
+  "isin": "US92338C1036",
+  "wikidata": "Q124721239",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

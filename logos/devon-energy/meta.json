@@ -1,0 +1,23 @@
+{
+  "name": "Devon Energy",
+  "slug": "devon-energy",
+  "website": "https://www.devonenergy.com",
+  "source": "https://www.devonenergy.com/assets/images/devon-logo.png",
+  "hex": "FF3400",
+  "aliases": [
+    "Devon Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DVN"
+    }
+  ],
+  "isin": "US25179M1036",
+  "wikidata": "Q1206980",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

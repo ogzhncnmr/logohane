@@ -1,0 +1,23 @@
+{
+  "name": "MetLife",
+  "slug": "metlife",
+  "website": "https://www.metlife.com",
+  "source": "https://www.metlife.com/content/dam/metlifecom/global/icons-header/MetLife_white.svg",
+  "hex": "A4CE4D",
+  "aliases": [
+    "MetLife"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MET"
+    }
+  ],
+  "isin": "US59156R1086",
+  "wikidata": "Q607131",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

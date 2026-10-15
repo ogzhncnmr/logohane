@@ -1,0 +1,22 @@
+{
+  "name": "KLA Corporation",
+  "slug": "kla",
+  "website": "https://www.kla.com",
+  "source": "https://www.kla.com/",
+  "hex": "00A7E1",
+  "aliases": [
+    "KLA Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "KLAC"
+    }
+  ],
+  "isin": "US4824801009",
+  "wikidata": "Q624649",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Occidental Petroleum",
+  "slug": "occidental-petroleum",
+  "website": "https://www.oxy.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/797468/000162828026019822/oxy015338-ars.pdf",
+  "aliases": [
+    "Occidental Petroleum"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OXY"
+    }
+  ],
+  "isin": "US6745991058",
+  "wikidata": "Q2013357",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

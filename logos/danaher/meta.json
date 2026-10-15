@@ -1,0 +1,22 @@
+{
+  "name": "Danaher Corporation",
+  "slug": "danaher",
+  "website": "https://www.danaher.com",
+  "source": "https://investors.danaher.com/images/logo.svg",
+  "hex": "6F26FE",
+  "aliases": [
+    "Danaher Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DHR"
+    }
+  ],
+  "isin": "US2358511028",
+  "wikidata": "Q1159256",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

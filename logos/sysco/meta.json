@@ -1,0 +1,22 @@
+{
+  "name": "Sysco",
+  "slug": "sysco",
+  "website": "https://www.sysco.com",
+  "source": "https://investors.sysco.com/~/media/Images/S/Sysco-IR/logo/sysco-logo-color.svg",
+  "hex": "008DD3",
+  "aliases": [
+    "Sysco"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SYY"
+    }
+  ],
+  "isin": "US8718291078",
+  "wikidata": "Q2376711",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

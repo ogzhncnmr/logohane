@@ -1,0 +1,23 @@
+{
+  "name": "Nasdaq, Inc.",
+  "slug": "nasdaq",
+  "website": "https://business.nasdaq.com",
+  "source": "https://ir.nasdaq.com/sites/g/files/knoqqb20451/themes/site/nir_pid1866/dist/images/NasdaqLogo.png",
+  "hex": "0090BA",
+  "aliases": [
+    "Nasdaq, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NDAQ"
+    }
+  ],
+  "isin": "US6311031081",
+  "wikidata": "Q1472929",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

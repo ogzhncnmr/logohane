@@ -1,0 +1,22 @@
+{
+  "name": "American Water Works",
+  "slug": "american-water-works",
+  "website": "https://www.amwater.com",
+  "source": "https://amwater.com/_resources/media/images/logos/header/logo-amwater-header.svg",
+  "hex": "B31942",
+  "aliases": [
+    "American Water Works"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AWK"
+    }
+  ],
+  "isin": "US0304201033",
+  "wikidata": "Q467238",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

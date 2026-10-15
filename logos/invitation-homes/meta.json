@@ -1,0 +1,22 @@
+{
+  "name": "Invitation Homes",
+  "slug": "invitation-homes",
+  "website": "https://www.invitationhomes.com",
+  "source": "https://www.invitationhomes.com/",
+  "hex": "65BC46",
+  "aliases": [
+    "Invitation Homes"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "INVH"
+    }
+  ],
+  "isin": "US46187W1071",
+  "wikidata": "Q85769855",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

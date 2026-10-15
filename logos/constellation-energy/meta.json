@@ -1,0 +1,22 @@
+{
+  "name": "Constellation Energy",
+  "slug": "constellation-energy",
+  "website": "https://www.constellation.com",
+  "source": "https://www.constellation.com/content/dam/constellation/logos/constellation-logo.png",
+  "hex": "2372BA",
+  "aliases": [
+    "Constellation Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CEG"
+    }
+  ],
+  "isin": "US2103711006",
+  "wikidata": "Q259195",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

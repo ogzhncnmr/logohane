@@ -1,0 +1,22 @@
+{
+  "name": "Caterpillar Inc.",
+  "slug": "caterpillar",
+  "website": "https://www.caterpillar.com",
+  "source": "https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha",
+  "hex": "F7D100",
+  "aliases": [
+    "Caterpillar Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CAT"
+    }
+  ],
+  "isin": "US1491231015",
+  "wikidata": "Q459965",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

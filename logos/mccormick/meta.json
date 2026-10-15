@@ -1,0 +1,22 @@
+{
+  "name": "McCormick & Company",
+  "slug": "mccormick",
+  "website": "https://www.mccormickcorporation.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000142/mccormick_2025xarxupdated.pdf",
+  "hex": "002F87",
+  "aliases": [
+    "McCormick & Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MKC"
+    }
+  ],
+  "isin": "US5797802064",
+  "wikidata": "Q1915049",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

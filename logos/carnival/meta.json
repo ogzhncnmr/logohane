@@ -1,0 +1,21 @@
+{
+  "name": "Carnival Corporation",
+  "slug": "carnival",
+  "website": "https://www.carnivalcorp.com",
+  "source": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-carnival-dark.svg",
+  "hex": "000000",
+  "aliases": [
+    "Carnival Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CCL"
+    }
+  ],
+  "wikidata": "Q1044059",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Altria",
+  "slug": "altria",
+  "website": "https://www.altria.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/764180/000076418026000052/annualreportaltriagroup25a.pdf",
+  "hex": "C5D92D",
+  "aliases": [
+    "Altria"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MO"
+    }
+  ],
+  "isin": "US02209S1033",
+  "wikidata": "Q445007",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

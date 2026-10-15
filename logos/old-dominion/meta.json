@@ -1,0 +1,22 @@
+{
+  "name": "Old Dominion",
+  "slug": "old-dominion",
+  "website": "https://www.odfl.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000007/odfl_2025_annual_report.pdf",
+  "hex": "114F2F",
+  "aliases": [
+    "Old Dominion"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ODFL"
+    }
+  ],
+  "isin": "US6795801009",
+  "wikidata": "Q7083862",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

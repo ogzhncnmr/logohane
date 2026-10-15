@@ -1,0 +1,22 @@
+{
+  "name": "Mondelez International",
+  "slug": "mondelez-international",
+  "website": "https://www.mondelezinternational.com",
+  "source": "https://www.mondelezinternational.com/assets/logo/mdlz-logo.jpg",
+  "hex": "502171",
+  "aliases": [
+    "Mondelez International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MDLZ"
+    }
+  ],
+  "isin": "US6092071058",
+  "wikidata": "Q12857502",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

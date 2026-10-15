@@ -1,0 +1,23 @@
+{
+  "name": "Roper Technologies",
+  "slug": "roper-technologies",
+  "website": "https://www.roperind.com",
+  "source": "https://www.roperind.com",
+  "hex": "173C6D",
+  "aliases": [
+    "Roper Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ROP"
+    }
+  ],
+  "isin": "US7766961061",
+  "wikidata": "Q16932392",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

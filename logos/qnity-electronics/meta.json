@@ -1,0 +1,21 @@
+{
+  "name": "Qnity Electronics",
+  "slug": "qnity-electronics",
+  "website": "https://www.qnityelectronics.com",
+  "source": "https://www.qnityelectronics.com/content/dam/electronics/amer/us/en/electronics/general/logos/qnity-logo-black-no@3x.png",
+  "hex": "000000",
+  "aliases": [
+    "Qnity Electronics"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "Q"
+    }
+  ],
+  "wikidata": "Q138685636",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

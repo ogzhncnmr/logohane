@@ -1,0 +1,22 @@
+{
+  "name": "Regeneron Pharmaceuticals",
+  "slug": "regeneron-pharmaceuticals",
+  "website": "https://www.regeneron.com",
+  "source": "https://www.regeneron.com/images/logo/logo.svg",
+  "hex": "055BAA",
+  "aliases": [
+    "Regeneron Pharmaceuticals"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "REGN"
+    }
+  ],
+  "isin": "US75886F1075",
+  "wikidata": "Q7308054",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

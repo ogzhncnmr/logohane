@@ -1,0 +1,22 @@
+{
+  "name": "DaVita",
+  "slug": "davita",
+  "website": "https://www.davita.com",
+  "source": "https://davita.com/wp-content/uploads/sites/2/2026/09/logo-wordmark.svg",
+  "hex": "0068B2",
+  "aliases": [
+    "DaVita"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DVA"
+    }
+  ],
+  "isin": "US23918K1088",
+  "wikidata": "Q5207184",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

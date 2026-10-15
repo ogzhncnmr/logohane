@@ -1,0 +1,22 @@
+{
+  "name": "Vertiv",
+  "slug": "vertiv",
+  "website": "https://www.vertiv.com",
+  "source": "https://www.vertiv.com/Content/images/phase3/about/timeline/Vertiv-Logo.svg",
+  "hex": "000000",
+  "aliases": [
+    "Vertiv"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VRT"
+    }
+  ],
+  "isin": "US92537N1081",
+  "wikidata": "Q5370909",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

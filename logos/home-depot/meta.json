@@ -1,0 +1,22 @@
+{
+  "name": "Home Depot (The)",
+  "slug": "home-depot",
+  "website": "https://www.homedepot.com",
+  "source": "https://ir.homedepot.com/~/media/Images/H/HomeDepot-IR/logo/logo.png?h=186&iar=0&w=186",
+  "aliases": [
+    "Home Depot (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HD"
+    }
+  ],
+  "isin": "US4370761029",
+  "wikidata": "Q864407",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

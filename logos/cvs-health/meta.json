@@ -1,0 +1,22 @@
+{
+  "name": "CVS Health",
+  "slug": "cvs-health",
+  "website": "https://cvshealth.com",
+  "source": "https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/logos/CVS_Health_logo.svg",
+  "hex": "CE0000",
+  "aliases": [
+    "CVS Health"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CVS"
+    }
+  ],
+  "isin": "US1266501006",
+  "wikidata": "Q624375",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

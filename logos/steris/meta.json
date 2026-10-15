@@ -1,0 +1,22 @@
+{
+  "name": "Steris",
+  "slug": "steris",
+  "website": "https://www.steris.com",
+  "source": "https://www.steris.com/-/media/images/header-images/sterislogo.png",
+  "hex": "4D91CE",
+  "aliases": [
+    "Steris"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "STE"
+    }
+  ],
+  "isin": "US8591521005",
+  "wikidata": "Q80947821",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

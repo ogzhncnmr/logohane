@@ -1,0 +1,22 @@
+{
+  "name": "Morgan Stanley",
+  "slug": "morgan-stanley",
+  "website": "https://morganstanley.com",
+  "source": "https://www.morganstanley.com/etc.clientlibs/msdotcomr4/clientlibs/components/site/resources/img/logo-black.png",
+  "hex": "000000",
+  "aliases": [
+    "Morgan Stanley"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MS"
+    }
+  ],
+  "isin": "US6174464486",
+  "wikidata": "Q334204",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "FedEx Freight",
+  "slug": "fedex-freight",
+  "website": "https://www.fedexfreight.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_3f3801753a78500dbf98de77199d3d74/fedexfreight/db/3618/34121/image.svg",
+  "hex": "F57A21",
+  "aliases": [
+    "FedEx Freight"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FDXF"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

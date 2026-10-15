@@ -1,0 +1,22 @@
+{
+  "name": "U.S. Bancorp",
+  "slug": "u-s-bancorp",
+  "website": "https://www.usbank.com/about-us-bank.html",
+  "source": "https://www.usbank.com/etc.clientlibs/ecm-global/clientlibs/clientlib-resources/resources/images/svg/logo-personal.svg",
+  "hex": "001E79",
+  "aliases": [
+    "U.S. Bancorp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "USB"
+    }
+  ],
+  "isin": "US9029733048",
+  "wikidata": "Q739084",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

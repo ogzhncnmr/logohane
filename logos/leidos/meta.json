@@ -1,0 +1,22 @@
+{
+  "name": "Leidos",
+  "slug": "leidos",
+  "website": "https://www.leidos.com",
+  "source": "https://www.leidos.com/",
+  "hex": "911589",
+  "aliases": [
+    "Leidos"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LDOS"
+    }
+  ],
+  "isin": "US5253271028",
+  "wikidata": "Q502132",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

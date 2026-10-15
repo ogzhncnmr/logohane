@@ -1,0 +1,22 @@
+{
+  "name": "Intuit",
+  "slug": "intuit",
+  "website": "https://www.intuit.com",
+  "source": "https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/intuit-rebrand-logo-dark.svg",
+  "hex": "236CFF",
+  "aliases": [
+    "Intuit"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "INTU"
+    }
+  ],
+  "isin": "US4612021034",
+  "wikidata": "Q1318848",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

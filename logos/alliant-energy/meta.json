@@ -1,0 +1,22 @@
+{
+  "name": "Alliant Energy",
+  "slug": "alliant-energy",
+  "website": "https://www.alliantenergy.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000027/lnt2025ars.pdf",
+  "hex": "0D86C9",
+  "aliases": [
+    "Alliant Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LNT"
+    }
+  ],
+  "isin": "US0188021085",
+  "wikidata": "Q4732492",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

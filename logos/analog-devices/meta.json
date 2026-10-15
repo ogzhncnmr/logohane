@@ -1,0 +1,22 @@
+{
+  "name": "Analog Devices",
+  "slug": "analog-devices",
+  "website": "https://www.analog.com",
+  "source": "https://www.analog.com",
+  "hex": "0067B9",
+  "aliases": [
+    "Analog Devices"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ADI"
+    }
+  ],
+  "isin": "US0326541051",
+  "wikidata": "Q484930",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

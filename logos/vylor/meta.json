@@ -1,0 +1,20 @@
+{
+  "name": "Vylor",
+  "slug": "vylor",
+  "website": "https://www.vylor.com",
+  "source": "https://publish-p180402-e1922403.adobeaemcloud.com/content/dam/eds/vylor/na/us/en/images/Brand%20Logo.svg",
+  "aliases": [
+    "Vylor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VYLR"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

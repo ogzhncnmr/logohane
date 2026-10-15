@@ -1,0 +1,22 @@
+{
+  "name": "Digital Realty",
+  "slug": "digital-realty",
+  "website": "https://www.digitalrealty.com",
+  "source": "https://res.cloudinary.com/digitalrealty/image/upload/f_auto,c_limit,w_3840,q_auto/images/logo.png",
+  "hex": "000000",
+  "aliases": [
+    "Digital Realty"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DLR"
+    }
+  ],
+  "isin": "US2538681030",
+  "wikidata": "Q5275969",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

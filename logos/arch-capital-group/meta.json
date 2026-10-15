@@ -1,0 +1,21 @@
+{
+  "name": "Arch Capital Group",
+  "slug": "arch-capital-group",
+  "website": "https://www.archcapgroup.com",
+  "source": "https://www.archgroup.com/wp-content/uploads/2020/08/arch-capital-blue.svg",
+  "hex": "0854A8",
+  "aliases": [
+    "Arch Capital Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ACGL"
+    }
+  ],
+  "wikidata": "Q28155430",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

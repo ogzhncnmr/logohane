@@ -1,0 +1,22 @@
+{
+  "name": "Air Products",
+  "slug": "air-products",
+  "website": "https://airproducts.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/2969/000130817925000645/apd0014238-ars.pdf",
+  "hex": "109B49",
+  "aliases": [
+    "Air Products"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "APD"
+    }
+  ],
+  "isin": "US0091581068",
+  "wikidata": "Q407744",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

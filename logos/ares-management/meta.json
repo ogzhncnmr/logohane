@@ -1,0 +1,22 @@
+{
+  "name": "Ares Management",
+  "slug": "ares-management",
+  "website": "https://www.aresmgmt.com",
+  "source": "https://s7d1.scene7.com/is/content/aresprddm/Logo-1?fmt=png-alpha",
+  "hex": "000834",
+  "aliases": [
+    "Ares Management"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ARES"
+    }
+  ],
+  "isin": "US03990B1017",
+  "wikidata": "Q4789079",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

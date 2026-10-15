@@ -1,0 +1,22 @@
+{
+  "name": "F5, Inc.",
+  "slug": "f5",
+  "website": "https://www.f5.com",
+  "source": "https://cdn.sanity.io/images/k6fem79d/production/724d9f9a233059eb89400fa005c60eed55f80277-100x100.svg",
+  "hex": "E4002B",
+  "aliases": [
+    "F5, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FFIV"
+    }
+  ],
+  "isin": "US3156161024",
+  "wikidata": "Q3029296",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

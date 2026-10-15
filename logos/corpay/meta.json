@@ -1,0 +1,22 @@
+{
+  "name": "Corpay",
+  "slug": "corpay",
+  "website": "https://www.corpay.com",
+  "source": "https://images.ctfassets.net/h83dujey17us/4yaRlTL19o9VSqVeTa3mSV/215ef45913d5fa7b8f50269441cf10bd/corpay.svg",
+  "hex": "000000",
+  "aliases": [
+    "Corpay"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CPAY"
+    }
+  ],
+  "isin": "US3390411052",
+  "wikidata": "Q16838618",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

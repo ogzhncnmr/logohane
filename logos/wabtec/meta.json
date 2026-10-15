@@ -1,0 +1,22 @@
+{
+  "name": "Wabtec",
+  "slug": "wabtec",
+  "website": "https://www.wabteccorp.com",
+  "source": "https://www.wabteccorp.com/themes/custom/wabtec/images/Wabtec-logo-White.svg",
+  "aliases": [
+    "Wabtec"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WAB"
+    }
+  ],
+  "isin": "US9297401088",
+  "wikidata": "Q741707",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

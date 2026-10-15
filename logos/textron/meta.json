@@ -1,0 +1,22 @@
+{
+  "name": "Textron",
+  "slug": "textron",
+  "website": "https://www.textron.com",
+  "source": "https://www.textron.com/",
+  "hex": "20366A",
+  "aliases": [
+    "Textron"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TXT"
+    }
+  ],
+  "isin": "US8832031012",
+  "wikidata": "Q2140315",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

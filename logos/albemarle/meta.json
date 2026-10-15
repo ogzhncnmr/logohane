@@ -1,0 +1,23 @@
+{
+  "name": "Albemarle Corporation",
+  "slug": "albemarle",
+  "website": "https://www.albemarle.com",
+  "source": "https://www.albemarle.com/global/en",
+  "hex": "009C8B",
+  "aliases": [
+    "Albemarle Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ALB"
+    }
+  ],
+  "isin": "US0126531013",
+  "wikidata": "Q127074",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

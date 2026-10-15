@@ -1,0 +1,23 @@
+{
+  "name": "L3Harris",
+  "slug": "l3harris",
+  "website": "https://www.l3harris.com",
+  "source": "https://www.l3harris.com/",
+  "hex": "F5000A",
+  "aliases": [
+    "L3Harris"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LHX"
+    }
+  ],
+  "isin": "US5024311095",
+  "wikidata": "Q30291091",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

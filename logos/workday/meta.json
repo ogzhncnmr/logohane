@@ -1,0 +1,23 @@
+{
+  "name": "Workday, Inc.",
+  "slug": "workday",
+  "website": "https://www.workday.com",
+  "source": "https://workday.scene7.com/is/image/workday/workday-logo-tm-primary-rgb?fmt=png-alpha&wid=2400",
+  "aliases": [
+    "Workday, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WDAY"
+    }
+  ],
+  "isin": "US98138H1014",
+  "wikidata": "Q8034666",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "0F2E67"
+}

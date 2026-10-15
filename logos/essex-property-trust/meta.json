@@ -1,0 +1,22 @@
+{
+  "name": "Essex Property Trust",
+  "slug": "essex-property-trust",
+  "website": "https://www.essexapartmenthomes.com",
+  "source": "https://media.essexapartmenthomes.com/v1/media/edge/images/Project/EssexPropertyTrust/Sites/EssexApartmentHomes/Icons/Logos/Essex-logo.svg?h=20&iar=0&w=48",
+  "hex": "000000",
+  "aliases": [
+    "Essex Property Trust"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ESS"
+    }
+  ],
+  "isin": "US2971781057",
+  "wikidata": "Q27964091",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

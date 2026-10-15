@@ -1,0 +1,22 @@
+{
+  "name": "Lennox International",
+  "slug": "lennox-international",
+  "website": "https://www.lennox.com",
+  "source": "https://www.lennox.com/dA/3ca2745e74e8fef7294ced31f10cc36a/webp/?language_id=1",
+  "hex": "CB202F",
+  "aliases": [
+    "Lennox International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LII"
+    }
+  ],
+  "isin": "US5261071071",
+  "wikidata": "Q224751",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CDW Corporation",
+  "slug": "cdw",
+  "website": "https://www.cdw.com",
+  "source": "https://webobjects2.cdw.com/is/content/CDW/cdw/logos/company-logos-c-d/cdw_corporate-logos/cdw/cdw-logo-no-tag.svg",
+  "hex": "CD0000",
+  "aliases": [
+    "CDW Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CDW"
+    }
+  ],
+  "isin": "US12514G1085",
+  "wikidata": "Q1023155",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

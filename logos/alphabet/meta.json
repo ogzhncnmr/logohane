@@ -1,0 +1,25 @@
+{
+  "name": "Alphabet Inc.",
+  "slug": "alphabet",
+  "website": "https://abc.xyz",
+  "source": "https://s206.q4cdn.com/479360582/files/design/alphabet_footer_logo.png",
+  "hex": "EE1B23",
+  "aliases": [
+    "Alphabet Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "GOOGL"
+    },
+    {
+      "exchange": "NASDAQ",
+      "symbol": "GOOG"
+    }
+  ],
+  "wikidata": "Q20800404",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

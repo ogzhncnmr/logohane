@@ -1,0 +1,23 @@
+{
+  "name": "Otis Worldwide",
+  "slug": "otis-worldwide",
+  "website": "https://www.otis.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126015394/ny20061782x3_ars.pdf",
+  "aliases": [
+    "Otis Worldwide"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OTIS"
+    }
+  ],
+  "isin": "US68902V1070",
+  "wikidata": "Q1134069",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "091F41"
+}

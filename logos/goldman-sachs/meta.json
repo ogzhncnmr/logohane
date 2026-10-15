@@ -1,0 +1,22 @@
+{
+  "name": "Goldman Sachs",
+  "slug": "goldman-sachs",
+  "website": "https://www.goldmansachs.com",
+  "source": "https://www.goldmansachs.com/images/gs-wordmark-black.png",
+  "hex": "000000",
+  "aliases": [
+    "Goldman Sachs"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GS"
+    }
+  ],
+  "isin": "US38141G1040",
+  "wikidata": "Q193326",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

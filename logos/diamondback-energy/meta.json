@@ -1,0 +1,22 @@
+{
+  "name": "Diamondback Energy",
+  "slug": "diamondback-energy",
+  "website": "https://www.diamondbackenergy.com",
+  "source": "https://www.diamondbackenergy.com/sites/g/files/knoqqb82556/themes/site/client_site/dist/images/DB-LOGO+Text_2-Color.jpg",
+  "hex": "AA6D13",
+  "aliases": [
+    "Diamondback Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FANG"
+    }
+  ],
+  "isin": "US25278X1090",
+  "wikidata": "Q65091423",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

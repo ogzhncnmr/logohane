@@ -1,0 +1,23 @@
+{
+  "name": "Quanta Services",
+  "slug": "quanta-services",
+  "website": "https://www.quantaservices.com",
+  "source": "https://cmswp.quantaservices.com/wp-content/uploads/2025/09/Quanta-Digital-3D-Logo-Horiz_Inv-1024x315.png",
+  "hex": "AA5701",
+  "aliases": [
+    "Quanta Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PWR"
+    }
+  ],
+  "isin": "US74762E1029",
+  "wikidata": "Q7268886",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

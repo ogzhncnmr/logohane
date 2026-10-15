@@ -1,0 +1,22 @@
+{
+  "name": "Illumina, Inc.",
+  "slug": "illumina",
+  "website": "https://www.illumina.com",
+  "source": "https://assets.illumina.com/content/dam/illumina-common/logo/illumina-full_logo.svg",
+  "hex": "FAA41E",
+  "aliases": [
+    "Illumina, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ILMN"
+    }
+  ],
+  "isin": "US4523271090",
+  "wikidata": "Q2068984",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

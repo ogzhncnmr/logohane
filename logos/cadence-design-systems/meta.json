@@ -1,0 +1,22 @@
+{
+  "name": "Cadence Design Systems",
+  "slug": "cadence-design-systems",
+  "website": "https://www.cadence.com",
+  "source": "https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/icons/navigation-icons/cadence-logo-black.png",
+  "hex": "231F20",
+  "aliases": [
+    "Cadence Design Systems"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CDNS"
+    }
+  ],
+  "isin": "US1273871087",
+  "wikidata": "Q608776",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "FedEx",
+  "slug": "fedex",
+  "website": "https://www.fedex.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926097845/tm2617164d3_ars.pdf",
+  "hex": "36246C",
+  "aliases": [
+    "FedEx"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FDX"
+    }
+  ],
+  "isin": "US31428X1063",
+  "wikidata": "Q459477",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

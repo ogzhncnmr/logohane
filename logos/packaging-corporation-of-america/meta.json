@@ -1,0 +1,22 @@
+{
+  "name": "Packaging Corporation of America",
+  "slug": "packaging-corporation-of-america",
+  "website": "https://www.packagingcorp.com",
+  "source": "https://www.packagingcorp.com/wp-content/uploads/2022/08/PCA-Logo-with-Text-BESIDE-RGB-002D72.png",
+  "hex": "002D73",
+  "aliases": [
+    "Packaging Corporation of America"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PKG"
+    }
+  ],
+  "isin": "US6951561090",
+  "wikidata": "Q16983334",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

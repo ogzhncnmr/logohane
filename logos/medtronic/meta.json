@@ -1,0 +1,21 @@
+{
+  "name": "Medtronic",
+  "slug": "medtronic",
+  "website": "https://www.medtronic.com",
+  "source": "https://news.medtronic.com/images/logo-en-rgb-bl.svg",
+  "hex": "140F4C",
+  "aliases": [
+    "Medtronic"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MDT"
+    }
+  ],
+  "wikidata": "Q642189",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

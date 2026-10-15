@@ -1,0 +1,22 @@
+{
+  "name": "Entergy",
+  "slug": "entergy",
+  "website": "https://www.entergy.com",
+  "source": "https://www.entergy.com/wp-content/uploads/2024/06/EntergyLogo_340x156.png",
+  "hex": "FF1A59",
+  "aliases": [
+    "Entergy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ETR"
+    }
+  ],
+  "isin": "US29364G1031",
+  "wikidata": "Q1344587",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

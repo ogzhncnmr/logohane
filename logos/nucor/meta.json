@@ -1,0 +1,23 @@
+{
+  "name": "Nucor",
+  "slug": "nucor",
+  "website": "https://www.nucor.com",
+  "source": "https://www.sec.gov/Archives/edgar/data/73309/000119312526127746/d51842dars.pdf",
+  "aliases": [
+    "Nucor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NUE"
+    }
+  ],
+  "isin": "US6703461052",
+  "wikidata": "Q1645081",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15",
+  "hex": "095530"
+}

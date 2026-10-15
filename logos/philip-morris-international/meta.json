@@ -1,0 +1,22 @@
+{
+  "name": "Philip Morris International",
+  "slug": "philip-morris-international",
+  "website": "https://www.pmi.com",
+  "source": "https://cdn.cookielaw.org/logos/cd93bdd5-56f7-4ced-86ea-6cba906d98bb/60d61965-5bdd-45db-87d4-856a2d19c153/486c92d3-09bd-4bf6-8950-6cdcd5207ccf/pmi_logo.png",
+  "hex": "0A6DB5",
+  "aliases": [
+    "Philip Morris International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PM"
+    }
+  ],
+  "isin": "US7181721090",
+  "wikidata": "Q1852556",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

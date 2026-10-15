@@ -1,0 +1,22 @@
+{
+  "name": "eBay Inc.",
+  "slug": "ebay",
+  "website": "https://www.ebay.com",
+  "source": "https://www.ebay.com/",
+  "hex": "0969F7",
+  "aliases": [
+    "eBay Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EBAY"
+    }
+  ],
+  "isin": "US2786421030",
+  "wikidata": "Q58024",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}
