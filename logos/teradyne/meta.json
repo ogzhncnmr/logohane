@@ -1,0 +1,22 @@
+{
+  "name": "Teradyne",
+  "slug": "teradyne",
+  "website": "https://www.teradyne.com",
+  "source": "https://cdn-ilehcci.nitrocdn.com/eoGmUZCMaguCqwHURWCEmTNzNhuuAlBj/assets/images/source/rev-729fba3/www.teradyne.com/wp-content/uploads/2022/08/Teradyne-logo-white-2.svg",
+  "aliases": [
+    "Teradyne"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TER"
+    }
+  ],
+  "isin": "US8807701029",
+  "wikidata": "Q2404292",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Truist Financial",
+  "slug": "truist-financial",
+  "website": "https://www.truist.com",
+  "source": "https://static.truist.com/content/dam/global-images/truist-logo-purple.svg",
+  "hex": "2E1A48",
+  "aliases": [
+    "Truist Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TFC"
+    }
+  ],
+  "isin": "US89832Q1094",
+  "wikidata": "Q795486",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

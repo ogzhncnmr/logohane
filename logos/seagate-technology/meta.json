@@ -1,0 +1,22 @@
+{
+  "name": "Seagate Technology",
+  "slug": "seagate-technology",
+  "website": "https://www.seagate.com",
+  "source": "https://www.seagate.com/content/dam/seagate/migrated-assets/ww/redesign/assets/seagate-logo-text.svg",
+  "hex": "6ABE4A",
+  "aliases": [
+    "Seagate Technology"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "STX"
+    }
+  ],
+  "wikidata": "Q705392",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

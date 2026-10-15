@@ -1,0 +1,22 @@
+{
+  "name": "Prudential Financial",
+  "slug": "prudential-financial",
+  "website": "https://prudential.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_36f0b9f6f990931f9a39f3b829de2935/prudential/db/3619/34131/image.svg",
+  "hex": "007AC2",
+  "aliases": [
+    "Prudential Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PRU"
+    }
+  ],
+  "isin": "US7443201023",
+  "wikidata": "Q2114414",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

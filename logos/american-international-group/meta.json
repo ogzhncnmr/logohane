@@ -1,0 +1,22 @@
+{
+  "name": "American International Group",
+  "slug": "american-international-group",
+  "website": "https://www.aig.com",
+  "source": "https://consent.trustarc.com/get?name=unofficial_logo_AIG.png",
+  "hex": "233777",
+  "aliases": [
+    "American International Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AIG"
+    }
+  ],
+  "isin": "US0268747849",
+  "wikidata": "Q212235",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

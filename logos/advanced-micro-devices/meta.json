@@ -1,0 +1,22 @@
+{
+  "name": "Advanced Micro Devices",
+  "slug": "advanced-micro-devices",
+  "website": "https://www.amd.com",
+  "source": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+  "aliases": [
+    "Advanced Micro Devices"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AMD"
+    }
+  ],
+  "isin": "US0079031078",
+  "wikidata": "Q128896",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Eaton Corporation",
+  "slug": "eaton",
+  "website": "https://www.eaton.com/us/en-us.html",
+  "source": "https://www.eaton.com/content/dam/eaton/global/logos/eaton-logo-mobile.png",
+  "hex": "0067C7",
+  "aliases": [
+    "Eaton Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ETN"
+    }
+  ],
+  "wikidata": "Q48872",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Teledyne Technologies",
+  "slug": "teledyne-technologies",
+  "website": "https://www.teledyne.com",
+  "source": "https://cdn.teledyne.com/assets/prod/images/footerlogo.png",
+  "hex": "0077C1",
+  "aliases": [
+    "Teledyne Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TDY"
+    }
+  ],
+  "isin": "US8793601050",
+  "wikidata": "Q7696127",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

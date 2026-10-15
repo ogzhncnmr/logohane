@@ -1,0 +1,21 @@
+{
+  "name": "Norwegian Cruise Line Holdings",
+  "slug": "norwegian-cruise-line-holdings",
+  "website": "https://www.nclhltd.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_7294c7c9a68e33100c0e59178e4e93d4/nclhltd/files/theme/images/logo.svg",
+  "hex": "01548A",
+  "aliases": [
+    "Norwegian Cruise Line Holdings"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NCLH"
+    }
+  ],
+  "wikidata": "Q60767471",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

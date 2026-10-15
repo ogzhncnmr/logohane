@@ -1,0 +1,22 @@
+{
+  "name": "Honeywell Aerospace",
+  "slug": "honeywell-aerospace",
+  "website": "https://www.honeywellaerospace.com",
+  "source": "https://www.honeywellaerospace.com/content/dam/aero/icons/hon-aero-logo-so-sg-41.svg",
+  "hex": "FF4400",
+  "aliases": [
+    "Honeywell Aerospace"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HONA"
+    }
+  ],
+  "isin": "US43849R1059",
+  "wikidata": "Q5893992",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

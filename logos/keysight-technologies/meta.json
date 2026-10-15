@@ -1,0 +1,22 @@
+{
+  "name": "Keysight Technologies",
+  "slug": "keysight-technologies",
+  "website": "https://www.keysight.com",
+  "source": "https://www.keysight.com/content/dam/keysight/en/img/gnav/keysight-logo.svg",
+  "hex": "EB0029",
+  "aliases": [
+    "Keysight Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KEYS"
+    }
+  ],
+  "isin": "US49338L1035",
+  "wikidata": "Q17551096",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Republic Services",
+  "slug": "republic-services",
+  "website": "https://www.republicservices.com",
+  "source": "https://www.republicservices.com/assets/republic-services-logo-white-text.svg",
+  "hex": "D80227",
+  "aliases": [
+    "Republic Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RSG"
+    }
+  ],
+  "isin": "US7607591002",
+  "wikidata": "Q7314415",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

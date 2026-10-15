@@ -1,0 +1,21 @@
+{
+  "name": "Simon Property Group",
+  "slug": "simon-property-group",
+  "website": "https://www.simon.com",
+  "source": "https://assets.simon.com/content/web/logos/Simon-Malls-Logo-black.png",
+  "hex": "000000",
+  "aliases": [
+    "Simon Property Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SPG"
+    }
+  ],
+  "wikidata": "Q2287759",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

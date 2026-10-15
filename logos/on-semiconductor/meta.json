@@ -1,0 +1,22 @@
+{
+  "name": "ON Semiconductor",
+  "slug": "on-semiconductor",
+  "website": "https://www.onsemi.com",
+  "source": "https://www.onsemi.com/images/logo/onsemi_logo_full_color.svg",
+  "hex": "3A4D54",
+  "aliases": [
+    "ON Semiconductor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ON"
+    }
+  ],
+  "isin": "US6821891057",
+  "wikidata": "Q1671509",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

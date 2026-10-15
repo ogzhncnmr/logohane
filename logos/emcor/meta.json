@@ -1,0 +1,22 @@
+{
+  "name": "Emcor",
+  "slug": "emcor",
+  "website": "https://www.emcorgroup.com",
+  "source": "https://emcorgroup.com/application/files/2416/8052/4293/logo.svg",
+  "hex": "177478",
+  "aliases": [
+    "Emcor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EME"
+    }
+  ],
+  "isin": "US29084Q1004",
+  "wikidata": "Q5370289",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

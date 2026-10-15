@@ -1,0 +1,22 @@
+{
+  "name": "Mettler Toledo",
+  "slug": "mettler-toledo",
+  "website": "https://www.mt.com",
+  "source": "https://www.mt.com",
+  "hex": "004495",
+  "aliases": [
+    "Mettler Toledo"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MTD"
+    }
+  ],
+  "isin": "US5926881054",
+  "wikidata": "Q680186",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

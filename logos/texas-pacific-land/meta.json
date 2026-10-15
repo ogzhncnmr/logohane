@@ -1,0 +1,23 @@
+{
+  "name": "Texas Pacific Land Corporation",
+  "slug": "texas-pacific-land",
+  "website": "https://www.texaspacific.com",
+  "source": "https://d1io3yog0oux5.cloudfront.net/_e8cb214b2fc659669ff75f30180b0ffd/texaspacific/files/theme/images/header-logo.png",
+  "hex": "B7AFAC",
+  "aliases": [
+    "Texas Pacific Land Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TPL"
+    }
+  ],
+  "isin": "US88262P1021",
+  "wikidata": "Q7707900",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

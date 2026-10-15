@@ -1,0 +1,22 @@
+{
+  "name": "J.M. Smucker Company (The)",
+  "slug": "j-m-smucker",
+  "website": "https://www.jmsmucker.com",
+  "source": "https://www.jmsmucker.com/assets/jmsmucker/logos/JMS.png",
+  "hex": "EE1B2C",
+  "aliases": [
+    "J.M. Smucker Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SJM"
+    }
+  ],
+  "isin": "US8326964058",
+  "wikidata": "Q7742790",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

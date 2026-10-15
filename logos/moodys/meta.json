@@ -1,0 +1,22 @@
+{
+  "name": "Moody's Corporation",
+  "slug": "moodys",
+  "website": "https://www.moodys.com",
+  "source": "https://www.moodys.com/asset/images/logo/moodys_white.svg",
+  "aliases": [
+    "Moody's Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MCO"
+    }
+  ],
+  "isin": "US6153691059",
+  "wikidata": "Q675585",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

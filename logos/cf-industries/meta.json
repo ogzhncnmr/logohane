@@ -1,0 +1,22 @@
+{
+  "name": "CF Industries",
+  "slug": "cf-industries",
+  "website": "https://www.cfindustries.com",
+  "source": "https://www.cfindustries.com/globalassets/cf-industries/media/images/block-images/site-header-block-logos/cfi_logo_tm_rgb_color_pos.svg",
+  "hex": "015846",
+  "aliases": [
+    "CF Industries"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CF"
+    }
+  ],
+  "isin": "US1252691001",
+  "wikidata": "Q905806",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

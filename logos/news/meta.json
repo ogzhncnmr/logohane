@@ -1,0 +1,25 @@
+{
+  "name": "News Corp",
+  "slug": "news",
+  "website": "https://newscorp.com",
+  "source": "https://newscorp.com/wp-content/uploads/2021/06/news_corp_logo-edited.png",
+  "hex": "231F20",
+  "aliases": [
+    "News Corp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NWSA"
+    },
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NWS"
+    }
+  ],
+  "wikidata": "Q14289857",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

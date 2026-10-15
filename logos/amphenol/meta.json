@@ -1,0 +1,22 @@
+{
+  "name": "Amphenol",
+  "slug": "amphenol",
+  "website": "https://www.amphenol.com",
+  "source": "https://aphstprime.blob.core.windows.net/images-layout/logo.svg",
+  "hex": "005CB9",
+  "aliases": [
+    "Amphenol"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "APH"
+    }
+  ],
+  "isin": "US0320951017",
+  "wikidata": "Q474621",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

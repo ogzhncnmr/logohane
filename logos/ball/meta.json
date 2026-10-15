@@ -1,0 +1,22 @@
+{
+  "name": "Ball Corporation",
+  "slug": "ball",
+  "website": "https://www.ball.com",
+  "source": "https://www.ball.com/",
+  "hex": "1F3FF4",
+  "aliases": [
+    "Ball Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BALL"
+    }
+  ],
+  "isin": "US0584981064",
+  "wikidata": "Q4034815",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

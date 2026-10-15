@@ -1,0 +1,22 @@
+{
+  "name": "Monolithic Power Systems",
+  "slug": "monolithic-power-systems",
+  "website": "https://www.monolithicpower.com",
+  "source": "https://www.monolithicpower.com/",
+  "hex": "FF282D",
+  "aliases": [
+    "Monolithic Power Systems"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MPWR"
+    }
+  ],
+  "isin": "US6098391054",
+  "wikidata": "Q22058448",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

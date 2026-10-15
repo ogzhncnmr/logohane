@@ -1,0 +1,22 @@
+{
+  "name": "Starbucks",
+  "slug": "starbucks",
+  "website": "https://www.starbucks.com",
+  "source": "https://www.starbucks.com/",
+  "hex": "016342",
+  "aliases": [
+    "Starbucks"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SBUX"
+    }
+  ],
+  "isin": "US8552441094",
+  "wikidata": "Q37158",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

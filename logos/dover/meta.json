@@ -1,0 +1,22 @@
+{
+  "name": "Dover Corporation",
+  "slug": "dover",
+  "website": "https://www.dovercorporation.com",
+  "source": "https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2",
+  "hex": "004B8D",
+  "aliases": [
+    "Dover Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DOV"
+    }
+  ],
+  "isin": "US2600031080",
+  "wikidata": "Q16974527",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

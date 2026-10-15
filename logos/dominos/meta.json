@@ -1,0 +1,22 @@
+{
+  "name": "Domino's",
+  "slug": "dominos",
+  "website": "https://www.dominos.com",
+  "source": "https://ir.dominos.com",
+  "hex": "FF0000",
+  "aliases": [
+    "Domino's"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DPZ"
+    }
+  ],
+  "isin": "US25754A2015",
+  "wikidata": "Q839466",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

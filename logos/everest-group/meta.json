@@ -1,0 +1,22 @@
+{
+  "name": "Everest Group",
+  "slug": "everest-group",
+  "website": "https://www.everestre.com",
+  "source": "https://www.everestglobal.com/us-en/-/media/evre/company-logos/everest-logo-header.ashx",
+  "hex": "235CF4",
+  "aliases": [
+    "Everest Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EG"
+    }
+  ],
+  "wikidata": "Q1381973",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

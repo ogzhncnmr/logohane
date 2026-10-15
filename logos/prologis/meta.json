@@ -1,0 +1,23 @@
+{
+  "name": "Prologis",
+  "slug": "prologis",
+  "website": "https://www.prologis.com",
+  "source": "https://www.prologis.com/themes/custom/prologis_beta/prologis_logo.svg",
+  "hex": "00A867",
+  "aliases": [
+    "Prologis"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PLD"
+    }
+  ],
+  "isin": "US74340W1036",
+  "wikidata": "Q16983765",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

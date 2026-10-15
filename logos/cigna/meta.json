@@ -1,0 +1,22 @@
+{
+  "name": "Cigna",
+  "slug": "cigna",
+  "website": "https://www.cigna.com",
+  "source": "https://www.cigna.com/",
+  "hex": "0033FF",
+  "aliases": [
+    "Cigna"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CI"
+    }
+  ],
+  "isin": "US1255091092",
+  "wikidata": "Q642271",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

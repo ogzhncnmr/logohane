@@ -1,0 +1,22 @@
+{
+  "name": "American Tower",
+  "slug": "american-tower",
+  "website": "https://www.americantower.com",
+  "source": "https://www.americantower.com/sites/default/themes/custom/www_bootstrap/assets/img/logos/_corp_en.png",
+  "hex": "D21242",
+  "aliases": [
+    "American Tower"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AMT"
+    }
+  ],
+  "isin": "US03027X1000",
+  "wikidata": "Q4745263",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

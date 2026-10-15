@@ -1,0 +1,22 @@
+{
+  "name": "Williams Companies",
+  "slug": "williams-companies",
+  "website": "https://www.williams.com",
+  "source": "https://www.williams.com/wp-content/uploads/sites/14/2019/11/williams-logo@2x.png",
+  "hex": "0071AE",
+  "aliases": [
+    "Williams Companies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WMB"
+    }
+  ],
+  "isin": "US9694571004",
+  "wikidata": "Q930639",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

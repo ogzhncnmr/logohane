@@ -1,0 +1,22 @@
+{
+  "name": "Take-Two Interactive",
+  "slug": "take-two-interactive",
+  "website": "https://www.take2games.com",
+  "source": "https://images.ctfassets.net/wn7ipiv9ue5v/44wExKTI9M8bIqPzm5L0HH/74831afd8c9d0d64b46690242b72ae2d/T2Only-Solid-RGB-Black_1.svg",
+  "hex": "000000",
+  "aliases": [
+    "Take-Two Interactive"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TTWO"
+    }
+  ],
+  "isin": "US8740541094",
+  "wikidata": "Q94933",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

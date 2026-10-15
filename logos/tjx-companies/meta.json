@@ -1,0 +1,22 @@
+{
+  "name": "TJX Companies",
+  "slug": "tjx-companies",
+  "website": "https://www.tjx.com",
+  "source": "https://www.tjx.com/ResourcePackages/Bootstrap5/assets/dist/images/tjx-logo-mobile.svg",
+  "hex": "9C1C26",
+  "aliases": [
+    "TJX Companies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TJX"
+    }
+  ],
+  "isin": "US8725401090",
+  "wikidata": "Q1285819",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

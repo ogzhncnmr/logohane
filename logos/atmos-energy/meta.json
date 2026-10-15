@@ -1,0 +1,22 @@
+{
+  "name": "Atmos Energy",
+  "slug": "atmos-energy",
+  "website": "https://www.atmosenergy.com",
+  "source": "https://www.atmosenergy.com",
+  "hex": "007CC3",
+  "aliases": [
+    "Atmos Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ATO"
+    }
+  ],
+  "isin": "US0495601058",
+  "wikidata": "Q4817084",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

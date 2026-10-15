@@ -1,0 +1,21 @@
+{
+  "name": "Skydance Corporation",
+  "slug": "skydance",
+  "website": "https://skydance.com",
+  "source": "https://www.skydance.com/sites/g/files/dxjhpe411/files/CorpDotCom/Brands/Skydance%20Sports/SKYDANCE_Sports_Logo_2023.svg",
+  "hex": "000000",
+  "aliases": [
+    "Skydance Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SKYD"
+    }
+  ],
+  "wikidata": "Q141613344",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Workday, Inc.",
+  "slug": "workday",
+  "website": "https://www.workday.com",
+  "source": "https://www.workday.com/content/dam/web/ux-images/wdr-logo-w-dub.svg",
+  "aliases": [
+    "Workday, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WDAY"
+    }
+  ],
+  "isin": "US98138H1014",
+  "wikidata": "Q8034666",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

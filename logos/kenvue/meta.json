@@ -1,0 +1,22 @@
+{
+  "name": "Kenvue",
+  "slug": "kenvue",
+  "website": "https://www.kenvue.com",
+  "source": "https://kenvue.brightspotcdn.com/e4/35/b2445d3748bca0d6a1d44907ff0e/kenvue-logo-black-rgb.svg",
+  "hex": "000000",
+  "aliases": [
+    "Kenvue"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KVUE"
+    }
+  ],
+  "isin": "US49177J1025",
+  "wikidata": "Q118905792",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

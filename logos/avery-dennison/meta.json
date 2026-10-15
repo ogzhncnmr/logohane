@@ -1,0 +1,22 @@
+{
+  "name": "Avery Dennison",
+  "slug": "avery-dennison",
+  "website": "https://www.avery.com",
+  "source": "https://www.avery.com/app/images/logos/avery_logo.svg",
+  "hex": "204199",
+  "aliases": [
+    "Avery Dennison"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AVY"
+    }
+  ],
+  "isin": "US0536111091",
+  "wikidata": "Q790650",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

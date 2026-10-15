@@ -1,0 +1,22 @@
+{
+  "name": "Williams-Sonoma, Inc.",
+  "slug": "williams-sonoma",
+  "website": "https://www.williams-sonomainc.com",
+  "source": "https://www.williams-sonomainc.com/corpimgs/i/202640/0002/images/nav/logo-wsi.png",
+  "aliases": [
+    "Williams-Sonoma, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WSM"
+    }
+  ],
+  "isin": "US9699041011",
+  "wikidata": "Q2581220",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

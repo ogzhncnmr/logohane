@@ -1,0 +1,22 @@
+{
+  "name": "ExxonMobil",
+  "slug": "exxonmobil",
+  "website": "https://corporate.exxonmobil.com",
+  "source": "https://corporate.exxonmobil.com/-/media/global/icons/logos/exxonmobillogocolor2x.png",
+  "hex": "FE000C",
+  "aliases": [
+    "ExxonMobil"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "XOM"
+    }
+  ],
+  "isin": "US30231G1022",
+  "wikidata": "Q156238",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

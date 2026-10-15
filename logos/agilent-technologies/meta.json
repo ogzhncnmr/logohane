@@ -1,0 +1,22 @@
+{
+  "name": "Agilent Technologies",
+  "slug": "agilent-technologies",
+  "website": "https://www.agilent.com",
+  "source": "https://www.agilent.com/en/shared/media_1a92fff34fea91be153e179e41d714b2b5e185eec.avif?width=2000&format=webply&optimize=medium",
+  "aliases": [
+    "Agilent Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "A"
+    }
+  ],
+  "isin": "US00846U1016",
+  "wikidata": "Q393762",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

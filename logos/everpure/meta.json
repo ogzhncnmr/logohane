@@ -1,0 +1,22 @@
+{
+  "name": "Everpure",
+  "slug": "everpure",
+  "website": "https://www.purestorage.com",
+  "source": "https://www.purestorage.com/content/dam/purestorage/2026/logos/everpure-logo.svg",
+  "hex": "FF7123",
+  "aliases": [
+    "Everpure"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "P"
+    }
+  ],
+  "isin": "US74624M1027",
+  "wikidata": "Q7261135",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Healthpeak Properties",
+  "slug": "healthpeak-properties",
+  "website": "https://www.hcpi.com",
+  "source": "https://healthpeak.com/wp-content/themes/dash-10/img/healthpeak-logo.svg",
+  "hex": "000000",
+  "aliases": [
+    "Healthpeak Properties"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DOC"
+    }
+  ],
+  "isin": "US42250P1030",
+  "wikidata": "Q16975567",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dell Technologies",
+  "slug": "dell-technologies",
+  "website": "https://www.delltechnologies.com",
+  "source": "https://www.dell.com/tr-tr",
+  "hex": "000000",
+  "aliases": [
+    "Dell Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DELL"
+    }
+  ],
+  "isin": "US24703L2025",
+  "wikidata": "Q27500963",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

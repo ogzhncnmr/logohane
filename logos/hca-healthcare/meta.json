@@ -1,0 +1,22 @@
+{
+  "name": "HCA Healthcare",
+  "slug": "hca-healthcare",
+  "website": "https://hcahealthcare.com",
+  "source": "https://geo-blocked-site.dpxmedcity.net/img/HCA_logoST_c.png",
+  "hex": "E95A25",
+  "aliases": [
+    "HCA Healthcare"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HCA"
+    }
+  ],
+  "isin": "US40412C1018",
+  "wikidata": "Q1630431",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

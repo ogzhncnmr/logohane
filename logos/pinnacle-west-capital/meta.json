@@ -1,0 +1,22 @@
+{
+  "name": "Pinnacle West Capital",
+  "slug": "pinnacle-west-capital",
+  "website": "https://www.pinnaclewest.com",
+  "source": "https://s22.q4cdn.com/464697698/files/design/logo.png",
+  "hex": "355675",
+  "aliases": [
+    "Pinnacle West Capital"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PNW"
+    }
+  ],
+  "isin": "US7234841010",
+  "wikidata": "Q26110522",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

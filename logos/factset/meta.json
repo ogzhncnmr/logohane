@@ -1,0 +1,22 @@
+{
+  "name": "FactSet",
+  "slug": "factset",
+  "website": "https://www.factset.com",
+  "source": "https://www.factset.com/",
+  "hex": "00AFF1",
+  "aliases": [
+    "FactSet"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FDS"
+    }
+  ],
+  "isin": "US3030751057",
+  "wikidata": "Q1885491",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

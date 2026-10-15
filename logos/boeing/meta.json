@@ -1,0 +1,22 @@
+{
+  "name": "Boeing",
+  "slug": "boeing",
+  "website": "https://boeing.com",
+  "source": "https://www.boeing.com/content/experience-fragments/theboeingcompany/us/en/site/header/redesign-header/_jcr_content/root/container_copy_copy/container/image_copy_copy.coreimg.svg/1759858572842/boeing-logo-white.svg",
+  "aliases": [
+    "Boeing"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BA"
+    }
+  ],
+  "isin": "US0970231058",
+  "wikidata": "Q66",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

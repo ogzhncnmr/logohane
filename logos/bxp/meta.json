@@ -1,0 +1,22 @@
+{
+  "name": "BXP, Inc.",
+  "slug": "bxp",
+  "website": "https://www.bxp.com",
+  "source": "https://www.bxp.com/",
+  "hex": "0769AF",
+  "aliases": [
+    "BXP, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BXP"
+    }
+  ],
+  "isin": "US1011211018",
+  "wikidata": "Q4844439",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Corning Inc.",
+  "slug": "corning",
+  "website": "https://www.corning.com",
+  "source": "https://www.corning.com/logo/corning.jpg",
+  "hex": "004A87",
+  "aliases": [
+    "Corning Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GLW"
+    }
+  ],
+  "isin": "US2193501051",
+  "wikidata": "Q5842736",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

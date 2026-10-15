@@ -1,0 +1,22 @@
+{
+  "name": "Carvana",
+  "slug": "carvana",
+  "website": "https://www.carvana.com",
+  "source": "https://investors.carvana.com/~/media/Images/C/Carvana-IR/logo/logo-new.svg?iar=0",
+  "hex": "228CE7",
+  "aliases": [
+    "Carvana"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CVNA"
+    }
+  ],
+  "isin": "US1468691027",
+  "wikidata": "Q16247191",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

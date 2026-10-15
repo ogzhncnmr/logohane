@@ -1,0 +1,22 @@
+{
+  "name": "Synopsys",
+  "slug": "synopsys",
+  "website": "https://www.synopsys.com",
+  "source": "https://www.synopsys.com/",
+  "aliases": [
+    "Synopsys"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SNPS"
+    }
+  ],
+  "isin": "US8716071076",
+  "wikidata": "Q2303478",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

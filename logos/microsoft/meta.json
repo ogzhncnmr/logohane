@@ -1,0 +1,22 @@
+{
+  "name": "Microsoft",
+  "slug": "microsoft",
+  "website": "https://www.microsoft.com",
+  "source": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+  "hex": "F34F21",
+  "aliases": [
+    "Microsoft"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MSFT"
+    }
+  ],
+  "isin": "US5949181045",
+  "wikidata": "Q2283",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fox Corporation",
+  "slug": "fox",
+  "website": "https://foxcorporation.com",
+  "source": "https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/fox-logo-white.png",
+  "aliases": [
+    "Fox Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FOXA"
+    },
+    {
+      "exchange": "NASDAQ",
+      "symbol": "FOX"
+    }
+  ],
+  "wikidata": "Q60238941",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

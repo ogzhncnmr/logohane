@@ -1,0 +1,22 @@
+{
+  "name": "ResMed|",
+  "slug": "resmed",
+  "website": "https://www.resmed.com",
+  "source": "https://media.resmed.com/20250311125108/resmed_yoast.jpg",
+  "hex": "E8194C",
+  "aliases": [
+    "ResMed|"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RMD"
+    }
+  ],
+  "isin": "US7611521078",
+  "wikidata": "Q7314903",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

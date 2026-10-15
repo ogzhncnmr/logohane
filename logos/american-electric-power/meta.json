@@ -1,0 +1,23 @@
+{
+  "name": "American Electric Power",
+  "slug": "american-electric-power",
+  "website": "https://www.aep.com",
+  "source": "https://www.aep.com/logos/aep-logo-red-gray.svg",
+  "hex": "EE1C24",
+  "aliases": [
+    "American Electric Power"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AEP"
+    }
+  ],
+  "isin": "US0255371017",
+  "wikidata": "Q464092",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

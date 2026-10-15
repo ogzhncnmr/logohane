@@ -1,0 +1,22 @@
+{
+  "name": "Ross Stores",
+  "slug": "ross-stores",
+  "website": "https://www.rossstores.com",
+  "source": "https://www.rossstores.com/wp-content/uploads/2021/06/ross_logo_fb.png",
+  "hex": "0283C7",
+  "aliases": [
+    "Ross Stores"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ROST"
+    }
+  ],
+  "isin": "US7782961038",
+  "wikidata": "Q3442791",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

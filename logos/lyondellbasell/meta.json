@@ -1,0 +1,21 @@
+{
+  "name": "LyondellBasell",
+  "slug": "lyondellbasell",
+  "website": "https://www.lyondellbasell.com",
+  "source": "https://www.lyondellbasell.com/globalassets/lyb/lyb-logo.svg?rxy=0,0&height=70&rmode=crop&quality=80",
+  "hex": "004ED5",
+  "aliases": [
+    "LyondellBasell"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LYB"
+    }
+  ],
+  "wikidata": "Q899255",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

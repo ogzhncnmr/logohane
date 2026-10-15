@@ -1,0 +1,22 @@
+{
+  "name": "Incyte",
+  "slug": "incyte",
+  "website": "https://www.incyte.com",
+  "source": "https://incyte.com/themes/custom/incyte2026/logo.svg",
+  "hex": "33339A",
+  "aliases": [
+    "Incyte"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "INCY"
+    }
+  ],
+  "isin": "US45337C1027",
+  "wikidata": "Q6015591",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

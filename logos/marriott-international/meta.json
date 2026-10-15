@@ -1,0 +1,22 @@
+{
+  "name": "Marriott International",
+  "slug": "marriott-international",
+  "website": "https://www.marriott.com",
+  "source": "https://news.marriott.com/static-assets/component-resources/newscenter/images/header/logo.png",
+  "hex": "000000",
+  "aliases": [
+    "Marriott International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MAR"
+    }
+  ],
+  "isin": "US5719032022",
+  "wikidata": "Q1141173",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

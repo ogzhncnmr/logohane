@@ -1,0 +1,22 @@
+{
+  "name": "Deere & Company",
+  "slug": "deere",
+  "website": "https://www.deere.com",
+  "source": "https://cdn-ux.deere.com/brand-foundations/2.0.0/logos/jd-logo.svg",
+  "hex": "357B2B",
+  "aliases": [
+    "Deere & Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DE"
+    }
+  ],
+  "isin": "US2441991054",
+  "wikidata": "Q496302",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

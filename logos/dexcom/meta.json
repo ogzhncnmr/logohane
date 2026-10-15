@@ -1,0 +1,22 @@
+{
+  "name": "Dexcom",
+  "slug": "dexcom",
+  "website": "https://dexcom.com",
+  "source": "https://www.dexcom.com/tr-tr",
+  "hex": "000000",
+  "aliases": [
+    "Dexcom"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "DXCM"
+    }
+  ],
+  "isin": "US2521311074",
+  "wikidata": "Q15109865",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

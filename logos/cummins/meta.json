@@ -1,0 +1,22 @@
+{
+  "name": "Cummins",
+  "slug": "cummins",
+  "website": "https://www.cummins.com",
+  "source": "https://www.cummins.com/tr-eu",
+  "hex": "000000",
+  "aliases": [
+    "Cummins"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CMI"
+    }
+  ],
+  "isin": "US2310211063",
+  "wikidata": "Q173476",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

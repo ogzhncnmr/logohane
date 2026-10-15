@@ -1,0 +1,22 @@
+{
+  "name": "Biogen",
+  "slug": "biogen",
+  "website": "https://www.biogen.com",
+  "source": "https://www.biogen.com/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour-2025.svg",
+  "hex": "0F6FCA",
+  "aliases": [
+    "Biogen"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "BIIB"
+    }
+  ],
+  "isin": "US09062X1037",
+  "wikidata": "Q864338",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

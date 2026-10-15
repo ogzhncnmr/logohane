@@ -1,0 +1,22 @@
+{
+  "name": "Hartford (The)",
+  "slug": "hartford",
+  "website": "https://www.thehartford.com",
+  "source": "https://assets.thehartford.com/image/upload/q_auto/logo.svg",
+  "hex": "000000",
+  "aliases": [
+    "Hartford (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HIG"
+    }
+  ],
+  "isin": "US4165151048",
+  "wikidata": "Q444110",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

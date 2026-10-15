@@ -1,0 +1,22 @@
+{
+  "name": "Stryker Corporation",
+  "slug": "stryker",
+  "website": "https://stryker.com",
+  "source": "https://www.stryker.com/etc/designs/stryker/images/header/logo.png",
+  "hex": "020202",
+  "aliases": [
+    "Stryker Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SYK"
+    }
+  ],
+  "isin": "US8636671013",
+  "wikidata": "Q2357515",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

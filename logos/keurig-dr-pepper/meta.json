@@ -1,0 +1,22 @@
+{
+  "name": "Keurig Dr Pepper",
+  "slug": "keurig-dr-pepper",
+  "website": "https://www.keurigdrpepper.com",
+  "source": "https://www.keurigdrpepper.com/wp-content/themes/keurigdrpepper/img/logo.png?1",
+  "hex": "BE0042",
+  "aliases": [
+    "Keurig Dr Pepper"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "KDP"
+    }
+  ],
+  "isin": "US49271V1008",
+  "wikidata": "Q3116111",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

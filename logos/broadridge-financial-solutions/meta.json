@@ -1,0 +1,22 @@
+{
+  "name": "Broadridge Financial Solutions",
+  "slug": "broadridge-financial-solutions",
+  "website": "https://www.broadridge.com",
+  "source": "https://www.broadridge.com/_Static-Assets/images/brodridgeLogo.svg",
+  "hex": "000C36",
+  "aliases": [
+    "Broadridge Financial Solutions"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BR"
+    }
+  ],
+  "isin": "US11133T1034",
+  "wikidata": "Q4972280",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

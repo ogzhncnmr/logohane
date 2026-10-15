@@ -1,0 +1,22 @@
+{
+  "name": "Ametek",
+  "slug": "ametek",
+  "website": "https://www.ametek.com",
+  "source": "https://www.ametek.com/-/media/project/oneweb/oneweb/oneweb/logos/default-logo.png?h=33&w=216&revision=19c8369c-a1ce-43a0-9399-74476f6b8457&hash=FD110BFD930AC1F855B5552CAAF77354",
+  "hex": "010101",
+  "aliases": [
+    "Ametek"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AME"
+    }
+  ],
+  "isin": "US0311001004",
+  "wikidata": "Q470317",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

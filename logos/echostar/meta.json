@@ -1,0 +1,22 @@
+{
+  "name": "EchoStar",
+  "slug": "echostar",
+  "website": "https://www.echostar.com",
+  "source": "https://www.echostar.com/content/dam/echostar/logos/Navigation_Echostar.svg",
+  "hex": "C5262E",
+  "aliases": [
+    "EchoStar"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ECHO"
+    }
+  ],
+  "isin": "US2787681061",
+  "wikidata": "Q1280748",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

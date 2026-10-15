@@ -1,0 +1,22 @@
+{
+  "name": "Ecolab",
+  "slug": "ecolab",
+  "website": "https://ecolab.com",
+  "source": "https://edge.sitecorecloud.io/ecolabusain090e-ecolab7b18-prodae9b-d8b8/media/project/ecolab/shared/dev/ecolab-logo-white-svg.svg?h=14&iar=0&w=72",
+  "aliases": [
+    "Ecolab"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ECL"
+    }
+  ],
+  "isin": "US2788651006",
+  "wikidata": "Q1282031",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

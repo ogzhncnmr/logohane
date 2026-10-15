@@ -1,0 +1,22 @@
+{
+  "name": "JPMorgan Chase",
+  "slug": "jpmorgan-chase",
+  "website": "https://www.jpmorganchase.com",
+  "source": "https://www.jpmorganchase.com/content/dam/jpmorganchase/images/logos/jpmc-logo.svg",
+  "hex": "000000",
+  "aliases": [
+    "JPMorgan Chase"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "JPM"
+    }
+  ],
+  "isin": "US46625H1005",
+  "wikidata": "Q192314",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

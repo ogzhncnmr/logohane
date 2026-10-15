@@ -1,0 +1,22 @@
+{
+  "name": "Accenture",
+  "slug": "accenture",
+  "website": "https://www.accenture.com",
+  "source": "https://www.accenture.com/content/dam/accenture/final/accenture-com/imagery-fy27/q1/Footer-Static-Desktop.svg",
+  "hex": "A400FF",
+  "aliases": [
+    "Accenture"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ACN"
+    }
+  ],
+  "wikidata": "Q338825",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

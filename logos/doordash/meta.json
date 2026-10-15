@@ -1,0 +1,22 @@
+{
+  "name": "DoorDash",
+  "slug": "doordash",
+  "website": "https://www.doordash.com",
+  "source": "https://about.doordash.com",
+  "hex": "ED1700",
+  "aliases": [
+    "DoorDash"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "DASH"
+    }
+  ],
+  "isin": "US25809K1051",
+  "wikidata": "Q20714323",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

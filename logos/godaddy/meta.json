@@ -1,0 +1,22 @@
+{
+  "name": "GoDaddy",
+  "slug": "godaddy",
+  "website": "https://www.godaddy.com",
+  "source": "https://www.godaddy.com/tr-tr",
+  "aliases": [
+    "GoDaddy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GDDY"
+    }
+  ],
+  "isin": "US3802371076",
+  "wikidata": "Q1416215",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

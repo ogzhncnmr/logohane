@@ -1,0 +1,22 @@
+{
+  "name": "Steel Dynamics",
+  "slug": "steel-dynamics",
+  "website": "https://www.steeldynamics.com",
+  "source": "https://www.steeldynamics.com/wp-content/uploads/2021/03/mobile-logo.jpg",
+  "hex": "A2000D",
+  "aliases": [
+    "Steel Dynamics"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "STLD"
+    }
+  ],
+  "isin": "US8581191009",
+  "wikidata": "Q7605667",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

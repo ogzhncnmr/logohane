@@ -1,0 +1,22 @@
+{
+  "name": "Weyerhaeuser",
+  "slug": "weyerhaeuser",
+  "website": "https://www.weyerhaeuser.com",
+  "source": "https://www.weyerhaeuser.com/application/files/6117/6842/0924/WYLogo_Horizontal_Color_RGB_1.svg",
+  "hex": "005F0F",
+  "aliases": [
+    "Weyerhaeuser"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WY"
+    }
+  ],
+  "isin": "US9621661043",
+  "wikidata": "Q1780382",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

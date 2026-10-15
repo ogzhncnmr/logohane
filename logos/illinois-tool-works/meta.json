@@ -1,0 +1,22 @@
+{
+  "name": "Illinois Tool Works",
+  "slug": "illinois-tool-works",
+  "website": "https://www.itw.com",
+  "source": "https://www.itw.com/images/ITW-logo---dk-gray.svg",
+  "hex": "424242",
+  "aliases": [
+    "Illinois Tool Works"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ITW"
+    }
+  ],
+  "isin": "US4523081093",
+  "wikidata": "Q1510378",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

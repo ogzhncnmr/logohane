@@ -1,0 +1,22 @@
+{
+  "name": "Northrop Grumman",
+  "slug": "northrop-grumman",
+  "website": "https://www.northropgrumman.com",
+  "source": "https://www.northropgrumman.com/",
+  "aliases": [
+    "Northrop Grumman"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NOC"
+    }
+  ],
+  "isin": "US6668071029",
+  "wikidata": "Q329953",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

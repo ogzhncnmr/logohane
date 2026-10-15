@@ -1,0 +1,22 @@
+{
+  "name": "Camden Property Trust",
+  "slug": "camden-property-trust",
+  "website": "https://www.camdenliving.com",
+  "source": "https://www.camdenliving.com/images/camden-logo-black.png",
+  "hex": "81BE27",
+  "aliases": [
+    "Camden Property Trust"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CPT"
+    }
+  ],
+  "isin": "US1331311027",
+  "wikidata": "Q5025803",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Zoetis",
+  "slug": "zoetis",
+  "website": "https://www.zoetis.com",
+  "source": "https://www.zoetis.com/_assets/img/zoetis_logo.svg",
+  "hex": "F65C00",
+  "aliases": [
+    "Zoetis"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ZTS"
+    }
+  ],
+  "isin": "US98978V1035",
+  "wikidata": "Q8073337",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

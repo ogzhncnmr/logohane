@@ -1,0 +1,22 @@
+{
+  "name": "Snap-on",
+  "slug": "snap-on",
+  "website": "https://www.snapon.com",
+  "source": "https://www.snapon.com/",
+  "hex": "000000",
+  "aliases": [
+    "Snap-on"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SNA"
+    }
+  ],
+  "isin": "US8330341012",
+  "wikidata": "Q1631922",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

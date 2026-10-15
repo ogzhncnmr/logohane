@@ -1,0 +1,22 @@
+{
+  "name": "NetApp",
+  "slug": "netapp",
+  "website": "https://www.netapp.com",
+  "source": "https://www.netapp.com/",
+  "hex": "0067C6",
+  "aliases": [
+    "NetApp"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NTAP"
+    }
+  ],
+  "isin": "US64120L1044",
+  "wikidata": "Q727883",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

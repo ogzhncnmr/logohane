@@ -1,0 +1,22 @@
+{
+  "name": "Genuine Parts Company",
+  "slug": "genuine-parts",
+  "website": "https://www.genpt.com",
+  "source": "https://www.genpt.com/images/GPC_LOGO.svg",
+  "hex": "FFCA38",
+  "aliases": [
+    "Genuine Parts Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GPC"
+    }
+  ],
+  "isin": "US3724601055",
+  "wikidata": "Q5533818",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

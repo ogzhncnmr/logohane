@@ -1,0 +1,22 @@
+{
+  "name": "Carrier Global",
+  "slug": "carrier-global",
+  "website": "https://www.corporate.carrier.com",
+  "source": "https://brandportal.carrier.com/m/99b434eac013f6f/webimage-carrier_logo_rgb.png",
+  "hex": "27316F",
+  "aliases": [
+    "Carrier Global"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CARR"
+    }
+  ],
+  "isin": "US14448C1045",
+  "wikidata": "Q731912",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hewlett Packard Enterprise",
+  "slug": "hewlett-packard-enterprise",
+  "website": "https://www.hpe.com",
+  "source": "https://www.hpe.com/us/en/home.html",
+  "hex": "01AA83",
+  "aliases": [
+    "Hewlett Packard Enterprise"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HPE"
+    }
+  ],
+  "isin": "US42824C1099",
+  "wikidata": "Q19923099",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hilton Worldwide",
+  "slug": "hilton-worldwide",
+  "website": "https://www.hilton.com",
+  "source": "https://www.hilton.com/modules/assets/svgs/logos/WW_inverted.svg",
+  "aliases": [
+    "Hilton Worldwide"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HLT"
+    }
+  ],
+  "isin": "US43300A2033",
+  "wikidata": "Q1057464",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

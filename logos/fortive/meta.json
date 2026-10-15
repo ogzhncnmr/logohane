@@ -1,0 +1,23 @@
+{
+  "name": "Fortive",
+  "slug": "fortive",
+  "website": "https://www.fortive.com",
+  "source": "https://fortive.com/themes/fortive/logo.svg",
+  "hex": "64BE49",
+  "aliases": [
+    "Fortive"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FTV"
+    }
+  ],
+  "isin": "US34959J1088",
+  "wikidata": "Q27919383",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

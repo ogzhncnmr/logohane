@@ -1,0 +1,22 @@
+{
+  "name": "Franklin Resources",
+  "slug": "franklin-resources",
+  "website": "https://www.franklintempleton.com",
+  "source": "https://franklintempletonprod.widen.net/content/hrxzxi4q8b/webp/ft-global-logo-header.png?w=372",
+  "hex": "010101",
+  "aliases": [
+    "Franklin Resources"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BEN"
+    }
+  ],
+  "isin": "US3546131018",
+  "wikidata": "Q744683",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

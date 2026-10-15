@@ -1,0 +1,22 @@
+{
+  "name": "Aflac",
+  "slug": "aflac",
+  "website": "https://www.aflac.com",
+  "source": "https://www.aflac.com/_Global-Assets/dagger/brandcenter/img/visual_identity/logos/bc_standard_logo.png",
+  "hex": "009AD7",
+  "aliases": [
+    "Aflac"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AFL"
+    }
+  ],
+  "isin": "US0010551028",
+  "wikidata": "Q26311",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

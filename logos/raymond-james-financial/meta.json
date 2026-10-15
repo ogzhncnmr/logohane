@@ -1,0 +1,22 @@
+{
+  "name": "Raymond James Financial",
+  "slug": "raymond-james-financial",
+  "website": "https://www.raymondjames.com",
+  "source": "https://www.raymondjames.com/-/media/RJ/DotCom/Images/global/raymond-james-logo-blue.svg?la=en&hash=6E7EE86DF23E3F83A22874B34F596368",
+  "hex": "00294A",
+  "aliases": [
+    "Raymond James Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RJF"
+    }
+  ],
+  "isin": "US7547301090",
+  "wikidata": "Q7298901",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

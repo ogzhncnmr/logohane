@@ -1,0 +1,22 @@
+{
+  "name": "Equinix",
+  "slug": "equinix",
+  "website": "https://www.equinix.com",
+  "source": "https://www.equinix.com/",
+  "hex": "ED1C24",
+  "aliases": [
+    "Equinix"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EQIX"
+    }
+  ],
+  "isin": "US29444U5020",
+  "wikidata": "Q851641",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

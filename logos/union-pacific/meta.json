@@ -1,0 +1,22 @@
+{
+  "name": "Union Pacific Corporation",
+  "slug": "union-pacific",
+  "website": "https://www.up.com",
+  "source": "https://www.up.com/",
+  "hex": "00329A",
+  "aliases": [
+    "Union Pacific Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UNP"
+    }
+  ],
+  "isin": "US9078181081",
+  "wikidata": "Q20183163",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Smurfit Westrock",
+  "slug": "smurfit-westrock",
+  "website": "https://www.smurfitkappa.com",
+  "source": "https://www.smurfitkappa.com/-/m/Images/Shared%20Assets/SW_LOGO_2COL.svg",
+  "hex": "08B4FF",
+  "aliases": [
+    "Smurfit Westrock"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SW"
+    }
+  ],
+  "wikidata": "Q1536176",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

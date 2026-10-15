@@ -1,0 +1,22 @@
+{
+  "name": "Intel",
+  "slug": "intel",
+  "website": "https://www.intel.com",
+  "source": "https://www.intel.com/content/www/us/en/homepage.html",
+  "aliases": [
+    "Intel"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "INTC"
+    }
+  ],
+  "isin": "US4581401001",
+  "wikidata": "Q248",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

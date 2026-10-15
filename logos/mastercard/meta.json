@@ -1,0 +1,22 @@
+{
+  "name": "Mastercard",
+  "slug": "mastercard",
+  "website": "https://www.mastercard.com",
+  "source": "https://www.mastercard.com/content/dam/mccom/shared/ma_symbol.png",
+  "hex": "E51B24",
+  "aliases": [
+    "Mastercard"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MA"
+    }
+  ],
+  "isin": "US57636Q1040",
+  "wikidata": "Q489921",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

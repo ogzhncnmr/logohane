@@ -1,0 +1,21 @@
+{
+  "name": "Garmin",
+  "slug": "garmin",
+  "website": "https://www.garmin.com",
+  "source": "https://www.garmin.com/en-US/",
+  "hex": "000000",
+  "aliases": [
+    "Garmin"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GRMN"
+    }
+  ],
+  "wikidata": "Q658789",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Jack Henry & Associates",
+  "slug": "jack-henry-and-associates",
+  "website": "https://www.jackhenry.com",
+  "source": "https://11621.fs1.hubspotusercontent-na1.net/hubfs/11621/jhw-01/branding/jack-henry-logo.svg",
+  "hex": "06185F",
+  "aliases": [
+    "Jack Henry & Associates"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "JKHY"
+    }
+  ],
+  "isin": "US4262811015",
+  "wikidata": "Q6113060",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

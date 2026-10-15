@@ -1,0 +1,22 @@
+{
+  "name": "DuPont",
+  "slug": "dupont",
+  "website": "https://www.dupont.com",
+  "source": "https://www.dupont.com/content/dam/dupont/global-assets/logos/DuPont_logo_140x55_rgb1.png",
+  "hex": "E61E25",
+  "aliases": [
+    "DuPont"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DD"
+    }
+  ],
+  "isin": "US2635341090",
+  "wikidata": "Q221062",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

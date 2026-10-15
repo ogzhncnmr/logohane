@@ -1,0 +1,22 @@
+{
+  "name": "Xcel Energy",
+  "slug": "xcel-energy",
+  "website": "https://my.xcelenergy.com",
+  "source": "https://my.xcelenergy.com/resource/1753924346000/XcelBrand/dist/img/xeds/site-navigation/XcelEnergy.svg",
+  "hex": "DA1020",
+  "aliases": [
+    "Xcel Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "XEL"
+    }
+  ],
+  "isin": "US98389B1008",
+  "wikidata": "Q1486956",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

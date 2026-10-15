@@ -1,0 +1,22 @@
+{
+  "name": "Crown Castle",
+  "slug": "crown-castle",
+  "website": "https://www.crowncastle.com",
+  "source": "https://www.crowncastle.com/",
+  "hex": "491778",
+  "aliases": [
+    "Crown Castle"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CCI"
+    }
+  ],
+  "isin": "US22822V1017",
+  "wikidata": "Q5189320",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Walt Disney Company (The)",
+  "slug": "walt-disney",
+  "website": "https://thewaltdisneycompany.com",
+  "source": "https://thewaltdisneycompany.com/",
+  "hex": "121212",
+  "aliases": [
+    "Walt Disney Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DIS"
+    }
+  ],
+  "isin": "US2546871060",
+  "wikidata": "Q7414",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

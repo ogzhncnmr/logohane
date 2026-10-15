@@ -1,0 +1,22 @@
+{
+  "name": "Ventas",
+  "slug": "ventas",
+  "website": "https://www.ventasreit.com",
+  "source": "https://www.ventasreit.com/themes/custom/ventas/logo-dark.svg",
+  "hex": "75A1BA",
+  "aliases": [
+    "Ventas"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VTR"
+    }
+  ],
+  "isin": "US92276F1003",
+  "wikidata": "Q19865761",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

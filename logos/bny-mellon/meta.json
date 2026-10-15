@@ -1,0 +1,22 @@
+{
+  "name": "BNY Mellon",
+  "slug": "bny-mellon",
+  "website": "https://www.bnymellon.com",
+  "source": "https://www.bny.com/content/dam/bnymellon/web/logo/bnym-logo.png",
+  "hex": "2D9BAD",
+  "aliases": [
+    "BNY Mellon"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BNY"
+    }
+  ],
+  "isin": "US0640581007",
+  "wikidata": "Q589288",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

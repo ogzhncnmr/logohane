@@ -1,0 +1,22 @@
+{
+  "name": "Intuitive Surgical",
+  "slug": "intuitive-surgical",
+  "website": "https://www.intuitive.com",
+  "source": "https://cdn.cookielaw.org/logos/2d81edac-a4d2-43b5-aaad-2f1926e3e40e/670cb061-7b74-41a0-850b-349ca43f5152/e146af79-afd0-4c73-86e0-088e3f3f823c/intuitive_logo160.png",
+  "hex": "2A2627",
+  "aliases": [
+    "Intuitive Surgical"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ISRG"
+    }
+  ],
+  "isin": "US46120E6023",
+  "wikidata": "Q2743863",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

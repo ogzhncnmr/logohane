@@ -1,0 +1,22 @@
+{
+  "name": "Globe Life",
+  "slug": "globe-life",
+  "website": "https://www.torchmarkcorp.com",
+  "source": "https://www.torchmarkcorp.com/images/logo.svg",
+  "hex": "00568D",
+  "aliases": [
+    "Globe Life"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GL"
+    }
+  ],
+  "isin": "US37959E1029",
+  "wikidata": "Q7825574",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

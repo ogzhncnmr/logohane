@@ -1,0 +1,22 @@
+{
+  "name": "AbbVie",
+  "slug": "abbvie",
+  "website": "https://www.abbvie.com",
+  "source": "https://delivery-p157365-e1666014.adobeaemcloud.com/adobe/assets/urn:aaid:aem:ed57e8fa-a455-4943-b9c6-3d5f05830f60/as/abbvie-logo-header.svg",
+  "hex": "071D4A",
+  "aliases": [
+    "AbbVie"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ABBV"
+    }
+  ],
+  "isin": "US00287Y1091",
+  "wikidata": "Q14662364",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

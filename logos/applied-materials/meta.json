@@ -1,0 +1,22 @@
+{
+  "name": "Applied Materials",
+  "slug": "applied-materials",
+  "website": "https://www.appliedmaterials.com",
+  "source": "https://www.appliedmaterials.com/content/dam/applied-materials/Applied-Materials-Logo-No-Tag-Line.png",
+  "hex": "007DA5",
+  "aliases": [
+    "Applied Materials"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AMAT"
+    }
+  ],
+  "isin": "US0382221051",
+  "wikidata": "Q621610",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

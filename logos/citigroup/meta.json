@@ -1,0 +1,22 @@
+{
+  "name": "Citigroup",
+  "slug": "citigroup",
+  "website": "https://www.citigroup.com",
+  "source": "https://www.citigroup.com/rcs/citigpa/storage/public/citi-logo-rgb.jpg",
+  "hex": "255BE2",
+  "aliases": [
+    "Citigroup"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "C"
+    }
+  ],
+  "isin": "US1729674242",
+  "wikidata": "Q219508",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

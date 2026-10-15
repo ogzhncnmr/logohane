@@ -1,0 +1,22 @@
+{
+  "name": "Wells Fargo",
+  "slug": "wells-fargo",
+  "website": "https://www.wellsfargo.com",
+  "source": "https://www17.wellsfargomedia.com/assets/images/logos/wellsfargo/logo_974x1050.png",
+  "hex": "D71E28",
+  "aliases": [
+    "Wells Fargo"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WFC"
+    }
+  ],
+  "isin": "US9497461015",
+  "wikidata": "Q744149",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

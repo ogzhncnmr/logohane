@@ -1,0 +1,22 @@
+{
+  "name": "Equifax",
+  "slug": "equifax",
+  "website": "https://www.equifax.com",
+  "source": "https://assets.equifax.com/global/images/logos/equifax_150_28.svg",
+  "hex": "9E1C33",
+  "aliases": [
+    "Equifax"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EFX"
+    }
+  ],
+  "isin": "US2944291051",
+  "wikidata": "Q5384453",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

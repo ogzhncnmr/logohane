@@ -1,0 +1,22 @@
+{
+  "name": "Global Payments",
+  "slug": "global-payments",
+  "website": "https://www.globalpaymentsinc.com",
+  "source": "https://www.globalpayments.com/-/media/project/global-payments/corporate/shared/logos/logowhite.svg?rev=5b4bedd115284fa6a22367d8093337cc",
+  "aliases": [
+    "Global Payments"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GPN"
+    }
+  ],
+  "isin": "US37940X1028",
+  "wikidata": "Q5570544",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

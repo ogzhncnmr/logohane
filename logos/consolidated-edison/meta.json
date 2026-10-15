@@ -1,0 +1,22 @@
+{
+  "name": "Consolidated Edison",
+  "slug": "consolidated-edison",
+  "website": "https://www.coned.com",
+  "source": "https://www.coned.com/images/logo.svg",
+  "hex": "069BD7",
+  "aliases": [
+    "Consolidated Edison"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ED"
+    }
+  ],
+  "isin": "US2091151041",
+  "wikidata": "Q1127536",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

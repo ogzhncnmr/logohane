@@ -1,0 +1,22 @@
+{
+  "name": "Delta Air Lines",
+  "slug": "delta-air-lines",
+  "website": "https://it.delta.com",
+  "source": "https://cdn.cookielaw.org/logos/6b6d972e-480d-4bb2-96d3-4bf62b3d9551/0191fd5a-9aa4-7edd-b8c1-97f793219f16/4406b0f0-8126-4377-bf9e-8f3ed80d33bc/Delta_Skyteam_Logo-2x.png",
+  "hex": "002141",
+  "aliases": [
+    "Delta Air Lines"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DAL"
+    }
+  ],
+  "isin": "US2473617023",
+  "wikidata": "Q188920",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

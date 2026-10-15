@@ -1,0 +1,23 @@
+{
+  "name": "FedEx",
+  "slug": "fedex",
+  "website": "https://www.fedex.com",
+  "source": "https://www.fedex.com/content/dam/fedex-com/logos/logo.png",
+  "hex": "FF6600",
+  "aliases": [
+    "FedEx"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FDX"
+    }
+  ],
+  "isin": "US31428X1063",
+  "wikidata": "Q459477",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

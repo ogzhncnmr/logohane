@@ -1,0 +1,22 @@
+{
+  "name": "United Parcel Service",
+  "slug": "united-parcel-service",
+  "website": "https://www.ups.com",
+  "source": "https://uhs.com/wp-content/uploads/2024/12/uhs_logo_new.png",
+  "hex": "94002A",
+  "aliases": [
+    "United Parcel Service"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UPS"
+    }
+  ],
+  "isin": "US9113121068",
+  "wikidata": "Q155026",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

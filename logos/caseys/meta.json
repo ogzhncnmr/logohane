@@ -1,0 +1,22 @@
+{
+  "name": "Casey's",
+  "slug": "caseys",
+  "website": "https://www.caseys.com",
+  "source": "https://investor.caseys.com/sites/g/files/knoqqb97091/themes/site/client_site/dist/images/caseys-logo-2020.svg",
+  "aliases": [
+    "Casey's"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CASY"
+    }
+  ],
+  "isin": "US1475281036",
+  "wikidata": "Q2940968",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}

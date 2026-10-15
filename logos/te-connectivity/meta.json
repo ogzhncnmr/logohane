@@ -1,0 +1,21 @@
+{
+  "name": "TE Connectivity",
+  "slug": "te-connectivity",
+  "website": "https://www.te.com",
+  "source": "https://www.te.com/_TEincludes/v2/images/te-connectivity-logo.png",
+  "hex": "E98300",
+  "aliases": [
+    "TE Connectivity"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TEL"
+    }
+  ],
+  "wikidata": "Q663452",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Revvity",
+  "slug": "revvity",
+  "website": "https://revvity.com",
+  "source": "https://www.revvity.com/",
+  "hex": "000000",
+  "aliases": [
+    "Revvity"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RVTY"
+    }
+  ],
+  "wikidata": "Q120467527",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

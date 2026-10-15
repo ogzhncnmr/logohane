@@ -1,0 +1,22 @@
+{
+  "name": "Chubb Limited",
+  "slug": "chubb",
+  "website": "https://www.chubb.com",
+  "source": "https://www.chubb.com/content/dam/chubb-sites/chubb/us-en/home_page/CHUBB_Logo_Black_RBG.png",
+  "hex": "000000",
+  "aliases": [
+    "Chubb Limited"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CB"
+    }
+  ],
+  "isin": "US1712321017",
+  "wikidata": "Q1089060",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

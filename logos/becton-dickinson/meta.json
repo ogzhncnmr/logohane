@@ -1,0 +1,22 @@
+{
+  "name": "Becton Dickinson",
+  "slug": "becton-dickinson",
+  "website": "https://www.bd.com",
+  "source": "https://www.bd.com/content/dam/bd-assets/bd-com/en-us/logos/bd/header-bd-logo.svg",
+  "hex": "FF6E01",
+  "aliases": [
+    "Becton Dickinson"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BDX"
+    }
+  ],
+  "isin": "US0758871091",
+  "wikidata": "Q813780",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

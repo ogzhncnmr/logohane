@@ -1,0 +1,22 @@
+{
+  "name": "Texas Instruments",
+  "slug": "texas-instruments",
+  "website": "https://ti.com",
+  "source": "https://www.ti.com/",
+  "hex": "CE0000",
+  "aliases": [
+    "Texas Instruments"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TXN"
+    }
+  ],
+  "isin": "US8825081040",
+  "wikidata": "Q193412",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

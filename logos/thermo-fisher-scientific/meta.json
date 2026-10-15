@@ -1,0 +1,22 @@
+{
+  "name": "Thermo Fisher Scientific",
+  "slug": "thermo-fisher-scientific",
+  "website": "https://www.thermofisher.com",
+  "source": "https://www.thermofisher.com/tr/en/home.html",
+  "hex": "E71316",
+  "aliases": [
+    "Thermo Fisher Scientific"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TMO"
+    }
+  ],
+  "isin": "US8835561023",
+  "wikidata": "Q643674",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

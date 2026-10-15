@@ -1,0 +1,22 @@
+{
+  "name": "Cincinnati Financial",
+  "slug": "cincinnati-financial",
+  "website": "https://www.cinfin.com",
+  "source": "https://investors.cinfin.com/images/cic-logo.svg",
+  "hex": "004D99",
+  "aliases": [
+    "Cincinnati Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CINF"
+    }
+  ],
+  "isin": "US1720621010",
+  "wikidata": "Q5120253",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

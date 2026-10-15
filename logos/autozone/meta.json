@@ -1,0 +1,22 @@
+{
+  "name": "AutoZone",
+  "slug": "autozone",
+  "website": "https://www.autozone.com",
+  "source": "https://about.autozone.com/sites/g/files/knoqqb100426/themes/site/nir_pid1182/client/dist/images/az-logo-full.svg",
+  "hex": "F37D00",
+  "aliases": [
+    "AutoZone"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AZO"
+    }
+  ],
+  "isin": "US0533321024",
+  "wikidata": "Q4826087",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

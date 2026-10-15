@@ -1,0 +1,21 @@
+{
+  "name": "Lumentum",
+  "slug": "lumentum",
+  "website": "https://www.lumentum.com",
+  "source": "https://www.lumentum.com/images/logos/Logo.svg",
+  "aliases": [
+    "Lumentum"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LITE"
+    }
+  ],
+  "wikidata": "Q138786899",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

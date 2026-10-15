@@ -1,0 +1,22 @@
+{
+  "name": "Humana",
+  "slug": "humana",
+  "website": "https://www.humana.com",
+  "source": "https://assets.humana.com/is/image/humana/2022_Humana_Logo_RGB_Contrast-Green_No-R_No-Pad_Horiz-1?fmt=png-alpha",
+  "hex": "5D991C",
+  "aliases": [
+    "Humana"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HUM"
+    }
+  ],
+  "isin": "US4448591028",
+  "wikidata": "Q910866",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

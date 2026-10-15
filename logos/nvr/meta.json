@@ -1,0 +1,22 @@
+{
+  "name": "NVR, Inc.",
+  "slug": "nvr",
+  "website": "https://www.nvrinc.com",
+  "source": "https://www.nvrinc.com/assets/images/nvr-logo--interior.png",
+  "hex": "860038",
+  "aliases": [
+    "NVR, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NVR"
+    }
+  ],
+  "isin": "US62944T1051",
+  "wikidata": "Q6955706",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

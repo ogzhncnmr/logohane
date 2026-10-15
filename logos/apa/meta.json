@@ -1,0 +1,22 @@
+{
+  "name": "APA Corporation",
+  "slug": "apa",
+  "website": "https://www.apachecorp.com",
+  "source": "https://apacorp.com/wp-content/uploads/2021/02/APACorp_Logo_Color6839.png",
+  "hex": "CA9D39",
+  "aliases": [
+    "APA Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "APA"
+    }
+  ],
+  "isin": "US0374111054",
+  "wikidata": "Q119991",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

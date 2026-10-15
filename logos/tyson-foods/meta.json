@@ -1,0 +1,22 @@
+{
+  "name": "Tyson Foods",
+  "slug": "tyson-foods",
+  "website": "https://www.tyson.com",
+  "source": "https://www.tyson.com/adobe/dynamicmedia/deliver/dm-aid--66fc93c0-9fd3-4057-8420-979247cd2ed7/icon.png?quality=82&preferwebp=true",
+  "hex": "D0112B",
+  "aliases": [
+    "Tyson Foods"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TSN"
+    }
+  ],
+  "isin": "US9024941034",
+  "wikidata": "Q1325987",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

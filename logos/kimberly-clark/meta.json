@@ -1,0 +1,22 @@
+{
+  "name": "Kimberly-Clark",
+  "slug": "kimberly-clark",
+  "website": "https://www.kimberly-clark.com",
+  "source": "https://www.kimberly-clark.com/-/media/feature/kcc/corporate/header/kimberlyclark.svg?rev=-1",
+  "hex": "004ED0",
+  "aliases": [
+    "Kimberly-Clark"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "KMB"
+    }
+  ],
+  "isin": "US4943681035",
+  "wikidata": "Q1741634",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

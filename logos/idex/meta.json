@@ -1,0 +1,22 @@
+{
+  "name": "IDEX Corporation",
+  "slug": "idex",
+  "website": "https://www.idexcorp.com",
+  "source": "https://cdn.prod.website-files.com/6a13f2dbffddfbc9cbcbfb77/6a13f72a726362a0fe6dbff8_idex-logo.svg",
+  "aliases": [
+    "IDEX Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "IEX"
+    }
+  ],
+  "isin": "US45167R1041",
+  "wikidata": "Q5970002",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

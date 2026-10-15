@@ -1,0 +1,22 @@
+{
+  "name": "Marathon Petroleum",
+  "slug": "marathon-petroleum",
+  "website": "https://www.marathonpetroleum.com",
+  "source": "https://www.marathonpetroleum.com/",
+  "hex": "DB0032",
+  "aliases": [
+    "Marathon Petroleum"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MPC"
+    }
+  ],
+  "isin": "US56585A1025",
+  "wikidata": "Q458363",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

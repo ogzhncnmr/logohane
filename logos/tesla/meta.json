@@ -1,0 +1,22 @@
+{
+  "name": "Tesla, Inc.",
+  "slug": "tesla",
+  "website": "https://www.tesla.com",
+  "source": "https://www.tesla.com/",
+  "hex": "171A20",
+  "aliases": [
+    "Tesla, Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TSLA"
+    }
+  ],
+  "isin": "US88160R1014",
+  "wikidata": "Q478214",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

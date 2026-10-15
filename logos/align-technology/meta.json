@@ -1,0 +1,22 @@
+{
+  "name": "Align Technology",
+  "slug": "align-technology",
+  "website": "https://www.aligntech.com",
+  "source": "https://www.aligntech.com/img/Align_tagline_vertical_RGB_charcoal_2c.png",
+  "hex": "3D3935",
+  "aliases": [
+    "Align Technology"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ALGN"
+    }
+  ],
+  "isin": "US0162551016",
+  "wikidata": "Q30272258",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

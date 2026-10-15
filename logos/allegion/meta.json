@@ -1,0 +1,21 @@
+{
+  "name": "Allegion",
+  "slug": "allegion",
+  "website": "https://www.allegion.com/",
+  "source": "https://www.allegion.com/content/dam/allegion-corp/migration/brands/doc_logo_ALLE-H_000.png",
+  "hex": "F46922",
+  "aliases": [
+    "Allegion"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ALLE"
+    }
+  ],
+  "wikidata": "Q16738121",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

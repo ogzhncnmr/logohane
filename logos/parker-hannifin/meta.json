@@ -1,0 +1,22 @@
+{
+  "name": "Parker Hannifin",
+  "slug": "parker-hannifin",
+  "website": "https://www.parker.com",
+  "source": "https://www.parker.com/content/dam/Corporate/parker_logo.png",
+  "hex": "231F20",
+  "aliases": [
+    "Parker Hannifin"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PH"
+    }
+  ],
+  "isin": "US7010941042",
+  "wikidata": "Q1470619",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

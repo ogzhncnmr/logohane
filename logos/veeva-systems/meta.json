@@ -1,0 +1,22 @@
+{
+  "name": "Veeva Systems",
+  "slug": "veeva-systems",
+  "website": "https://www.veeva.com",
+  "source": "https://www.veeva.com/wp-content/uploads/2023/05/Veeva_2c_300x69.png",
+  "hex": "F89C27",
+  "aliases": [
+    "Veeva Systems"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VEEV"
+    }
+  ],
+  "isin": "US9224751084",
+  "wikidata": "Q24204493",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

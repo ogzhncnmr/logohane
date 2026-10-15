@@ -1,0 +1,22 @@
+{
+  "name": "Booking Holdings",
+  "slug": "booking-holdings",
+  "website": "https://bookingholdings.com",
+  "source": "https://www.bookingholdings.com/wp-content/themes/booking-group/img/svg/bkng_global-desktop-logoblack.svg",
+  "hex": "010101",
+  "aliases": [
+    "Booking Holdings"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "BKNG"
+    }
+  ],
+  "isin": "US09857L1089",
+  "wikidata": "Q18674747",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

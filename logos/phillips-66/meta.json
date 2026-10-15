@@ -1,0 +1,22 @@
+{
+  "name": "Phillips 66",
+  "slug": "phillips-66",
+  "website": "https://www.phillips66.com",
+  "source": "https://www.phillips66.com/",
+  "hex": "E1251B",
+  "aliases": [
+    "Phillips 66"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PSX"
+    }
+  ],
+  "isin": "US7185461040",
+  "wikidata": "Q1656230",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

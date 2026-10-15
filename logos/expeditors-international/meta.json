@@ -1,0 +1,22 @@
+{
+  "name": "Expeditors International",
+  "slug": "expeditors-international",
+  "website": "https://www.expeditors.com",
+  "source": "https://www.expeditors.com/images/prototype/Expeditors-logo-sm.gif",
+  "hex": "F03B32",
+  "aliases": [
+    "Expeditors International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EXPD"
+    }
+  ],
+  "isin": "US3021301094",
+  "wikidata": "Q1384324",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

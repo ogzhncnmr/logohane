@@ -1,0 +1,22 @@
+{
+  "name": "BlackRock",
+  "slug": "blackrock",
+  "website": "https://www.blackrock.com",
+  "source": "https://www.blackrock.com/corporate",
+  "hex": "000000",
+  "aliases": [
+    "BlackRock"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BLK"
+    }
+  ],
+  "isin": "US09247X1019",
+  "wikidata": "Q219635",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

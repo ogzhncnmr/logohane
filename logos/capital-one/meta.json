@@ -1,0 +1,22 @@
+{
+  "name": "Capital One",
+  "slug": "capital-one",
+  "website": "https://www.capitalone.com",
+  "source": "https://www.capitalone.com/",
+  "hex": "013D5B",
+  "aliases": [
+    "Capital One"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "COF"
+    }
+  ],
+  "isin": "US14040H1059",
+  "wikidata": "Q1034654",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

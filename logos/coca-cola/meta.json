@@ -1,0 +1,22 @@
+{
+  "name": "Coca-Cola Company (The)",
+  "slug": "coca-cola",
+  "website": "https://www.coca-colacompany.com",
+  "source": "https://www.coca-colacompany.com/content/dam/corporate/us/en/header-footer/Header%20Icon.svg",
+  "hex": "000000",
+  "aliases": [
+    "Coca-Cola Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KO"
+    }
+  ],
+  "isin": "US1912161007",
+  "wikidata": "Q3295867",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

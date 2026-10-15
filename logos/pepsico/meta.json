@@ -1,0 +1,22 @@
+{
+  "name": "PepsiCo",
+  "slug": "pepsico",
+  "website": "https://www.pepsico.com",
+  "source": "https://digitalassets.pepsico.com/transform/fe5c5aad-b8cd-4dd5-a1b2-d79302ff1f1c/PepsiCo-Logo-header?w=3840&q=75",
+  "hex": "02355B",
+  "aliases": [
+    "PepsiCo"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PEP"
+    }
+  ],
+  "isin": "US7134481081",
+  "wikidata": "Q334800",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

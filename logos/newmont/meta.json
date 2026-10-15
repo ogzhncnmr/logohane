@@ -1,0 +1,22 @@
+{
+  "name": "Newmont",
+  "slug": "newmont",
+  "website": "https://www.newmont.com",
+  "source": "https://s24.q4cdn.com/382246808/files/design/logo/Newmont-Color-Rev-RGB.png",
+  "aliases": [
+    "Newmont"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NEM"
+    }
+  ],
+  "isin": "US6516391066",
+  "wikidata": "Q1785405",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

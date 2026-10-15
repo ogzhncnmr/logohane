@@ -1,0 +1,22 @@
+{
+  "name": "KKR & Co.",
+  "slug": "kkr",
+  "website": "https://www.kkr.com",
+  "source": "https://cdn.cookielaw.org/logos/3b84a165-01ae-466c-8d7d-906fccfadd26/5a0270f8-3b3d-4133-84e8-729f08623158/a81542cf-6957-4c21-b7e2-852621b069c2/KKRlogo-50x140.png",
+  "hex": "48114A",
+  "aliases": [
+    "KKR & Co."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KKR"
+    }
+  ],
+  "isin": "US48248M1027",
+  "wikidata": "Q1570773",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

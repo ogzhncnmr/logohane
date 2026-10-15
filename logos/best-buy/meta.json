@@ -1,0 +1,23 @@
+{
+  "name": "Best Buy",
+  "slug": "best-buy",
+  "website": "https://www.bestbuy.com",
+  "source": "https://www.bestbuy.com/~assets/bby/_com/header-footer/images/bby_logo-a7e90594729ed2e119331378def6c97e.png",
+  "hex": "FFED00",
+  "aliases": [
+    "Best Buy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BBY"
+    }
+  ],
+  "isin": "US0865161014",
+  "wikidata": "Q533415",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

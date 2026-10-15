@@ -1,0 +1,22 @@
+{
+  "name": "Uber",
+  "slug": "uber",
+  "website": "https://www.uber.com",
+  "source": "https://tb-static.uber.com/prod/udam-assets/e24f1914-1e23-4896-ad77-22e88c37c2f9.svg",
+  "hex": "000000",
+  "aliases": [
+    "Uber"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UBER"
+    }
+  ],
+  "isin": "US90353T1007",
+  "wikidata": "Q780442",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

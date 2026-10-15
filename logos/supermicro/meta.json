@@ -1,0 +1,22 @@
+{
+  "name": "Supermicro",
+  "slug": "supermicro",
+  "website": "https://www.supermicro.com",
+  "source": "https://www.supermicro.com/sites/default/files/Super_Micro_Computer_Logo.svg",
+  "hex": "00953A",
+  "aliases": [
+    "Supermicro"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SMCI"
+    }
+  ],
+  "isin": "US86800U1043",
+  "wikidata": "Q1817174",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

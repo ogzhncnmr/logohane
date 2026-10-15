@@ -1,0 +1,22 @@
+{
+  "name": "Marvell Technology",
+  "slug": "marvell-technology",
+  "website": "https://www.marvell.com",
+  "source": "https://www.marvell.com/etc.clientlibs/marvell-com/clientlibs/clientlib-refresh/resources/images/marvell-logo.svg",
+  "hex": "212322",
+  "aliases": [
+    "Marvell Technology"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MRVL"
+    }
+  ],
+  "isin": "US5738741041",
+  "wikidata": "Q1347782",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

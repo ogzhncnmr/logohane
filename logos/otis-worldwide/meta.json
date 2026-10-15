@@ -1,0 +1,22 @@
+{
+  "name": "Otis Worldwide",
+  "slug": "otis-worldwide",
+  "website": "https://www.otis.com",
+  "source": "https://cdn.cookielaw.org/logos/a4b603e3-6132-42c4-8bf5-0f44a70fc917/3301846a-fbd9-4bd9-b837-d4d692bf05dd/f986ba18-dff7-4d21-9722-aba5b25c06bb/OTIS_2017_WHITE.png",
+  "aliases": [
+    "Otis Worldwide"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OTIS"
+    }
+  ],
+  "isin": "US68902V1070",
+  "wikidata": "Q1134069",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

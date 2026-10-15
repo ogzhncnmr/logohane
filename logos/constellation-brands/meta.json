@@ -1,0 +1,23 @@
+{
+  "name": "Constellation Brands",
+  "slug": "constellation-brands",
+  "website": "https://www.cbrands.com",
+  "source": "https://www.cbrands.com/cdn/shop/files/logo-white_207x.png?v=7124994682578176890",
+  "hex": "01336E",
+  "aliases": [
+    "Constellation Brands"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "STZ"
+    }
+  ],
+  "isin": "US21036P1084",
+  "wikidata": "Q1128160",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

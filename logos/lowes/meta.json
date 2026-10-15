@@ -1,0 +1,22 @@
+{
+  "name": "Lowe's",
+  "slug": "lowes",
+  "website": "https://lowes.com",
+  "source": "https://corporate.lowes.com/sites/lowes-corp/files/lowes-corp/lowes-blue-logo.svg",
+  "hex": "004990",
+  "aliases": [
+    "Lowe's"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LOW"
+    }
+  ],
+  "isin": "US5486611073",
+  "wikidata": "Q1373493",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

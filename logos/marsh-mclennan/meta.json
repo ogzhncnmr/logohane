@@ -1,0 +1,22 @@
+{
+  "name": "Marsh McLennan",
+  "slug": "marsh-mclennan",
+  "website": "https://www.mmc.com",
+  "source": "https://www.marsh.com/content/dam/marsh/Imagery/marsh-2/marsh-logo/brand-logos.svg",
+  "aliases": [
+    "Marsh McLennan"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MRSH"
+    }
+  ],
+  "isin": "US5717481023",
+  "wikidata": "Q1786345",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

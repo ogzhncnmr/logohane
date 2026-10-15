@@ -1,0 +1,22 @@
+{
+  "name": "Ameriprise Financial",
+  "slug": "ameriprise-financial",
+  "website": "https://www.ameriprise.com",
+  "source": "https://www.ameriprise.com/webfiles/1791430263083/assets/ampcom/images/amp-schema.png",
+  "hex": "003D6D",
+  "aliases": [
+    "Ameriprise Financial"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AMP"
+    }
+  ],
+  "isin": "US03076C1062",
+  "wikidata": "Q2843129",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

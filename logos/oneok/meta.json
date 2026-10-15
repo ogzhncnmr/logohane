@@ -1,0 +1,22 @@
+{
+  "name": "Oneok",
+  "slug": "oneok",
+  "website": "https://www.oneok.com",
+  "source": "https://edge.sitecorecloud.io/oneokinc1-oneok-prod-d654/media/ONEOK/Logos/oneok-logo.png?sc_lang=en",
+  "hex": "0094D3",
+  "aliases": [
+    "Oneok"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OKE"
+    }
+  ],
+  "isin": "US6826801036",
+  "wikidata": "Q11074156",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RTX Corporation",
+  "slug": "rtx",
+  "website": "https://www.rtx.com",
+  "source": "https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A",
+  "hex": "000000",
+  "aliases": [
+    "RTX Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RTX"
+    }
+  ],
+  "isin": "US75513E1010",
+  "wikidata": "Q89368734",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

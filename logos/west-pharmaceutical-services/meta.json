@@ -1,0 +1,22 @@
+{
+  "name": "West Pharmaceutical Services",
+  "slug": "west-pharmaceutical-services",
+  "website": "https://www.westpharma.com/en/Pages/Default.aspx",
+  "source": "https://www.westpharma.com/-/media/westpharma/images/header/west-blue---no-taglines.jpg",
+  "hex": "025697",
+  "aliases": [
+    "West Pharmaceutical Services"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WST"
+    }
+  ],
+  "isin": "US9553061055",
+  "wikidata": "Q30338243",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

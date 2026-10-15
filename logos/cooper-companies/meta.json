@@ -1,0 +1,22 @@
+{
+  "name": "Cooper Companies (The)",
+  "slug": "cooper-companies",
+  "website": "https://www.coopercos.com",
+  "source": "https://www.coopercos.com/wp-content/uploads/2022/05/cooper-p.png",
+  "hex": "863E77",
+  "aliases": [
+    "Cooper Companies (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "COO"
+    }
+  ],
+  "isin": "US2166484020",
+  "wikidata": "Q1129792",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

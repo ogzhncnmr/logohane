@@ -1,0 +1,22 @@
+{
+  "name": "Microchip Technology",
+  "slug": "microchip-technology",
+  "website": "https://www.microchip.com",
+  "source": "https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.png/1605828081463/microchip.png",
+  "hex": "ED2724",
+  "aliases": [
+    "Microchip Technology"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MCHP"
+    }
+  ],
+  "isin": "US5950171042",
+  "wikidata": "Q1545076",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

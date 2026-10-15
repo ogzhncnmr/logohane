@@ -1,0 +1,22 @@
+{
+  "name": "Lockheed Martin",
+  "slug": "lockheed-martin",
+  "website": "https://lockheedmartin.com",
+  "source": "https://lockheedmartin.com/content/dam/lockheed-martin/general/lm-logo.svg",
+  "hex": "003479",
+  "aliases": [
+    "Lockheed Martin"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LMT"
+    }
+  ],
+  "isin": "US5398301094",
+  "wikidata": "Q7240",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

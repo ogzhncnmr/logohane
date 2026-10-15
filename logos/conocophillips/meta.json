@@ -1,0 +1,22 @@
+{
+  "name": "ConocoPhillips",
+  "slug": "conocophillips",
+  "website": "https://www.conocophillips.com",
+  "source": "https://www.conocophillips.com/images/logo-black.svg",
+  "hex": "E60015",
+  "aliases": [
+    "ConocoPhillips"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "COP"
+    }
+  ],
+  "isin": "US20825C1045",
+  "wikidata": "Q214763",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

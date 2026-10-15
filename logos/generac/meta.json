@@ -1,0 +1,22 @@
+{
+  "name": "Generac",
+  "slug": "generac",
+  "website": "https://www.generac.com",
+  "source": "https://www.generac.com/globalassets/shared/logos/generac-blue-logo.png",
+  "hex": "FB6702",
+  "aliases": [
+    "Generac"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GNRC"
+    }
+  ],
+  "isin": "US3687361044",
+  "wikidata": "Q5531627",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

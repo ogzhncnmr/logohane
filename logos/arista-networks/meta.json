@@ -1,0 +1,22 @@
+{
+  "name": "Arista Networks",
+  "slug": "arista-networks",
+  "website": "https://www.arista.com",
+  "source": "https://www.arista.com/templates/arista_v2/img/logo_arista.png",
+  "aliases": [
+    "Arista Networks"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ANET"
+    }
+  ],
+  "isin": "US0404131064",
+  "wikidata": "Q2861324",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Regions Financial Corporation",
+  "slug": "regions-financial",
+  "website": "https://www.regions.com",
+  "source": "https://www.regions.com/personal-banking",
+  "hex": "568A00",
+  "aliases": [
+    "Regions Financial Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RF"
+    }
+  ],
+  "isin": "US7591EP1005",
+  "wikidata": "Q917131",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

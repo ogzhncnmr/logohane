@@ -1,0 +1,22 @@
+{
+  "name": "Wynn Resorts",
+  "slug": "wynn-resorts",
+  "website": "https://www.wynnresorts.com",
+  "source": "https://images.ctfassets.net/d25vj3coyj0e/1yWB7bkYGT5alNEF5Wzvww/522dd51c67c7316c8be7914623430165/logo.png",
+  "hex": "775C3D",
+  "aliases": [
+    "Wynn Resorts"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "WYNN"
+    }
+  ],
+  "isin": "US9831341071",
+  "wikidata": "Q2274089",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

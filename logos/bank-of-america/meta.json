@@ -1,0 +1,22 @@
+{
+  "name": "Bank of America",
+  "slug": "bank-of-america",
+  "website": "https://www.bankofamerica.com",
+  "source": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/bac-logo-v2.png",
+  "hex": "01216B",
+  "aliases": [
+    "Bank of America"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BAC"
+    }
+  ],
+  "isin": "US0605051046",
+  "wikidata": "Q487907",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

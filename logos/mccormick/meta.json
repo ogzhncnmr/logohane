@@ -1,0 +1,22 @@
+{
+  "name": "McCormick & Company",
+  "slug": "mccormick",
+  "website": "https://www.mccormickcorporation.com",
+  "source": "https://www.mccormickcorporation.com/-/media/corporate/site-logo/desktop/logomccormick2xdesktop.png?rev=d598f96c55df4d939849b8d15ea1ddb3&vd=20250225T180611Z&extension=webp&hash=D148F8B4835B9C1D1B06BDF8E6F2A7F5",
+  "hex": "00468B",
+  "aliases": [
+    "McCormick & Company"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MKC"
+    }
+  ],
+  "isin": "US5797802064",
+  "wikidata": "Q1915049",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

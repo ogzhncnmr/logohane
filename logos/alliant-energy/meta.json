@@ -1,0 +1,22 @@
+{
+  "name": "Alliant Energy",
+  "slug": "alliant-energy",
+  "website": "https://www.alliantenergy.com",
+  "source": "https://www.alliantenergy.com/Assets/Alliant/images/png/header-navigation/alliant-logo.png",
+  "hex": "0276BB",
+  "aliases": [
+    "Alliant Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "LNT"
+    }
+  ],
+  "isin": "US0188021085",
+  "wikidata": "Q4732492",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Comfort Systems USA",
+  "slug": "comfort-systems-usa",
+  "website": "https://comfortsystemsusa.com",
+  "source": "https://comfortsystemsusa.com/wp-content/uploads/logo_white.svg",
+  "hex": "FF0053",
+  "aliases": [
+    "Comfort Systems USA"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FIX"
+    }
+  ],
+  "isin": "US1999081045",
+  "wikidata": "Q5151691",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

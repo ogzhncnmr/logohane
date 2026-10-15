@@ -1,0 +1,22 @@
+{
+  "name": "Bio-Techne",
+  "slug": "bio-techne",
+  "website": "https://www.bio-techne.com",
+  "source": "https://www.bio-techne.com/themes/custom/bio_techne_global/logo.svg",
+  "aliases": [
+    "Bio-Techne"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TECH"
+    }
+  ],
+  "isin": "US09073M1045",
+  "wikidata": "Q19873469",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

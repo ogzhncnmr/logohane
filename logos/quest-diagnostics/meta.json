@@ -1,0 +1,21 @@
+{
+  "name": "Quest Diagnostics",
+  "slug": "quest-diagnostics",
+  "website": "https://www.questdiagnostics.com",
+  "source": "https://s7d6.scene7.com/is/image/questdiagnostics/Quest-Diagnostics-RGB-gradient?$corp-header-logo$",
+  "hex": "4B7533",
+  "aliases": [
+    "Quest Diagnostics"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DGX"
+    }
+  ],
+  "wikidata": "Q7271456",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

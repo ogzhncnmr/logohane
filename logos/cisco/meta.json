@@ -1,0 +1,22 @@
+{
+  "name": "Cisco",
+  "slug": "cisco",
+  "website": "https://www.cisco.com",
+  "source": "https://www.cisco.com/",
+  "hex": "02C9FF",
+  "aliases": [
+    "Cisco"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CSCO"
+    }
+  ],
+  "isin": "US17275R1023",
+  "wikidata": "Q173395",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

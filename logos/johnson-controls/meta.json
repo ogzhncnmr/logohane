@@ -1,0 +1,21 @@
+{
+  "name": "Johnson Controls",
+  "slug": "johnson-controls",
+  "website": "https://www.johnsoncontrols.com",
+  "source": "https://www.johnsoncontrols.com/-/media/project/jci-global/brand-logos/silentaire.png?la=en&h=320&w=720&hash=045901C2572A0ACCBD25B2E4E0F9CB71",
+  "hex": "2876A8",
+  "aliases": [
+    "Johnson Controls"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "JCI"
+    }
+  ],
+  "wikidata": "Q667865",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

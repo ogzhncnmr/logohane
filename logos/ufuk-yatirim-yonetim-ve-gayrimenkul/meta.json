@@ -2,7 +2,7 @@
   "name": "Ufuk Yatırım Yönetim ve Gayrimenkul",
   "slug": "ufuk-yatirim-yonetim-ve-gayrimenkul",
   "website": "https://www.ufukyyg.com.tr",
-  "source": "https://www.ufukyyg.com.tr/assets/front/images/logo.png",
+  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a24158e42201415afe28e760a4",
   "hex": "2A2F32",
   "aliases": [
     "UFUK YATIRIM YÖNETİM VE GAYRİMENKUL A.Ş."
@@ -16,5 +16,6 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-14",
+  "traced": true
 }

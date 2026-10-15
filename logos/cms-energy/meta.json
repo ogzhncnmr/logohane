@@ -1,0 +1,22 @@
+{
+  "name": "CMS Energy",
+  "slug": "cms-energy",
+  "website": "https://www.cmsenergy.com",
+  "source": "https://s26.q4cdn.com/888045447/files/design/ClientLogo.png",
+  "hex": "0079C2",
+  "aliases": [
+    "CMS Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CMS"
+    }
+  ],
+  "isin": "US1258961002",
+  "wikidata": "Q5013012",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

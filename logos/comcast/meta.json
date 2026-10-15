@@ -1,0 +1,22 @@
+{
+  "name": "Comcast",
+  "slug": "comcast",
+  "website": "https://corporate.comcast.com",
+  "source": "https://corporate.comcast.com/media/img/original/2024/03/corporate_NewComcastLogo_16x9.png",
+  "hex": "050505",
+  "aliases": [
+    "Comcast"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CMCSA"
+    }
+  ],
+  "isin": "US20030N2001",
+  "wikidata": "Q1113804",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Charter Communications",
+  "slug": "charter-communications",
+  "website": "https://www.charter.com",
+  "source": "https://corporate.charter.com",
+  "hex": "0173F0",
+  "aliases": [
+    "Charter Communications"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CHTR"
+    }
+  ],
+  "isin": "US16117M3051",
+  "wikidata": "Q2961234",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Emerson Electric",
+  "slug": "emerson-electric",
+  "website": "https://www.emerson.com",
+  "source": "https://www.emerson.com/is/image/emerson/logo?fmt=webp-alpha&qlt=95",
+  "hex": "124986",
+  "aliases": [
+    "Emerson Electric"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EMR"
+    }
+  ],
+  "isin": "US2910111044",
+  "wikidata": "Q1335585",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

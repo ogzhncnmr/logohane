@@ -1,0 +1,22 @@
+{
+  "name": "Gen Digital",
+  "slug": "gen-digital",
+  "website": "https://www.gendigital.com",
+  "source": "https://www.gendigital.com/media/u0gd4qju/engine_gen_logos_white.png",
+  "aliases": [
+    "Gen Digital"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "GEN"
+    }
+  ],
+  "isin": "US6687711084",
+  "wikidata": "Q677085",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

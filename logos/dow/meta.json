@@ -1,0 +1,22 @@
+{
+  "name": "Dow Inc.",
+  "slug": "dow",
+  "website": "https://www.dow.com",
+  "source": "https://s7d9.scene7.com/is/content/dow/seek-together?ts=1771251762560&dpr=off",
+  "hex": "EA0033",
+  "aliases": [
+    "Dow Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DOW"
+    }
+  ],
+  "isin": "US2605431038",
+  "wikidata": "Q855639",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

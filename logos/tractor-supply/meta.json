@@ -1,0 +1,22 @@
+{
+  "name": "Tractor Supply",
+  "slug": "tractor-supply",
+  "website": "https://www.tractorsupply.com",
+  "source": "https://www.tractorsupply.com/",
+  "hex": "DA3731",
+  "aliases": [
+    "Tractor Supply"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TSCO"
+    }
+  ],
+  "isin": "US8923561067",
+  "wikidata": "Q15109925",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

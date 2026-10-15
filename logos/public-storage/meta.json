@@ -1,0 +1,22 @@
+{
+  "name": "Public Storage",
+  "slug": "public-storage",
+  "website": "https://www.publicstorage.com",
+  "source": "https://images.publicstorage.com/Branding/svg/ps-logo-brand.svg",
+  "hex": "FF6200",
+  "aliases": [
+    "Public Storage"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PSA"
+    }
+  ],
+  "isin": "US74460D1090",
+  "wikidata": "Q1156045",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

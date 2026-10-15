@@ -1,0 +1,22 @@
+{
+  "name": "Baker Hughes",
+  "slug": "baker-hughes",
+  "website": "https://www.bakerhughes.com",
+  "source": "https://www.bakerhughes.com/sites/bakerhughes/files/logo-dark_0.png",
+  "hex": "277869",
+  "aliases": [
+    "Baker Hughes"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "BKR"
+    }
+  ],
+  "isin": "US05722G1004",
+  "wikidata": "Q804353",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

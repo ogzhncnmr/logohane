@@ -1,0 +1,22 @@
+{
+  "name": "MSCI",
+  "slug": "msci",
+  "website": "https://www.msci.com",
+  "source": "https://www.msci.com/assets/webmasters-aem/msci-logo_with_title_white2.svg",
+  "aliases": [
+    "MSCI"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MSCI"
+    }
+  ],
+  "isin": "US55354G1004",
+  "wikidata": "Q768773",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

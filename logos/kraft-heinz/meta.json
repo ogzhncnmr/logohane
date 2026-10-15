@@ -1,0 +1,22 @@
+{
+  "name": "Kraft Heinz",
+  "slug": "kraft-heinz",
+  "website": "https://www.kraftheinzcompany.com",
+  "source": "https://www.kraftheinzcompany.com/images/logo_main.png",
+  "hex": "1B3C6D",
+  "aliases": [
+    "Kraft Heinz"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KHC"
+    }
+  ],
+  "isin": "US5007541064",
+  "wikidata": "Q19681433",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

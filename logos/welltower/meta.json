@@ -1,0 +1,22 @@
+{
+  "name": "Welltower",
+  "slug": "welltower",
+  "website": "https://welltower.com",
+  "source": "https://welltower.com/wp-content/uploads/2026/07/Welltower_Logo.jpg",
+  "hex": "010101",
+  "aliases": [
+    "Welltower"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "WELL"
+    }
+  ],
+  "isin": "US95040Q1040",
+  "wikidata": "Q20486917",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

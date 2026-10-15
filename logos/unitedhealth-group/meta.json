@@ -1,0 +1,22 @@
+{
+  "name": "UnitedHealth Group",
+  "slug": "unitedhealth-group",
+  "website": "https://www.unitedhealthgroup.com",
+  "source": "https://www.unitedhealthgroup.com/content/dam/uhg/icons/Icons/uhg-logo--desktop-2022.svg",
+  "hex": "000000",
+  "aliases": [
+    "UnitedHealth Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "UNH"
+    }
+  ],
+  "isin": "US91324P1021",
+  "wikidata": "Q2103926",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

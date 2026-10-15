@@ -1,0 +1,22 @@
+{
+  "name": "Nucor",
+  "slug": "nucor",
+  "website": "https://www.nucor.com",
+  "source": "https://nucor.com/wp-content/uploads/nucor_logo_white_@2x.png",
+  "aliases": [
+    "Nucor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NUE"
+    }
+  ],
+  "isin": "US6703461052",
+  "wikidata": "Q1645081",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

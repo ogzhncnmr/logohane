@@ -1,0 +1,22 @@
+{
+  "name": "Paccar",
+  "slug": "paccar",
+  "website": "https://www.paccar.com",
+  "source": "https://www.paccar.com/media/ragia4d5/logo_paccar.png",
+  "aliases": [
+    "Paccar"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PCAR"
+    }
+  ],
+  "isin": "US6937181088",
+  "wikidata": "Q1477661",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

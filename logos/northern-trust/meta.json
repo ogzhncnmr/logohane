@@ -1,0 +1,22 @@
+{
+  "name": "Northern Trust",
+  "slug": "northern-trust",
+  "website": "https://www.northerntrust.com",
+  "source": "https://www.northerntrust.com/middle-east/home",
+  "aliases": [
+    "Northern Trust"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NTRS"
+    }
+  ],
+  "isin": "US6658591044",
+  "wikidata": "Q970695",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

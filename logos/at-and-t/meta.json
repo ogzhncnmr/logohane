@@ -1,0 +1,22 @@
+{
+  "name": "AT&T",
+  "slug": "at-and-t",
+  "website": "https://www.att.com",
+  "source": "https://www.att.com/",
+  "hex": "009EDA",
+  "aliases": [
+    "AT&T"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "T"
+    }
+  ],
+  "isin": "US00206R1023",
+  "wikidata": "Q35476",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

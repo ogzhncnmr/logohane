@@ -1,0 +1,22 @@
+{
+  "name": "Bristol Myers Squibb",
+  "slug": "bristol-myers-squibb",
+  "website": "https://www.bms.com",
+  "source": "https://www.bms.com/assets/bmsredesign/us/en_us/icons/BMS-Logo-updated.svg",
+  "hex": "BD2BBA",
+  "aliases": [
+    "Bristol Myers Squibb"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BMY"
+    }
+  ],
+  "isin": "US1101221083",
+  "wikidata": "Q266423",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

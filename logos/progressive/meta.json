@@ -1,0 +1,22 @@
+{
+  "name": "Progressive Corporation",
+  "slug": "progressive",
+  "website": "https://www.progressive.com",
+  "source": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt483e097d64d66a25/66476d224ac76ee67740f2d5/logo-progressive.svg",
+  "hex": "0078B4",
+  "aliases": [
+    "Progressive Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PGR"
+    }
+  ],
+  "isin": "US7433151039",
+  "wikidata": "Q7248721",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

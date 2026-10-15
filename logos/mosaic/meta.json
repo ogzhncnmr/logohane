@@ -1,0 +1,22 @@
+{
+  "name": "Mosaic Company (The)",
+  "slug": "mosaic",
+  "website": "https://www.mosaicco.com",
+  "source": "https://mosaicco.com/images/admin/logo-project.png",
+  "hex": "B84B16",
+  "aliases": [
+    "Mosaic Company (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MOS"
+    }
+  ],
+  "isin": "US61945C1036",
+  "wikidata": "Q7752327",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

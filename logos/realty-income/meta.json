@@ -1,0 +1,22 @@
+{
+  "name": "Realty Income",
+  "slug": "realty-income",
+  "website": "https://www.realtyincome.com",
+  "source": "https://www.realtyincome.com/sites/realty-income/files/realty-income-logo-03.png",
+  "hex": "EE1A2E",
+  "aliases": [
+    "Realty Income"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "O"
+    }
+  ],
+  "isin": "US7561091049",
+  "wikidata": "Q7301386",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

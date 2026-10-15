@@ -1,0 +1,22 @@
+{
+  "name": "Twilio",
+  "slug": "twilio",
+  "website": "https://www.twilio.com",
+  "source": "https://www.twilio.com/en-us",
+  "hex": "F32F46",
+  "aliases": [
+    "Twilio"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TWLO"
+    }
+  ],
+  "isin": "US90138F1021",
+  "wikidata": "Q7858039",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

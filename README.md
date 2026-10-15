@@ -11,8 +11,8 @@ hangi şirketten bahsettiğinizi göstermeniz gereken her yerde kullanabilirsini
 
 ## Kapsam
 
-1. Borsa İstanbul'da (BIST) işlem gören tüm şirketler (devam ediyor)
-2. S&P 500 (sırada)
+1. Borsa İstanbul'da (BIST) işlem gören tüm şirketler (tamamlandı)
+2. S&P 500 (devam ediyor)
 3. Katkılarla eklenen diğer şirketler
 
 ## Kullanım
@@ -100,6 +100,7 @@ npm install
 npm run validate   # tüm logo klasörlerini kontrol eder
 npm run build      # dist/ klasörünü üretir
 npm run bist       # data/bist.json iş listesini KAP'tan günceller
+npm run sp500      # data/sp500.json iş listesini Wikipedia ve Wikidata'dan günceller
 npm test
 ```
 

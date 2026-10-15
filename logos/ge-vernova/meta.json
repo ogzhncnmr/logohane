@@ -1,0 +1,22 @@
+{
+  "name": "GE Vernova",
+  "slug": "ge-vernova",
+  "website": "https://www.gevernova.com",
+  "source": "https://www.gevernova.com/themes/custom/ge_vernova_unified/logo.svg",
+  "hex": "005E60",
+  "aliases": [
+    "GE Vernova"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GEV"
+    }
+  ],
+  "isin": "US36828A1016",
+  "wikidata": "Q118957699",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

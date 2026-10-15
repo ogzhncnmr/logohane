@@ -1,0 +1,22 @@
+{
+  "name": "Federal Realty Investment Trust",
+  "slug": "federal-realty-investment-trust",
+  "website": "https://www.federalrealty.com",
+  "source": "https://www.federalrealty.com/wp-content/themes/frit/img/layout/header/logo.svg?x27783",
+  "aliases": [
+    "Federal Realty Investment Trust"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FRT"
+    }
+  ],
+  "isin": "US3137451015",
+  "wikidata": "Q27988152",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

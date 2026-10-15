@@ -1,0 +1,22 @@
+{
+  "name": "Lilly (Eli)",
+  "slug": "lilly",
+  "website": "https://www.lilly.com",
+  "source": "https://delivery-p137454-e1438138.adobeaemcloud.com/adobe/assets/urn:aaid:aem:2843cade-80ee-42b6-b285-a1450fef6b77/renditions/original/as/LillyLogo_RGB_Red_v3.svg?assetname=LillyLogo_RGB_Red_v3.svg",
+  "hex": "D52B1E",
+  "aliases": [
+    "Lilly (Eli)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "LLY"
+    }
+  ],
+  "isin": "US5324571083",
+  "wikidata": "Q632240",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

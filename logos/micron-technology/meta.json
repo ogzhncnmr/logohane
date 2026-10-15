@@ -1,0 +1,22 @@
+{
+  "name": "Micron Technology",
+  "slug": "micron-technology",
+  "website": "https://tw.micron.com",
+  "source": "https://assets.micron.com/adobe/assets/urn:aaid:aem:652506f6-3869-4e9b-a1bd-d5b4209f850c/as/Micron-logo-white.svg?width=1500&preferwebp=true",
+  "aliases": [
+    "Micron Technology"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MU"
+    }
+  ],
+  "isin": "US5951121038",
+  "wikidata": "Q1197548",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

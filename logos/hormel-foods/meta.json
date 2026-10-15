@@ -1,0 +1,22 @@
+{
+  "name": "Hormel Foods",
+  "slug": "hormel-foods",
+  "website": "https://www.hormel.com",
+  "source": "https://www.hormel.com/wp-content/uploads/sites/2/BlackLabelBacon_logo_2024_80h.svg?1791484020",
+  "hex": "231F20",
+  "aliases": [
+    "Hormel Foods"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "HRL"
+    }
+  ],
+  "isin": "US4404521001",
+  "wikidata": "Q1454852",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

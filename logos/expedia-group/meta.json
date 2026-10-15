@@ -1,0 +1,22 @@
+{
+  "name": "Expedia Group",
+  "slug": "expedia-group",
+  "website": "https://www.expediagroup.com",
+  "source": "https://www.expediagroup.com/content/experience-fragments/expediagroup/live-copies/en-us/header/master/_jcr_content/root/header/logo.coreimg.svg/1779134972973/expedia-group-logo-24.svg",
+  "hex": "3311CB",
+  "aliases": [
+    "Expedia Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EXPE"
+    }
+  ],
+  "isin": "US30212P3038",
+  "wikidata": "Q8085893",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

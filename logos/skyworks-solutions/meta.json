@@ -1,0 +1,22 @@
+{
+  "name": "Skyworks Solutions",
+  "slug": "skyworks-solutions",
+  "website": "https://www.skyworksinc.com",
+  "source": "https://www.skyworksinc.com/-/media/SkyWorks/Images/Logo/Skyworks-Vector-Logo.svg",
+  "hex": "002C56",
+  "aliases": [
+    "Skyworks Solutions"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SWKS"
+    }
+  ],
+  "isin": "US83088M1027",
+  "wikidata": "Q7538146",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

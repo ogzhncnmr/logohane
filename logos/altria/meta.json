@@ -1,0 +1,22 @@
+{
+  "name": "Altria",
+  "slug": "altria",
+  "website": "https://www.altria.com",
+  "source": "https://edge.sitecorecloud.io/altriaclien9c5f-altriaclien2f33-prod0b41-3d12/media/Project/Altria/Altria/altria-logo.png?h=115&iar=0&w=300&sc_lang=en",
+  "hex": "C5272C",
+  "aliases": [
+    "Altria"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MO"
+    }
+  ],
+  "isin": "US02209S1033",
+  "wikidata": "Q445007",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

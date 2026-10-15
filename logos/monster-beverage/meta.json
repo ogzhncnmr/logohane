@@ -1,0 +1,22 @@
+{
+  "name": "Monster Beverage",
+  "slug": "monster-beverage",
+  "website": "https://www.monsterbevcorp.com",
+  "source": "https://www.monsterbevcorp.com/images/logo.png",
+  "hex": "AEB0B1",
+  "aliases": [
+    "Monster Beverage"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "MNST"
+    }
+  ],
+  "isin": "US6117401017",
+  "wikidata": "Q1945295",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

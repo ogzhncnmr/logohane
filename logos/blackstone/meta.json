@@ -1,0 +1,22 @@
+{
+  "name": "Blackstone Inc.",
+  "slug": "blackstone",
+  "website": "https://www.blackstone.com",
+  "source": "https://www.blackstone.com/",
+  "hex": "010101",
+  "aliases": [
+    "Blackstone Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BX"
+    }
+  ],
+  "isin": "US09253U1088",
+  "wikidata": "Q880942",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

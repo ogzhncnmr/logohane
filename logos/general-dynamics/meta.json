@@ -1,0 +1,22 @@
+{
+  "name": "General Dynamics",
+  "slug": "general-dynamics",
+  "website": "https://www.gd.com",
+  "source": "https://www.gd.com/-/media/gd-corporate/global/gd-logo.ashx?la=en&h=50&w=722&hash=B635D1BB06B5E774525270BECC1AC358",
+  "hex": "003189",
+  "aliases": [
+    "General Dynamics"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "GD"
+    }
+  ],
+  "isin": "US3695501086",
+  "wikidata": "Q502940",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

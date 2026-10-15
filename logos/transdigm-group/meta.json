@@ -1,0 +1,22 @@
+{
+  "name": "TransDigm Group",
+  "slug": "transdigm-group",
+  "website": "https://www.transdigm.com",
+  "source": "https://www.transdigm.com/wp-content/uploads/2018/07/transdigm_logo-1-1.jpg",
+  "hex": "396C8E",
+  "aliases": [
+    "TransDigm Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TDG"
+    }
+  ],
+  "isin": "US8936411003",
+  "wikidata": "Q7833612",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

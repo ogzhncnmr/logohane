@@ -1,0 +1,22 @@
+{
+  "name": "Cognizant",
+  "slug": "cognizant",
+  "website": "https://www.cognizant.com",
+  "source": "https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha",
+  "hex": "000049",
+  "aliases": [
+    "Cognizant"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "CTSH"
+    }
+  ],
+  "isin": "US1924461023",
+  "wikidata": "Q1107035",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

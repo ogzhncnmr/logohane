@@ -1,0 +1,22 @@
+{
+  "name": "PPL Corporation",
+  "slug": "ppl",
+  "website": "https://www.pplweb.com",
+  "source": "https://www.pplweb.com/",
+  "hex": "001378",
+  "aliases": [
+    "PPL Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "PPL"
+    }
+  ],
+  "isin": "US69351T1060",
+  "wikidata": "Q2044512",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

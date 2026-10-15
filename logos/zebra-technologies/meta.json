@@ -1,0 +1,22 @@
+{
+  "name": "Zebra Technologies",
+  "slug": "zebra-technologies",
+  "website": "https://www.zebra.com",
+  "source": "https://www.zebra.com/content/experience-fragments/zebra1/us/en/header/master/_jcr_content/root/image.coreimg.svg/1757099569592/zebra-logo-horizontal.svg",
+  "hex": "000000",
+  "aliases": [
+    "Zebra Technologies"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "ZBRA"
+    }
+  ],
+  "isin": "US9892071054",
+  "wikidata": "Q2443609",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Target Corporation",
+  "slug": "target",
+  "website": "https://www.target.com",
+  "source": "https://www.target.com/",
+  "hex": "CB2026",
+  "aliases": [
+    "Target Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TGT"
+    }
+  ],
+  "isin": "US87612E1064",
+  "wikidata": "Q1046951",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

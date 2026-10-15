@@ -1,0 +1,22 @@
+{
+  "name": "Assurant",
+  "slug": "assurant",
+  "website": "https://www.assurant.com",
+  "source": "https://azure-na-images.contentstack.com/v3/assets/blt87461b8270f4f92b/blt6671608ed67ba20f/684b58292fda0e2e3647ce64/logo.svg?auto=webp&width=384&quality=75",
+  "hex": "FBA71A",
+  "aliases": [
+    "Assurant"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AIZ"
+    }
+  ],
+  "isin": "US04621X1081",
+  "wikidata": "Q4810399",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

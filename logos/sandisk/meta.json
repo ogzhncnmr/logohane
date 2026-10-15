@@ -1,0 +1,22 @@
+{
+  "name": "Sandisk",
+  "slug": "sandisk",
+  "website": "https://www.sandisk.com",
+  "source": "https://www.sandisk.com/content/dam/store/en-us/assets/home-page/brand-logos/sandisk/sandisk-logo-white.svg",
+  "aliases": [
+    "Sandisk"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "SNDK"
+    }
+  ],
+  "isin": "US80004C2008",
+  "wikidata": "Q260833",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Omnicom Group",
+  "slug": "omnicom-group",
+  "website": "https://www.omnicomgroup.com",
+  "source": "https://www.omc.com/wp-content/uploads/2026/06/Omnicom-Logo-2x-1.png#8274",
+  "hex": "000000",
+  "aliases": [
+    "Omnicom Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OMC"
+    }
+  ],
+  "isin": "US6819191064",
+  "wikidata": "Q1519267",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

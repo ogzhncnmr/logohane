@@ -1,0 +1,22 @@
+{
+  "name": "Reddit",
+  "slug": "reddit",
+  "website": "https://www.reddit.com",
+  "source": "https://www.reddit.com/",
+  "aliases": [
+    "Reddit"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "RDDT"
+    }
+  ],
+  "isin": "US75734B1008",
+  "wikidata": "Q1136",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

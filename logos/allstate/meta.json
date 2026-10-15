@@ -1,0 +1,22 @@
+{
+  "name": "Allstate",
+  "slug": "allstate",
+  "website": "https://www.allstate.com",
+  "source": "https://www.allstate.com",
+  "hex": "45BCE5",
+  "aliases": [
+    "Allstate"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ALL"
+    }
+  ],
+  "isin": "US0200021014",
+  "wikidata": "Q2645636",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "United Rentals",
+  "slug": "united-rentals",
+  "website": "https://www.unitedrentals.com",
+  "source": "https://www.unitedrentals.com/",
+  "aliases": [
+    "United Rentals"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "URI"
+    }
+  ],
+  "isin": "US9113631090",
+  "wikidata": "Q7889101",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

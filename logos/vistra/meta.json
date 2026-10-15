@@ -1,0 +1,22 @@
+{
+  "name": "Vistra Corp.",
+  "slug": "vistra",
+  "website": "https://www.vistracorp.com",
+  "source": "https://www.vistracorp.com/wp-content/uploads/2016/10/Vistra-Energy.png",
+  "hex": "003F6E",
+  "aliases": [
+    "Vistra Corp."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VST"
+    }
+  ],
+  "isin": "US92840M1027",
+  "wikidata": "Q104158381",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

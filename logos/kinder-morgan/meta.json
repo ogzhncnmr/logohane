@@ -1,0 +1,22 @@
+{
+  "name": "Kinder Morgan",
+  "slug": "kinder-morgan",
+  "website": "https://www.kindermorgan.com",
+  "source": "https://www.kindermorgan.com/WWWKM/media/WebSiteImages/km-logo.png",
+  "hex": "040405",
+  "aliases": [
+    "Kinder Morgan"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KMI"
+    }
+  ],
+  "isin": "US49456B1017",
+  "wikidata": "Q931032",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

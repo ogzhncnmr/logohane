@@ -1,0 +1,23 @@
+{
+  "name": "Bloom Energy",
+  "slug": "bloom-energy",
+  "website": "https://www.bloomenergy.com",
+  "source": "https://www.bloomenergy.com/wp-content/uploads/white-Logo.svg",
+  "hex": "30D261",
+  "aliases": [
+    "Bloom Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BE"
+    }
+  ],
+  "isin": "US0937121079",
+  "wikidata": "Q29526078",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

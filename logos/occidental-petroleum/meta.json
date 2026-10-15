@@ -1,0 +1,22 @@
+{
+  "name": "Occidental Petroleum",
+  "slug": "occidental-petroleum",
+  "website": "https://www.oxy.com",
+  "source": "https://www.oxy.com/siteassets/images/logos/oxyzeroin_registered_246x128.png",
+  "aliases": [
+    "Occidental Petroleum"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "OXY"
+    }
+  ],
+  "isin": "US6745991058",
+  "wikidata": "Q2013357",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

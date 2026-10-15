@@ -1,0 +1,21 @@
+{
+  "name": "Amcor",
+  "slug": "amcor",
+  "website": "https://www.amcor.com",
+  "source": "https://images.ctfassets.net/f7tuyt85vtoa/2wI0s7u2C84sqqSGcq8Iky/bfb518e439a774a48f506d473215cf18/logo-transparent-small-opt.png?fm=webp&q=80&w=3840&fit=fill",
+  "hex": "00324E",
+  "aliases": [
+    "Amcor"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AMCR"
+    }
+  ],
+  "wikidata": "Q460307",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Freeport-McMoRan",
+  "slug": "freeport-mcmoran",
+  "website": "https://www.fcx.com",
+  "source": "https://www.fcx.com/themes/fcx/images/footer-logo.svg",
+  "aliases": [
+    "Freeport-McMoRan"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "FCX"
+    }
+  ],
+  "isin": "US35671D8570",
+  "wikidata": "Q1453620",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

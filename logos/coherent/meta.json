@@ -1,0 +1,22 @@
+{
+  "name": "Coherent Corp.",
+  "slug": "coherent",
+  "website": "https://www.coherent.com",
+  "source": "https://www.coherent.com/",
+  "hex": "000000",
+  "aliases": [
+    "Coherent Corp."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "COHR"
+    }
+  ],
+  "isin": "US9021041085",
+  "wikidata": "Q15109887",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

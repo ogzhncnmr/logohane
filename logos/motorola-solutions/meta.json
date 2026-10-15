@@ -1,0 +1,22 @@
+{
+  "name": "Motorola Solutions",
+  "slug": "motorola-solutions",
+  "website": "https://www.motorolasolutions.com",
+  "source": "https://www.motorolasolutions.com/content/dam/msi/assets/msisolutions2.png",
+  "hex": "000000",
+  "aliases": [
+    "Motorola Solutions"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "MSI"
+    }
+  ],
+  "isin": "US6200763075",
+  "wikidata": "Q634815",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

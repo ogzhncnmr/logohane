@@ -1,0 +1,22 @@
+{
+  "name": "Arthur J. Gallagher & Co.",
+  "slug": "arthur-j-gallagher",
+  "website": "https://www.ajg.com",
+  "source": "https://www.ajg.com/tr/-/media/images/gallagher/us/logos/gallagher_horizontalsmall-3d.svg?iar=0&hash=CAEFA4060B55913AB876983D099DFA7C",
+  "hex": "022C46",
+  "aliases": [
+    "Arthur J. Gallagher & Co."
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AJG"
+    }
+  ],
+  "isin": "US3635761097",
+  "wikidata": "Q4799191",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

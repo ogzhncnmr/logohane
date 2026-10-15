@@ -1,0 +1,22 @@
+{
+  "name": "Travelers Companies (The)",
+  "slug": "travelers-companies",
+  "website": "https://www.travelers.com",
+  "source": "https://www.travelers.com/ClientResources/tds-icons/assets/icons/logos/svg/trv-logo-2color-small.svg",
+  "hex": "F60002",
+  "aliases": [
+    "Travelers Companies (The)"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TRV"
+    }
+  ],
+  "isin": "US89417E1091",
+  "wikidata": "Q942471",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

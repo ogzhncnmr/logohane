@@ -1,0 +1,22 @@
+{
+  "name": "Expand Energy",
+  "slug": "expand-energy",
+  "website": "https://www.chk.com",
+  "source": "https://www.expandenergy.com/wp-content/uploads/2024/09/Expand_logo_color.svg",
+  "hex": "00386D",
+  "aliases": [
+    "Expand Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "EXE"
+    }
+  ],
+  "isin": "US1651671075",
+  "wikidata": "Q2962826",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

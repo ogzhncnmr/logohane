@@ -1,0 +1,20 @@
+{
+  "name": "Insulet Corporation",
+  "slug": "insulet",
+  "website": "https://www.insulet.com",
+  "source": "https://www.insulet.com/themes/custom/insulet/logo.svg",
+  "aliases": [
+    "Insulet Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PODD"
+    }
+  ],
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

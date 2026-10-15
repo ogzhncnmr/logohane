@@ -1,0 +1,22 @@
+{
+  "name": "Vivmark Residential",
+  "slug": "vivmark-residential",
+  "website": "https://www.equityapartments.com",
+  "source": "https://media.equityapartments.com/image/upload/Corporate/vivmark/EA-Vivmark.svg",
+  "aliases": [
+    "Vivmark Residential"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "VMRK"
+    }
+  ],
+  "isin": "US29476L1070",
+  "wikidata": "Q187740",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

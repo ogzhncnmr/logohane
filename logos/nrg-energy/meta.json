@@ -1,0 +1,22 @@
+{
+  "name": "NRG Energy",
+  "slug": "nrg-energy",
+  "website": "https://www.nrg.com",
+  "source": "https://www.nrg.com/content/dam/nrg/web/en/multimedia/logos/nrg/NRG-Logo_FullColor-Black-NoTrademark.webp",
+  "hex": "EF008E",
+  "aliases": [
+    "NRG Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "NRG"
+    }
+  ],
+  "isin": "US6293775085",
+  "wikidata": "Q6955139",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TKO Group Holdings",
+  "slug": "tko-group-holdings",
+  "website": "https://tkogrp.com",
+  "source": "https://tkogrp.com/wp-content/uploads/2025/07/logo.svg",
+  "aliases": [
+    "TKO Group Holdings"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "TKO"
+    }
+  ],
+  "isin": "US87256C1018",
+  "wikidata": "Q120435068",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

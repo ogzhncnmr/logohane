@@ -1,0 +1,22 @@
+{
+  "name": "Solventum",
+  "slug": "solventum",
+  "website": "https://www.solventum.com",
+  "source": "https://s7d9.scene7.com/is/content/mmmspinco/solventum-logo-horz-black-4?ts=1788980830694&dpr=off",
+  "hex": "05DD4C",
+  "aliases": [
+    "Solventum"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "SOLV"
+    }
+  ],
+  "isin": "US83444M1018",
+  "wikidata": "Q124795355",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

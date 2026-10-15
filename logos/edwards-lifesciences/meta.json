@@ -1,0 +1,22 @@
+{
+  "name": "Edwards Lifesciences",
+  "slug": "edwards-lifesciences",
+  "website": "https://www.edwardslifesciences.com",
+  "source": "https://assets-us-01.kc-usercontent.com/6239a81e-8f0f-0040-a1df-b4932a10f6ae/261e0bb6-68dd-4f07-8798-cce9b0c42cc3/logo.svg",
+  "hex": "898D8D",
+  "aliases": [
+    "Edwards Lifesciences"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EW"
+    }
+  ],
+  "isin": "US28176E1082",
+  "wikidata": "Q16966841",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Principal Financial Group",
+  "slug": "principal-financial-group",
+  "website": "https://www.principal.com",
+  "source": "https://www.principal.com/modules/custom/pfg_core/assets/principal_full_bynder.png",
+  "hex": "008ED3",
+  "aliases": [
+    "Principal Financial Group"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "PFG"
+    }
+  ],
+  "wikidata": "Q3403513",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

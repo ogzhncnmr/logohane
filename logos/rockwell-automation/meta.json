@@ -1,0 +1,22 @@
+{
+  "name": "Rockwell Automation",
+  "slug": "rockwell-automation",
+  "website": "https://www.rockwellautomation.com",
+  "source": "https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/images/logos/2019_Logo_rgb_RA_Bug-LeftText_color.svg",
+  "hex": "CD163F",
+  "aliases": [
+    "Rockwell Automation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ROK"
+    }
+  ],
+  "isin": "US7739031091",
+  "wikidata": "Q1529234",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

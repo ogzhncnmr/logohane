@@ -1,0 +1,23 @@
+{
+  "name": "Henry Schein",
+  "slug": "henry-schein",
+  "website": "https://www.henryschein.com",
+  "source": "https://www.henryschein.com/us-en/images/logos/henry-schein-logo-global-ko.svg",
+  "hex": "0171BB",
+  "aliases": [
+    "Henry Schein"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HSIC"
+    }
+  ],
+  "isin": "US8064071025",
+  "wikidata": "Q905086",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Brown & Brown",
+  "slug": "brown-and-brown",
+  "website": "https://www.bbinsurance.com",
+  "source": "https://4972039.fs1.hubspotusercontent-na1.net/hub/4972039/hubfs/BBRetail001-CMYK%20(1).jpg?width=690&height=96&name=BBRetail001-CMYK%20(1).jpg",
+  "hex": "032B59",
+  "aliases": [
+    "Brown & Brown"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BRO"
+    }
+  ],
+  "isin": "US1152361010",
+  "wikidata": "Q4976010",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

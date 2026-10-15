@@ -1,0 +1,22 @@
+{
+  "name": "Kimco Realty",
+  "slug": "kimco-realty",
+  "website": "https://www.kimcorealty.com",
+  "source": "https://eu2allwebext.blob.core.windows.net/kimcorealty/www/resources/images/common/logos/i_kimco_logo_blue.png?v=211227",
+  "hex": "003768",
+  "aliases": [
+    "Kimco Realty"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "KIM"
+    }
+  ],
+  "isin": "US49446R1095",
+  "wikidata": "Q6410043",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yum! Brands",
+  "slug": "yum-brands",
+  "website": "https://yum.com",
+  "source": "https://www.yum.com/wps/portal/yumbrands/Yumbrands/",
+  "hex": "E7002B",
+  "aliases": [
+    "Yum! Brands"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "YUM"
+    }
+  ],
+  "isin": "US9884981013",
+  "wikidata": "Q668737",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

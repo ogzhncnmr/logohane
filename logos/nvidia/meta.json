@@ -1,0 +1,22 @@
+{
+  "name": "Nvidia",
+  "slug": "nvidia",
+  "website": "https://www.nvidia.com",
+  "source": "https://www.nvidia.com/tr-tr/",
+  "hex": "76B900",
+  "aliases": [
+    "Nvidia"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "NVDA"
+    }
+  ],
+  "isin": "US67066G1040",
+  "wikidata": "Q182477",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

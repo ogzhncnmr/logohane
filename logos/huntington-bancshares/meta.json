@@ -1,0 +1,21 @@
+{
+  "name": "Huntington Bancshares",
+  "slug": "huntington-bancshares",
+  "website": "https://www.huntington.com",
+  "source": "https://assets.huntingtonbank.com/api/public/content/5305fec7-Huntington_Primary_Logo_Horizontal_RGB_Green.svg?v=216a5267",
+  "hex": "7DCF1C",
+  "aliases": [
+    "Huntington Bancshares"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HBAN"
+    }
+  ],
+  "wikidata": "Q798819",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chipotle Mexican Grill",
+  "slug": "chipotle-mexican-grill",
+  "website": "https://chipotle.com",
+  "source": "https://www.chipotle.com/content/experience-fragments/chipotle/us/en/xf-header/master/_jcr_content/root/container_712714414/image_411084835.coreimg.svg/1689182077517/cmg-medallion-logo.svg",
+  "hex": "AC2318",
+  "aliases": [
+    "Chipotle Mexican Grill"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CMG"
+    }
+  ],
+  "isin": "US1696561059",
+  "wikidata": "Q465751",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

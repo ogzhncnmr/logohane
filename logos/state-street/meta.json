@@ -1,0 +1,22 @@
+{
+  "name": "State Street Corporation",
+  "slug": "state-street",
+  "website": "https://www.statestreet.com",
+  "source": "https://www.statestreet.com/web/Homepage/images/state-street-logo-final.svg",
+  "hex": "001AFF",
+  "aliases": [
+    "State Street Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "STT"
+    }
+  ],
+  "isin": "US8574771031",
+  "wikidata": "Q2037125",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

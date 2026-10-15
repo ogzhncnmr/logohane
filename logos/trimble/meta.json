@@ -1,0 +1,21 @@
+{
+  "name": "Trimble Inc.",
+  "slug": "trimble",
+  "website": "https://www.trimble.com",
+  "source": "https://images.ctfassets.net/citn2sn5tdjr/1h9ipQdkQiZfuw7UWPfCpv/dd2bc6de125e484e7805d948d2b75984/partners-logo-esri-544x362.png",
+  "hex": "010101",
+  "aliases": [
+    "Trimble Inc."
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "TRMB"
+    }
+  ],
+  "wikidata": "Q2297063",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

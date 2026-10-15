@@ -1,0 +1,22 @@
+{
+  "name": "Cardinal Health",
+  "slug": "cardinal-health",
+  "website": "https://www.cardinalhealth.com",
+  "source": "https://cardinalhealth.scene7.com/is/image/corpmarketdms7prod/logo-main",
+  "hex": "181516",
+  "aliases": [
+    "Cardinal Health"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CAH"
+    }
+  ],
+  "isin": "US14149Y1082",
+  "wikidata": "Q902397",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

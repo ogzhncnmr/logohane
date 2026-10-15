@@ -1,0 +1,22 @@
+{
+  "name": "Intercontinental Exchange",
+  "slug": "intercontinental-exchange",
+  "website": "https://www.intercontinentalexchange.com",
+  "source": "https://www.ice.com/index",
+  "hex": "71C5E8",
+  "aliases": [
+    "Intercontinental Exchange"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ICE"
+    }
+  ],
+  "isin": "US45866F1049",
+  "wikidata": "Q841458",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

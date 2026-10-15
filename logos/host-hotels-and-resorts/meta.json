@@ -1,0 +1,22 @@
+{
+  "name": "Host Hotels & Resorts",
+  "slug": "host-hotels-and-resorts",
+  "website": "https://www.hosthotels.com",
+  "source": "https://www.hosthotels.com/-/media/HostHotels/Images/Logo/Host-Logo-4-Color-PNG-file_9744.jpg?h=1832&iar=0&w=2560&hash=49A538FCF230548DCAB060E184A3BA3D",
+  "hex": "AD9E65",
+  "aliases": [
+    "Host Hotels & Resorts"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "HST"
+    }
+  ],
+  "isin": "US44107P1049",
+  "wikidata": "Q1630559",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

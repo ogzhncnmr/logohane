@@ -1,0 +1,22 @@
+{
+  "name": "Clorox",
+  "slug": "clorox",
+  "website": "https://www.thecloroxcompany.com",
+  "source": "https://www.thecloroxcompany.com/wp-content/themes/electro/img/global/tcc-logo-2022.svg",
+  "hex": "196FF1",
+  "aliases": [
+    "Clorox"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CLX"
+    }
+  ],
+  "isin": "US1890541097",
+  "wikidata": "Q910368",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-14"
+}

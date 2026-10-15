@@ -1,0 +1,23 @@
+{
+  "name": "Meta Platforms",
+  "slug": "meta-platforms",
+  "website": "https://www.meta.com",
+  "source": "https://static.xx.fbcdn.net/rsrc.php/y3/r/y6QsbGgc866.svg",
+  "hex": "0083FB",
+  "aliases": [
+    "Meta Platforms"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "META"
+    }
+  ],
+  "isin": "US30303M1027",
+  "wikidata": "Q380",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-14"
+}
