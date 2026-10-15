@@ -1,0 +1,22 @@
+{
+  "name": "Ameren",
+  "slug": "ameren",
+  "website": "https://www.ameren.com",
+  "source": "https://www.ameren.com",
+  "hex": "43943B",
+  "aliases": [
+    "Ameren"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "AEE"
+    }
+  ],
+  "isin": "US0236081024",
+  "wikidata": "Q462984",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}

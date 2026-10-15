@@ -261,7 +261,7 @@
       "sector": "Utilities",
       "industry": "Multi-Utilities",
       "headquarters": "St. Louis, Missouri",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -1361,7 +1361,7 @@
       "sector": "Financials",
       "industry": "Multi-Sector Holdings",
       "headquarters": "Omaha, Nebraska",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [

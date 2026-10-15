@@ -1,0 +1,23 @@
+{
+  "name": "Berkshire Hathaway",
+  "slug": "berkshire-hathaway",
+  "website": "https://www.berkshirehathaway.com",
+  "source": "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+  "hex": "000000",
+  "aliases": [
+    "Berkshire Hathaway"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "BRK.B"
+    }
+  ],
+  "isin": null,
+  "wikidata": "Q217583",
+  "variants": [
+    "default",
+    "dark"
+  ],
+  "updated": "2026-10-15"
+}
