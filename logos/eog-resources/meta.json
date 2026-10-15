@@ -1,0 +1,23 @@
+{
+  "name": "EOG Resources",
+  "slug": "eog-resources",
+  "website": "https://www.eogresources.com",
+  "source": "https://www.eogresources.com",
+  "hex": "E8353A",
+  "aliases": [
+    "EOG Resources"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EOG"
+    }
+  ],
+  "isin": "US26875P1012",
+  "wikidata": "Q1275577",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

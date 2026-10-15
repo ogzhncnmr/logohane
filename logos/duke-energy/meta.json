@@ -1,0 +1,23 @@
+{
+  "name": "Duke Energy",
+  "slug": "duke-energy",
+  "website": "https://www.duke-energy.com",
+  "source": "https://www.duke-energy.com",
+  "hex": "015A86",
+  "aliases": [
+    "Duke Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "DUK"
+    }
+  ],
+  "isin": "US26441C2044",
+  "wikidata": "Q1264404",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

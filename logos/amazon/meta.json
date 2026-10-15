@@ -1,0 +1,23 @@
+{
+  "name": "Amazon",
+  "slug": "amazon",
+  "website": "https://www.amazon.com",
+  "source": "https://www.amazon.com",
+  "hex": "FF9900",
+  "aliases": [
+    "Amazon"
+  ],
+  "tickers": [
+    {
+      "exchange": "NASDAQ",
+      "symbol": "AMZN"
+    }
+  ],
+  "isin": "US0231351067",
+  "wikidata": "Q3884",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

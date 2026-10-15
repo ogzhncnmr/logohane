@@ -1,0 +1,23 @@
+{
+  "name": "Edison International",
+  "slug": "edison-international",
+  "website": "https://www.edison.com",
+  "source": "https://www.edison.com",
+  "hex": "FFD046",
+  "aliases": [
+    "Edison International"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "EIX"
+    }
+  ],
+  "isin": "US2810201077",
+  "wikidata": "Q662095",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

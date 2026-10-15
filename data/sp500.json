@@ -641,7 +641,7 @@
       "sector": "Consumer Discretionary",
       "industry": "Broadline Retail",
       "headquarters": "Seattle, Washington",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -2481,7 +2481,7 @@
       "sector": "Energy",
       "industry": "Integrated Oil & Gas",
       "headquarters": "Houston, Texas",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -2901,7 +2901,7 @@
       "sector": "Utilities",
       "industry": "Multi-Utilities",
       "headquarters": "Detroit, Michigan",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -2921,7 +2921,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Charlotte, North Carolina",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3121,7 +3121,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Rosemead, California",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3221,7 +3221,7 @@
       "sector": "Energy",
       "industry": "Oil & Gas Exploration & Production",
       "headquarters": "Houston, Texas",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3301,7 +3301,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Hartford, Connecticut",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [
@@ -3381,7 +3381,7 @@
       "sector": "Utilities",
       "industry": "Electric Utilities",
       "headquarters": "Kansas City, Missouri",
-      "logo": false
+      "logo": true
     },
     {
       "tickers": [

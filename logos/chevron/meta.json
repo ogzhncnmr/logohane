@@ -1,0 +1,23 @@
+{
+  "name": "Chevron Corporation",
+  "slug": "chevron",
+  "website": "https://www.chevron.com",
+  "source": "https://www.chevron.com",
+  "hex": "E7182E",
+  "aliases": [
+    "Chevron Corporation"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "CVX"
+    }
+  ],
+  "isin": "US1667641005",
+  "wikidata": "Q319642",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15",
+  "traced": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Eversource Energy",
+  "slug": "eversource-energy",
+  "website": "https://www.eversource.com",
+  "source": "https://www.eversource.com",
+  "hex": "040404",
+  "aliases": [
+    "Eversource Energy"
+  ],
+  "tickers": [
+    {
+      "exchange": "NYSE",
+      "symbol": "ES"
+    }
+  ],
+  "isin": "US30040W1080",
+  "wikidata": "Q3344199",
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-10-15"
+}
