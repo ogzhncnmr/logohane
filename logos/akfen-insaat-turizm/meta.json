@@ -2,8 +2,8 @@
   "name": "Akfen İnşaat Turizm",
   "slug": "akfen-insaat-turizm",
   "website": "https://www.akfeninsaat.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59145e00a0192aedf5db86688",
-  "hex": "2BA5D7",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9914828a4890",
+  "hex": "2AA7D6",
   "aliases": [
     "AKFEN İNŞAAT TURİZM VE TİCARET A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

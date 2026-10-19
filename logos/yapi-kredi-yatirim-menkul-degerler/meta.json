@@ -2,8 +2,8 @@
   "name": "Yapı Kredi Yatırım Menkul Değerler",
   "slug": "yapi-kredi-yatirim-menkul-degerler",
   "website": "https://www.ykyatirim.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a240f2ef4c01412ae47c99052d",
-  "hex": "0C356E",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9ec11d3d019f053be1631602",
+  "hex": "063C6E",
   "aliases": [
     "YAPI KREDİ YATIRIM MENKUL DEĞERLER A.Ş."
   ],
@@ -20,5 +20,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

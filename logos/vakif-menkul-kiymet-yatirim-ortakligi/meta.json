@@ -2,7 +2,7 @@
   "name": "Vakıf Menkul Kıymet Yatırım Ortaklığı",
   "slug": "vakif-menkul-kiymet-yatirim-ortakligi",
   "website": "https://www.vkfyo.com.tr",
-  "source": "https://www.vkfyo.com.tr/images/logo.png",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c58ac06c706eb",
   "aliases": [
     "VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş."
   ],
@@ -15,6 +15,6 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12",
-  "hex": "1462B9"
+  "updated": "2026-10-19",
+  "hex": "0B59B0"
 }

@@ -2,8 +2,8 @@
   "name": "Otokar Otomotiv ve Savunma",
   "slug": "otokar-otomotiv-ve-savunma",
   "website": "https://www.otokar.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140ee35c70140ee4316b3001d",
-  "hex": "231F20",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9f52dc40019fb9118a9377f1",
+  "hex": "000000",
   "aliases": [
     "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

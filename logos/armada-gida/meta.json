@@ -2,8 +2,8 @@
   "name": "Armada Gıda",
   "slug": "armada-gida",
   "website": "https://www.armadafoods.com",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c59145e00e0193f29ce775161c",
-  "hex": "1D468D",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc3a9986a2496",
+  "hex": "15438C",
   "aliases": [
     "ARMADA GIDA TİCARET SANAYİ A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

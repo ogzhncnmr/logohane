@@ -2,8 +2,8 @@
   "name": "Marmara Holding",
   "slug": "marmara-holding",
   "website": "https://www.marmaraholding.net",
-  "source": "https://www.marmaraholding.net/images/bckg/logo-marmara-holding-t.png",
-  "hex": "0B2456",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cddd654cc104e",
+  "hex": "092454",
   "aliases": [
     "MARMARA HOLDİNG A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

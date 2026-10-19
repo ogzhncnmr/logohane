@@ -2,8 +2,8 @@
   "name": "Ford Otomotiv",
   "slug": "ford-otomotiv",
   "website": "https://www.fordotosan.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed71014106890fae0138",
-  "hex": "025596",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49ed66ae45c1",
+  "hex": "002F6F",
   "aliases": [
     "FORD OTOMOTİV SANAYİ A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

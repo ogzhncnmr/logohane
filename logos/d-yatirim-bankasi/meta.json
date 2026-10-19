@@ -2,7 +2,7 @@
   "name": "D Yatırım Bankası",
   "slug": "d-yatirim-bankasi",
   "website": "https://www.dybank.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4757dba8c01759d4015520c73",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9ee7853f455a",
   "hex": "002857",
   "aliases": [
     "D YATIRIM BANKASI A.Ş."
@@ -14,7 +14,8 @@
     }
   ],
   "variants": [
-    "default"
+    "default",
+    "dark"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

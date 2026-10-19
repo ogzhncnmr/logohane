@@ -2,8 +2,8 @@
   "name": "Ereğli Tekstil Turizm",
   "slug": "eregli-tekstil-turizm",
   "website": "https://www.ereglitekstil.com",
-  "source": "https://www.ereglitekstil.com/images/logo.png",
-  "hex": "505339",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d781db19b0ef9",
+  "hex": "4F5238",
   "aliases": [
     "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }
