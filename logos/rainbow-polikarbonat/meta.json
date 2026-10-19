@@ -2,7 +2,7 @@
   "name": "Rainbow Polikarbonat",
   "slug": "rainbow-polikarbonat",
   "website": "https://www.rainbowpc.com.tr",
-  "source": "https://rainbowpc.com.tr/images/logo/7873626991644-374-rainbow_logo-220px.png",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd2f3d6085cc4",
   "aliases": [
     "RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş."
   ],
@@ -15,6 +15,6 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12",
-  "hex": "023A7D"
+  "updated": "2026-10-19",
+  "hex": "03397C"
 }

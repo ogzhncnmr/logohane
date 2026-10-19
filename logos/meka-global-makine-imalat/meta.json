@@ -2,8 +2,8 @@
   "name": "Meka Global Makine İmalat",
   "slug": "meka-global-makine-imalat",
   "website": "https://www.mekaglobal.com/tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c51018adff79d0f2d15",
-  "hex": "1A2839",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9f52dddc01a019e0a2ec5a56",
+  "hex": "132F57",
   "aliases": [
     "MEKA GLOBAL MAKİNE İMALAT SANAYİ VE TİCARET A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

@@ -2,8 +2,8 @@
   "name": "Özyaşar Tel ve Galvanizleme",
   "slug": "ozyasar-tel-ve-galvanizleme",
   "website": "https://www.ozyasar.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c58b2fa64e018f853cd37d57cf",
-  "hex": "EF8D06",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9f483c1f5531",
+  "hex": "F28D05",
   "aliases": [
     "ÖZYAŞAR TEL VE GALVANİZLEME SANAYİ A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

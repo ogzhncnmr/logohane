@@ -2,7 +2,7 @@
   "name": "Konfrut Tarım",
   "slug": "konfrut-tarim",
   "website": "https://www.konfrut.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f2fc30bc006e",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd8749d2155c8",
   "hex": "024546",
   "aliases": [
     "KONFRUT TARIM A.Ş."
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

@@ -2,8 +2,8 @@
   "name": "D Varlık Kiralama",
   "slug": "d-varlik-kiralama",
   "website": "https://www.dvarlikkiralama.com.tr",
-  "source": "https://www.dvarlikkiralama.com.tr/images/logo/logo.png",
-  "hex": "002857",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c5771ba4264bf",
+  "hex": "012855",
   "aliases": [
     "D VARLIK KİRALAMA A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

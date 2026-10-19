@@ -2,8 +2,8 @@
   "name": "Cvk Maden İşletmeleri",
   "slug": "cvk-maden-isletmeleri",
   "website": "https://www.cvkmadencilik.com",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c586d22c510187381ba299429a",
-  "hex": "161614",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6cc8f7ef15bc",
+  "hex": "171716",
   "aliases": [
     "CVK MADEN İŞLETMELERİ SANAYİ VE TİCARET A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

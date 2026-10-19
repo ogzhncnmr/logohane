@@ -2,7 +2,7 @@
   "name": "Anadolu Efes Biracılık ve Malt Sanayii",
   "slug": "anadolu-efes-biracilik-ve-malt-sanayii",
   "website": "https://www.anadoluefes.com",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140e95bea0140ed2fde10009d",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9ec11d3d019ef10086826967",
   "hex": "0033A1",
   "aliases": [
     "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş."
@@ -14,7 +14,8 @@
     }
   ],
   "variants": [
-    "default"
+    "default",
+    "dark"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

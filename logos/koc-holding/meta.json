@@ -2,8 +2,8 @@
   "name": "Koç Holding",
   "slug": "koc-holding",
   "website": "https://www.koc.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a140f2ed710140f2f4d6c70039",
-  "hex": "EE4829",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd2334b9e11d8",
+  "hex": "FB423B",
   "aliases": [
     "KOÇ HOLDİNG A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

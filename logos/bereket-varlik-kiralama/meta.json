@@ -2,8 +2,8 @@
   "name": "Bereket Varlık Kiralama",
   "slug": "bereket-varlik-kiralama",
   "website": "https://www.bereketvarlik.com",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/8acae2c4508ff7260151497fffa30e9e",
-  "hex": "E51B35",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c57cae702704e",
+  "hex": "E41B35",
   "aliases": [
     "BEREKET VARLIK KİRALAMA A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

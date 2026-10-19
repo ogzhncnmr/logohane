@@ -2,8 +2,8 @@
   "name": "Akfen Yenilenebilir Enerji",
   "slug": "akfen-yenilenebilir-enerji",
   "website": "https://www.akfenren.com.tr",
-  "source": "https://www.akfenren.com.tr/wp-content/uploads/2024/02/akfenren-logo.png",
-  "hex": "76A243",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9f52dc40019ff9e4bde0214c",
+  "hex": "6CA631",
   "aliases": [
     "AKFEN YENİLENEBİLİR ENERJİ A.Ş."
   ],
@@ -16,5 +16,5 @@
   "variants": [
     "default"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }

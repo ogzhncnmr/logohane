@@ -2,8 +2,8 @@
   "name": "Ulusoy Un",
   "slug": "ulusoy-un",
   "website": "https://www.ulusoyun.com.tr",
-  "source": "https://www.kap.org.tr/tr/api/member/logo/4028e4a14371e09d0143c4d925022442",
-  "hex": "8C744C",
+  "source": "https://www.kap.org.tr/tr/api/file/download/4028328c9f52dc4001a01a4deb4436db",
+  "hex": "8D744C",
   "aliases": [
     "ULUSOY UN SANAYİ VE TİCARET A.Ş."
   ],
@@ -14,7 +14,8 @@
     }
   ],
   "variants": [
-    "default"
+    "default",
+    "dark"
   ],
-  "updated": "2026-10-12"
+  "updated": "2026-10-19"
 }
