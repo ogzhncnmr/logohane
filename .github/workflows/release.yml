@@ -2,7 +2,9 @@ name: Release
 
 # Publishes the SVGs and index files to npm (and therefore jsDelivr) when a
 # version tag such as v0.2.0 is pushed; prepublishOnly validates, tests and
-# builds first. Requires an NPM_TOKEN repository secret.
+# builds first. Uses npm trusted publishing (OIDC): no NPM_TOKEN secret. The
+# package must have this repo and workflow (release.yml) set as its trusted
+# publisher on npmjs.com.
 on:
   push:
     tags: ['v*']
@@ -18,13 +20,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
           cache: npm
           registry-url: https://registry.npmjs.org
       - run: npm ci
       - run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Create GitHub release
         run: gh release create "$GITHUB_REF_NAME" --generate-notes
         env:
