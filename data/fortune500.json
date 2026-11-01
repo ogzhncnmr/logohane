@@ -1,0 +1,4005 @@
+{
+ "source": "https://fortune.com/ranking/global500/",
+ "rows": [
+  {
+   "rank": 1,
+   "name": "Amazon",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/amazon-com/"
+  },
+  {
+   "rank": 2,
+   "name": "Walmart",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "General Merchandisers",
+   "slug": "/company/walmart/"
+  },
+  {
+   "rank": 3,
+   "name": "State Grid",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/state-grid/"
+  },
+  {
+   "rank": 4,
+   "name": "UnitedHealth Group",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Insurance and Managed Care",
+   "slug": "/company/unitedhealth-group/"
+  },
+  {
+   "rank": 5,
+   "name": "Saudi Aramco",
+   "country": "Saudi Arabia",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/saudi-aramco/"
+  },
+  {
+   "rank": 6,
+   "name": "Apple",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/apple/"
+  },
+  {
+   "rank": 7,
+   "name": "McKesson",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Wholesalers: Health Care",
+   "slug": "/company/mckesson/"
+  },
+  {
+   "rank": 8,
+   "name": "Alphabet",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/alphabet/"
+  },
+  {
+   "rank": 9,
+   "name": "CVS Health",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Pharmacy and Other Services",
+   "slug": "/company/cvs-health/"
+  },
+  {
+   "rank": 10,
+   "name": "China National Petroleum",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/china-national-petroleum/"
+  },
+  {
+   "rank": 11,
+   "name": "Berkshire Hathaway",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/berkshire-hathaway/"
+  },
+  {
+   "rank": 12,
+   "name": "Sinopec Group",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/sinopec-group/"
+  },
+  {
+   "rank": 13,
+   "name": "Volkswagen",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/volkswagen/"
+  },
+  {
+   "rank": 14,
+   "name": "Toyota Motor",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/toyota-motor/"
+  },
+  {
+   "rank": 15,
+   "name": "Exxon Mobil Holdings",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/exxon-mobil/"
+  },
+  {
+   "rank": 16,
+   "name": "Cencora",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Wholesalers: Health Care",
+   "slug": "/company/amerisourcebergen/"
+  },
+  {
+   "rank": 17,
+   "name": "China State Construction Engineering",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/china-state-construction-engineering/"
+  },
+  {
+   "rank": 18,
+   "name": "Microsoft",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computer Software",
+   "slug": "/company/microsoft/"
+  },
+  {
+   "rank": 19,
+   "name": "JPMorgan Chase",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/jpmorgan-chase/"
+  },
+  {
+   "rank": 20,
+   "name": "Costco Wholesale",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "General Merchandisers",
+   "slug": "/company/costco/"
+  },
+  {
+   "rank": 21,
+   "name": "Cigna Group",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Pharmacy and Other Services",
+   "slug": "/company/cigna/"
+  },
+  {
+   "rank": 22,
+   "name": "Shell",
+   "country": "U.K.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/royal-dutch-shell/"
+  },
+  {
+   "rank": 23,
+   "name": "Hon Hai Precision Industry",
+   "country": "Taiwan",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/hon-hai-precision-industry/"
+  },
+  {
+   "rank": 24,
+   "name": "Glencore",
+   "country": "Switzerland",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/glencore/"
+  },
+  {
+   "rank": 25,
+   "name": "Trafigura Group",
+   "country": "Singapore",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/trafigura-group/"
+  },
+  {
+   "rank": 26,
+   "name": "Samsung Electronics",
+   "country": "South Korea",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/samsung-electronics/"
+  },
+  {
+   "rank": 27,
+   "name": "Cardinal Health",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Wholesalers: Health Care",
+   "slug": "/company/cardinal-health/"
+  },
+  {
+   "rank": 28,
+   "name": "Nvidia",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/nvidia/"
+  },
+  {
+   "rank": 29,
+   "name": "Industrial & Commercial Bank of China",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/industrial-commercial-bank-of-china/"
+  },
+  {
+   "rank": 30,
+   "name": "Meta Platforms",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/facebook/"
+  },
+  {
+   "rank": 31,
+   "name": "Elevance Health",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Insurance and Managed Care",
+   "slug": "/company/elevance-health/"
+  },
+  {
+   "rank": 32,
+   "name": "Centene",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Insurance and Managed Care",
+   "slug": "/company/centene/"
+  },
+  {
+   "rank": 33,
+   "name": "BP",
+   "country": "U.K.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/bp/"
+  },
+  {
+   "rank": 34,
+   "name": "Bank of America",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-america-corp/"
+  },
+  {
+   "rank": 35,
+   "name": "Agricultural Bank of China",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/agricultural-bank-of-china/"
+  },
+  {
+   "rank": 36,
+   "name": "Chevron",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/chevron/"
+  },
+  {
+   "rank": 37,
+   "name": "China Construction Bank",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/china-construction-bank/"
+  },
+  {
+   "rank": 38,
+   "name": "Ford Motor",
+   "country": "U.S.",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/ford-motor/"
+  },
+  {
+   "rank": 39,
+   "name": "General Motors",
+   "country": "U.S.",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/general-motors/"
+  },
+  {
+   "rank": 40,
+   "name": "TotalEnergies",
+   "country": "France",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/total/"
+  },
+  {
+   "rank": 41,
+   "name": "JD.com",
+   "country": "Mainland China",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/jd-com/"
+  },
+  {
+   "rank": 42,
+   "name": "China Life Insurance",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/china-life-insurance/"
+  },
+  {
+   "rank": 43,
+   "name": "Stellantis",
+   "country": "Netherlands",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/stellantis/"
+  },
+  {
+   "rank": 44,
+   "name": "Bank of China",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-china/"
+  },
+  {
+   "rank": 45,
+   "name": "Citigroup",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/citigroup/"
+  },
+  {
+   "rank": 46,
+   "name": "Home Depot",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/home-depot/"
+  },
+  {
+   "rank": 47,
+   "name": "Fannie Mae",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/fannie-mae/"
+  },
+  {
+   "rank": 48,
+   "name": "Ping An Insurance",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/ping-an-insurance/"
+  },
+  {
+   "rank": 49,
+   "name": "China Railway Engineering Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/china-railway-engineering/"
+  },
+  {
+   "rank": 50,
+   "name": "BMW Group",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/bmw-group/"
+  },
+  {
+   "rank": 51,
+   "name": "Mercedes-Benz Group",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/daimler/"
+  },
+  {
+   "rank": 52,
+   "name": "Kroger",
+   "country": "U.S.",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/kroger/"
+  },
+  {
+   "rank": 53,
+   "name": "China Mobile Communications",
+   "country": "Mainland China",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/china-mobile-communications/"
+  },
+  {
+   "rank": 54,
+   "name": "Banco Santander",
+   "country": "Spain",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/banco-santander/"
+  },
+  {
+   "rank": 55,
+   "name": "Honda Motor",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/honda-motor/"
+  },
+  {
+   "rank": 56,
+   "name": "Alibaba Group",
+   "country": "Mainland China",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/alibaba-group-holding/"
+  },
+  {
+   "rank": 57,
+   "name": "China Railway Construction",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/china-railway-construction/"
+  },
+  {
+   "rank": 58,
+   "name": "BNP Paribas",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bnp-paribas/"
+  },
+  {
+   "rank": 59,
+   "name": "CITIC Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/citic-group/"
+  },
+  {
+   "rank": 60,
+   "name": "Verizon Communications",
+   "country": "U.S.",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/verizon/"
+  },
+  {
+   "rank": 61,
+   "name": "Phillips 66",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/phillips/"
+  },
+  {
+   "rank": 62,
+   "name": "HSBC Holdings",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/hsbc-holdings/"
+  },
+  {
+   "rank": 63,
+   "name": "Marathon Petroleum",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/marathon-petroleum/"
+  },
+  {
+   "rank": 64,
+   "name": "Sberbank",
+   "country": "Russia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/sberbank/"
+  },
+  {
+   "rank": 65,
+   "name": "Deutsche Telekom",
+   "country": "Germany",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/deutsche-telekom/"
+  },
+  {
+   "rank": 66,
+   "name": "China Communications Construction",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/china-communications-construction/"
+  },
+  {
+   "rank": 67,
+   "name": "Allianz",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/allianz/"
+  },
+  {
+   "rank": 68,
+   "name": "China Resources",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/china-resources-national/"
+  },
+  {
+   "rank": 69,
+   "name": "StoneX Group",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/stonex-group/"
+  },
+  {
+   "rank": 70,
+   "name": "State Farm Insurance",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Mutual)",
+   "slug": "/company/state-farm-insurance-cos/"
+  },
+  {
+   "rank": 71,
+   "name": "Freddie Mac",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/freddie-mac/"
+  },
+  {
+   "rank": 72,
+   "name": "Hyundai Motor",
+   "country": "South Korea",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/hyundai-motor/"
+  },
+  {
+   "rank": 73,
+   "name": "Humana",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Insurance and Managed Care",
+   "slug": "/company/humana/"
+  },
+  {
+   "rank": 74,
+   "name": "Electricité de France",
+   "country": "France",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/electricite-de-france/"
+  },
+  {
+   "rank": 75,
+   "name": "AT&T",
+   "country": "U.S.",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/att/"
+  },
+  {
+   "rank": 76,
+   "name": "Mitsubishi Corporation",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/mitsubishi/"
+  },
+  {
+   "rank": 77,
+   "name": "Goldman Sachs Group",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/goldman-sachs-group/"
+  },
+  {
+   "rank": 78,
+   "name": "Hengli Group",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Textiles",
+   "slug": "/company/hengli-group/"
+  },
+  {
+   "rank": 79,
+   "name": "Comcast",
+   "country": "U.S.",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/comcast/"
+  },
+  {
+   "rank": 80,
+   "name": "Wells Fargo",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/wells-fargo/"
+  },
+  {
+   "rank": 81,
+   "name": "Huawei Investment & Holding",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Network and Other Communications Equipment",
+   "slug": "/company/huawei-investment-holding/"
+  },
+  {
+   "rank": 82,
+   "name": "Taiwan Semiconductor Manufacturing",
+   "country": "Taiwan",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/taiwan-semiconductor-manufacturing/"
+  },
+  {
+   "rank": 83,
+   "name": "China National Offshore Oil",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/china-national-offshore-oil/"
+  },
+  {
+   "rank": 84,
+   "name": "Morgan Stanley",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/morgan-stanley/"
+  },
+  {
+   "rank": 85,
+   "name": "Reliance Industries",
+   "country": "India",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/reliance-industries/"
+  },
+  {
+   "rank": 86,
+   "name": "China Southern Power Grid",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/china-southern-power-grid/"
+  },
+  {
+   "rank": 87,
+   "name": "Shandong Energy Group",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/yankuang-group/"
+  },
+  {
+   "rank": 88,
+   "name": "Valero Energy",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/valero-energy/"
+  },
+  {
+   "rank": 89,
+   "name": "Gazprom",
+   "country": "Russia",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/gazprom/"
+  },
+  {
+   "rank": 90,
+   "name": "Dell Technologies",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/dell-technologies/"
+  },
+  {
+   "rank": 91,
+   "name": "BYD",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/byd/"
+  },
+  {
+   "rank": 92,
+   "name": "Life Insurance Corp. of India",
+   "country": "India",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/life-insurance-corp-of-india/"
+  },
+  {
+   "rank": 93,
+   "name": "Nestlé",
+   "country": "Switzerland",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Consumer Products",
+   "slug": "/company/nestle/"
+  },
+  {
+   "rank": 94,
+   "name": "AXA",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/axa/"
+  },
+  {
+   "rank": 95,
+   "name": "Equinor",
+   "country": "Norway",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/equinor/"
+  },
+  {
+   "rank": 96,
+   "name": "Target",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "General Merchandisers",
+   "slug": "/company/target/"
+  },
+  {
+   "rank": 97,
+   "name": "Tencent Holdings",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/tencent-holdings/"
+  },
+  {
+   "rank": 98,
+   "name": "Royal Ahold Delhaize",
+   "country": "Netherlands",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/royal-ahold-delhaize/"
+  },
+  {
+   "rank": 99,
+   "name": "China Minmetals",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/china-minmetals/"
+  },
+  {
+   "rank": 100,
+   "name": "China Baowu Steel Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/china-baowu-steel-group/"
+  },
+  {
+   "rank": 101,
+   "name": "REWE Group",
+   "country": "Germany",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/rewe-group/"
+  },
+  {
+   "rank": 102,
+   "name": "Bosch Group",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/robert-bosch/"
+  },
+  {
+   "rank": 103,
+   "name": "Société Générale",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/societe-generale/"
+  },
+  {
+   "rank": 104,
+   "name": "PowerChina",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/powerchina/"
+  },
+  {
+   "rank": 105,
+   "name": "Tesco",
+   "country": "U.K.",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/tesco/"
+  },
+  {
+   "rank": 106,
+   "name": "Carrefour",
+   "country": "France",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/carrefour/"
+  },
+  {
+   "rank": 107,
+   "name": "ITOCHU",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/itochu/"
+  },
+  {
+   "rank": 108,
+   "name": "China Energy Investment",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/shenhua-group/"
+  },
+  {
+   "rank": 109,
+   "name": "Rosneft Oil",
+   "country": "Russia",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/rosneft-oil/"
+  },
+  {
+   "rank": 110,
+   "name": "Royal Bank of Canada",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/royal-bank-of-canada/"
+  },
+  {
+   "rank": 111,
+   "name": "Nippon Life Insurance",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/nippon-life-insurance/"
+  },
+  {
+   "rank": 112,
+   "name": "Xiamen C&D",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/xiamen-cd/"
+  },
+  {
+   "rank": 113,
+   "name": "Mitsubishi UFJ Financial Group",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/mitsubishi-ufj-financial-group/"
+  },
+  {
+   "rank": 114,
+   "name": "NTT",
+   "country": "Japan",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/nippon-telegraph-telephone/"
+  },
+  {
+   "rank": 115,
+   "name": "Zhejiang Rongsheng Holding Group",
+   "country": "Mainland China",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/zhejiang-rongsheng-holding-group/"
+  },
+  {
+   "rank": 116,
+   "name": "Tesla",
+   "country": "U.S.",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/tesla/"
+  },
+  {
+   "rank": 117,
+   "name": "Walt Disney",
+   "country": "U.S.",
+   "sector": "Media",
+   "industry": "Entertainment",
+   "slug": "/company/disney/"
+  },
+  {
+   "rank": 118,
+   "name": "ENI",
+   "country": "Italy",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/eni-2/"
+  },
+  {
+   "rank": 119,
+   "name": "China Post Group",
+   "country": "Mainland China",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/china-post-group/"
+  },
+  {
+   "rank": 120,
+   "name": "Johnson & Johnson",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/johnson-johnson/"
+  },
+  {
+   "rank": 121,
+   "name": "PepsiCo",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Consumer Products",
+   "slug": "/company/pepsico/"
+  },
+  {
+   "rank": 122,
+   "name": "DHL Group",
+   "country": "Germany",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/deutsche-post-dhl-group/"
+  },
+  {
+   "rank": 123,
+   "name": "People's Insurance Co. of China",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/peoples-insurance-co-of-china/"
+  },
+  {
+   "rank": 124,
+   "name": "Mitsui",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/mitsui/"
+  },
+  {
+   "rank": 125,
+   "name": "SAIC Motor",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/saic-motor/"
+  },
+  {
+   "rank": 126,
+   "name": "Christian Dior",
+   "country": "France",
+   "sector": "Apparel",
+   "industry": "Apparel",
+   "slug": "/company/christian-dior/"
+  },
+  {
+   "rank": 127,
+   "name": "Enel",
+   "country": "Italy",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/enel/"
+  },
+  {
+   "rank": 128,
+   "name": "Boeing",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/boeing/"
+  },
+  {
+   "rank": 129,
+   "name": "Sinopharm",
+   "country": "Mainland China",
+   "sector": "Health Care",
+   "industry": "Wholesalers: Health Care",
+   "slug": "/company/sinopharm/"
+  },
+  {
+   "rank": 130,
+   "name": "Indian Oil",
+   "country": "India",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/indian-oil/"
+  },
+  {
+   "rank": 131,
+   "name": "Petrobras",
+   "country": "Brazil",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/petrobras/"
+  },
+  {
+   "rank": 132,
+   "name": "E.ON",
+   "country": "Germany",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/e-on-2/"
+  },
+  {
+   "rank": 133,
+   "name": "UPS",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/ups/"
+  },
+  {
+   "rank": 134,
+   "name": "China Telecommunications",
+   "country": "Mainland China",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/china-telecommunications/"
+  },
+  {
+   "rank": 135,
+   "name": "RTX",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/raytheon-technologies/"
+  },
+  {
+   "rank": 136,
+   "name": "Rajesh Exports",
+   "country": "India",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/rajesh-exports/"
+  },
+  {
+   "rank": 137,
+   "name": "FedEx",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/fedex/"
+  },
+  {
+   "rank": 138,
+   "name": "Zhejiang Geely Holding Group",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/zhejiang-geely-holding-group/"
+  },
+  {
+   "rank": 139,
+   "name": "Progressive",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/progressive/"
+  },
+  {
+   "rank": 140,
+   "name": "Toronto-Dominion Bank",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/toronto-dominion-bank/"
+  },
+  {
+   "rank": 141,
+   "name": "Sony",
+   "country": "Japan",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/sony/"
+  },
+  {
+   "rank": 142,
+   "name": "SK",
+   "country": "South Korea",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/sk-holdings/"
+  },
+  {
+   "rank": 143,
+   "name": "Siemens",
+   "country": "Germany",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/siemens/"
+  },
+  {
+   "rank": 144,
+   "name": "Banco Bilbao Vizcaya Argentaria",
+   "country": "Spain",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/banco-bilbao-vizcaya-argentaria/"
+  },
+  {
+   "rank": 145,
+   "name": "Lowe's",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/lowes/"
+  },
+  {
+   "rank": 146,
+   "name": "JBS",
+   "country": "Netherlands",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/jbs/"
+  },
+  {
+   "rank": 147,
+   "name": "Energy Transfer",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Pipelines",
+   "slug": "/company/energy-transfer-equity/"
+  },
+  {
+   "rank": 148,
+   "name": "Lloyds Banking Group",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/lloyds-banking-group/"
+  },
+  {
+   "rank": 149,
+   "name": "Vinci",
+   "country": "France",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/vinci/"
+  },
+  {
+   "rank": 150,
+   "name": "Crédit Agricole",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/credit-agricole/"
+  },
+  {
+   "rank": 151,
+   "name": "Procter & Gamble",
+   "country": "U.S.",
+   "sector": "Household Products",
+   "industry": "Household and Personal Products",
+   "slug": "/company/procter-gamble/"
+  },
+  {
+   "rank": 152,
+   "name": "Albertsons",
+   "country": "U.S.",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/albertsons-cos/"
+  },
+  {
+   "rank": 153,
+   "name": "Lenovo Group",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/lenovo-group/"
+  },
+  {
+   "rank": 154,
+   "name": "Wuchan Zhongda Group",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/wuchan-zhongda-group/"
+  },
+  {
+   "rank": 155,
+   "name": "Airbus",
+   "country": "Netherlands",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/airbus-group/"
+  },
+  {
+   "rank": 156,
+   "name": "Shandong Weiqiao Pioneering Group",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Textiles",
+   "slug": "/company/shandong-weiqiao-pioneering-group/"
+  },
+  {
+   "rank": 157,
+   "name": "COFCO",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/cofco/"
+  },
+  {
+   "rank": 158,
+   "name": "Shenghong Holding Group",
+   "country": "Mainland China",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/shenghong-holding-group/"
+  },
+  {
+   "rank": 159,
+   "name": "Sysco",
+   "country": "U.S.",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Food and Grocery",
+   "slug": "/company/sysco/"
+  },
+  {
+   "rank": 160,
+   "name": "Engie",
+   "country": "France",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/engie/"
+  },
+  {
+   "rank": 161,
+   "name": "PTT",
+   "country": "Thailand",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/ptt/"
+  },
+  {
+   "rank": 162,
+   "name": "State Bank of India",
+   "country": "India",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/state-bank-of-india/"
+  },
+  {
+   "rank": 163,
+   "name": "U.S. Postal Service",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/u-s-postal-service/"
+  },
+  {
+   "rank": 164,
+   "name": "Jiangxi Copper",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/jiangxi-copper/"
+  },
+  {
+   "rank": 165,
+   "name": "American Express",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/american-express/"
+  },
+  {
+   "rank": 166,
+   "name": "Kia",
+   "country": "South Korea",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/kia-motors/"
+  },
+  {
+   "rank": 167,
+   "name": "Archer Daniels Midland",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/archer-daniels-midland/"
+  },
+  {
+   "rank": 168,
+   "name": "Nissan Motor",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/nissan-motor/"
+  },
+  {
+   "rank": 169,
+   "name": "Pemex",
+   "country": "Mexico",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/pemex/"
+  },
+  {
+   "rank": 170,
+   "name": "Pacific Construction Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/pacific-construction-group/"
+  },
+  {
+   "rank": 171,
+   "name": "Groupe BPCE",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/groupe-bpce/"
+  },
+  {
+   "rank": 172,
+   "name": "UBS Group",
+   "country": "Switzerland",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/ubs-group/"
+  },
+  {
+   "rank": 173,
+   "name": "MetLife",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/metlife/"
+  },
+  {
+   "rank": 174,
+   "name": "Itau Unibanco Holding",
+   "country": "Brazil",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/itau-unibanco-holding/"
+  },
+  {
+   "rank": 175,
+   "name": "Toyota Tsusho",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/toyota-tsusho/"
+  },
+  {
+   "rank": 176,
+   "name": "Roche Group",
+   "country": "Switzerland",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/roche-group/"
+  },
+  {
+   "rank": 177,
+   "name": "Japan Post Holdings",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/japan-post-holdings/"
+  },
+  {
+   "rank": 178,
+   "name": "HCA Healthcare",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Medical Facilities",
+   "slug": "/company/hca-holdings/"
+  },
+  {
+   "rank": 179,
+   "name": "EP Group",
+   "country": "Czech Republic",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/ep-group/"
+  },
+  {
+   "rank": 180,
+   "name": "Brookfield",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/brookfield-asset-management/"
+  },
+  {
+   "rank": 181,
+   "name": "Lockheed Martin",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/lockheed-martin/"
+  },
+  {
+   "rank": 182,
+   "name": "Daiichi Life Group",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/dai-ichi-life-holdings/"
+  },
+  {
+   "rank": 183,
+   "name": "China FAW Group",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/china-faw-group/"
+  },
+  {
+   "rank": 184,
+   "name": "New York Life Insurance",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/new-york-life-insurance/"
+  },
+  {
+   "rank": 185,
+   "name": "Alimentation Couche-Tard",
+   "country": "Canada",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/alimentation-couche-tard/"
+  },
+  {
+   "rank": 186,
+   "name": "Barclays",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/barclays/"
+  },
+  {
+   "rank": 187,
+   "name": "ING Group",
+   "country": "Netherlands",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/ing-group/"
+  },
+  {
+   "rank": 188,
+   "name": "Bank of Communications",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-communications/"
+  },
+  {
+   "rank": 189,
+   "name": "Deutsche Bank",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/deutsche-bank/"
+  },
+  {
+   "rank": 190,
+   "name": "Sumitomo Mitsui Financial Group",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/sumitomo-mitsui-financial-group/"
+  },
+  {
+   "rank": 191,
+   "name": "BASF",
+   "country": "Germany",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/basf/"
+  },
+  {
+   "rank": 192,
+   "name": "AEON",
+   "country": "Japan",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/aeon/"
+  },
+  {
+   "rank": 193,
+   "name": "Orlen",
+   "country": "Poland",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/orlen/"
+  },
+  {
+   "rank": 194,
+   "name": "Pertamina",
+   "country": "Indonesia",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/pertamina/"
+  },
+  {
+   "rank": 195,
+   "name": "Wilmar International",
+   "country": "Singapore",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/wilmar-international/"
+  },
+  {
+   "rank": 196,
+   "name": "Bunge Global",
+   "country": "Switzerland",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/bunge/"
+  },
+  {
+   "rank": 197,
+   "name": "Hitachi",
+   "country": "Japan",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/hitachi/"
+  },
+  {
+   "rank": 198,
+   "name": "Wistron",
+   "country": "Taiwan",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/wistron/"
+  },
+  {
+   "rank": 199,
+   "name": "VTB Bank",
+   "country": "Russia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/vtb-bank/"
+  },
+  {
+   "rank": 200,
+   "name": "Munich Re Group",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/munich-re-group/"
+  },
+  {
+   "rank": 201,
+   "name": "Zhejiang Hengyi Group",
+   "country": "Mainland China",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/zhejiang-hengyi-group/"
+  },
+  {
+   "rank": 202,
+   "name": "Zurich Insurance Group",
+   "country": "Switzerland",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/zurich-insurance-group/"
+  },
+  {
+   "rank": 203,
+   "name": "Koç Holding",
+   "country": "Turkey",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/koc-holding/"
+  },
+  {
+   "rank": 204,
+   "name": "Accenture",
+   "country": "Ireland",
+   "sector": "Technology",
+   "industry": "Information Technology Services",
+   "slug": "/company/accenture/"
+  },
+  {
+   "rank": 205,
+   "name": "Seven & I Holdings",
+   "country": "Japan",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/seven-i-holdings/"
+  },
+  {
+   "rank": 206,
+   "name": "Capital One Financial",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/capital-one-financial/"
+  },
+  {
+   "rank": 207,
+   "name": "Aluminum Corp. of China",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/aluminum-corp-of-china/"
+  },
+  {
+   "rank": 208,
+   "name": "Oil & Natural Gas",
+   "country": "India",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/oil-natural-gas/"
+  },
+  {
+   "rank": 209,
+   "name": "Uniper",
+   "country": "Germany",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/uniper/"
+  },
+  {
+   "rank": 210,
+   "name": "SK Hynix",
+   "country": "South Korea",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/sk-hynix/"
+  },
+  {
+   "rank": 211,
+   "name": "Quanta Computer",
+   "country": "Taiwan",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/quanta-computer/"
+  },
+  {
+   "rank": 212,
+   "name": "China Poly Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Real estate",
+   "slug": "/company/china-poly-group/"
+  },
+  {
+   "rank": 213,
+   "name": "Jinchuan Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/jinchuan-group/"
+  },
+  {
+   "rank": 214,
+   "name": "Korea Electric Power",
+   "country": "South Korea",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/korea-electric-power/"
+  },
+  {
+   "rank": 215,
+   "name": "Allstate",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/allstate/"
+  },
+  {
+   "rank": 216,
+   "name": "Caterpillar",
+   "country": "U.S.",
+   "sector": "Industrials",
+   "industry": "Construction and Farm Machinery",
+   "slug": "/company/caterpillar/"
+  },
+  {
+   "rank": 217,
+   "name": "International Business Machines",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Information Technology Services",
+   "slug": "/company/ibm/"
+  },
+  {
+   "rank": 218,
+   "name": "Assicurazioni Generali",
+   "country": "Italy",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/assicurazioni-generali/"
+  },
+  {
+   "rank": 219,
+   "name": "Nippon Steel",
+   "country": "Japan",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/nippon-steel-sumitomo-metal/"
+  },
+  {
+   "rank": 220,
+   "name": "Banco do Brasil",
+   "country": "Brazil",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/banco-do-brasil/"
+  },
+  {
+   "rank": 221,
+   "name": "China Merchants Bank",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/china-merchants-bank/"
+  },
+  {
+   "rank": 222,
+   "name": "Unilever",
+   "country": "U.K.",
+   "sector": "Household Products",
+   "industry": "Household and Personal Products",
+   "slug": "/company/unilever/"
+  },
+  {
+   "rank": 223,
+   "name": "Renault",
+   "country": "France",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/renault/"
+  },
+  {
+   "rank": 224,
+   "name": "Eli Lilly",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/eli-lilly/"
+  },
+  {
+   "rank": 225,
+   "name": "Merck",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/merck/"
+  },
+  {
+   "rank": 226,
+   "name": "Nationwide",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Mutual)",
+   "slug": "/company/nationwide/"
+  },
+  {
+   "rank": 227,
+   "name": "XMXYG",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/xiamen-xiangyu-group/"
+  },
+  {
+   "rank": 228,
+   "name": "ENEOS Holdings",
+   "country": "Japan",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/jxtg-holdings/"
+  },
+  {
+   "rank": 229,
+   "name": "Bouygues",
+   "country": "France",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/bouygues/"
+  },
+  {
+   "rank": 230,
+   "name": "Broadcom",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/broadcom/"
+  },
+  {
+   "rank": 231,
+   "name": "Midea Group",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/midea-group/"
+  },
+  {
+   "rank": 232,
+   "name": "Xiaomi",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/xiaomi/"
+  },
+  {
+   "rank": 233,
+   "name": "Edeka Zentrale",
+   "country": "Germany",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Food and Grocery",
+   "slug": "/company/edeka-zentrale/"
+  },
+  {
+   "rank": 234,
+   "name": "China Energy Engineering Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/china-energy-engineering-group/"
+  },
+  {
+   "rank": 235,
+   "name": "Delta Air Lines",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/delta-air-lines/"
+  },
+  {
+   "rank": 236,
+   "name": "Publix Super Markets",
+   "country": "U.S.",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/publix-super-markets/"
+  },
+  {
+   "rank": 237,
+   "name": "COSCO Shipping",
+   "country": "Mainland China",
+   "sector": "Transportation",
+   "industry": "Shipping",
+   "slug": "/company/china-cosco-shipping/"
+  },
+  {
+   "rank": 238,
+   "name": "LG Electronics",
+   "country": "South Korea",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/lg-electronics/"
+  },
+  {
+   "rank": 239,
+   "name": "Lukoil",
+   "country": "Russia",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/lukoil/"
+  },
+  {
+   "rank": 240,
+   "name": "Pfizer",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/pfizer/"
+  },
+  {
+   "rank": 241,
+   "name": "TD Synnex",
+   "country": "U.S.",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Electronics and Office Equipment",
+   "slug": "/company/synnex/"
+  },
+  {
+   "rank": 242,
+   "name": "Petronas",
+   "country": "Malaysia",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/petronas/"
+  },
+  {
+   "rank": 243,
+   "name": "ConocoPhillips",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/conocophillips/"
+  },
+  {
+   "rank": 244,
+   "name": "Galaxy Digital",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Diversified Financials",
+   "slug": "/company/galaxy-digital/"
+  },
+  {
+   "rank": 245,
+   "name": "ArcelorMittal",
+   "country": "Luxembourg",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/arcelormittal/"
+  },
+  {
+   "rank": 246,
+   "name": "AbbVie",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/abbvie/"
+  },
+  {
+   "rank": 247,
+   "name": "Prudential Financial",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/prudential-financial/"
+  },
+  {
+   "rank": 248,
+   "name": "China Pacific Insurance (Group)",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/china-pacific-insurance-group/"
+  },
+  {
+   "rank": 249,
+   "name": "Shaanxi Coal & Chemical Industry",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/shaanxi-coal-chemical-industry/"
+  },
+  {
+   "rank": 250,
+   "name": "Banco Bradesco",
+   "country": "Brazil",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/banco-bradesco/"
+  },
+  {
+   "rank": 251,
+   "name": "TJX",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/tjx/"
+  },
+  {
+   "rank": 252,
+   "name": "Xiamen ITG Holding Group",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/xiamen-itg-holding-group/"
+  },
+  {
+   "rank": 253,
+   "name": "Mizuho Financial Group",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/mizuho-financial-group/"
+  },
+  {
+   "rank": 254,
+   "name": "Tsingshan Holding Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/tsingshan-holding-group/"
+  },
+  {
+   "rank": 255,
+   "name": "PDD Holdings",
+   "country": "Mainland China",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/pinduoduo/"
+  },
+  {
+   "rank": 256,
+   "name": "Performance Food Group",
+   "country": "U.S.",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Food and Grocery",
+   "slug": "/company/performance-food-group/"
+  },
+  {
+   "rank": 257,
+   "name": "Chubb",
+   "country": "Switzerland",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/chubb/"
+  },
+  {
+   "rank": 258,
+   "name": "Anheuser-Busch InBev",
+   "country": "Belgium",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Beverages",
+   "slug": "/company/anheuser-busch-inbev/"
+  },
+  {
+   "rank": 259,
+   "name": "United Airlines Holdings",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/united-continental-holdings/"
+  },
+  {
+   "rank": 260,
+   "name": "Contemporary Amperex Technology (CATL)",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/contemporary-amperex-technology/"
+  },
+  {
+   "rank": 261,
+   "name": "Tokio Marine Holdings",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/tokio-marine-holdings/"
+  },
+  {
+   "rank": 262,
+   "name": "AstraZeneca",
+   "country": "U.K.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/astrazeneca/"
+  },
+  {
+   "rank": 263,
+   "name": "Rio Tinto Group",
+   "country": "U.K.",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/rio-tinto-group/"
+  },
+  {
+   "rank": 264,
+   "name": "Crédit Mutuel Group",
+   "country": "France",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/credit-mutuel-group/"
+  },
+  {
+   "rank": 265,
+   "name": "Oracle",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computer Software",
+   "slug": "/company/oracle/"
+  },
+  {
+   "rank": 266,
+   "name": "HBIS Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/hbis-group/"
+  },
+  {
+   "rank": 267,
+   "name": "Novartis",
+   "country": "Switzerland",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/novartis/"
+  },
+  {
+   "rank": 268,
+   "name": "Cisco Systems",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Network and Other Communications Equipment",
+   "slug": "/company/cisco-systems-inc/"
+  },
+  {
+   "rank": 269,
+   "name": "Talanx",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/talanx/"
+  },
+  {
+   "rank": 270,
+   "name": "ACS",
+   "country": "Spain",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/acs/"
+  },
+  {
+   "rank": 271,
+   "name": "State Power Investment",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/state-power-investment/"
+  },
+  {
+   "rank": 272,
+   "name": "HDFC Bank",
+   "country": "India",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/hdfc-bank/"
+  },
+  {
+   "rank": 273,
+   "name": "Bank of Montreal",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-montreal/"
+  },
+  {
+   "rank": 274,
+   "name": "Daimler Truck Holding",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/daimler-truck-holding/"
+  },
+  {
+   "rank": 275,
+   "name": "X5 Group",
+   "country": "Russia",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Food and Grocery",
+   "slug": "/company/x5-retail-group/"
+  },
+  {
+   "rank": 276,
+   "name": "HP",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/hp/"
+  },
+  {
+   "rank": 277,
+   "name": "Marubeni",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/marubeni/"
+  },
+  {
+   "rank": 278,
+   "name": "Charter Communications",
+   "country": "U.S.",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/charter-communications/"
+  },
+  {
+   "rank": 279,
+   "name": "Sanofi",
+   "country": "France",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/sanofi/"
+  },
+  {
+   "rank": 280,
+   "name": "American Airlines Group",
+   "country": "U.S.",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/american-airlines-group/"
+  },
+  {
+   "rank": 281,
+   "name": "China United Network Communications",
+   "country": "Mainland China",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/china-united-network-communications/"
+  },
+  {
+   "rank": 282,
+   "name": "Repsol",
+   "country": "Spain",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/repsol/"
+  },
+  {
+   "rank": 283,
+   "name": "Tyson Foods",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/tyson-foods/"
+  },
+  {
+   "rank": 284,
+   "name": "Maersk Group",
+   "country": "Denmark",
+   "sector": "Transportation",
+   "industry": "Shipping",
+   "slug": "/company/maersk-group/"
+  },
+  {
+   "rank": 285,
+   "name": "China Huaneng Group",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/china-huaneng-group/"
+  },
+  {
+   "rank": 286,
+   "name": "Panasonic Holdings",
+   "country": "Japan",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/panasonic/"
+  },
+  {
+   "rank": 287,
+   "name": "Louis Dreyfus",
+   "country": "Netherlands",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/louis-dreyfus/"
+  },
+  {
+   "rank": 288,
+   "name": "Industrial Bank",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/industrial-bank/"
+  },
+  {
+   "rank": 289,
+   "name": "Intel",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/intel/"
+  },
+  {
+   "rank": 290,
+   "name": "Bank of Nova Scotia",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-nova-scotia/"
+  },
+  {
+   "rank": 291,
+   "name": "Hanwha",
+   "country": "South Korea",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/hanwha/"
+  },
+  {
+   "rank": 292,
+   "name": "Enterprise Products Partners",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Pipelines",
+   "slug": "/company/enterprise-products-partners/"
+  },
+  {
+   "rank": 293,
+   "name": "Ingram Micro Holding",
+   "country": "U.S.",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Electronics and Office Equipment",
+   "slug": "/company/ingram-micro/"
+  },
+  {
+   "rank": 294,
+   "name": "General Dynamics",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/general-dynamics/"
+  },
+  {
+   "rank": 295,
+   "name": "Saint-Gobain",
+   "country": "France",
+   "sector": "Materials",
+   "industry": "Building Materials, Glass",
+   "slug": "/company/saint-gobain/"
+  },
+  {
+   "rank": 296,
+   "name": "Uber Technologies",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/uber-technologies/"
+  },
+  {
+   "rank": 297,
+   "name": "Taikang Insurance Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/taikang-insurance-group/"
+  },
+  {
+   "rank": 298,
+   "name": "Bharat Petroleum",
+   "country": "India",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/bharat-petroleum/"
+  },
+  {
+   "rank": 299,
+   "name": "Guangzhou Automobile Industry Group",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/guangzhou-automobile-industry-group/"
+  },
+  {
+   "rank": 300,
+   "name": "SoftBank Group",
+   "country": "Japan",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/softbank-group/"
+  },
+  {
+   "rank": 301,
+   "name": "United Services Automobile Assn.",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/usaa/"
+  },
+  {
+   "rank": 302,
+   "name": "Olam Group",
+   "country": "Singapore",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/olam-group/"
+  },
+  {
+   "rank": 303,
+   "name": "Intesa Sanpaolo",
+   "country": "Italy",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/intesa-sanpaolo/"
+  },
+  {
+   "rank": 304,
+   "name": "Bayer",
+   "country": "Germany",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/bayer/"
+  },
+  {
+   "rank": 305,
+   "name": "Iberdrola",
+   "country": "Spain",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/iberdrola/"
+  },
+  {
+   "rank": 306,
+   "name": "Jingye Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/jingye-group/"
+  },
+  {
+   "rank": 307,
+   "name": "BHP Group",
+   "country": "Australia",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/bhp-billiton/"
+  },
+  {
+   "rank": 308,
+   "name": "Caixa Econômica Federal",
+   "country": "Brazil",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/caixa-economica-federal/"
+  },
+  {
+   "rank": 309,
+   "name": "Zhejiang Communications Investment Group",
+   "country": "Mainland China",
+   "sector": "Transportation",
+   "industry": "Transportation and Logistics",
+   "slug": "/company/zhejiang-communications-investment-group/"
+  },
+  {
+   "rank": 310,
+   "name": "MS&AD Insurance Group Holdings",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/msad-insurance-group-holdings/"
+  },
+  {
+   "rank": 311,
+   "name": "Meituan",
+   "country": "Mainland China",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/meituan/"
+  },
+  {
+   "rank": 312,
+   "name": "TIAA",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/tiaa/"
+  },
+  {
+   "rank": 313,
+   "name": "Liberty Mutual Insurance Group",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/liberty-mutual-insurance-group/"
+  },
+  {
+   "rank": 314,
+   "name": "HD Hyundai",
+   "country": "South Korea",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/hd-hyundai/"
+  },
+  {
+   "rank": 315,
+   "name": "Veolia Environnement",
+   "country": "France",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/veolia-environnement/"
+  },
+  {
+   "rank": 316,
+   "name": "Denso",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/denso/"
+  },
+  {
+   "rank": 317,
+   "name": "L'Oréal",
+   "country": "France",
+   "sector": "Household Products",
+   "industry": "Household and Personal Products",
+   "slug": "/company/loreal/"
+  },
+  {
+   "rank": 318,
+   "name": "Meiji Yasuda Life Insurance",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/meiji-yasuda-life-insurance/"
+  },
+  {
+   "rank": 319,
+   "name": "Dongfeng Motor",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/dongfeng-motor/"
+  },
+  {
+   "rank": 320,
+   "name": "América Móvil",
+   "country": "Mexico",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/america-movil/"
+  },
+  {
+   "rank": 321,
+   "name": "Travelers",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/travelers-cos/"
+  },
+  {
+   "rank": 322,
+   "name": "Volvo Group",
+   "country": "Sweden",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/volvo/"
+  },
+  {
+   "rank": 323,
+   "name": "Heraeus Holding",
+   "country": "Germany",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/heraeus-holding/"
+  },
+  {
+   "rank": 324,
+   "name": "Sumitomo",
+   "country": "Japan",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/sumitomo/"
+  },
+  {
+   "rank": 325,
+   "name": "Zijin Mining Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/zijin-mining-group/"
+  },
+  {
+   "rank": 326,
+   "name": "POSCO Holdings",
+   "country": "South Korea",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/posco/"
+  },
+  {
+   "rank": 327,
+   "name": "SNCF Group",
+   "country": "France",
+   "sector": "Transportation",
+   "industry": "Railroads",
+   "slug": "/company/sncf-group/"
+  },
+  {
+   "rank": 328,
+   "name": "Bristol-Myers Squibb",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/bristol-myers-squibb/"
+  },
+  {
+   "rank": 329,
+   "name": "Coca-Cola",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Beverages",
+   "slug": "/company/coca-cola/"
+  },
+  {
+   "rank": 330,
+   "name": "Idemitsu Kosan",
+   "country": "Japan",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/idemitsu-kosan/"
+  },
+  {
+   "rank": 331,
+   "name": "Vodafone Group",
+   "country": "U.K.",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/vodafone-group/"
+  },
+  {
+   "rank": 332,
+   "name": "George Weston",
+   "country": "Canada",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/george-weston/"
+  },
+  {
+   "rank": 333,
+   "name": "Novo Nordisk",
+   "country": "Denmark",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/novo-nordisk/"
+  },
+  {
+   "rank": 334,
+   "name": "Fairfax Financial Holdings",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/fairfax-financial-holdings/"
+  },
+  {
+   "rank": 335,
+   "name": "Enbridge",
+   "country": "Canada",
+   "sector": "Energy",
+   "industry": "Pipelines",
+   "slug": "/company/enbridge/"
+  },
+  {
+   "rank": 336,
+   "name": "Nike",
+   "country": "U.S.",
+   "sector": "Apparel",
+   "industry": "Apparel",
+   "slug": "/company/nike/"
+  },
+  {
+   "rank": 337,
+   "name": "Luxshare Precision Industry",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/luxshare-precision-industry/"
+  },
+  {
+   "rank": 338,
+   "name": "Compass Group",
+   "country": "U.K.",
+   "sector": "Hotels, Restaurants & Leisure",
+   "industry": "Food Services",
+   "slug": "/company/compass-group/"
+  },
+  {
+   "rank": 339,
+   "name": "Massachusetts Mutual Life Insurance",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/massachusetts-mutual-life-insurance/"
+  },
+  {
+   "rank": 340,
+   "name": "Susun Construction Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/susun-construction-group/"
+  },
+  {
+   "rank": 341,
+   "name": "GE Aerospace",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/general-electric/"
+  },
+  {
+   "rank": 342,
+   "name": "Deere",
+   "country": "U.S.",
+   "sector": "Industrials",
+   "industry": "Construction and Farm Machinery",
+   "slug": "/company/deere/"
+  },
+  {
+   "rank": 343,
+   "name": "Plains GP Holdings",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Pipelines",
+   "slug": "/company/plains-gp-holdings/"
+  },
+  {
+   "rank": 344,
+   "name": "Orange",
+   "country": "France",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/orange/"
+  },
+  {
+   "rank": 345,
+   "name": "Ingka Holding (IKEA)",
+   "country": "Netherlands",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/ingka-group/"
+  },
+  {
+   "rank": 346,
+   "name": "Inditex",
+   "country": "Spain",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/inditex/"
+  },
+  {
+   "rank": 347,
+   "name": "Molina Healthcare",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Health Care: Insurance and Managed Care",
+   "slug": "/company/molina-healthcare/"
+  },
+  {
+   "rank": 348,
+   "name": "Schneider Electric",
+   "country": "France",
+   "sector": "Industrials",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/schneider-electric/"
+  },
+  {
+   "rank": 349,
+   "name": "Shanghai Pudong Development Bank",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/shanghai-pudong-development-bank/"
+  },
+  {
+   "rank": 350,
+   "name": "J Sainsbury",
+   "country": "U.K.",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/j-sainsbury/"
+  },
+  {
+   "rank": 351,
+   "name": "Netflix",
+   "country": "U.S.",
+   "sector": "Media",
+   "industry": "Entertainment",
+   "slug": "/company/netflix/"
+  },
+  {
+   "rank": 352,
+   "name": "Commonwealth Bank of Australia",
+   "country": "Australia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/commonwealth-bank-of-australia/"
+  },
+  {
+   "rank": 353,
+   "name": "UniCredit Group",
+   "country": "Italy",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/unicredit-group/"
+  },
+  {
+   "rank": 354,
+   "name": "Woolworths Group",
+   "country": "Australia",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/woolworths/"
+  },
+  {
+   "rank": 355,
+   "name": "Lufthansa Group",
+   "country": "Germany",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/lufthansa-group/"
+  },
+  {
+   "rank": 356,
+   "name": "Thermo Fisher Scientific",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Medical Products and Equipment",
+   "slug": "/company/thermo-fisher-scientific/"
+  },
+  {
+   "rank": 357,
+   "name": "Canadian Imperial Bank of Commerce",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/canadian-imperial-bank-of-commerce/"
+  },
+  {
+   "rank": 358,
+   "name": "Abbott Laboratories",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Medical Products and Equipment",
+   "slug": "/company/abbott-laboratories/"
+  },
+  {
+   "rank": 359,
+   "name": "Qualcomm",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/qualcomm/"
+  },
+  {
+   "rank": 360,
+   "name": "Swiss Re",
+   "country": "Switzerland",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/swiss-re/"
+  },
+  {
+   "rank": 361,
+   "name": "China General Technology",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/china-general-technology/"
+  },
+  {
+   "rank": 362,
+   "name": "ANZ Group Holdings",
+   "country": "Australia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/australia-new-zealand-banking-group/"
+  },
+  {
+   "rank": 363,
+   "name": "Fomento Económico Mexicano",
+   "country": "Mexico",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Beverages",
+   "slug": "/company/fomento-economico-mexicano/"
+  },
+  {
+   "rank": 364,
+   "name": "ZF Friedrichshafen",
+   "country": "Germany",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/zf-friedrichshafen/"
+  },
+  {
+   "rank": 365,
+   "name": "Northwestern Mutual",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/northwestern-mutual/"
+  },
+  {
+   "rank": 366,
+   "name": "China Huadian",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/china-huadian/"
+  },
+  {
+   "rank": 367,
+   "name": "Russian Railways",
+   "country": "Russia",
+   "sector": "Energy",
+   "industry": "Railroads",
+   "slug": "/company/russian-railways/"
+  },
+  {
+   "rank": 368,
+   "name": "Siemens Energy",
+   "country": "Germany",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/siemens-energy/"
+  },
+  {
+   "rank": 369,
+   "name": "Mercadona",
+   "country": "Spain",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/mercadona/"
+  },
+  {
+   "rank": 370,
+   "name": "GSK",
+   "country": "U.K.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/glaxosmithkline/"
+  },
+  {
+   "rank": 371,
+   "name": "Hyundai Mobis",
+   "country": "South Korea",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/hyundai-mobis/"
+  },
+  {
+   "rank": 372,
+   "name": "S.F. Holding",
+   "country": "Mainland China",
+   "sector": "Transportation",
+   "industry": "Transportation and Logistics",
+   "slug": "/company/sf-holding/"
+  },
+  {
+   "rank": 373,
+   "name": "U.S. Bancorp",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/u-s-bancorp/"
+  },
+  {
+   "rank": 374,
+   "name": "Dollar General",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/dollar-general/"
+  },
+  {
+   "rank": 375,
+   "name": "Coop Group",
+   "country": "Switzerland",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/coop-group/"
+  },
+  {
+   "rank": 376,
+   "name": "Telefónica",
+   "country": "Spain",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/telefonica/"
+  },
+  {
+   "rank": 377,
+   "name": "Sinomach",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/sinomach/"
+  },
+  {
+   "rank": 378,
+   "name": "Haier Smart Home",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/qingdao-haier/"
+  },
+  {
+   "rank": 379,
+   "name": "Magna International",
+   "country": "Canada",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/magna-international/"
+  },
+  {
+   "rank": 380,
+   "name": "Tokyo Electric Power",
+   "country": "Japan",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/tokyo-electric-power/"
+  },
+  {
+   "rank": 381,
+   "name": "Northrop Grumman",
+   "country": "U.S.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/northrop-grumman/"
+  },
+  {
+   "rank": 382,
+   "name": "Magnit",
+   "country": "Russia",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/magnit/"
+  },
+  {
+   "rank": 383,
+   "name": "Chery Automobile",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/chery-automobile/"
+  },
+  {
+   "rank": 384,
+   "name": "Suzuki Motor",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/suzuki-motor/"
+  },
+  {
+   "rank": 385,
+   "name": "Best Buy",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/best-buy/"
+  },
+  {
+   "rank": 386,
+   "name": "Salesforce",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computer Software",
+   "slug": "/company/salesforce-com/"
+  },
+  {
+   "rank": 387,
+   "name": "SAP",
+   "country": "Germany",
+   "sector": "Technology",
+   "industry": "Computer Software",
+   "slug": "/company/sap/"
+  },
+  {
+   "rank": 388,
+   "name": "KB Financial Group",
+   "country": "South Korea",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/kb-financial-group/"
+  },
+  {
+   "rank": 389,
+   "name": "Guangzhou Industrial Investment Holdings",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/guangzhou-industrial-investment-holdings/"
+  },
+  {
+   "rank": 390,
+   "name": "Jinneng Holding Group",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/datong-coal-mine-group/"
+  },
+  {
+   "rank": 391,
+   "name": "Shandong Hi-Speed Group",
+   "country": "Mainland China",
+   "sector": "Transportation",
+   "industry": "Transportation and Logistics",
+   "slug": "/company/shandong-hi-speed-group/"
+  },
+  {
+   "rank": 392,
+   "name": "China National Building Material Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Building Materials, Glass",
+   "slug": "/company/china-national-building-material-group/"
+  },
+  {
+   "rank": 393,
+   "name": "Shaanxi Yanchang Petroleum (Group)",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/shaanxi-yanchang-petroleum-group/"
+  },
+  {
+   "rank": 394,
+   "name": "Bank of New York (BNY)",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/bank-of-new-york-mellon-corp/"
+  },
+  {
+   "rank": 395,
+   "name": "Honeywell Technologies",
+   "country": "U.S.",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/honeywell-international/"
+  },
+  {
+   "rank": 396,
+   "name": "Philip Morris International",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Tobacco",
+   "slug": "/company/philip-morris-international/"
+  },
+  {
+   "rank": 397,
+   "name": "Standard Chartered",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/standard-chartered/"
+  },
+  {
+   "rank": 398,
+   "name": "Jerónimo Martins",
+   "country": "Portugal",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/jeronimo-martins/"
+  },
+  {
+   "rank": 399,
+   "name": "Tata Motors Passenger Vehicles",
+   "country": "India",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/tata-motors/"
+  },
+  {
+   "rank": 400,
+   "name": "CBRE Group",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Real estate",
+   "slug": "/company/cbre-group/"
+  },
+  {
+   "rank": 401,
+   "name": "KDDI",
+   "country": "Japan",
+   "sector": "Telecommunications",
+   "industry": "Telecommunications",
+   "slug": "/company/kddi/"
+  },
+  {
+   "rank": 402,
+   "name": "DZ Bank",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/dz-bank/"
+  },
+  {
+   "rank": 403,
+   "name": "Visa",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/visa/"
+  },
+  {
+   "rank": 404,
+   "name": "Dow",
+   "country": "U.S.",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/dow/"
+  },
+  {
+   "rank": 405,
+   "name": "NatWest Group",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/natwest-group/"
+  },
+  {
+   "rank": 406,
+   "name": "Guangdong Guangxin Holdings Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/guangdong-guangxin-holdings/"
+  },
+  {
+   "rank": 407,
+   "name": "St. James's Place",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/stjamesplace/"
+  },
+  {
+   "rank": 408,
+   "name": "Sumitomo Life Insurance",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (Mutual)",
+   "slug": "/company/sumitomo-life-insurance/"
+  },
+  {
+   "rank": 409,
+   "name": "AIA",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/aia-group/"
+  },
+  {
+   "rank": 410,
+   "name": "CRRC Group",
+   "country": "Mainland China",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/crrc-group/"
+  },
+  {
+   "rank": 411,
+   "name": "Shanghai Pharmaceuticals Holding",
+   "country": "Mainland China",
+   "sector": "Health Care",
+   "industry": "Wholesalers: Health Care",
+   "slug": "/company/shanghai-pharmaceuticals-holding/"
+  },
+  {
+   "rank": 412,
+   "name": "US Foods Holding",
+   "country": "U.S.",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Food and Grocery",
+   "slug": "/company/us-foods-holding/"
+  },
+  {
+   "rank": 413,
+   "name": "Beijing Automotive Group",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/beijing-automotive-group/"
+  },
+  {
+   "rank": 414,
+   "name": "New China Life Insurance",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/new-china-life-insurance/"
+  },
+  {
+   "rank": 415,
+   "name": "Hangzhou Iron and Steel Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/hangzhou-iron-and-steel-group/"
+  },
+  {
+   "rank": 416,
+   "name": "Mitsubishi Electric",
+   "country": "Japan",
+   "sector": "Industrials",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/mitsubishi-electric/"
+  },
+  {
+   "rank": 417,
+   "name": "Energie Baden-Württemberg",
+   "country": "Germany",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/energie-baden-wurttemberg/"
+  },
+  {
+   "rank": 418,
+   "name": "La Poste",
+   "country": "France",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/la-poste/"
+  },
+  {
+   "rank": 419,
+   "name": "Hangzhou Industrial Investment Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/hangzhou-industrial-investment-group/"
+  },
+  {
+   "rank": 420,
+   "name": "National Australia Bank",
+   "country": "Australia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/national-australia-bank/"
+  },
+  {
+   "rank": 421,
+   "name": "Shenzhen Investment Holdings",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/shenzhen-investment-holdings/"
+  },
+  {
+   "rank": 422,
+   "name": "Mondelēz International",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Consumer Products",
+   "slug": "/company/mondelez-international/"
+  },
+  {
+   "rank": 423,
+   "name": "Mapfre Group",
+   "country": "Spain",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/mapfre-group/"
+  },
+  {
+   "rank": 424,
+   "name": "Vale",
+   "country": "Brazil",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/vale/"
+  },
+  {
+   "rank": 425,
+   "name": "CDP Group",
+   "country": "Italy",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/cdp-group/"
+  },
+  {
+   "rank": 426,
+   "name": "Lithia Motors",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/lithia-motors/"
+  },
+  {
+   "rank": 427,
+   "name": "GE Vernova",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/gevernova/"
+  },
+  {
+   "rank": 428,
+   "name": "Shandong Gold Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/shandong-gold-group/"
+  },
+  {
+   "rank": 429,
+   "name": "QNB Group",
+   "country": "Qatar",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/qnb-group/"
+  },
+  {
+   "rank": 430,
+   "name": "Guangzhou Municipal Construction Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/guangzhou-municipal-construction-group/"
+  },
+  {
+   "rank": 431,
+   "name": "WT Microelectronics",
+   "country": "Taiwan",
+   "sector": "Wholesalers",
+   "industry": "Wholesalers: Electronics and Office Equipment",
+   "slug": "/company/wt-microelectronics/"
+  },
+  {
+   "rank": 432,
+   "name": "Standard Life",
+   "country": "U.K.",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/phoenix-group-holdings/"
+  },
+  {
+   "rank": 433,
+   "name": "Hailiang Group",
+   "country": "Mainland China",
+   "sector": "Wholesalers",
+   "industry": "Trading",
+   "slug": "/company/hailiang-group/"
+  },
+  {
+   "rank": 434,
+   "name": "International Airlines Group",
+   "country": "U.K.",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/international-airlines-group/"
+  },
+  {
+   "rank": 435,
+   "name": "CRH",
+   "country": "Ireland",
+   "sector": "Materials",
+   "industry": "Building Materials, Glass",
+   "slug": "/company/crh/"
+  },
+  {
+   "rank": 436,
+   "name": "TongLing Nonferrous Metals Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/tongling-nonferrous-metals-group/"
+  },
+  {
+   "rank": 437,
+   "name": "DSV",
+   "country": "Denmark",
+   "sector": "Transportation",
+   "industry": "Mail, Package, and Freight Delivery",
+   "slug": "/company/dsv/"
+  },
+  {
+   "rank": 438,
+   "name": "Micron Technology",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/micron-technology/"
+  },
+  {
+   "rank": 439,
+   "name": "Deutsche Bahn",
+   "country": "Germany",
+   "sector": "Transportation",
+   "industry": "Railroads",
+   "slug": "/company/deutsche-bahn/"
+  },
+  {
+   "rank": 440,
+   "name": "Westpac Banking",
+   "country": "Australia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/westpac-banking/"
+  },
+  {
+   "rank": 441,
+   "name": "BAE Systems",
+   "country": "U.K.",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/bae-systems/"
+  },
+  {
+   "rank": 442,
+   "name": "Warner Bros. Discovery",
+   "country": "U.S.",
+   "sector": "Media",
+   "industry": "Entertainment",
+   "slug": "/company/discovery/"
+  },
+  {
+   "rank": 443,
+   "name": "Mitsubishi Heavy Industries",
+   "country": "Japan",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/mitsubishi-heavy-industries/"
+  },
+  {
+   "rank": 444,
+   "name": "Air France-KLM Group",
+   "country": "France",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/air-france-klm-group/"
+  },
+  {
+   "rank": 445,
+   "name": "Shudao Investment Group",
+   "country": "Mainland China",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/shudao-investment-group/"
+  },
+  {
+   "rank": 446,
+   "name": "Starbucks",
+   "country": "U.S.",
+   "sector": "Hotels, Restaurants & Leisure",
+   "industry": "Food Services",
+   "slug": "/company/starbucks/"
+  },
+  {
+   "rank": 447,
+   "name": "China Minsheng Banking",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/china-minsheng-banking/"
+  },
+  {
+   "rank": 448,
+   "name": "Migros Group",
+   "country": "Switzerland",
+   "sector": "Food & Drug Stores",
+   "industry": "Food & Drug Stores",
+   "slug": "/company/migros-group/"
+  },
+  {
+   "rank": 449,
+   "name": "Daiwa House Industry",
+   "country": "Japan",
+   "sector": "Engineering & Construction",
+   "industry": "Engineering & Construction",
+   "slug": "/company/daiwa-house-industry/"
+  },
+  {
+   "rank": 450,
+   "name": "Jiangsu Shagang Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/jiangsu-shagang-group/"
+  },
+  {
+   "rank": 451,
+   "name": "China Electronics",
+   "country": "Mainland China",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/china-electronics/"
+  },
+  {
+   "rank": 452,
+   "name": "World Kinect",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/world-fuel-services/"
+  },
+  {
+   "rank": 453,
+   "name": "ASML Holding",
+   "country": "Netherlands",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/asml-holding/"
+  },
+  {
+   "rank": 454,
+   "name": "Amgen",
+   "country": "U.S.",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/amgen/"
+  },
+  {
+   "rank": 455,
+   "name": "ThyssenKrupp",
+   "country": "Germany",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/thyssenkrupp/"
+  },
+  {
+   "rank": 456,
+   "name": "China Datang",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/china-datang/"
+  },
+  {
+   "rank": 457,
+   "name": "CK Hutchison Holdings",
+   "country": "Mainland China",
+   "sector": "Retailing",
+   "industry": "Specialty Retailers",
+   "slug": "/company/ck-hutchison-holdings/"
+  },
+  {
+   "rank": 458,
+   "name": "OMV Group",
+   "country": "Austria",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/omv-group/"
+  },
+  {
+   "rank": 459,
+   "name": "Pegatron",
+   "country": "Taiwan",
+   "sector": "Technology",
+   "industry": "Electronics, Electrical Equip.",
+   "slug": "/company/pegatron/"
+  },
+  {
+   "rank": 460,
+   "name": "SLB",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Oil and Gas Equipment, Services",
+   "slug": "/company/schlumberger/"
+  },
+  {
+   "rank": 461,
+   "name": "Safran",
+   "country": "France",
+   "sector": "Aerospace & Defense",
+   "industry": "Aerospace & Defense",
+   "slug": "/company/safran/"
+  },
+  {
+   "rank": 462,
+   "name": "Sompo Holdings",
+   "country": "Japan",
+   "sector": "Financials",
+   "industry": "Insurance: Property and Casualty (Stock)",
+   "slug": "/company/sompo-holdings/"
+  },
+  {
+   "rank": 463,
+   "name": "Hunan Iron & Steel Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/hunan-iron-amp-steel-group/"
+  },
+  {
+   "rank": 464,
+   "name": "Tongwei Group",
+   "country": "Mainland China",
+   "sector": "Energy",
+   "industry": "Energy",
+   "slug": "/company/tongwei-group/"
+  },
+  {
+   "rank": 465,
+   "name": "Cenovus Energy",
+   "country": "Canada",
+   "sector": "Energy",
+   "industry": "Mining, Crude-Oil Production",
+   "slug": "/company/cenovus-energy/"
+  },
+  {
+   "rank": 466,
+   "name": "ABB",
+   "country": "Switzerland",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/abb/"
+  },
+  {
+   "rank": 467,
+   "name": "Guangzhou Pharmaceutical Holdings",
+   "country": "Mainland China",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "slug": "/company/guangzhou-pharmaceutical-holdings/"
+  },
+  {
+   "rank": 468,
+   "name": "CHS",
+   "country": "U.S.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/chs/"
+  },
+  {
+   "rank": 469,
+   "name": "Perusahaan Listrik Negara",
+   "country": "Indonesia",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/perusahaan-listrik-negara/"
+  },
+  {
+   "rank": 470,
+   "name": "CFE",
+   "country": "Mexico",
+   "sector": "Energy",
+   "industry": "Utilities",
+   "slug": "/company/cfe/"
+  },
+  {
+   "rank": 471,
+   "name": "ICICI Bank",
+   "country": "India",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/icici-bank/"
+  },
+  {
+   "rank": 472,
+   "name": "Suncor Energy",
+   "country": "Canada",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/suncor-energy/"
+  },
+  {
+   "rank": 473,
+   "name": "Landesbank Baden-Württemberg",
+   "country": "Germany",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/landesbank-baden-wurttemberg/"
+  },
+  {
+   "rank": 474,
+   "name": "Emirates Group",
+   "country": "United Arab Emirates",
+   "sector": "Transportation",
+   "industry": "Airlines",
+   "slug": "/company/emirates-group/"
+  },
+  {
+   "rank": 475,
+   "name": "Delong Steel Industry Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/shanghai-delong-steel-group/"
+  },
+  {
+   "rank": 476,
+   "name": "Power Corp. of Canada",
+   "country": "Canada",
+   "sector": "Financials",
+   "industry": "Insurance: Life, Health (stock)",
+   "slug": "/company/power-corp-of-canada/"
+  },
+  {
+   "rank": 477,
+   "name": "Rabobank Group",
+   "country": "Netherlands",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/rabobank/"
+  },
+  {
+   "rank": 478,
+   "name": "Advanced Micro Devices",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Semiconductors and Other Electronic Components",
+   "slug": "/company/advanced-micro-devices/"
+  },
+  {
+   "rank": 479,
+   "name": "Coupang",
+   "country": "U.S.",
+   "sector": "Retailing",
+   "industry": "Internet Services and Retailing",
+   "slug": "/company/coupang/"
+  },
+  {
+   "rank": 480,
+   "name": "New Hope Holding Group",
+   "country": "Mainland China",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Food Production",
+   "slug": "/company/new-hope-holding-group/"
+  },
+  {
+   "rank": 481,
+   "name": "Hewlett Packard Enterprise",
+   "country": "U.S.",
+   "sector": "Technology",
+   "industry": "Computers, Office Equipment",
+   "slug": "/company/hewlett-packard-enterprise/"
+  },
+  {
+   "rank": 482,
+   "name": "D.R. Horton",
+   "country": "U.S.",
+   "sector": "Engineering & Construction",
+   "industry": "Homebuilders",
+   "slug": "/company/d-r-horton/"
+  },
+  {
+   "rank": 483,
+   "name": "Jardine Matheson",
+   "country": "Mainland China",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/jardine-matheson/"
+  },
+  {
+   "rank": 484,
+   "name": "Beijing Jianlong Heavy Industry Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/beijing-jianlong-heavy-industry-group/"
+  },
+  {
+   "rank": 485,
+   "name": "Lennar Corporation",
+   "country": "U.S.",
+   "sector": "Engineering & Construction",
+   "industry": "Homebuilders",
+   "slug": "/company/lennar/"
+  },
+  {
+   "rank": 486,
+   "name": "Gazprombank",
+   "country": "Russia",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/gazprombank/"
+  },
+  {
+   "rank": 487,
+   "name": "PNC Financial Services Group",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Banks: Commercial and Savings",
+   "slug": "/company/pnc-financial-services/"
+  },
+  {
+   "rank": 488,
+   "name": "Linde",
+   "country": "U.K.",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/linde/"
+  },
+  {
+   "rank": 489,
+   "name": "Aisin",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/aisin-seiki/"
+  },
+  {
+   "rank": 490,
+   "name": "Sumitomo Electric Industries",
+   "country": "Japan",
+   "sector": "Motor Vehicles & Parts",
+   "industry": "Motor Vehicles & Parts",
+   "slug": "/company/sumitomo-electric-industries/"
+  },
+  {
+   "rank": 491,
+   "name": "Ansteel Group",
+   "country": "Mainland China",
+   "sector": "Materials",
+   "industry": "Metals",
+   "slug": "/company/ansteel-group/"
+  },
+  {
+   "rank": 492,
+   "name": "Vibra Energia",
+   "country": "Brazil",
+   "sector": "Energy",
+   "industry": "Petroleum Refining",
+   "slug": "/company/vibra-energia/"
+  },
+  {
+   "rank": 493,
+   "name": "British American Tobacco",
+   "country": "U.K.",
+   "sector": "Food, Beverages & Tobacco",
+   "industry": "Tobacco",
+   "slug": "/company/british-american-tobacco/"
+  },
+  {
+   "rank": 494,
+   "name": "Cummins",
+   "country": "U.S.",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/cummins/"
+  },
+  {
+   "rank": 495,
+   "name": "Oneok",
+   "country": "U.S.",
+   "sector": "Energy",
+   "industry": "Pipelines",
+   "slug": "/company/oneok/"
+  },
+  {
+   "rank": 496,
+   "name": "Medtronic",
+   "country": "Ireland",
+   "sector": "Health Care",
+   "industry": "Medical Products and Equipment",
+   "slug": "/company/medtronic/"
+  },
+  {
+   "rank": 497,
+   "name": "Guangxi Investment Group",
+   "country": "Mainland China",
+   "sector": "Financials",
+   "industry": "Diversified Financials",
+   "slug": "/company/guangxi-investment-group/"
+  },
+  {
+   "rank": 498,
+   "name": "Daikin Industries",
+   "country": "Japan",
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "slug": "/company/daikin-industries/"
+  },
+  {
+   "rank": 499,
+   "name": "LG Chem",
+   "country": "South Korea",
+   "sector": "Chemicals",
+   "industry": "Chemicals",
+   "slug": "/company/lg-chem/"
+  },
+  {
+   "rank": 500,
+   "name": "PayPal Holdings",
+   "country": "U.S.",
+   "sector": "Financials",
+   "industry": "Financial Data Services",
+   "slug": "/company/paypal-holdings/"
+  }
+ ]
+}

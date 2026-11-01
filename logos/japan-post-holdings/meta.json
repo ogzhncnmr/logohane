@@ -1,0 +1,14 @@
+{
+  "name": "Japan Post Holdings",
+  "slug": "japan-post-holdings",
+  "website": "https://www.japanpost.jp",
+  "source": "https://www.japanpost.jp/",
+  "aliases": [
+    "Japan Post Holdings"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "CE0000"
+}

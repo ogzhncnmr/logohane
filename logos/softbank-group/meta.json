@@ -1,0 +1,14 @@
+{
+  "name": "SoftBank Group",
+  "slug": "softbank-group",
+  "website": "https://group.softbank/",
+  "source": "https://group.softbank/media/Project/sbg/sbg/themes/custom/sbg/sbg-logo.svg?iar=0",
+  "aliases": [
+    "SoftBank Group"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "000000"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "KDDI",
+  "slug": "kddi",
+  "website": "https://www.kddi.com/",
+  "source": "https://www.kddi.com/extlib/common/img_new/cmn_logo01.png",
+  "aliases": [
+    "KDDI"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "0E0D6A"
+}

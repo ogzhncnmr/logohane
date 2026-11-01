@@ -1,0 +1,14 @@
+{
+  "name": "Nippon Steel",
+  "slug": "nippon-steel",
+  "website": "https://www.nipponsteel.com/",
+  "source": "https://www.nipponsteel.com/app-files/img/cmn_logo01.png",
+  "aliases": [
+    "Nippon Steel"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "0067A8"
+}

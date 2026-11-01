@@ -1,0 +1,14 @@
+{
+  "name": "NTT",
+  "slug": "ntt",
+  "website": "https://group.ntt/en/",
+  "source": "https://group.ntt/common/img/logo_site_a.svg",
+  "aliases": [
+    "NTT"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "0072BC"
+}

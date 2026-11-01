@@ -1,0 +1,14 @@
+{
+  "name": "Mitsubishi Heavy Industries",
+  "slug": "mitsubishi-heavy-industries",
+  "website": "https://www.mhi.com",
+  "source": "https://www.mhi.com/themes/custom/mhi/logo_en.svg",
+  "aliases": [
+    "Mitsubishi Heavy Industries"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "E31F26"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mitsui",
+  "slug": "mitsui",
+  "website": "https://www.mitsui.com/jp/en",
+  "source": "https://www.mitsui.com/assets/img/global/logo_corporate_vertical.svg",
+  "aliases": [
+    "Mitsui"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "101010"
+}
