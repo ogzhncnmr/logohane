@@ -1,0 +1,14 @@
+{
+  "name": "Nissan Motor",
+  "slug": "nissan-motor",
+  "website": "https://www.nissan-global.com/",
+  "source": "https://www.nissan-global.com/library/assets/img/hd_logo.svg",
+  "aliases": [
+    "Nissan Motor"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "06476E"
+}

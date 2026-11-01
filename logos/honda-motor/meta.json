@@ -1,0 +1,14 @@
+{
+  "name": "Honda Motor",
+  "slug": "honda-motor",
+  "website": "https://global.honda",
+  "source": "https://global.honda/en/",
+  "aliases": [
+    "Honda Motor"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "CF0000"
+}

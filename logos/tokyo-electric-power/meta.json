@@ -1,0 +1,14 @@
+{
+  "name": "Tokyo Electric Power",
+  "slug": "tokyo-electric-power",
+  "website": "https://www.tepco.co.jp/",
+  "source": "https://www.tepco.co.jp/shared_files/images/logo_header-r2x.png",
+  "aliases": [
+    "Tokyo Electric Power"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "E71A20"
+}

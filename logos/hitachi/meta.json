@@ -1,0 +1,14 @@
+{
+  "name": "Hitachi",
+  "slug": "hitachi",
+  "website": "https://www.hitachi.com/",
+  "source": "https://www.hitachi.com/content/dam/hitachi/common/image/hitachi-logo.png",
+  "aliases": [
+    "Hitachi"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "231F20"
+}

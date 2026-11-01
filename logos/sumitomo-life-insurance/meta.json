@@ -1,0 +1,14 @@
+{
+  "name": "Sumitomo Life Insurance",
+  "slug": "sumitomo-life-insurance",
+  "website": "http://www.sumitomolife.co.jp/",
+  "source": "https://www.sumitomolife.co.jp/cnt_common/images/logo.svg",
+  "aliases": [
+    "Sumitomo Life Insurance"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "E70212"
+}

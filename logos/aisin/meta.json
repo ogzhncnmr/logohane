@@ -1,0 +1,14 @@
+{
+  "name": "Aisin",
+  "slug": "aisin",
+  "website": "https://www.aisin.com/jp/",
+  "source": "https://www.aisin.com/jp/assets/img/common/logo.svg",
+  "aliases": [
+    "Aisin"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "001A72"
+}

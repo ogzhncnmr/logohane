@@ -1,0 +1,14 @@
+{
+  "name": "Mitsubishi UFJ Financial Group",
+  "slug": "mitsubishi-ufj-financial-group",
+  "website": "http://www.mufg.jp/",
+  "source": "https://www.mufg.jp/dam/cmn/cmn_logo_mufg_003.png",
+  "aliases": [
+    "Mitsubishi UFJ Financial Group"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "000000"
+}

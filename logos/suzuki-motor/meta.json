@@ -1,0 +1,14 @@
+{
+  "name": "Suzuki Motor",
+  "slug": "suzuki-motor",
+  "website": "https://www.globalsuzuki.com/",
+  "source": "https://www.globalsuzuki.com/img/common/suzukiLogo.svg",
+  "aliases": [
+    "Suzuki Motor"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "003690"
+}

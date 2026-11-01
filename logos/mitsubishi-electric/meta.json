@@ -1,0 +1,14 @@
+{
+  "name": "Mitsubishi Electric",
+  "slug": "mitsubishi-electric",
+  "website": "https://www.mitsubishielectric.com/",
+  "source": "https://www.mitsubishielectric.com/global/common/img/logo.svg",
+  "aliases": [
+    "Mitsubishi Electric"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "FF0000"
+}

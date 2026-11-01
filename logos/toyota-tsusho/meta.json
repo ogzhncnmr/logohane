@@ -1,0 +1,14 @@
+{
+  "name": "Toyota Tsusho",
+  "slug": "toyota-tsusho",
+  "website": "http://www.toyota-tsusho.com/",
+  "source": "https://www.toyota-tsusho.com/app-files/img/cmn_logo01.svg",
+  "aliases": [
+    "Toyota Tsusho"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "005CA3"
+}

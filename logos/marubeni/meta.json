@@ -1,0 +1,14 @@
+{
+  "name": "Marubeni",
+  "slug": "marubeni",
+  "website": "https://www.marubeni.com/",
+  "source": "https://www.marubeni.com/common/images/logo-01.svg",
+  "aliases": [
+    "Marubeni"
+  ],
+  "variants": [
+    "default"
+  ],
+  "updated": "2026-11-01",
+  "hex": "E80012"
+}
